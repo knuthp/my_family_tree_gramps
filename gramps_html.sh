@@ -11,13 +11,13 @@ INC="inc_places=True,inc_repository=True,inc_sources=True,inc_stats=True"
 CSS="css=Basic-Cypress"
 FAMILYMAPPAGES="familymappages=True"
 
-TARGET_DIR=/home/knuthp/xfr/newfamily/
+TARGET_DIR=${DIR}/_build
 TARGET="target=${TARGET_DIR}"
 
 
-mkdir -p ${TARGET_DIR}
+mkdir -p ${TARGET_DIR}/css
 
-gramps -O gramps_xml \
+gramps -O knuthp \
     -a report \
     -p ${NAME},${LIVING_PEOPLE},title="Knut H Pedersen slektstree",${MAPSERVICE},${PLACEPAGES},${INC},${FAMILYMAPPAGES},${CSS},${TARGET}
 
