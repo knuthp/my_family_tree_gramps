@@ -48,5 +48,5 @@ Generer fra knuthp databasen på lokal maskin
 ## Oppdatere Synology siten
 ```bash
 sudo mount -vvv diskstation.local:/volume1/web /media/NAS/web
-cp -r _build /media/NAS/web/knuthp/family
+cp -r _build/* /media/NAS/web/knuthp/family/
 ```
