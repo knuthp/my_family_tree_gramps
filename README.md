@@ -50,3 +50,9 @@ Generer fra knuthp databasen på lokal maskin
 sudo mount -vvv diskstation.local:/volume1/web /media/NAS/web
 cp -r _build/* /media/NAS/web/knuthp/family/
 ```
+
+
+## Laste ned media
+```
+wget https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2011102708131_0013/full/568,/0/default.jpg -O 13.jpg
+```
