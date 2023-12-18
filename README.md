@@ -29,7 +29,7 @@ gramps --open knuthp --export ./knuthp.gramps
 
 Første gangs import
 ```bash
-gramps --create=from_backup --import=./knuthp.gramps
+gramps --create=knuthp --import=./knuthp.gramps
 ```
 
 Import hvis databasen finnes på lokal maskin
@@ -37,6 +37,10 @@ Import hvis databasen finnes på lokal maskin
 gramps --import=./knuthp.gramps
 ```
 
+Windows 11 WSL 2 special startup
+```
+GDK_BACKEND=x11 MOZ_ENABLE_WAYLAND=0 gramps
+```
 
 ## Generere html
 Generer fra knuthp databasen på lokal maskin
