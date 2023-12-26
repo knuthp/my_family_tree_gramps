@@ -14,7 +14,7 @@ HOMENOTE="homenote=N0930"
 CSS="css=Basic-Cypress"
 FAMILYMAPPAGES="familymappages=True"
 
-TARGET_DIR=${DIR}/_build
+TARGET_DIR=${DIR}/../_build
 TARGET="target=${TARGET_DIR}"
 
 
@@ -32,4 +32,4 @@ gramps -O knuthp \
 #    text-decoration: underline;
 #    word-wrap: break-word;
 #}
-cp ${DIR}/gramps_screen.css ${TARGET_DIR}/css/narrative-screen.css
+cp ${DIR}/../css/gramps_screen.css ${TARGET_DIR}/css/narrative-screen.css
