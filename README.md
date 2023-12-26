@@ -4,6 +4,11 @@ Dette git repository brukes for lagring av mitt familietre ved bruk av programme
 ## Krav
 Gramps 5.1.x installert
 
+```bash
+...
+sudo apt install language-pack-gnome-en
+```
+
 ## Setup
 1. Gramps prefrences media path root settes til root av git repository.
 1. Gramps på Engelsk språk
@@ -24,7 +29,7 @@ Lag en Link av teksten vha menyen til Internet Adress. La notatet være av typen
 ## Ta backup, import
 Ta backup av Gramps data uten å inkludere media
 ```bash
-gramps --open knuthp --export ./knuthp.gramps
+gramps --open knuthp --export ./knuthp.gramps  && gunzip < knuthp.gramps > knuthp.xml
 ```
 
 Første gangs import
