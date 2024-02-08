@@ -39,7 +39,7 @@ sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml |
 
 Import hvis databasen finnes på lokal maskin
 ```bash
-sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml| gzip > knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps && gramps --import=./knuthp.gramps
+sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml| gzip > knuthp.gramps && gramps --import=./knuthp.gramps && gramps --import=./knuthp.gramps
 ```
 
 Windows 11 WSL 2 special startup
