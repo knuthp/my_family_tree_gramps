@@ -34,12 +34,12 @@ gramps --open knuthp --export ./knuthp.gramps  && gunzip < knuthp.gramps > knuth
 
 Første gangs import
 ```bash
-gramps --create=knuthp --import=./knuthp.gramps
+sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml | gzip > knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps
 ```
 
 Import hvis databasen finnes på lokal maskin
 ```bash
-gramps --import=./knuthp.gramps
+sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml| gzip > knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps && gramps --import=./knuthp.gramps
 ```
 
 Windows 11 WSL 2 special startup

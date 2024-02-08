@@ -12,5 +12,5 @@ jobs:
 
       - name: Build Gramps narrated Website
         run: |
-            gramps --create=knuthp --import=./knuthp.gramps
+            sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml| gzip > knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps
             ./scripts/gramps_html
