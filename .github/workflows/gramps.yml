@@ -1,0 +1,15 @@
+name: gramps_publish
+on: push
+jobs:
+  build: 
+    runs-on: ubuntu-22.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@2
+
+      - name: Install gramps
+        run: sudo apt-get -y install gramps
+
+      - name: Build Gramps narrated Website
+        run: |
+            gramps --create=knuthp --import=./knuthp.gramps
