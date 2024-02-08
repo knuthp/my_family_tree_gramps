@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install gramps
         run: sudo apt-get -y install gramps
@@ -13,3 +13,4 @@ jobs:
       - name: Build Gramps narrated Website
         run: |
             gramps --create=knuthp --import=./knuthp.gramps
+            .scripts/gramps_html

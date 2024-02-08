@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2023-12-26" version="5.1.5"/>
+    <created date="2024-02-08" version="5.1.5"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -117,7 +117,7 @@
       <place hlink="_c64b964dfb44855e764"/>
       <citationref hlink="_c6354a6f7026e23fe13"/>
     </event>
-    <event handle="_c3073938b54135d8ff5" change="1690994598" id="E0017">
+    <event handle="_c3073938b54135d8ff5" change="1703596547" id="E0017">
       <type>Birth</type>
       <dateval val="1869-12-19"/>
       <place hlink="_c3073985de66370784f"/>
@@ -174,7 +174,7 @@
       <citationref hlink="_c6354a6f978128c8266"/>
       <citationref hlink="_c6354a6f0ea7a3dfdf2"/>
     </event>
-    <event handle="_c309ef890d20e941ae2" change="1362835437" id="E0025">
+    <event handle="_c309ef890d20e941ae2" change="1703597611" id="E0025">
       <type>Birth</type>
       <dateval val="1840-10-19"/>
       <place hlink="_c309f2b729a7878676e"/>
@@ -3495,7 +3495,7 @@
       <place hlink="_c55a5f428363f755624"/>
       <citationref hlink="_c6354a6f8d82d4cb5d3"/>
     </event>
-    <event handle="_c45579f62a068e8ccd0" change="1349196314" id="E0684">
+    <event handle="_c45579f62a068e8ccd0" change="1703595336" id="E0684">
       <type>Census</type>
       <dateval val="1900"/>
       <place hlink="_c45579c96060d697043"/>
@@ -3821,21 +3821,21 @@
       <dateval val="1668-03-05"/>
       <place hlink="_c63b77ce9407235a13c"/>
     </event>
-    <event handle="_c64b90cebff69b0346d" change="1690994482" id="E0004">
+    <event handle="_c64b90cebff69b0346d" change="1703595241" id="E0004">
       <type>Census</type>
       <dateval val="1900"/>
       <place hlink="_c55a5f428363f755624"/>
       <description>Folketellingen 1900</description>
       <citationref hlink="_c64b92a64737c21366b"/>
     </event>
-    <event handle="_c64b915af832ef8e73b" change="1362674246" id="E0738">
+    <event handle="_c64b915af832ef8e73b" change="1703594848" id="E0738">
       <type>Census</type>
       <dateval val="1910"/>
       <place hlink="_c55a5f428363f755624"/>
       <description>Folketellingen 1910</description>
       <citationref hlink="_c64b9249fc663aa36b0"/>
     </event>
-    <event handle="_c64b97cc2fa6482a0ad" change="1362674956" id="E0739">
+    <event handle="_c64b97cc2fa6482a0ad" change="1703597557" id="E0739">
       <type>Census</type>
       <dateval val="1865"/>
       <place hlink="_c64b97b5c081570b8fd"/>
@@ -6532,10 +6532,11 @@
       <place hlink="_c55a5f428363f755624"/>
       <citationref hlink="_f60128fd1dd7f20aeb9424d2525"/>
     </event>
-    <event handle="_f6012b5cee658f6d7cdec2ffc66" change="1690530715" id="E1266">
+    <event handle="_f6012b5cee658f6d7cdec2ffc66" change="1703596811" id="E1266">
       <type>Census</type>
       <dateval val="1920"/>
       <place hlink="_c55a5f428363f755624"/>
+      <description>Folketellingen 1920</description>
       <citationref hlink="_f6012b561e41f45fa09e795bd04"/>
     </event>
     <event handle="_f6012f3be0172f5daf8c00589da" change="1690530924" id="E1267">
@@ -6761,7 +6762,7 @@
       <description>Sliper ved Kjærs Sagbrug</description>
       <citationref hlink="_f61288b560c6a53275f22b264e5"/>
     </event>
-    <event handle="_f6128975f194cd19d2c4568b114" change="1690996725" id="E1302">
+    <event handle="_f6128975f194cd19d2c4568b114" change="1703596593" id="E1302">
       <type>Census</type>
       <dateval val="1875"/>
       <place hlink="_f612877755343aac9ce87481202"/>
@@ -6867,7 +6868,7 @@
       <noteref hlink="_c55a73f5d5a4c517879"/>
       <tagref hlink="_c55a63b6ad459507396"/>
     </person>
-    <person handle="_c0dd387ec6c36f08d52" change="1690997150" id="I0003">
+    <person handle="_c0dd387ec6c36f08d52" change="1703596781" id="I0003">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Mina Anette</first>
@@ -6885,6 +6886,7 @@
       <childof hlink="_c309f0fc8cd7072a69e"/>
       <parentin hlink="_c0dd3995af66e88b033"/>
       <noteref hlink="_cd7c085b6a6138bf208"/>
+      <noteref hlink="_f7e7ecf266a463b271d8555a46d"/>
     </person>
     <person handle="_c3073b3c0d663935665" change="1690922480" id="I0004">
       <gender>M</gender>
@@ -22430,7 +22432,8 @@
       <confidence>2</confidence>
       <sourceref hlink="_c40219919802614339a"/>
     </citation>
-    <citation handle="_c6354a6f8416e349613" change="1362076152" id="C0836">
+    <citation handle="_c6354a6f8416e349613" change="1703595333" id="C0836">
+      <page>pf01037012005423</page>
       <confidence>2</confidence>
       <noteref hlink="_c4557ab234c68c9a652"/>
       <sourceref hlink="_c30a35b868e30d2fcb7"/>
@@ -22572,10 +22575,13 @@
       <noteref hlink="_c448c98067008485a24"/>
       <sourceref hlink="_c376904fbf849c9cb63"/>
     </citation>
-    <citation handle="_c6354a6f8d8412f8dd0" change="1412078998" id="C0905">
+    <citation handle="_c6354a6f8d8412f8dd0" change="1703596546" id="C0905">
       <page>side 156, nr. 23</page>
       <confidence>2</confidence>
       <noteref hlink="_cd7c0aa137a53ece11b"/>
+      <objref hlink="_f7e7e7c8715ee221c6bacc39b3">
+       <region corner1_x="1" corner1_y="77" corner2_x="99" corner2_y="95"/>
+      </objref>
       <sourceref hlink="_c307392ff2c2d88b440"/>
     </citation>
     <citation handle="_c6354a6f8d841d5b074" change="1362076152" id="C0909">
@@ -23230,7 +23236,8 @@
       <noteref hlink="_c64b9246f9b2546d369"/>
       <sourceref hlink="_c37131841dc5fc4a003"/>
     </citation>
-    <citation handle="_c64b92a64737c21366b" change="1362674282" id="C1030">
+    <citation handle="_c64b92a64737c21366b" change="1703595235" id="C1030">
+      <page>pf01037012005424</page>
       <confidence>2</confidence>
       <noteref hlink="_c64b92a0a5f60b97fe1"/>
       <sourceref hlink="_c30a35b868e30d2fcb7"/>
@@ -25550,11 +25557,10 @@
       <noteref hlink="_f60128f9be43bb1802265b4d33b"/>
       <sourceref hlink="_f5ffc2515bfc8ca7118b24fdd6"/>
     </citation>
-    <citation handle="_f6012b561e41f45fa09e795bd04" change="1690530714" id="C0356">
+    <citation handle="_f6012b561e41f45fa09e795bd04" change="1703596752" id="C0356">
       <page>pf01073662006314</page>
       <confidence>2</confidence>
       <noteref hlink="_f6012b534016d48eb64f2a03d45"/>
-      <noteref hlink="_f6012d164b8688be36da4fbac1d"/>
       <sourceref hlink="_f5ffc2515bfc8ca7118b24fdd6"/>
     </citation>
     <citation handle="_f6012f34ec15f61123bfe87ef6a" change="1690530921" id="C0463">
@@ -25821,10 +25827,11 @@
       <noteref hlink="_f61288b1abe213e02cfbe18889f"/>
       <sourceref hlink="_e603fc7c6d03e2a7207fc53d269"/>
     </citation>
-    <citation handle="_f6128970d4920695a3fe767530e" change="1690996723" id="C1438">
+    <citation handle="_f6128970d4920695a3fe767530e" change="1703596590" id="C1438">
       <page>pf01052023004499</page>
       <confidence>2</confidence>
       <noteref hlink="_f612896ac3326039da4405daa40"/>
+      <objref hlink="_f7e7e4194785d412bbc44cc76d0"/>
       <sourceref hlink="_e603fc7c6d03e2a7207fc53d269"/>
     </citation>
     <citation handle="_f6128b8c71262a51abba7b57334" change="1690996944" id="C1439">
@@ -28006,6 +28013,15 @@
     <object handle="_f7e7bb62a741b06dfc72bbea953" change="1703591583" id="O0050">
       <file src="" mime=""/>
     </object>
+    <object handle="_f7e7d818f1611e1303b2b5da81e" change="1703594593" id="O0051">
+      <file src="/home/knuthp/src/my_family_tree_gramps/media/folketellinger/1920/mina_anette_pedersen_ft_1920.jpg" mime="image/jpeg" checksum="98f3e76fa3e2cd9948bacc198e6abe49" description="mina_anette_pedersen_ft_1920"/>
+    </object>
+    <object handle="_f7e7e4194785d412bbc44cc76d0" change="1703596587" id="O0052">
+      <file src="/home/knuthp/src/my_family_tree_gramps/media/folketellinger/1875/mina_anette_hansdatter_m_foreldre_ft_1875.jpg" mime="image/jpeg" checksum="e2d12635595bd7a885a55ee3e4eddd31" description="mina_anette_hansdatter_m_foreldre_ft_1875"/>
+    </object>
+    <object handle="_f7e7e7c8715ee221c6bacc39b3" change="1703596543" id="O0053">
+      <file src="/home/knuthp/src/my_family_tree_gramps/media/kirkeboker/onsoy/minestrialbok_nrI4_1861-1877/mina_anette_hansdatter_fodte_1869_nr23.jpg" mime="image/jpeg" checksum="462f1963287ea8a2b4df7ba7dbba08fc" description="mina_anette_hansdatter_fodte_1869_nr23"/>
+    </object>
   </objects>
   <repositories>
     <repository handle="_c22c08a40be2f769a20" change="1399044664" id="R0000">
@@ -29924,8 +29940,11 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006101901051
         <range start="0" end="60"/>
       </style>
     </note>
-    <note handle="_c4557ab234c68c9a652" change="1349196311" id="N0597" type="Source Reference Note">
-      <text>http://www.digitalarkivet.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=14&amp;filnamn=f00132&amp;gardpostnr=684&amp;personpostnr=5423&amp;merk=5423#ovre</text>
+    <note handle="_c4557ab234c68c9a652" change="1703595316" id="N0597" type="Source Reference Note">
+      <text>https://www.digitalarkivet.no/census/person/pf01037012005423</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037012005423">
+        <range start="0" end="60"/>
+      </style>
     </note>
     <note handle="_c4557aee111556610a4" change="1690916611" id="N0598" type="Link">
       <text>https://www.digitalarkivet.no/census/person/pf01037998003953</text>
@@ -30372,14 +30391,23 @@ Mulig person, http://slekt.nr.no/wiki/Pernille_Halvorsdatter_(k0239a812-1)</text
     <note handle="_c63b7ecce905ac2ffec" change="1362242704" id="N0705" type="Citation">
       <text>http://home.online.no/~hennilse/slekta/</text>
     </note>
-    <note handle="_c64b9246f9b2546d369" change="1362674243" id="N0706" type="Citation">
-      <text>http://da.digitalarkivet.no/ft/person/pf01036355008943/</text>
+    <note handle="_c64b9246f9b2546d369" change="1703594801" id="N0706" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01036355008943</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01036355008943">
+        <range start="0" end="60"/>
+      </style>
     </note>
-    <note handle="_c64b92a0a5f60b97fe1" change="1362674280" id="N0707" type="Citation">
-      <text>http://www.digitalarkivet.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=16&amp;filnamn=f00132&amp;gardpostnr=684&amp;personpostnr=5424&amp;merk=5424#ovre</text>
+    <note handle="_c64b92a0a5f60b97fe1" change="1703595220" id="N0707" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01037012005424</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037012005424">
+        <range start="0" end="60"/>
+      </style>
     </note>
-    <note handle="_c64b9809236143d314e" change="1362674847" id="N0708" type="Citation">
-      <text>http://digitalarkivet.no/cgi-win/WebCens.exe?slag=visbase&amp;sidenr=2&amp;filnamn=f60128&amp;gardpostnr=117&amp;personpostnr=792&amp;merk=792#ovre</text>
+    <note handle="_c64b9809236143d314e" change="1703597184" id="N0708" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01037996001022</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037996001022">
+        <range start="0" end="60"/>
+      </style>
     </note>
     <note handle="_c64b990d9d422a66338" change="1362674954" id="N0709" type="Place Note">
       <text>Merket 311 i folketellingen 1865</text>
@@ -31623,10 +31651,16 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb1004090303012
     <note handle="_cd7c085b6a6138bf208" change="1412078749" id="N1024" type="Person Note">
       <text>Fra kirkebok ved ekteskap med Kristian Pedersen er hennes far arbeider Hans Olsen Ruud, og forlover Sagarbeider Hans Olsen Ruud Billettberget.</text>
     </note>
-    <note handle="_cd7c0aa137a53ece11b" change="1412078987" id="N1025" type="General">
+    <note handle="_cd7c0aa137a53ece11b" change="1703596317" id="N1025" type="General">
       <text>Kildeinformasjon: Østfold fylke, Onsøy, Ministerialbok nr. 4 (1861-1877), Fødte og døpte 1870, side 156. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=6221&amp;idx_id=6221&amp;uid=ny&amp;idx_side=-163
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060928030899.jpg</text>
+      <style name="link" value="http://www.arkivverket.no/URN:NBN:no-a1450-kb20060928030899.jpg">
+        <range start="236" end="300"/>
+      </style>
+      <style name="link" value="http://www.arkivverket.no/URN:kb_read?idx_kildeid=6221&amp;idx_id=6221&amp;uid=ny&amp;idx_side=-163">
+        <range start="127" end="214"/>
+      </style>
     </note>
     <note handle="_cd7c1055ba4076f6d30" change="1412079585" id="N1026" type="Citation">
       <text>http://www.disnorge.no/slektsforum/viewtopic.php?t=32643</text>
@@ -32253,8 +32287,11 @@ Mulig
     <note handle="_f60128f9be43bb1802265b4d33b" change="1690530267" id="N0013" type="Source Note">
       <text>https://www.digitalarkivet.no/census/person/pf01073662006313</text>
     </note>
-    <note handle="_f6012b534016d48eb64f2a03d45" change="1690530514" id="N0015" type="Source Note">
+    <note handle="_f6012b534016d48eb64f2a03d45" change="1703594447" id="N0015" type="Source Note">
       <text>https://www.digitalarkivet.no/census/person/pf01073662006314</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01073662006314">
+        <range start="0" end="60"/>
+      </style>
     </note>
     <note handle="_f6012d164b8688be36da4fbac1d" change="1690530698" id="N0469" type="Source Note">
       <text>Fra skannet side:
@@ -32640,6 +32677,11 @@ Brukslenke for sidevisning: https://www.digitalarkivet.no/kb20061027351136</tex
     </note>
     <note handle="_f7e7bbf87a94670a227cfa9c0e3" change="1703591644" id="N1206" type="Link">
       <text>https://www.nb.no/items/a18225b6940c6321f8ba43114613c03a?page=0&amp;searchText=hedemarken</text>
+    </note>
+    <note handle="_f7e7ecf266a463b271d8555a46d" change="1703596780" id="N1207" type="Person Note">
+      <text>Fra skannet side folketellingen 1920
+12 barn herav 9 i live
+Født 1869-12-5</text>
     </note>
   </notes>
   <bookmarks>
