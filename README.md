@@ -50,7 +50,7 @@ GDK_BACKEND=x11 MOZ_ENABLE_WAYLAND=0 gramps
 ## Generere html
 Generer fra knuthp databasen på lokal maskin
 ```bash
-.scripts/gramps_html
+./scripts/gramps_html
 ```
 
 
