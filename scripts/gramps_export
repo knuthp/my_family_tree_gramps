@@ -1,0 +1,8 @@
+#!/bin/sh
+set -e
+
+SCRIPT_DIR=$(dirname "$0")
+DATABASE=knuthp
+
+$SCRIPT_DIR/gramps --open ${DATABASE} --export ./${DATABASE}.gramps --yes
+gunzip < ${DATABASE}.gramps > ${DATABASE}.xml

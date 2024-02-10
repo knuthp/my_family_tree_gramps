@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+
+
+# WSL Windows Sybsystem for Linux II need this added to envS
+if [ -f "/proc/sys/fs/binfmt_misc/WSLInterop" ]; then
+    export GDK_BACKEND=x11 
+    export MOZ_ENABLE_WAYLAND=0 
+fi
+/usr/bin/gramps $*

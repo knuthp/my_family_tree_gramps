@@ -20,7 +20,7 @@ TARGET="target=${TARGET_DIR}"
 
 mkdir -p ${TARGET_DIR}/css
 
-gramps -O knuthp \
+/usr/bin/gramps -O knuthp \
     -a report \
     -p ${NAME},${LIVING_PEOPLE},title="Knut H Pedersen slektstree",${MAPSERVICE},${HOMENOTE},${PLACEPAGES},${INC},${FAMILYMAPPAGES},${CSS},${TARGET}
 
