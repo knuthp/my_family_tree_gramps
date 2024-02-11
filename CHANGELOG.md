@@ -9,7 +9,7 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Lagt til
 
 - Bruk av git for versjonskontroll og samle kode og data
-- Folketellingen 1920
+- Folketellingen 1920 med skannede bilder
 - Ljan, hvordan kom slekten fra Hurdal til Askim
 
 ### Endret

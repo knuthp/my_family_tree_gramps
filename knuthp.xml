@@ -6788,7 +6788,7 @@
       <description>Husstel</description>
       <citationref hlink="_f6128d6693948dd3c6c6c878ca0"/>
     </event>
-    <event handle="_f87f2df13124c235a2d0d490a10" change="1707657038" id="E1306">
+    <event handle="_f87f2df13124c235a2d0d490a10" change="1707658035" id="E1306">
       <type>Census</type>
       <dateval val="1920"/>
       <place hlink="_c61872f38b26a6bac23"/>
@@ -7368,7 +7368,7 @@
       <citationref hlink="_c6354a6d92948b0caf3"/>
       <citationref hlink="_cb735b0e9ee25027ea4"/>
     </person>
-    <person handle="_c30a6146b704bf6b0dd" change="1707657040" id="I0032">
+    <person handle="_c30a6146b704bf6b0dd" change="1707658038" id="I0032">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Sørine Marie</first>
@@ -7382,8 +7382,8 @@
       <eventref hlink="_f60256e92777e402f977f04ba29" role="Primary"/>
       <eventref hlink="_c61873d653613e8baca" role="Primary"/>
       <eventref hlink="_c61876e4124424b0268" role="Primary"/>
-      <eventref hlink="_c6187b8980017e09746" role="Primary"/>
       <eventref hlink="_f87f2df13124c235a2d0d490a10" role="Primary"/>
+      <eventref hlink="_c6187b8980017e09746" role="Primary"/>
       <childof hlink="_c30a63349a048b468ee"/>
       <parentin hlink="_c30a5efdefe32d58282"/>
       <citationref hlink="_c6354a6dd6c59120544"/>
@@ -25889,11 +25889,11 @@
       <objref hlink="_f7e7bb5a7012480faa4d63f8b2a"/>
       <sourceref hlink="_e6cc5ce6bc852d8633fdad0ca9e"/>
     </citation>
-    <citation handle="_f87f2d715ccd24f9dfffec0853" change="1707657037" id="C1444">
+    <citation handle="_f87f2d715ccd24f9dfffec0853" change="1707658033" id="C1444">
       <page>pf01073699001752</page>
       <confidence>2</confidence>
       <noteref hlink="_f87f2d08bc944e18fc5f71bdf64"/>
-      <objref hlink="_f87f2e8f0cf46d33ff4f8b8a308"/>
+      <objref hlink="_f87f2d321922ff33c3d77e7c46d"/>
       <sourceref hlink="_f5ffc2515bfc8ca7118b24fdd6"/>
     </citation>
   </citations>
@@ -28092,7 +28092,7 @@
     <object handle="_f87f2786bd9cc8c6f6f9ff74cd" change="1707656297" id="O0067">
       <file src="media/folketellinger/1920/anette_hedemarken_ft_1920.jpg" mime="image/jpeg" checksum="7538b84fe9dfa9b790800375c39a3f7e" description="anette_hedemarken_ft_1920"/>
     </object>
-    <object handle="_f87f2d321922ff33c3d77e7c46d" change="1707656892" id="O0068">
+    <object handle="_f87f2d321922ff33c3d77e7c46d" change="1707658031" id="O0068">
       <file src="media/folketellinger/1920/sorine_johannesdatter_lundeby__ft_1920.jpg" mime="image/jpeg" checksum="bbdf86bc8f62a886efdcebe21578a6bf" description="sorine_johannesdatter_lundeby__ft_1920"/>
     </object>
     <object handle="_f87f2e8f0cf46d33ff4f8b8a308" change="1707657035" id="O0069">
