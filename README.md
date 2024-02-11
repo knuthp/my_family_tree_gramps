@@ -18,10 +18,18 @@ Dette er beste praksis som jeg nå prøver å følge på nye ting
 ### Plasser (Places)
 Bruk "Enclosed By" for hierarkiske plasser
 1. Land
+2. Fylke
+3. Kommune
+4. Plass
 
 ### Kilder for Hendelser (Source for events)
 Legg linker til kilden på kilden og ikke på hendelsen.
 Da kommer de ikke inn i hendelseslisten, men som del av kilden nederst.
+
+
+Legg bilde av kilden på kilden og ikke på hendelsen
+Da kommer bildet i kildelisten og ikke som gallery på personen.
+
 
 ### Linker til Internet for kilder
 Lag en Link av teksten vha menyen til Internet Adress. La notatet være av typen LINK
