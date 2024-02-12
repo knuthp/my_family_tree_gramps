@@ -15,3 +15,33 @@ jobs:
             sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml| gzip > knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps
             ./scripts/gramps_html
             ls -l _build/
+
+            - name: Setup Pages
+            if: github.ref == 'refs/heads/main'
+            uses: actions/configure-pages@v3
+    
+      - name: Upload Artifact
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # location of the artifacts
+          path: "_build/"
+    
+  deploy-gramps:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    needs: build
+    
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      # environment created automatically by GitHub
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
