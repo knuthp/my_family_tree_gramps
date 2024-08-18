@@ -18,6 +18,9 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Peder Pedersen, Anne Lovise Olsdatter Pedersen, Kristian Pedersen og eldre slektinger
     - folketellinger oppdatert og lagt til
     - dødsdatoer lagt til
+- Ødemark Agnes og Isak, Langebrekke Astrid og Kristian, Langebrekke Kristine og Hans Gabriel, Langrebrekke Oline og Anton
+    - gravminne oppdatert lenker og lagt til bilde
+    -
 
 ### Fjernet
 ### Fikset
