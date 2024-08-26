@@ -20,7 +20,16 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - dødsdatoer lagt til
 - Ødemark Agnes og Isak, Langebrekke Astrid og Kristian, Langebrekke Kristine og Hans Gabriel, Langrebrekke Oline og Anton
     - gravminne oppdatert lenker og lagt til bilde
-    -
+- Annethe Hedemearken
+    - doedsdato
+    - doedsannonse
+    - nekrolog
+- Ernst Paul Hensel
+    - doedsdato
+    - doedsannonse
+- Isak Solsrud Ødemark
+    - Dødsdato
+    - Klokkerbok doedsfall
 
 ### Fjernet
 ### Fikset
