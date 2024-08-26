@@ -71,5 +71,12 @@ cp -r _build/* /media/NAS/web/knuthp/family/
 
 ## Laste ned media
 ```
-wget https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2011102708131_0013/full/568,/0/default.jpg -O 13.jpg
+poetry shell
+cd media/aviser/<newspaper>
+nbdownloader download <url for newspaper issue> <page>
+```
+
+example:
+```
+nbdownloader download "https://www.nb.no/items/1c07cc5197442ac4107022688b5cd86d?page=3&searchText=ernst%20paul%20hensel" 4
 ```
