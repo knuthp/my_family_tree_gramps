@@ -1,3 +1,5 @@
 _build/
 knuthp.gramps.bak
 knuthp.gramps
+
+__pycache__/
