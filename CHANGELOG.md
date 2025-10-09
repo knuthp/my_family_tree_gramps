@@ -11,6 +11,8 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Bruk av git for versjonskontroll og samle kode og data
 - Folketellingen 1920 med skannede bilder
 - Ljan, hvordan kom slekten fra Hurdal til Askim
+- Linnea + Gunhild og denne nye slektsgrenen
+    - Info fra Jan's PPTer
 
 ### Endret
 - Asbjørn Pedersen, oppdatert kildelenker og lagt til kildemedia
