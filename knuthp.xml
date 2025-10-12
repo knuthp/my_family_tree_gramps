@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2025-10-09" version="5.1.6"/>
+    <created date="2025-10-12" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -148,6 +148,18 @@
     <event handle="_1001d28c45c45de4af4d6d4f286" change="1760001341" id="E1343">
       <type>Birth</type>
       <dateval val="1862-01-10"/>
+    </event>
+    <event handle="_1001d38e69271f5b61407ae0b9b4" change="1760283294" id="E1344">
+      <type>Birth</type>
+      <dateval val="1925-12-10"/>
+      <place hlink="_1001d358b1cb10671084744a9d26"/>
+      <citationref hlink="_1001d38e04b343b8ab4eb76737ce"/>
+    </event>
+    <event handle="_10027afe1d4a6872f26143101893" change="1760283945" id="E1345">
+      <type>Birth</type>
+      <dateval val="1924-12-09"/>
+      <place hlink="_10027af1c3d91bb8be242ebc441d"/>
+      <citationref hlink="_10027afa6fdc608bb32b18db9e77"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -6987,13 +6999,14 @@
       <childof hlink="_1001d1400b5947085b6991c98567"/>
       <parentin hlink="_1001d12bf945731d692a32bee7f9"/>
     </person>
-    <person handle="_1001d142fc037c3cee6a82886fab" change="1759999307" id="I0148">
+    <person handle="_1001d142fc037c3cee6a82886fab" change="1760283498" id="I0148">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Tore Bjarne</first>
         <surname>Jensen</surname>
       </name>
       <eventref hlink="_1001d1490c6d51132414f8f8250f" role="Primary"/>
+      <childof hlink="_10027a687d51479f739f8b67673d"/>
       <parentin hlink="_1001d1400b5947085b6991c98567"/>
     </person>
     <person handle="_1001d14b23a36f288262ec707179" change="1759999558" id="I0187">
@@ -7146,6 +7159,24 @@
       </name>
       <eventref hlink="_1001d28c45c45de4af4d6d4f286" role="Primary"/>
       <parentin hlink="_1001d27deced16cbd904d12ccd5c"/>
+    </person>
+    <person handle="_1001d34b1ca9dee542c89432aca" change="1760283002" id="I0735">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Bjarne Alfred</first>
+        <surname>Jensen</surname>
+      </name>
+      <eventref hlink="_1001d38e69271f5b61407ae0b9b4" role="Primary"/>
+      <parentin hlink="_10027a687d51479f739f8b67673d"/>
+    </person>
+    <person handle="_10027aaa1ed63fdacbc41279fedf" change="1760283952" id="I0736">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Aud Rigmor</first>
+        <surname>Kolstad</surname>
+      </name>
+      <eventref hlink="_10027afe1d4a6872f26143101893" role="Primary"/>
+      <parentin hlink="_10027a687d51479f739f8b67673d"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1690993807" id="I0000">
       <gender>M</gender>
@@ -16178,6 +16209,12 @@
       <mother hlink="_1001d286756b99d4c248d441157"/>
       <childref hlink="_1001d18cc4e25abd846638fa9c16"/>
     </family>
+    <family handle="_10027a687d51479f739f8b67673d" change="1760283498" id="F0426">
+      <rel type="Unknown"/>
+      <father hlink="_1001d34b1ca9dee542c89432aca"/>
+      <mother hlink="_10027aaa1ed63fdacbc41279fedf"/>
+      <childref hlink="_1001d142fc037c3cee6a82886fab"/>
+    </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
       <father hlink="_c0dd13bf6ba157a82e9"/>
@@ -18724,6 +18761,20 @@
     </family>
   </families>
   <citations>
+    <citation handle="_1001d38e04b343b8ab4eb76737ce" change="1760283217" id="C0655">
+      <page>167, nr 13</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1001d387bb7756372bc2236e1ec7"/>
+      <objref hlink="_10027a8eb11018906e39004089c8"/>
+      <sourceref hlink="_1001d37de20f112377ee32e5dfcb"/>
+    </citation>
+    <citation handle="_10027afa6fdc608bb32b18db9e77" change="1760283943" id="C0761">
+      <page>s54, nr 2</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10027afd898864032a7835d0b5e"/>
+      <objref hlink="_10027afa26cd162b0202e3f9b17b"/>
+      <sourceref hlink="_10027af68a1f5acc5d8b42120c3e"/>
+    </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
       <noteref hlink="_c32a2935f4a08cfbed0"/>
@@ -26403,6 +26454,13 @@
     </citation>
   </citations>
   <sources>
+    <source handle="_1001d37de20f112377ee32e5dfcb" change="1760002925" id="S0150">
+      <stitle>Kirkebok - Oslo - Ullern</stitle>
+      <noteref hlink="_1001d37d4a1c65eaa516531acf8e"/>
+    </source>
+    <source handle="_10027af68a1f5acc5d8b42120c3e" change="1760283895" id="S0151">
+      <stitle>Kirkebok, Sørum, Klokkerbo</stitle>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -27054,6 +27112,12 @@
     </placeobj>
     <placeobj handle="_1001d136bbc37e7d12c05db62c07" change="1759999103" id="P0306" type="Unknown">
       <pname value="Bærum"/>
+    </placeobj>
+    <placeobj handle="_1001d358b1cb10671084744a9d26" change="1760002681" id="P0307" type="Unknown">
+      <pname value="Ullern"/>
+    </placeobj>
+    <placeobj handle="_10027af1c3d91bb8be242ebc441d" change="1760283864" id="P0308" type="Unknown">
+      <pname value="Sørum"/>
     </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
@@ -28405,6 +28469,12 @@
     </placeobj>
   </places>
   <objects>
+    <object handle="_10027a8eb11018906e39004089c8" change="1760283215" id="O0068">
+      <file src="/home/knuthp/src/my_family_tree_gramps/media/kirkeboker/ullern/bjarne_alfred_jensen__fodte_1925_nr_13.jpg" mime="image/jpeg" checksum="a66e77984874541de2806b5efce45fad" description="bjarne_alfred_jensen__fodte_1925_nr_13"/>
+    </object>
+    <object handle="_10027afa26cd162b0202e3f9b17b" change="1760283919" id="O0084">
+      <file src="/home/knuthp/src/my_family_tree_gramps/media/kirkeboker/sorum/klokkerbok_1917-1934/aud_rigmor_kolstad_jensen_1926_s54_nr2.jpg" mime="image/jpeg" checksum="f53cddcdec54de5902faba0744037f7a" description="aud_rigmor_kolstad_jensen_1926_s54_nr2"/>
+    </object>
     <object handle="_c3fd07655d625dd11ed" change="1690442860" id="O0000">
       <file src="media/boeker/gaardshistorie_hurdal/Rognlia.pdf" mime="application/pdf" checksum="a65abd6bc5da5c9f95e7a20660d6d454" description="Rognlia"/>
     </object>
@@ -28676,6 +28746,22 @@
     </repository>
   </repositories>
   <notes>
+    <note handle="_1001d37d4a1c65eaa516531acf8e" change="1760002921" id="N1226" type="Source Note">
+      <text>Ullern prestekontor Kirkebøker, AV/SAO-A-10740/J/L0001: Fødselsregister nr. 1, 1916-1928</text>
+    </note>
+    <note handle="_1001d387bb7756372bc2236e1ec7" change="1760283291" id="N1227" type="General">
+      <text>https://www.digitalarkivet.no/kb20050829021130
+</text>
+      <style name="link" value="https://www.digitalarkivet.no/kb20050829021130">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10027afd898864032a7835d0b5e" change="1760283941" id="N1228" type="Citation">
+      <text>https://www.digitalarkivet.no/kb20060303020801</text>
+      <style name="link" value="https://www.digitalarkivet.no/kb20060303020801">
+        <range start="0" end="46"/>
+      </style>
+    </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
 Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Fødte og døpte 1906, side 85. 

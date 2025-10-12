@@ -13,6 +13,8 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Ljan, hvordan kom slekten fra Hurdal til Askim
 - Linnea + Gunhild og denne nye slektsgrenen
     - Info fra Jan's PPTer
+    - Info fra Gunhilds Google Site
+
 
 ### Endret
 - Asbjørn Pedersen, oppdatert kildelenker og lagt til kildemedia
