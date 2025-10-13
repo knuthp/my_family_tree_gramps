@@ -205,10 +205,12 @@
       <description>Folketellingen 1920</description>
       <citationref hlink="_10027d90a5a61c2dbd4ef346e5db"/>
     </event>
-    <event handle="_10027dbd2c451bbce9a89ec33b76" change="1760288731" id="E1352">
+    <event handle="_10027dbd2c451bbce9a89ec33b76" change="1760369254" id="E1352">
       <type>Birth</type>
       <dateval val="1898-07-14"/>
       <place hlink="_c313e02021222f5bc5d"/>
+      <noteref hlink="_1002add720897143d9f2f4c53909"/>
+      <citationref hlink="_1002adc25c9d246670fa122d73a8"/>
     </event>
     <event handle="_10027dc232f3592c00dcedd0f7aa" change="1760288585" id="E1353">
       <type>Marriage</type>
@@ -270,6 +272,42 @@
       <place hlink="_1002abf19fef2191d179ed7ebaa4"/>
       <description>Folketellingen 1900</description>
       <citationref hlink="_1002ac30d54517fdf84ee283e225"/>
+    </event>
+    <event handle="_1002ad23623317de086e2bcd8322" change="1760368075" id="pf01073680004338">
+      <type>Census</type>
+      <place hlink="_10027e0e8c1b6ba025a5ff2de0ec"/>
+      <description>Folketellingen 1920</description>
+      <citationref hlink="_1002ad23268357aca07eef7362b3"/>
+    </event>
+    <event handle="_1002ad32f2026498d2fe691e7a95" change="1760368229" id="pf01073680004339">
+      <type>Census</type>
+      <place hlink="_10027e0e8c1b6ba025a5ff2de0ec"/>
+      <description>Folketellingen 1920</description>
+      <citationref hlink="_1002ad3aa9ad6fc9474642c10622"/>
+    </event>
+    <event handle="_1002ad599ca8415f31ab46c816d8" change="1760368431" id="E1357">
+      <type>Death</type>
+      <dateval val="1965-05-01"/>
+      <place hlink="_c313e02021222f5bc5d"/>
+      <citationref hlink="_1002ad59675063282604baac0823"/>
+    </event>
+    <event handle="_1002ad89e389dc89068a168c23c" change="1760368916" id="px00000000006763">
+      <type>Residence</type>
+      <dateval val="1897-11-09"/>
+      <place hlink="_e048ce84c8eb8190b7e057d89e"/>
+      <description>Utmeldt Grønland</description>
+      <noteref hlink="_1002ada38cd446aa79c2d1344135"/>
+      <citationref hlink="_1002ad899a5b9f764729fb89a9f"/>
+    </event>
+    <event handle="_1002ad9cf5b312f488c6e80e210d" change="1760368940" id="E1358">
+      <type>Confirmation</type>
+      <dateval val="1888-09-30"/>
+      <place hlink="_1002ad979641c5b71710da327f"/>
+      <citationref hlink="_1002ad899a5b9f764729fb89a9f"/>
+    </event>
+    <event handle="_1002add090c01d6e90454a0942cd" change="1760369210" id="E1359">
+      <type>Marriage</type>
+      <dateval val="1897-11-15"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -7322,7 +7360,7 @@
       <eventref hlink="_10027d90fea73f21c3fa843005c8" role="Primary"/>
       <parentin hlink="_10027d303d577903d5135a30b92a"/>
     </person>
-    <person handle="_10027dafee9523059fd1557633c6" change="1760366002" id="I0741">
+    <person handle="_10027dafee9523059fd1557633c6" change="1760369619" id="I0741">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Signe Emilie Henriette</first>
@@ -7335,27 +7373,33 @@
       <eventref hlink="_10027df6a12249ed991e106e34b8" role="Primary"/>
       <childof hlink="_10027e1f74e01af8c6159a086fd6"/>
       <parentin hlink="_10027d303d577903d5135a30b92a"/>
+      <noteref hlink="_1002ae0ebb4037f56eaa8ca46341"/>
     </person>
-    <person handle="_10027e2039b337460f1bab2dcf80" change="1760366501" id="I0742">
+    <person handle="_10027e2039b337460f1bab2dcf80" change="1760368944" id="I0742">
       <gender>M</gender>
       <name type="Birth Name">
-        <first>Thorolf</first>
+        <first>Oskar Thoralf Marinius</first>
         <surname>Jensen</surname>
       </name>
       <eventref hlink="_10027e30102d123439bd8253a10a" role="Primary"/>
       <eventref hlink="_1002ac310e6238bf0e0810f12a47" role="Primary"/>
       <eventref hlink="_10027e369b4578e94c12cacf2362" role="Primary"/>
+      <eventref hlink="_1002ad23623317de086e2bcd8322" role="Primary"/>
+      <eventref hlink="_1002ad599ca8415f31ab46c816d8" role="Primary"/>
+      <eventref hlink="_1002ad89e389dc89068a168c23c" role="Primary"/>
+      <eventref hlink="_1002ad9cf5b312f488c6e80e210d" role="Primary"/>
       <parentin hlink="_10027e1f74e01af8c6159a086fd6"/>
     </person>
-    <person handle="_10027e3c9ac5479ae78ee30b54fb" change="1760366387" id="I0743">
+    <person handle="_10027e3c9ac5479ae78ee30b54fb" change="1760368234" id="I0743">
       <gender>F</gender>
       <name type="Birth Name">
-        <first>Inga</first>
+        <first>Inga Franciska</first>
         <surname>Jensen</surname>
       </name>
       <eventref hlink="_10027e4bd1082c3cbda6cd31ba73" role="Primary"/>
       <eventref hlink="_1002ac1d3f4c270d963e834cdc5d" role="Primary"/>
       <eventref hlink="_10027e515c294b64b7ea554303ab" role="Primary"/>
+      <eventref hlink="_1002ad32f2026498d2fe691e7a95" role="Primary"/>
       <parentin hlink="_10027e1f74e01af8c6159a086fd6"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1690993807" id="I0000">
@@ -16408,10 +16452,11 @@
       <eventref hlink="_10027dc232f3592c00dcedd0f7aa" role="Family"/>
       <childref hlink="_1001d34b1ca9dee542c89432aca"/>
     </family>
-    <family handle="_10027e1f74e01af8c6159a086fd6" change="1760289537" id="F0429">
+    <family handle="_10027e1f74e01af8c6159a086fd6" change="1760369224" id="F0429">
       <rel type="Unknown"/>
       <father hlink="_10027e2039b337460f1bab2dcf80"/>
       <mother hlink="_10027e3c9ac5479ae78ee30b54fb"/>
+      <eventref hlink="_1002add090c01d6e90454a0942cd" role="Family"/>
       <childref hlink="_10027dafee9523059fd1557633c6"/>
     </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
@@ -19051,6 +19096,36 @@
       <confidence>2</confidence>
       <noteref hlink="_1002ac309f7364d56237c21f4cdf"/>
       <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_1002ad23268357aca07eef7362b3" change="1760368074" id="C1469">
+      <page>pf01073680004338</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002ad1fffac345b5413666f625b"/>
+      <sourceref hlink="_f5ffc2515bfc8ca7118b24fdd6"/>
+    </citation>
+    <citation handle="_1002ad3aa9ad6fc9474642c10622" change="1760368228" id="C1470">
+      <page>pf01073680004339</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002ad3a569d3e77e91c9ff46a52"/>
+      <sourceref hlink="_f5ffc2515bfc8ca7118b24fdd6"/>
+    </citation>
+    <citation handle="_1002ad59675063282604baac0823" change="1760368429" id="C1471">
+      <page>pc00000001984921</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002ad592ee936dccf0ffe7b9a9a"/>
+      <sourceref hlink="_10027c03a3f92d06d8da2add4574"/>
+    </citation>
+    <citation handle="_1002ad899a5b9f764729fb89a9f" change="1760368745" id="C1472">
+      <page>px00000000006763</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002ad883f57a163331fb734804"/>
+      <sourceref hlink="_1002ad7ddba0180ffb321352257"/>
+    </citation>
+    <citation handle="_1002adc25c9d246670fa122d73a8" change="1760369117" id="C1473">
+      <page>pd00000015058065</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002adbfd66e509fcd9e7fa73799"/>
+      <sourceref hlink="_1002adb8d4b8e39beac833f7ac0"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -26746,6 +26821,12 @@
     <source handle="_10027c03a3f92d06d8da2add4574" change="1760285659" id="S0153">
       <stitle>Dødsfallsregister 1951-2017</stitle>
     </source>
+    <source handle="_1002ad7ddba0180ffb321352257" change="1760368668" id="S0154">
+      <stitle>Kirkebok, Grønland, Minestrialbok 1892-1907</stitle>
+    </source>
+    <source handle="_1002adb8d4b8e39beac833f7ac0" change="1760369055" id="S0155">
+      <stitle>Minestrialbok for Grønland prestegjeld 1893-1900</stitle>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -27412,6 +27493,9 @@
     </placeobj>
     <placeobj handle="_1002abf19fef2191d179ed7ebaa4" change="1760366071" id="P0311" type="Unknown">
       <pname value="Alværn Søndre, Nesodden"/>
+    </placeobj>
+    <placeobj handle="_1002ad979641c5b71710da327f" change="1760368837" id="P0312" type="Unknown">
+      <pname value="Grønland, Oslo"/>
     </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
@@ -29142,6 +29226,47 @@
       <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037027001598">
         <range start="0" end="60"/>
       </style>
+    </note>
+    <note handle="_1002ad1fffac345b5413666f625b" change="1760368053" id="N1243" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01073680004338</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01073680004338">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1002ad3a569d3e77e91c9ff46a52" change="1760368226" id="N1244" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01073680004339</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01073680004339">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1002ad592ee936dccf0ffe7b9a9a" change="1760368428" id="N1245" type="Citation">
+      <text>https://www.digitalarkivet.no/view/387/pc00000001984921</text>
+    </note>
+    <note handle="_1002ad883f57a163331fb734804" change="1760368736" id="N1246" type="Citation">
+      <text>https://www.digitalarkivet.no/view/297/px00000000006763</text>
+      <style name="link" value="https://www.digitalarkivet.no/view/297/px00000000006763">
+        <range start="0" end="55"/>
+      </style>
+    </note>
+    <note handle="_1002ada38cd446aa79c2d1344135" change="1760368915" id="N1247" type="Event Note">
+      <text>Bosted på Grønland var: Flisb.gd. 6</text>
+    </note>
+    <note handle="_1002adbfd66e509fcd9e7fa73799" change="1760369115" id="N1248" type="Citation">
+      <text>https://www.digitalarkivet.no/view/255/pd00000015058065</text>
+      <style name="link" value="https://www.digitalarkivet.no/view/255/pd00000015058065">
+        <range start="0" end="55"/>
+      </style>
+    </note>
+    <note handle="_1002add720897143d9f2f4c53909" change="1760369253" id="N1249" type="Event Note">
+      <text>Adresse ved fødsel: Smedgd. 18</text>
+    </note>
+    <note handle="_1002ae0ebb4037f56eaa8ca46341" change="1760369618" id="N1250" type="Person Note">
+      <text>Mulig treff i Folktellingen 1891 for Vestfold Tjølling.
+https://www.digitalarkivet.no/census/person/pf01052820001931
+
+Inga Jensen med sedvanlig bosted: Kristiania Trondhjv no 76 arbeider i seildugsfabrikken.
+
+Mulig hun bor hos slektninger da flere heter Jensen der også.</text>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
