@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2025-10-12" version="5.1.6"/>
+    <created date="2025-10-13" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -252,6 +252,24 @@
       <type>Census</type>
       <place hlink="_10027e0e8c1b6ba025a5ff2de0ec"/>
       <description>Folketellingen 1910</description>
+    </event>
+    <event handle="_1002abe49e5760f6e85e5f9de1c" change="1760366073" id="pf01037027001600">
+      <type>Census</type>
+      <place hlink="_1002abf19fef2191d179ed7ebaa4"/>
+      <description>Folketellingen 1900</description>
+      <citationref hlink="_1002abe46b082be99de8759d48bb"/>
+    </event>
+    <event handle="_1002ac1d3f4c270d963e834cdc5d" change="1760366383" id="pf01037027001599">
+      <type>Census</type>
+      <place hlink="_1002abf19fef2191d179ed7ebaa4"/>
+      <description>Folketellingen 1900</description>
+      <citationref hlink="_1002ac1d0d113984b0f89a950665"/>
+    </event>
+    <event handle="_1002ac310e6238bf0e0810f12a47" change="1760366487" id="pf01037027001598">
+      <type>Census</type>
+      <place hlink="_1002abf19fef2191d179ed7ebaa4"/>
+      <description>Folketellingen 1900</description>
+      <citationref hlink="_1002ac30d54517fdf84ee283e225"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -7304,36 +7322,39 @@
       <eventref hlink="_10027d90fea73f21c3fa843005c8" role="Primary"/>
       <parentin hlink="_10027d303d577903d5135a30b92a"/>
     </person>
-    <person handle="_10027dafee9523059fd1557633c6" change="1760289537" id="I0741">
+    <person handle="_10027dafee9523059fd1557633c6" change="1760366002" id="I0741">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Signe Emilie Henriette</first>
         <surname>Jensen</surname>
       </name>
       <eventref hlink="_10027dbd2c451bbce9a89ec33b76" role="Primary"/>
+      <eventref hlink="_1002abe49e5760f6e85e5f9de1c" role="Primary"/>
+      <eventref hlink="_10027e16db5f4dfe52d62d6fcbc8" role="Primary"/>
       <eventref hlink="_10027dd285cb68ed191c34c23da6" role="Primary"/>
       <eventref hlink="_10027df6a12249ed991e106e34b8" role="Primary"/>
-      <eventref hlink="_10027e16db5f4dfe52d62d6fcbc8" role="Primary"/>
       <childof hlink="_10027e1f74e01af8c6159a086fd6"/>
       <parentin hlink="_10027d303d577903d5135a30b92a"/>
     </person>
-    <person handle="_10027e2039b337460f1bab2dcf80" change="1760289373" id="I0742">
+    <person handle="_10027e2039b337460f1bab2dcf80" change="1760366501" id="I0742">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Thorolf</first>
         <surname>Jensen</surname>
       </name>
       <eventref hlink="_10027e30102d123439bd8253a10a" role="Primary"/>
+      <eventref hlink="_1002ac310e6238bf0e0810f12a47" role="Primary"/>
       <eventref hlink="_10027e369b4578e94c12cacf2362" role="Primary"/>
       <parentin hlink="_10027e1f74e01af8c6159a086fd6"/>
     </person>
-    <person handle="_10027e3c9ac5479ae78ee30b54fb" change="1760289537" id="I0743">
+    <person handle="_10027e3c9ac5479ae78ee30b54fb" change="1760366387" id="I0743">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Inga</first>
         <surname>Jensen</surname>
       </name>
       <eventref hlink="_10027e4bd1082c3cbda6cd31ba73" role="Primary"/>
+      <eventref hlink="_1002ac1d3f4c270d963e834cdc5d" role="Primary"/>
       <eventref hlink="_10027e515c294b64b7ea554303ab" role="Primary"/>
       <parentin hlink="_10027e1f74e01af8c6159a086fd6"/>
     </person>
@@ -19013,6 +19034,24 @@
       <noteref hlink="_10027e4937e543b729b41c850ba2"/>
       <sourceref hlink="_c37131841dc5fc4a003"/>
     </citation>
+    <citation handle="_1002abe46b082be99de8759d48bb" change="1760365985" id="C1466">
+      <page>pf01037027001600</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002abe42d8a5882ab76a2bcf011"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_1002ac1d0d113984b0f89a950665" change="1760366356" id="C1467">
+      <page>pf01037027001599</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002ac1ca51c415b01189893712f"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_1002ac30d54517fdf84ee283e225" change="1760366486" id="C1468">
+      <page>pf01037027001598</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1002ac309f7364d56237c21f4cdf"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
       <noteref hlink="_c32a2935f4a08cfbed0"/>
@@ -27371,6 +27410,9 @@
     <placeobj handle="_10027e0e8c1b6ba025a5ff2de0ec" change="1760289086" id="P0310" type="Unknown">
       <pname value="Loe, Lysaker"/>
     </placeobj>
+    <placeobj handle="_1002abf19fef2191d179ed7ebaa4" change="1760366071" id="P0311" type="Unknown">
+      <pname value="Alværn Søndre, Nesodden"/>
+    </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
       <pname value="Glemmen"/>
@@ -29080,6 +29122,24 @@
     <note handle="_10027e4937e543b729b41c850ba2" change="1760289470" id="N1239" type="Citation">
       <text>https://www.digitalarkivet.no/census/person/pf01036372003354</text>
       <style name="link" value="https://www.digitalarkivet.no/census/person/pf01036372003354">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1002abe42d8a5882ab76a2bcf011" change="1760365983" id="N1240" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01037027001600</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037027001600">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1002ac1ca51c415b01189893712f" change="1760366353" id="N1241" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01037027001599</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037027001599">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1002ac309f7364d56237c21f4cdf" change="1760366484" id="N1242" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01037027001598</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037027001598">
         <range start="0" end="60"/>
       </style>
     </note>
