@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2025-10-18" version="5.1.6"/>
+    <created date="2025-10-19" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -567,6 +567,16 @@
       <place hlink="_10039d1106d74092f99724638ab2"/>
       <description>Folketellingen 1900</description>
       <citationref hlink="_10039d146acb2bea60eb9e0ec116"/>
+    </event>
+    <event handle="_1003e5f23a772de2c8017bde140" change="1760892880" id="E1373">
+      <type>Death</type>
+      <dateval val="1922-12-15"/>
+      <citationref hlink="_1003e5f1fff16e4cfde19e512d31"/>
+    </event>
+    <event handle="_1003e5fd3efc116bdb1218786206" change="1760892952" id="E1374">
+      <type>Death</type>
+      <dateval val="1935-02-13"/>
+      <citationref hlink="_1003e5fd203815b7797731342f9f"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -7702,7 +7712,7 @@
       <parentin hlink="_1002ae5afbc5362264f952ae5065"/>
       <noteref hlink="_1003815c84304600d2144addce93"/>
     </person>
-    <person handle="_100382be0bdc121a2b33644b9f93" change="1760763145" id="I0746">
+    <person handle="_100382be0bdc121a2b33644b9f93" change="1760892953" id="I0746">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Kristian</first>
@@ -7710,6 +7720,7 @@
       </name>
       <eventref hlink="_1003989699f228cef9d2a73846f" role="Primary"/>
       <eventref hlink="_1003989c359d3d39e1e589db01e6" role="Primary"/>
+      <eventref hlink="_1003e5fd3efc116bdb1218786206" role="Primary"/>
       <parentin hlink="_100382bdb3bd7a8b41b1315860dc"/>
       <citationref hlink="_100382cb8f7c79bd2379abd6ea31"/>
     </person>
@@ -7722,7 +7733,7 @@
       <parentin hlink="_100382ce097d72a2eab67df282e3"/>
       <citationref hlink="_100382ba1f9f229607643a3fc517"/>
     </person>
-    <person handle="_100398a1d7f02613fb9d565242da" change="1760763311" id="I0748">
+    <person handle="_100398a1d7f02613fb9d565242da" change="1760892898" id="I0748">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Helene</first>
@@ -7730,6 +7741,7 @@
       </name>
       <eventref hlink="_100398ade336533accdd7d2bfa6f" role="Primary"/>
       <eventref hlink="_100398b3048277ced02c48797fed" role="Primary"/>
+      <eventref hlink="_1003e5f23a772de2c8017bde140" role="Primary"/>
       <parentin hlink="_100382bdb3bd7a8b41b1315860dc"/>
     </person>
     <person handle="_10039a923365316a21947ec91c94" change="1760769006" id="I0749">
@@ -19792,6 +19804,18 @@
       <noteref hlink="_10039d12cfdb549ade35e0114b83"/>
       <sourceref hlink="_c30a35b868e30d2fcb7"/>
     </citation>
+    <citation handle="_1003e5f1fff16e4cfde19e512d31" change="1760892878" id="C1512">
+      <page>Helene-Jensen/6000000003350053290</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1003e5f009e325ae83af2e8f95ea"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1003e5fd203815b7797731342f9f" change="1760892951" id="C1513">
+      <page>Christian-Jensen/6000000003350014386</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1003e5fbb7437086fb516cd750ab"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
       <noteref hlink="_c32a2935f4a08cfbed0"/>
@@ -30259,6 +30283,18 @@ Mulig hun bor hos slektninger da flere heter Jensen der også.</text>
     </note>
     <note handle="_10039d12cfdb549ade35e0114b83" change="1760770620" id="N1300" type="Citation">
       <text>https://www.digitalarkivet.no/census/person/pf01037045187283</text>
+    </note>
+    <note handle="_1003e5f009e325ae83af2e8f95ea" change="1760892865" id="N1301" type="Link">
+      <text>https://www.geni.com/people/Helene-Jensen/6000000003350053290</text>
+      <style name="link" value="gramps://Person/handle/10027d34471a3eb75940680b1e5b">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_1003e5fbb7437086fb516cd750ab" change="1760892942" id="N1302" type="Link">
+      <text>https://www.geni.com/people/Christian-Jensen/6000000003350014386</text>
+      <style name="link" value="gramps://Person/handle/10027d34471a3eb75940680b1e5b">
+        <range start="0" end="64"/>
+      </style>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
