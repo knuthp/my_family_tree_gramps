@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2025-10-19" version="5.1.6"/>
+    <created date="2025-10-21" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -7903,7 +7903,7 @@
       <eventref hlink="_1003ee5165ae5cb3ea6191927a67" role="Primary"/>
       <parentin hlink="_1003edd562157c9acd654a2014cc"/>
     </person>
-    <person handle="_c0dd13bf6ba157a82e9" change="1690993807" id="I0000">
+    <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Asbjørn Johannes</first>
@@ -7928,6 +7928,7 @@
       </address>
       <childof hlink="_c0dd3995af66e88b033"/>
       <parentin hlink="_c0dd2ff5fa054da3869"/>
+      <noteref hlink="_100449ad515514c1146d7c577041"/>
       <noteref hlink="_c55a5c8b63804b16282"/>
       <noteref hlink="_c55a5db8ccc3e6fbf69"/>
       <noteref hlink="_c55a659c7865e09fc02"/>
@@ -30514,6 +30515,13 @@ Mulig hun bor hos slektninger da flere heter Jensen der også.</text>
         <range start="0" end="60"/>
       </style>
     </note>
+    <note handle="_100449ad515514c1146d7c577041" change="1761077931" id="N1311" type="Html code">
+      <text>&lt;details&gt;
+  &lt;summary&gt;Graf forfedre Klikk for å se.&lt;/summary&gt;
+  &lt;p&gt;&lt;img src=&quot;../../../I0000_fan_chart.svg&quot; alt=&quot;Fan Chart&quot;&gt;&lt;/p&gt;
+&lt;/details&gt;
+</text>
+    </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
 Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Fødte og døpte 1906, side 85. 
@@ -33676,7 +33684,7 @@ Det er derfor mulig at denne personen (Siri Olsdatter Daltorp er datteren.... (S
     <note handle="_c96a0b6e0de1278c320" change="1384108096" id="N0929" type="Citation">
       <text>http://nermo.org/slekt/d0057/g0000050.html#I31596</text>
     </note>
-    <note handle="_c9735c9c4c05d20efa3" change="1760905214" id="N0930" type="MainPage">
+    <note handle="_c9735c9c4c05d20efa3" change="1761078603" id="N0930" type="MainPage">
       <text>Introduksjon
 
 Dette er slektssidene for Knut H Pedersen, min kone og datter. Jeg har samlet informasjon om våre forfedre tilbake i tid, informasjon om våre forfedres søsken og andre barn er ikke tatt med. Slektsgranskningen er basert både på primærkilder som folketellinger, kirkebøker og gravregister og sekundærkilder som slektsbøker, gårdshistorie og andre personer sin slektsgranskning samt nettstedet Geni.  
@@ -33696,9 +33704,7 @@ Min morfar Kristian Langebrekke er den av mine besteforeldre der jeg har funnet 
 Slekt min kone
 
 Hennes fars slekt: Bjarne Alfred Jensen, Aud Jensen født Kolstad
-Hennes mors slekt: Gunnar Dahl, Gerd Dahl
-
-</text>
+Hennes mors slekt: Gunnar Dahl, Gerd Dahl</text>
       <style name="bold">
         <range start="0" end="12"/>
         <range start="807" end="821"/>
