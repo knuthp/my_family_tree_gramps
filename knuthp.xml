@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2025-10-27" version="5.1.6"/>
+    <created date="2025-10-28" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -725,6 +725,56 @@
       <dateval val="1845-11-07"/>
       <place hlink="_c959f3570be312fb088"/>
       <citationref hlink="_10056b38ce2e7096783179e0630f"/>
+    </event>
+    <event handle="_1005be333d08713d9e987922cac7" change="1761685354" id="E1392">
+      <type>Birth</type>
+      <dateval val="1735-10" type="about"/>
+      <place hlink="_10050436943e402ff90e5768d6ce"/>
+    </event>
+    <event handle="_1005be3611ac5995296af501dbb6" change="1761685209" id="E1393">
+      <type>Death</type>
+      <dateval val="1827"/>
+      <place hlink="_10050436943e402ff90e5768d6ce"/>
+    </event>
+    <event handle="_1005bea8a74b5699f057a769785c" change="1761685960" id="E1394">
+      <type>Birth</type>
+      <dateval val="1701" type="about"/>
+      <place hlink="_1005bea8304f76a533f4535a92ad"/>
+    </event>
+    <event handle="_1005bead31a32aad65f6d1927934" change="1761685990" id="E1395">
+      <type>Death</type>
+      <dateval val="1748-06-22"/>
+      <place hlink="_10050436943e402ff90e5768d6ce"/>
+    </event>
+    <event handle="_1005bebe9bf024abd9b2596d73b6" change="1761686104" id="E1396">
+      <type>Birth</type>
+      <dateval val="1705" type="about"/>
+      <place hlink="_1005bebd517b466cf3b5014c8c4d"/>
+    </event>
+    <event handle="_1005bec06f9972c1e8d619bb6e7d" change="1761686116" id="E1397">
+      <type>Death</type>
+      <dateval val="1759"/>
+      <place hlink="_10050436943e402ff90e5768d6ce"/>
+    </event>
+    <event handle="_1005bed0924755c0697fd4ac7e42" change="1761686222" id="E1398">
+      <type>Birth</type>
+      <dateval val="1662" type="about"/>
+      <place hlink="_10050463575f252fad5053fc174"/>
+    </event>
+    <event handle="_1005bed5247a76b93a876180d34a" change="1761686252" id="E1399">
+      <type>Death</type>
+      <dateval val="1742-06" type="about"/>
+      <place hlink="_10050436943e402ff90e5768d6ce"/>
+    </event>
+    <event handle="_1005beebfa544184a594e65450e2" change="1761686401" id="E1400">
+      <type>Birth</type>
+      <dateval val="1678" type="about"/>
+      <place hlink="_10050463575f252fad5053fc174"/>
+    </event>
+    <event handle="_1005beef01b06892b6f1926d7891" change="1761686421" id="E1401">
+      <type>Death</type>
+      <dateval val="1742"/>
+      <place hlink="_10050436943e402ff90e5768d6ce"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -7995,11 +8045,11 @@
       <eventref hlink="_1003ee5165ae5cb3ea6191927a67" role="Primary"/>
       <parentin hlink="_1003edd562157c9acd654a2014cc"/>
     </person>
-    <person handle="_100503888524510c257244354577" change="1761373748" id="I0756">
+    <person handle="_100503888524510c257244354577" change="1761686167" id="I0756">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Peder</first>
-        <surname>Danielsen</surname>
+        <surname>Danielsen Navilainen</surname>
       </name>
       <eventref hlink="_100503ad19a3afbe36b11154256" role="Primary"/>
       <eventref hlink="_1005041ca28a3e700ec4b74ed60" role="Primary"/>
@@ -8022,16 +8072,17 @@
       <parentin hlink="_100503874ccf4cd0a86052dd769c"/>
       <citationref hlink="_100503c236441c29a367ed0e3a0c"/>
     </person>
-    <person handle="_1005042ba67f6597211dccbd0532" change="1761373748" id="I0758">
+    <person handle="_1005042ba67f6597211dccbd0532" change="1761686160" id="I0758">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Daniel</first>
-        <surname>Pedersen</surname>
+        <surname>Pedersen Navilainen</surname>
       </name>
       <eventref hlink="_100504381c8640a3d94053f1675b" role="Primary"/>
       <eventref hlink="_10050444b8c845fae4e4926ed3e2" role="Primary"/>
       <eventref hlink="_10050447d447614e6eee429b915b" role="Primary"/>
       <eventref hlink="_100504827fa11999c726bf37945a" role="Primary"/>
+      <childof hlink="_1005be23f37c415f91d7555edfe4"/>
       <parentin hlink="_1005042b63a52f9ca792ee238a30"/>
       <citationref hlink="_1005043d72ae25f23ff7df799b0c"/>
     </person>
@@ -8046,6 +8097,49 @@
       <eventref hlink="_10050468e8147510e49f96143a1d" role="Primary"/>
       <parentin hlink="_1005042b63a52f9ca792ee238a30"/>
       <citationref hlink="_10050455ff91394b3162a2f85af5"/>
+    </person>
+    <person handle="_1005be24a0973fdead85196bc796" change="1761686424" id="I0760">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Peder</first>
+        <surname>Steffensen Navilainen</surname>
+      </name>
+      <eventref hlink="_1005bea8a74b5699f057a769785c" role="Primary"/>
+      <eventref hlink="_1005bead31a32aad65f6d1927934" role="Primary"/>
+      <childof hlink="_1005beca2ede263c7529346f55db"/>
+      <parentin hlink="_1005be23f37c415f91d7555edfe4"/>
+      <citationref hlink="_1005be9b47e3219c76cc9c9ffdfc"/>
+    </person>
+    <person handle="_1005beb00ac3571ff9ed1a17b793" change="1761686140" id="I0761">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Ingrid</first>
+        <surname>Olsdatter Räisänen</surname>
+      </name>
+      <eventref hlink="_1005bebe9bf024abd9b2596d73b6" role="Primary"/>
+      <eventref hlink="_1005bec06f9972c1e8d619bb6e7d" role="Primary"/>
+      <parentin hlink="_1005be23f37c415f91d7555edfe4"/>
+    </person>
+    <person handle="_1005becadcb04330fcc483c74be8" change="1761686424" id="I0762">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Steffen</first>
+        <surname>Persson Navilainen</surname>
+      </name>
+      <eventref hlink="_1005bed0924755c0697fd4ac7e42" role="Primary"/>
+      <eventref hlink="_1005bed5247a76b93a876180d34a" role="Primary"/>
+      <parentin hlink="_1005beca2ede263c7529346f55db"/>
+      <citationref hlink="_1005beda536f206424f11df0bf5e"/>
+    </person>
+    <person handle="_1005bee5c4cf45462214673bc3a6" change="1761686424" id="I0763">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Karin</first>
+        <surname>Mårtendotter Puttoinen</surname>
+      </name>
+      <eventref hlink="_1005beebfa544184a594e65450e2" role="Primary"/>
+      <eventref hlink="_1005beef01b06892b6f1926d7891" role="Primary"/>
+      <parentin hlink="_1005beca2ede263c7529346f55db"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -17163,6 +17257,18 @@
       <eventref hlink="_1005048fce783b087c699dc4fa5" role="Family"/>
       <childref hlink="_100503888524510c257244354577"/>
     </family>
+    <family handle="_1005be23f37c415f91d7555edfe4" change="1761686140" id="F0439">
+      <rel type="Unknown"/>
+      <father hlink="_1005be24a0973fdead85196bc796"/>
+      <mother hlink="_1005beb00ac3571ff9ed1a17b793"/>
+      <childref hlink="_1005042ba67f6597211dccbd0532"/>
+    </family>
+    <family handle="_1005beca2ede263c7529346f55db" change="1761686424" id="F0440">
+      <rel type="Unknown"/>
+      <father hlink="_1005becadcb04330fcc483c74be8"/>
+      <mother hlink="_1005bee5c4cf45462214673bc3a6"/>
+      <childref hlink="_1005be24a0973fdead85196bc796"/>
+    </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
       <father hlink="_c0dd13bf6ba157a82e9"/>
@@ -20178,6 +20284,30 @@
       <confidence>2</confidence>
       <noteref hlink="_10056b38a5bc746c4ca7411c83a6"/>
       <sourceref hlink="_10056b311aed36b39500c412d76a"/>
+    </citation>
+    <citation handle="_1005be47566d34994bc5bbba150d" change="1761685322" id="C1532">
+      <page>pf01058241002242</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1005be46c78362d8850df7912bc7"/>
+      <sourceref hlink="_c309eb9603856b833e8"/>
+    </citation>
+    <citation handle="_1005be79a4437183677297dc2b0" change="1761685652" id="C1533">
+      <page>316-317</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1005be7972947e2138992f285cfc"/>
+      <sourceref hlink="_1005be7115c319020eac648f40c3"/>
+    </citation>
+    <citation handle="_1005be9b47e3219c76cc9c9ffdfc" change="1761685872" id="C1534">
+      <page>510-511</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1005be9abfc975b36202e92edd5c"/>
+      <sourceref hlink="_1005be7115c319020eac648f40c3"/>
+    </citation>
+    <citation handle="_1005beda536f206424f11df0bf5e" change="1761686315" id="C1535">
+      <page>412-413</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1005bede9ee12e63a5ae5a227b75"/>
+      <sourceref hlink="_1005be7115c319020eac648f40c3"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -27907,6 +28037,9 @@
     <source handle="_10056b311aed36b39500c412d76a" change="1761545926" id="S0164">
       <stitle>Ministerialbok for Grue prestegjeld 1830-1847</stitle>
     </source>
+    <source handle="_1005be7115c319020eac648f40c3" change="1761685596" id="S0165">
+      <stitle>Ministerialbok for Grue prestegjeld 1712-1748</stitle>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -28640,7 +28773,7 @@
       <pname value="Hovind S"/>
       <placeref hlink="_1003988c0b6bdf19e6ef470552b"/>
     </placeobj>
-    <placeobj handle="_100503a70a784286ef31967bbb2a" change="1761373154" id="P0332" type="Unknown">
+    <placeobj handle="_100503a70a784286ef31967bbb2a" change="1761686093" id="P0332" type="Unknown">
       <pname value="Grue"/>
       <placeref hlink="_e048ce84ccc7fc94267816b148"/>
     </placeobj>
@@ -28666,7 +28799,7 @@
       <pname value="Torsby"/>
       <placeref hlink="_10039cf93935384a883f5428fadb"/>
     </placeobj>
-    <placeobj handle="_10050463783c7a980b6ae289a53f" change="1761373450" id="P0338" type="Unknown">
+    <placeobj handle="_10050463783c7a980b6ae289a53f" change="1761685955" id="P0338" type="Unknown">
       <pname value="Østmark"/>
       <placeref hlink="_10050463575f252fad5053fc174"/>
     </placeobj>
@@ -28677,6 +28810,18 @@
     <placeobj handle="_1005048e79e07951fcb2c31b1e0e" change="1761373732" id="P0340" type="Unknown">
       <pname value="Fryksände"/>
       <placeref hlink="_10039cf93935384a883f5428fadb"/>
+    </placeobj>
+    <placeobj handle="_1005bea8304f76a533f4535a92ad" change="1761685957" id="P0341" type="Unknown">
+      <pname value="Mulltjärn"/>
+      <placeref hlink="_10050463783c7a980b6ae289a53f"/>
+    </placeobj>
+    <placeobj handle="_1005bebd12646775bbae14ec1d0" change="1761686094" id="P0342" type="Unknown">
+      <pname value="Løvhaugen"/>
+      <placeref hlink="_100503a70a784286ef31967bbb2a"/>
+    </placeobj>
+    <placeobj handle="_1005bebd517b466cf3b5014c8c4d" change="1761686095" id="P0343" type="Unknown">
+      <pname value="Pekkola"/>
+      <placeref hlink="_1005bebd12646775bbae14ec1d0"/>
     </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
@@ -30868,6 +31013,33 @@ https://rasmussen1889.info/writtenhistory/jorgensen-history/</text>
     <note handle="_10056b38a5bc746c4ca7411c83a6" change="1761545975" id="N1324" type="Link">
       <text>https://www.digitalarkivet.no/kb20070603260606</text>
       <style name="link" value="https://www.digitalarkivet.no/kb20070603260606">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1005be46c78362d8850df7912bc7" change="1761685319" id="N1325" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01058241002242</text>
+      <style name="link" value="gramps://Person/handle/100503888524510c257244354577">
+        <range start="0" end="60"/>
+      </style>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01058241002242">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1005be7972947e2138992f285cfc" change="1761685651" id="N1326" type="Link">
+      <text>https://www.digitalarkivet.no/kb20070603240038</text>
+      <style name="link" value="https://www.digitalarkivet.no/kb20070603240038">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1005be9abfc975b36202e92edd5c" change="1761685869" id="N1327" type="Link">
+      <text>https://www.digitalarkivet.no/kb20070603240135</text>
+      <style name="link" value="https://www.digitalarkivet.no/kb20070603240135">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1005bede9ee12e63a5ae5a227b75" change="1761686314" id="N1328" type="Link">
+      <text>https://www.digitalarkivet.no/kb20070603240086</text>
+      <style name="link" value="https://www.digitalarkivet.no/kb20070603240086">
         <range start="0" end="46"/>
       </style>
     </note>
@@ -34033,7 +34205,7 @@ Det er derfor mulig at denne personen (Siri Olsdatter Daltorp er datteren.... (S
     <note handle="_c96a0b6e0de1278c320" change="1384108096" id="N0929" type="Citation">
       <text>http://nermo.org/slekt/d0057/g0000050.html#I31596</text>
     </note>
-    <note handle="_c9735c9c4c05d20efa3" change="1761078603" id="N0930" type="MainPage">
+    <note handle="_c9735c9c4c05d20efa3" change="1761685049" id="N0930" type="MainPage">
       <text>Introduksjon
 
 Dette er slektssidene for Knut H Pedersen, min kone og datter. Jeg har samlet informasjon om våre forfedre tilbake i tid, informasjon om våre forfedres søsken og andre barn er ikke tatt med. Slektsgranskningen er basert både på primærkilder som folketellinger, kirkebøker og gravregister og sekundærkilder som slektsbøker, gårdshistorie og andre personer sin slektsgranskning samt nettstedet Geni.  
@@ -34041,8 +34213,9 @@ Dette er slektssidene for Knut H Pedersen, min kone og datter. Jeg har samlet in
 Vår slektshistorie bygger i stor grad på andres arbeid som finnes tilgjenglig på Internet og dette har jeg kommer frem av kildehenvisninger. Mitt arbeid har bestått i å undersøke vår nærmeste slekt og koble dette sammen med arbeidet andre har gjort og publisert. Jeg har ikke kommet så langt i å verifisere om slektstreet stemmer, og det vil nok kunne finnes ting som ikke er 100% korrekt.
 
 Slekt Knut H.
-Min agnatiske slektslinje (slekt i mannslinje) har jeg funnet tilbake til Peder Pedersen født 1821 i Solør. Jeg har lett i kirkebøker fra Solør, men det er vanskelig å finne et sikkert treff i og med jeg bare har fødselsår og område. Det er trolig fra han Pedersen slektsnavnet stammer i og med at man på bygda brukte farens fornavn med -sen endelse. Peder Pedersen's kone Anne Lovise Olsdatter Pedersen har jeg imidlertid sporet hennes slekt ganske langt tilbake(1500-tallet) på Hvaler i Østfold. Og deres sønn Kristian Pedersen sin kone Mina Anette Hansdatter Pedersen sin slekt til Store-Rud i Rakkestad. 
- Diagram Asbjørn
+Min agnatiske slektslinje (slekt i mannslinje) har jeg funnet tilbake via Peder Pedersen født 1821, som flyttet fra Skulstadberget i Grue  (Hedmark) til Traramoen i Fredrikstad i 1845. Hans slekt er av skogfinner som har levd på Finnskogen i lang tid.
+Peder Pedersen's kone Anne Lovise Olsdatter Pedersen sin slekt har jeg sporet hennes ganske langt tilbake(1500-tallet) på Hvaler i Østfold. Og deres sønn Kristian Pedersen sin kone Mina Anette Hansdatter Pedersen sin slekt til Store-Rud i Rakkestad. 
+
 
 Min farmor Emma Hensel Pedersen kommer fra Tyskland og her har det heller ikke lykkes meg å finne slekt lenger tilbake enn hennes foreldre Ernst Paul Hensel og Anna Louise Boehm  som også flyttet til Norge i 1920 fra Hamburg (trolig Bergedorf rett på utsiden av Hamburg.)
 
@@ -34057,7 +34230,7 @@ Hennes mors slekt: Gunnar Dahl, Gerd Dahl</text>
       <style name="bold">
         <range start="0" end="12"/>
         <range start="807" end="821"/>
-        <range start="2689" end="2703"/>
+        <range start="2567" end="2581"/>
       </style>
       <style name="fontsize" value="12">
         <range start="820" end="821"/>
@@ -34065,85 +34238,85 @@ Hennes mors slekt: Gunnar Dahl, Gerd Dahl</text>
       <style name="fontsize" value="16">
         <range start="0" end="12"/>
         <range start="807" end="820"/>
-        <range start="2689" end="2703"/>
+        <range start="2567" end="2581"/>
       </style>
       <style name="link" value="gramps://Person/handle/1001d164c18c1d8f9c57bdb1fbaf">
-        <range start="2789" end="2800"/>
+        <range start="2667" end="2678"/>
       </style>
       <style name="link" value="gramps://Person/handle/1001d16f655a2431e32285715d4f">
-        <range start="2802" end="2811"/>
+        <range start="2680" end="2689"/>
       </style>
       <style name="link" value="gramps://Person/handle/1001d34b1ca9dee542c89432aca">
-        <range start="2724" end="2744"/>
+        <range start="2602" end="2622"/>
       </style>
       <style name="link" value="gramps://Person/handle/10027aaa1ed63fdacbc41279fedf">
-        <range start="2746" end="2769"/>
+        <range start="2624" end="2647"/>
       </style>
       <style name="link" value="gramps://Person/handle/c0dd2d2fa9659b26c82">
-        <range start="1459" end="1479"/>
+        <range start="1337" end="1357"/>
       </style>
       <style name="link" value="gramps://Person/handle/c0dd379c2a470fedeac">
-        <range start="1333" end="1350"/>
+        <range start="1227" end="1244"/>
       </style>
       <style name="link" value="gramps://Person/handle/c0dd387ec6c36f08d52">
-        <range start="1360" end="1391"/>
+        <range start="1254" end="1285"/>
       </style>
       <style name="link" value="gramps://Person/handle/c3073b3c0d663935665">
         <range start="895" end="909"/>
       </style>
       <style name="link" value="gramps://Person/handle/c3073b3c0d663935665">
-        <range start="1172" end="1188"/>
+        <range start="1073" end="1089"/>
       </style>
       <style name="link" value="gramps://Person/handle/c3073e2af862dbca324">
-        <range start="1194" end="1224"/>
+        <range start="1095" end="1125"/>
       </style>
       <style name="link" value="gramps://Person/handle/c309f82487201dff335">
-        <range start="1587" end="1604"/>
+        <range start="1465" end="1482"/>
       </style>
       <style name="link" value="gramps://Person/handle/c309f91033023195fae">
-        <range start="1608" end="1625"/>
+        <range start="1486" end="1503"/>
       </style>
       <style name="link" value="gramps://Person/handle/c309fc078540a93e323">
         <range start="40" end="55"/>
       </style>
       <style name="link" value="gramps://Person/handle/c309ff26dc84dbb8de6">
-        <range start="2122" end="2142"/>
+        <range start="2000" end="2020"/>
       </style>
       <style name="link" value="gramps://Person/handle/c30a01146e4761d506c">
-        <range start="1735" end="1761"/>
+        <range start="1613" end="1639"/>
       </style>
       <style name="link" value="gramps://Person/handle/c30a3844060173005c7">
-        <range start="1986" end="2022"/>
+        <range start="1864" end="1900"/>
       </style>
       <style name="link" value="gramps://Person/handle/c30a3a27b98471ef0dd">
-        <range start="1907" end="1925"/>
+        <range start="1785" end="1803"/>
       </style>
       <style name="link" value="gramps://Place/handle/c64b97b5c081570b8fd">
-        <range start="1406" end="1427"/>
+        <range start="1300" end="1321"/>
       </style>
       <style name="link" value="gramps://Source/handle/c3eb2380c641f27b671">
-        <range start="2557" end="2575"/>
+        <range start="2435" end="2453"/>
       </style>
       <style name="link" value="gramps://Source/handle/c4351e8aa0876db2da2">
-        <range start="2494" end="2502"/>
+        <range start="2372" end="2380"/>
       </style>
       <style name="link" value="gramps://Source/handle/c654feecde60d56d512">
-        <range start="2519" end="2536"/>
+        <range start="2397" end="2414"/>
       </style>
       <style name="link" value="gramps://Source/handle/c73926650e659dc5be6">
-        <range start="2577" end="2589"/>
+        <range start="2455" end="2467"/>
       </style>
       <style name="link" value="gramps://Source/handle/c96387f5c3a0b6f02b7">
-        <range start="2591" end="2605"/>
+        <range start="2469" end="2483"/>
       </style>
       <style name="link" value="gramps://Source/handle/c966587722634027ce8">
-        <range start="2627" end="2644"/>
+        <range start="2505" end="2522"/>
       </style>
       <style name="link" value="gramps://Source/handle/c966715f75b40031b2d">
-        <range start="2607" end="2623"/>
+        <range start="2485" end="2501"/>
       </style>
       <style name="link" value="gramps://Source/handle/c966969ce0c0aeffefb">
-        <range start="2503" end="2509"/>
+        <range start="2381" end="2387"/>
       </style>
       <style name="link" value="http://geni.com">
         <range start="406" end="410"/>
