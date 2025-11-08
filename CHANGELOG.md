@@ -16,6 +16,10 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - Info fra Gunhilds Google Site
 - Peder Pedersen aner (Skulstadberget, Grue, Hedmark)
     - Fra Østbyslekt sidene
+    - Skogfinner i norsk og svensk finnskog
+    - Aner tilbake til finland
+    - Mye personopplysninger og detaljer.
+
 
 
 ### Endret
