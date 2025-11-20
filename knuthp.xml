@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2025-11-08" version="5.1.6"/>
+    <created date="2025-11-16" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -698,7 +698,7 @@
       <dateval val="1736-10-20"/>
       <place hlink="_100504639d393e5bb10069049db9"/>
     </event>
-    <event handle="_10050468e8147510e49f96143a1d" change="1761373486" id="E1389">
+    <event handle="_10050468e8147510e49f96143a1d" change="1762625219" id="E1389">
       <type>Death</type>
       <dateval val="1828-03-12"/>
       <place hlink="_100503ab59ff3ab4a8ff4b3469c8"/>
@@ -746,7 +746,7 @@
       <dateval val="1748-06-22"/>
       <place hlink="_10050436943e402ff90e5768d6ce"/>
     </event>
-    <event handle="_1005bebe9bf024abd9b2596d73b6" change="1761686104" id="E1396">
+    <event handle="_1005bebe9bf024abd9b2596d73b6" change="1762676467" id="E1396">
       <type>Birth</type>
       <dateval val="1705" type="about"/>
       <place hlink="_1005bebd517b466cf3b5014c8c4d"/>
@@ -8528,7 +8528,7 @@
       <parentin hlink="_100503874ccf4cd0a86052dd769c"/>
       <citationref hlink="_100503c236441c29a367ed0e3a0c"/>
     </person>
-    <person handle="_1005042ba67f6597211dccbd0532" change="1761686160" id="I0758">
+    <person handle="_1005042ba67f6597211dccbd0532" change="1762675668" id="I0758">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Daniel</first>
@@ -8541,8 +8541,10 @@
       <childof hlink="_1005be23f37c415f91d7555edfe4"/>
       <parentin hlink="_1005042b63a52f9ca792ee238a30"/>
       <citationref hlink="_1005043d72ae25f23ff7df799b0c"/>
+      <citationref hlink="_1007ee150ff923e4e695f7cfccdc"/>
+      <citationref hlink="_10080c74d4c63ee6c93a11c4876d"/>
     </person>
-    <person handle="_1005044b2e3719085177e0b92de0" change="1762591627" id="I0759">
+    <person handle="_1005044b2e3719085177e0b92de0" change="1762675704" id="I0759">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Gjertrud</first>
@@ -8554,8 +8556,9 @@
       <childof hlink="_1007da545470662d692dd90066aa"/>
       <parentin hlink="_1005042b63a52f9ca792ee238a30"/>
       <citationref hlink="_10050455ff91394b3162a2f85af5"/>
+      <citationref hlink="_10080c74d4c63ee6c93a11c4876d"/>
     </person>
-    <person handle="_1005be24a0973fdead85196bc796" change="1761892361" id="I0760">
+    <person handle="_1005be24a0973fdead85196bc796" change="1762675652" id="I0760">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Peder</first>
@@ -8567,8 +8570,10 @@
       <parentin hlink="_1005be23f37c415f91d7555edfe4"/>
       <citationref hlink="_1005be9b47e3219c76cc9c9ffdfc"/>
       <citationref hlink="_100639aeb981414b35f685191f3c"/>
+      <citationref hlink="_1007eee21ef964fd1d0ae86983dc"/>
+      <citationref hlink="_10080c74d4c63ee6c93a11c4876d"/>
     </person>
-    <person handle="_1005beb00ac3571ff9ed1a17b793" change="1762466046" id="I0761">
+    <person handle="_1005beb00ac3571ff9ed1a17b793" change="1762677162" id="I0761">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Ingrid</first>
@@ -8579,8 +8584,11 @@
       <childof hlink="_10078f551a805bce653a7770ce4c"/>
       <parentin hlink="_1005be23f37c415f91d7555edfe4"/>
       <citationref hlink="_100639bc451527d00f88d14feb6a"/>
+      <citationref hlink="_1007eee21ef964fd1d0ae86983dc"/>
+      <citationref hlink="_10080c74d4c63ee6c93a11c4876d"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </person>
-    <person handle="_1005becadcb04330fcc483c74be8" change="1761892317" id="I0762">
+    <person handle="_1005becadcb04330fcc483c74be8" change="1762675493" id="I0762">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Steffen</first>
@@ -8591,8 +8599,10 @@
       <parentin hlink="_1005beca2ede263c7529346f55db"/>
       <citationref hlink="_1005beda536f206424f11df0bf5e"/>
       <citationref hlink="_100639a7f2766e0ea65d9fed506"/>
+      <citationref hlink="_1007eef9e9938671b236cd09ce1"/>
+      <citationref hlink="_10080c74d4c63ee6c93a11c4876d"/>
     </person>
-    <person handle="_1005bee5c4cf45462214673bc3a6" change="1761892271" id="I0763">
+    <person handle="_1005bee5c4cf45462214673bc3a6" change="1762626045" id="I0763">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Karin</first>
@@ -8603,6 +8613,7 @@
       <childof hlink="_10063943a1d01a5ab9dd83f3115d"/>
       <parentin hlink="_1005beca2ede263c7529346f55db"/>
       <citationref hlink="_100639a0f9e84c96fe3c4ff19d75"/>
+      <citationref hlink="_1007eef9e9938671b236cd09ce1"/>
     </person>
     <person handle="_10063943fa38283e394745e88953" change="1761892227" id="I0764">
       <gender>M</gender>
@@ -8637,7 +8648,7 @@
       <parentin hlink="_1006395ff34f17bd4a7c60527143"/>
       <citationref hlink="_10063984b2b5144ecf42a7a03ca3"/>
     </person>
-    <person handle="_10078f556ae35a0c874a3b82ef46" change="1762466331" id="I0767">
+    <person handle="_10078f556ae35a0c874a3b82ef46" change="1762677038" id="I0767">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Ole</first>
@@ -8647,8 +8658,10 @@
       <eventref hlink="_10078f7105aacb201d333703395" role="Primary"/>
       <childof hlink="_10078fa55e9c347d3ab3828e2cc1"/>
       <parentin hlink="_10078f551a805bce653a7770ce4c"/>
+      <citationref hlink="_10080c74d4c63ee6c93a11c4876d"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </person>
-    <person handle="_10078f7afde6664f2565586b247c" change="1762496034" id="I0768">
+    <person handle="_10078f7afde6664f2565586b247c" change="1762677116" id="I0768">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Karin</first>
@@ -8658,8 +8671,9 @@
       <eventref hlink="_10078f9de7a85e919c1540506589" role="Primary"/>
       <childof hlink="_1007a1483fc76ecd3c1e983d4005"/>
       <parentin hlink="_10078f551a805bce653a7770ce4c"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </person>
-    <person handle="_10078fa5fbc8511b75a95e276ee4" change="1762466633" id="I0769">
+    <person handle="_10078fa5fbc8511b75a95e276ee4" change="1762676924" id="I0769">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Thomas</first>
@@ -8670,8 +8684,9 @@
       <childof hlink="_10078fce20e5bdb4cadbd29858b"/>
       <parentin hlink="_10078fa55e9c347d3ab3828e2cc1"/>
       <citationref hlink="_10078fb49dfe72c1ef5cd0f1fa18"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </person>
-    <person handle="_10078fb51d765ef03cbf1300fa7b" change="1762466936" id="I0770">
+    <person handle="_10078fb51d765ef03cbf1300fa7b" change="1762676971" id="I0770">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Sara</first>
@@ -8682,19 +8697,21 @@
       <childof hlink="_10079001c638335d08ea3fa592d"/>
       <parentin hlink="_10078fa55e9c347d3ab3828e2cc1"/>
       <citationref hlink="_10078fcb764e3b84ce404a358496"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </person>
-    <person handle="_10078fce6adb4eed21b4709f640f" change="1762466633" id="I0771">
+    <person handle="_10078fce6adb4eed21b4709f640f" change="1762676738" id="I0771">
       <gender>M</gender>
       <name type="Birth Name">
-        <first>Per</first>
+        <first>Peder</first>
         <surname>Larsen Räisänen</surname>
       </name>
       <eventref hlink="_10078fdbfa723dd192033be5b5cc" role="Primary"/>
       <eventref hlink="_10078fe099306d7ae82831331c18" role="Primary"/>
       <parentin hlink="_10078fce20e5bdb4cadbd29858b"/>
       <citationref hlink="_10078fe64d3139ecf8eae35643ef"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </person>
-    <person handle="_10078fe77b0e6d608f401155b76b" change="1762466633" id="I0772">
+    <person handle="_10078fe77b0e6d608f401155b76b" change="1762676818" id="I0772">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Karen</first>
@@ -8704,6 +8721,7 @@
       <eventref hlink="_10078ff263c64e60d56d63cff6f6" role="Primary"/>
       <parentin hlink="_10078fce20e5bdb4cadbd29858b"/>
       <citationref hlink="_10078ff922ae29ebbecb1f8351af"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </person>
     <person handle="_10079002131a2522958bf043ff9f" change="1762467180" id="I0773">
       <gender>M</gender>
@@ -9308,7 +9326,7 @@
       <noteref hlink="_cd7c085b6a6138bf208"/>
       <noteref hlink="_f7e7ecf266a463b271d8555a46d"/>
     </person>
-    <person handle="_c3073b3c0d663935665" change="1761546044" id="I0004">
+    <person handle="_c3073b3c0d663935665" change="1763281441" id="I0004">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Peder</first>
@@ -9329,8 +9347,6 @@
       <noteref hlink="_c55d65a7f70017bf474"/>
       <noteref hlink="_c55a77455004f7a7a7d"/>
       <noteref hlink="_c55a77606026339be9b"/>
-      <noteref hlink="_c55a77f24bc03d4d57c"/>
-      <noteref hlink="_c55a78449ff15da9572"/>
       <tagref hlink="_c55a63b6ad459507396"/>
     </person>
     <person handle="_c3073e2af862dbca324" change="1690921247" id="I0005">
@@ -21917,6 +21933,35 @@
       <noteref hlink="_1007ed109faa7c0315db09869740"/>
       <sourceref hlink="_100502d5c7d455bdef3f213bbcc7"/>
     </citation>
+    <citation handle="_1007ee150ff923e4e695f7cfccdc" change="1762624517" id="C1593">
+      <page>p143</page>
+      <confidence>2</confidence>
+      <sourceref hlink="_1007ee1249bf24bf924621168198"/>
+    </citation>
+    <citation handle="_1007eee21ef964fd1d0ae86983dc" change="1762625861" id="C1594">
+      <page>p187</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1007eee1f4e51195906c5401e345"/>
+      <sourceref hlink="_1007eedbc1016854989d75479b3"/>
+    </citation>
+    <citation handle="_1007eef9e9938671b236cd09ce1" change="1762626017" id="C1595">
+      <page>p188</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1007eef999a45d4f8eb51d22cbda"/>
+      <sourceref hlink="_1007eedbc1016854989d75479b3"/>
+    </citation>
+    <citation handle="_10080c74d4c63ee6c93a11c4876d" change="1762675626" id="C1596">
+      <page>243-244 Rotneberget</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10080c73da461b3ba506bd7403c"/>
+      <sourceref hlink="_10080c6ebcfa3d6f992a3c9bbae"/>
+    </citation>
+    <citation handle="_10080d04e2fb45e921ba3dee574f" change="1762676464" id="C1597">
+      <page>301 Pekkola</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10080d0b6e782fc7a078cf04a80e"/>
+      <sourceref hlink="_10080c6ebcfa3d6f992a3c9bbae"/>
+    </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
       <noteref hlink="_c32a2935f4a08cfbed0"/>
@@ -29648,6 +29693,22 @@
     <source handle="_1005be7115c319020eac648f40c3" change="1761685596" id="S0165">
       <stitle>Ministerialbok for Grue prestegjeld 1712-1748</stitle>
     </source>
+    <source handle="_1007ee1249bf24bf924621168198" change="1762624576" id="S0166">
+      <stitle>Navnsjøboerne</stitle>
+      <sauthor>Bjørn Tuer</sauthor>
+      <noteref hlink="_1007ee11cfc9132fd02f72e91f2f"/>
+      <noteref hlink="_1007ee1e042571a1c0a8399c9e8"/>
+      <reporef hlink="_c6322968ce60a4e12ee" medium="Book"/>
+    </source>
+    <source handle="_1007eedbc1016854989d75479b3" change="1762625819" id="S0167">
+      <stitle>Glade Juel: en hyllest til Juel Stubberud skrevet av Stubberud-venner</stitle>
+      <reporef hlink="_c6322968ce60a4e12ee" medium="Book"/>
+    </source>
+    <source handle="_10080c6ebcfa3d6f992a3c9bbae" change="1762675436" id="S0168">
+      <stitle>Grueboka : Finnskogen : gards- og slektshistorie</stitle>
+      <sauthor>Trøseid, Hans Marius</sauthor>
+      <noteref hlink="_10080c6e6e694a76cd18042f890c"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -30385,11 +30446,12 @@
       <pname value="Grue"/>
       <placeref hlink="_e048ce84ccc7fc94267816b148"/>
     </placeobj>
-    <placeobj handle="_100503ab59ff3ab4a8ff4b3469c8" change="1761480842" id="P0333" type="Farm">
+    <placeobj handle="_100503ab59ff3ab4a8ff4b3469c8" change="1762625218" id="P0333" type="Farm">
       <pname value="Skulstadberget"/>
       <coord long="12.18701" lat="60.50056"/>
       <placeref hlink="_100503a70a784286ef31967bbb2a"/>
       <noteref hlink="_10054401f4b240eea2586e49624e"/>
+      <noteref hlink="_1007ee7fd92d5039a5ff20b30c4c"/>
     </placeobj>
     <placeobj handle="_100503d1048f3d2122a6dac5b355" change="1761372491" id="P0334" type="Unknown">
       <pname value="Kingelsrud"/>
@@ -30399,9 +30461,10 @@
       <pname value="Skulstad"/>
       <placeref hlink="_100503a70a784286ef31967bbb2a"/>
     </placeobj>
-    <placeobj handle="_10050436943e402ff90e5768d6ce" change="1761373156" id="P0336" type="Unknown">
+    <placeobj handle="_10050436943e402ff90e5768d6ce" change="1762675947" id="P0336" type="Farm">
       <pname value="Rotneberget"/>
       <placeref hlink="_100503a70a784286ef31967bbb2a"/>
+      <citationref hlink="_10080c74d4c63ee6c93a11c4876d"/>
     </placeobj>
     <placeobj handle="_10050463575f252fad5053fc174" change="1762496532" id="P0337" type="Unknown">
       <pname value="Torsby"/>
@@ -30427,9 +30490,10 @@
       <pname value="Løvhaugen"/>
       <placeref hlink="_100503a70a784286ef31967bbb2a"/>
     </placeobj>
-    <placeobj handle="_1005bebd517b466cf3b5014c8c4d" change="1761686095" id="P0343" type="Unknown">
+    <placeobj handle="_1005bebd517b466cf3b5014c8c4d" change="1762676465" id="P0343" type="Unknown">
       <pname value="Pekkola"/>
       <placeref hlink="_1005bebd12646775bbae14ec1d0"/>
+      <citationref hlink="_10080d04e2fb45e921ba3dee574f"/>
     </placeobj>
     <placeobj handle="_1006396f409f5293ebeced275253" change="1762467088" id="P0344" type="Unknown">
       <pname value="Örebro"/>
@@ -32167,12 +32231,15 @@
     </object>
   </objects>
   <repositories>
+    <repository handle="_1007ee1930a5600bd06f3deeeda8" change="1762624544" id="R0004">
+      <type>Library</type>
+    </repository>
     <repository handle="_c22c08a40be2f769a20" change="1399044664" id="R0000">
       <rname>Skannede kirkebøker</rname>
       <type>Web site</type>
       <url  href="http://www.arkivverket.no/URN:kb_read" type="Web Home" description="Skannede kirkebøker"/>
     </repository>
-    <repository handle="_c6322968ce60a4e12ee" change="1690731958" id="R0001">
+    <repository handle="_c6322968ce60a4e12ee" change="1762625816" id="R0001">
       <rname>Nasjonalbiblioteket Bøker</rname>
       <type>Library</type>
       <noteref hlink="_c632295f6f007ab77eb"/>
@@ -33111,6 +33178,52 @@ https://rasmussen1889.info/writtenhistory/jorgensen-history/</text>
       <text>https://slekt.ostby.priv.no/getperson.php?personID=I8020&amp;tree=ostbyslekt</text>
       <style name="link" value="https://slekt.ostby.priv.no/getperson.php?personID=I8020&amp;tree=ostbyslekt">
         <range start="0" end="72"/>
+      </style>
+    </note>
+    <note handle="_1007ee11cfc9132fd02f72e91f2f" change="1762624496" id="N1386" type="Source Note">
+      <text>Utgitt av Solør Slektshistorielag.
+
+Boka har en annen slektslinje til Peder Pedersen som ikke går til min forfeder som flyttet til Traramoen i Fredrikstad. Jeg har selv sett at Peder Pedersen står som utflyttet til Fredrikstad i 1845, så jeg har valgt denne slektslinjen.</text>
+    </note>
+    <note handle="_1007ee1e042571a1c0a8399c9e8" change="1762624576" id="N1387" type="Link">
+      <text>https://www.nb.no/items/325f144b29d44195fd2c70027d42e311</text>
+      <style name="link" value="https://www.nb.no/items/325f144b29d44195fd2c70027d42e311">
+        <range start="0" end="56"/>
+      </style>
+    </note>
+    <note handle="_1007ee7fd92d5039a5ff20b30c4c" change="1762625217" id="N1388" type="Place Note">
+      <text>Skulstadberget ligger ca 2km øst for Navnsjøen og ca 40 meter høyere. De var Daniel Pedersen Navailainen f. 1735 fra Rotneberget som først ryddet og bosatte seg i Skulstadberget sammen med sin kone Gjertrud Tomasdotter (1736-1828) fra Mången, Sverige. Dette skjedde i første halvdel av 1760-tallet. Skulstadberget er således en av de eldste boplassene i Navnsjøgrenda. Daniel var av Räisäinen-slekta, hasn foreldre var Ignrid Oldatter Räisänen og Peder Steffensen Navilainen (1701-1748). Daniel og Gjertrud fikk 3 barn.
+
+Navnsjøboerne boka.</text>
+    </note>
+    <note handle="_1007eee1f4e51195906c5401e345" change="1762625860" id="N1389" type="Link">
+      <text>https://www.nb.no/items/d778a04f5f646b6d76beff44423c6cbf?page=189&amp;searchText=Navilainen</text>
+      <style name="link" value="https://www.nb.no/items/d778a04f5f646b6d76beff44423c6cbf?page=189&amp;searchText=Navilainen">
+        <range start="0" end="87"/>
+      </style>
+    </note>
+    <note handle="_1007eef999a45d4f8eb51d22cbda" change="1762626015" id="N1390" type="Link">
+      <text>https://www.nb.no/items/d778a04f5f646b6d76beff44423c6cbf?page=191&amp;searchText=Navilainen</text>
+      <style name="link" value="https://www.nb.no/items/d778a04f5f646b6d76beff44423c6cbf?page=191&amp;searchText=Navilainen">
+        <range start="0" end="87"/>
+      </style>
+    </note>
+    <note handle="_10080c6e6e694a76cd18042f890c" change="1762675434" id="N1391" type="Link">
+      <text>https://urn.nb.no/URN:NBN:no-nb_digibok_2014071608186</text>
+      <style name="link" value="https://urn.nb.no/URN:NBN:no-nb_digibok_2014071608186">
+        <range start="0" end="53"/>
+      </style>
+    </note>
+    <note handle="_10080c73da461b3ba506bd7403c" change="1762675470" id="N1392" type="Link">
+      <text>https://www.nb.no/items/6870e73c58c4674a0292a1e93f561729?page=245&amp;searchText=Navilainen</text>
+      <style name="link" value="https://www.nb.no/items/6870e73c58c4674a0292a1e93f561729?page=245&amp;searchText=Navilainen">
+        <range start="0" end="87"/>
+      </style>
+    </note>
+    <note handle="_10080d0b6e782fc7a078cf04a80e" change="1762676463" id="N1393" type="Link">
+      <text>https://www.nb.no/items/6870e73c58c4674a0292a1e93f561729?page=303&amp;searchText=Pekkola</text>
+      <style name="link" value="https://www.nb.no/items/6870e73c58c4674a0292a1e93f561729?page=303&amp;searchText=Pekkola">
+        <range start="0" end="84"/>
       </style>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
@@ -35147,31 +35260,6 @@ Yrke 1900, 1906, 1910, 1921 1935: Lekterfører [Folketellingen 1900, Folketellin
     </note>
     <note handle="_c55a77606026339be9b" change="1356202128" id="N0622" type="Person Note">
       <text>Solør er et landskap i Hedmark fylke som i dag utgjøres av Brandval sogn i Kongsvinger, Grue, Åsnes og Våler. I eldre tid hørte også Vinger og Eidskog med [Wikipedia]</text>
-    </note>
-    <note handle="_c55a77f24bc03d4d57c" change="1356202188" id="N0623" type="Research">
-      <text>Mulige fødte barn med samme navn:
-nr. 11 født 12 januar 1821, døpt 21. januar 1821
-Kildeinformasjon: Hedmark fylke, Grue, Ministerialbok nr. 6 (1814-1830), Fødte og døpte 1821, side 63. 
-Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=9154&amp;idx_id=9154&amp;uid=ny&amp;idx_side=-64 
-Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20070603250431.jpg
- 
-nr. 86, født 26. juli, døpt 26. august
-Kildeinformasjon: Hedmark fylke, Grue, Ministerialbok nr. 6 (1814-1830), Fødte og døpte 1821, side 69. 
-Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=9154&amp;idx_id=9154&amp;uid=ny&amp;idx_side=-70 
-Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20070603250437.jpg
-
-nr. 94, født 4. september, døpt 23. september
-Kildeinformasjon: Hedmark fylke, Grue, Ministerialbok nr. 6 (1814-1830), Fødte og døpte 1821, side 70. 
-Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=9154&amp;idx_id=9154&amp;uid=ny&amp;idx_side=-71 
-Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20070603250438.jpg
-nr. 116, født 19, oktober, døpt 11. november
-Kildeinformasjon: Hedmark fylke, Grue, Ministerialbok nr. 6 (1814-1830), Fødte og døpte 1822, side 71. 
-Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=9154&amp;idx_id=9154&amp;uid=ny&amp;idx_side=-72 
-Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20070603250439.jpg
-TBD om det er flere Kirkedistrikt.</text>
-    </note>
-    <note handle="_c55a78449ff15da9572" change="1356202221" id="N0624" type="Research">
-      <text>Gjennomgått kirkebok på Hvaler 1852-1863 og lett etter Peder og Anne Lovise sitt ekteskap. Har ikke funnet noe, og har lett grundig.</text>
     </note>
     <note handle="_c55d63cacf22755eb6a" change="1690916785" id="N0625" type="Link">
       <text>https://www.digitalarkivet.no/census/person/pf01037012005384</text>
