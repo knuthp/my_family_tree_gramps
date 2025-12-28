@@ -19,7 +19,7 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - Skogfinner i norsk og svensk finnskog
     - Aner tilbake til finland
     - Mye personopplysninger og detaljer.
-
+- Hedemarken fra Google Sites
 
 
 ### Endret
@@ -40,6 +40,7 @@ Formatet er basert på [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Isak Solsrud Ødemark
     - Dødsdato
     - Klokkerbok doedsfall
-
+- Christian Guttormsen/Ane Hansdatter
+    - Lenker oppdatert og mer info lagt til
 ### Fjernet
 ### Fikset
