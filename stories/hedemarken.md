@@ -47,9 +47,35 @@
             <td>1775</td>
             <td>1800</td>
             <td>1779</td>
-            <td>Gunder Olsen Hedemarken</td>
+            <td>Gunder Olsen Hedemarken og Taran Nilsdatter</td>
             <td></td>
-            <td>Bygget gml fjøset og fikk penger av arveprins Fredrick. (Salg omtales i <a href="https://www.digitalarkivet.no/tl20080609060076">Panteregister H&F</a> )<br/>Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102121">s. 2121</a></td>
+            <td>
+                <p>
+                    Bygget gml fjøset og fikk penger av arveprins Fredrick. (Salg omtales i <a href="https://www.digitalarkivet.no/tl20080609060076">Panteregister H&F</a> )
+                </p>
+                <p>
+                    Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102121">s. 2121</a>
+                    fol 99a - 101a
+                    <br/>
+                    1800 15/5 - 5/11
+                    <br/>
+                    Fra skiftet står at alle deres barn er døde.
+                    <br/>
+                    Søsken Christopher Olsen i Askim med barn Gunhild Christophersdatter 19år.
+                    <br/>
+                    Halvbror Christian Olsen Brandsrud.
+                    <br/>
+                    Søsken Anne Olsdatter Skjæringsrud, Trøgstad.
+                    barn:
+                        <ol>
+                            <li>Ole Syversen - 20</li>
+                            <li>Gunhild - 24</li>
+                            <li>Helene - 22</li>
+                            <li>Maria</li>
+                        </ol>
+                    Tilstede konens svoger Ole Hansen Bunes som har overtatt løpenr per kontrakt 28-1-1800, skjøte på Hedemarken .. 3/2-1800
+                </p>
+            </td>
         </tr>
         </tr>
             <td>3.2.1800</td>
@@ -60,7 +86,7 @@
             <td>Svoger til Gunder Olsen, Ole Hansen tinglyst kjøper 3 februar 1800 ( Panteregister H&F ) Stemmer også med folketellingen 1801 da sønnen til eierens navn er Niels Olsen. Bunes ser ut til å være nevnt i Panteregisteret og det er en husbonde på Bunes Søndre i folketellingen 1801  Han har også en sønn som heter Hans Olsen som bor på Bunes i folketellingen 1801. Mulig han arver gården (eldre enn Niels Olsen)
             <br/>
             Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102121">s. 2121</a>
-</td>
+            </td>
         </tr>
         </tr>
             <td>1846</td>
@@ -89,9 +115,11 @@ Helene Gudbrandsdatter (2 kone)</td>
                 Født i Sverige. (fant ingen død/innflytting mellom 1864 til 1878 i Eidsberg kirkebok eller 1879 - 1900 i Hærland kirkebok som sier noe om at det var eierskifte i denne tiden)
                 En datter av gårdbruker A. Brynhildsen dør på Hedemarken 7 mars 1864.
                 Anders Brynildsen Hedemarken (nr 2957A) fra Eidsberg (herl. annex) emigrerer til Amerika 13.08.1869 fra Oslo med reisemål Prescot. Oppgitt alder er 57 år og gift. Han har 248,10 Spesidaler (som virker til å være et bra beløp) Argo linjen ( http://digitalarkivet.no/cgi-win/webcens.exe?slag=visbase&sidenr=36&filnamn=EMIOSLO&gardpostnr=11462&merk=11462#ovre )
-                Hans kone Sofie Rasmussen (48 år) og barna Marcus (19), Sinila (15) og Halvar (11) er ogsåJohan Andreasen 42 år utvandret 10 april 1868 fra gården Hedemarken sammen med Reol Andersen (21) og Andreas Andersen (17) til Presot Wis  http://www.norwayheritage.com/p_list.asp?jo=2145 Passenger list s/s Oder fra Christiania til Hull, Christiania Politikammer emigrasjonsprotokoll 2. Reol og Andreas var hans sønner ref folketellingen 1865 for Hedemarken.
+                Hans kone Sofie Rasmussen (48 år) og barna Marcus (19), Sinila (15) og Halvar (11) er også Johan Andreasen 42 år utvandret 10 april 1868 fra gården Hedemarken sammen med Reol Andersen (21) og Andreas Andersen (17) til Prescot Wisconsin  http://www.norwayheritage.com/p_list.asp?jo=2145 Passenger list s/s Oder fra Christiania til Hull, Christiania Politikammer emigrasjonsprotokoll 2. Reol og Andreas var hans sønner ref folketellingen 1865 for Hedemarken.
                 <br/>
                 Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102123">s. 2123</a> Nevner Tosten Brynhildsen og barn Anders 23 år i 1803 med Braathen som undertekst, mulig kobling?
+                <br/>
+                Anders Brynhildsem og Sophie Rasmusdatter blir <a href="https://www.digitalarkivet.no/view/255/pd00000022542966">foreldre til Marie Emilie 1862-02-19</a>
             </td>
         </tr>
         </tr>
@@ -168,6 +196,26 @@ Helene Gudbrandsdatter (2 kone)</td>
     </tbody>
 </table>
 
+### Øvre Hedemarken
+Skylddeling i 1850
+
+#### Folketellinger
+1. [Folketellinge 1891](https://www.digitalarkivet.no/census/rural-residence/bf01052684000864)
+
+### Forpaktere
+
+> Se Indre Smaalene osv
+
+### Nedre Hedemarken
+Virker som om skylddelingen skjer 1850.
+
+1. Thor Jørgensen og Birthe Marie Brynhildsdatter får barn i 1860, 1863, 1867 på Hedemarken
+1. Johan Torsen og Helene Marie Hansdatter for flere barn på Nedre Hedemarken 1880 og utover.
+
+
+
+#### Folketellinger
+1. [Folketellingen 1891](https://www.digitalarkivet.no/census/rural-residence/bf01052684000866)
 
 ## Panteopplysninger
 

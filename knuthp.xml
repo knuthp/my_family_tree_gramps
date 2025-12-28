@@ -1277,6 +1277,27 @@
       <type>Birth</type>
       <dateval val="1890" type="about"/>
     </event>
+    <event handle="_1011f279fb5e12a991da29c78e19" change="1766926879" id="E1503">
+      <type>Cens</type>
+      <dateval val="1891"/>
+      <place hlink="_c0dd2a7c1467a278d8d"/>
+      <description>Folketellingen 1819</description>
+      <citationref hlink="_1011f279a7f5348fb9e634a08701"/>
+    </event>
+    <event handle="_1011f28cab9710aadf89f361d550" change="1766926979" id="E1504">
+      <type>Census</type>
+      <dateval val="1891"/>
+      <place hlink="_c0dd2a7c1467a278d8d"/>
+      <description>Folktetellingen 1891</description>
+      <citationref hlink="_1011f28c5ea0462f91f205c5d03f"/>
+    </event>
+    <event handle="_1011f29d9d6c62c04565f8bd1cb1" change="1766927103" id="E1505">
+      <type>Census</type>
+      <dateval val="1891"/>
+      <place hlink="_c0dd2a7c1467a278d8d"/>
+      <description>Folketellingen 1891</description>
+      <citationref hlink="_1011f29d549520ef8b0a241b8d7a"/>
+    </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
       <dateval val="1906-10-08"/>
@@ -1812,10 +1833,10 @@
       <place hlink="_c0dd2a7c1467a278d8d"/>
       <citationref hlink="_c6354a6f8d809bee330"/>
     </event>
-    <event handle="_c310c766f625b9b60e1" change="1362923744" id="E0089">
+    <event handle="_c310c766f625b9b60e1" change="1766927167" id="E0089">
       <type>Birth</type>
       <dateval val="1819"/>
-      <place hlink="_c310c6e17227733d872"/>
+      <place hlink="_1011f2a95efa4afefd9ad65567c0"/>
       <citationref hlink="_c6354a6f0ea48bb8e30"/>
       <citationref hlink="_c6354a6f70208cf328b"/>
     </event>
@@ -10224,19 +10245,20 @@
       <citationref hlink="_c6354a6f18a08b42359"/>
       <citationref hlink="_c6354a6f18a6d8137bb"/>
     </person>
-    <person handle="_c310c0bdb2a146310bd" change="1362927248" id="I0058">
+    <person handle="_c310c0bdb2a146310bd" change="1766926886" id="I0058">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Hans Kristian</first>
         <surname>Hansen</surname>
       </name>
       <eventref hlink="_c310c01951673b0b98f" role="Primary"/>
+      <eventref hlink="_1011f279fb5e12a991da29c78e19" role="Primary"/>
       <eventref hlink="_c310c0b7d565b8abe60" role="Primary"/>
       <childof hlink="_c310c4b499a0bdb5520"/>
       <parentin hlink="_c310bee823b6b3f2b6a"/>
       <citationref hlink="_c654feecdfa13548ea2"/>
     </person>
-    <person handle="_c310c29f2df2d2b16d3" change="1724300115" id="I0059">
+    <person handle="_c310c29f2df2d2b16d3" change="1766927013" id="I0059">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Anette</first>
@@ -10245,6 +10267,7 @@
         <surname prim="0">Orderud</surname>
       </name>
       <eventref hlink="_c310c203fca430e6d51" role="Primary"/>
+      <eventref hlink="_1011f28cab9710aadf89f361d550" role="Primary"/>
       <eventref hlink="_f601739a9723efedc057e4da5bf" role="Primary"/>
       <eventref hlink="_f88648e93ef63e5a7682f215e66" role="Primary"/>
       <eventref hlink="_c310c286470025b2658" role="Primary"/>
@@ -10267,7 +10290,7 @@
       <parentin hlink="_c310c4b499a0bdb5520"/>
       <citationref hlink="_c654feecdfa13548ea2"/>
     </person>
-    <person handle="_c310c80b7e229de9dec" change="1766872740" id="I0061">
+    <person handle="_c310c80b7e229de9dec" change="1766927192" id="I0061">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Kristine</first>
@@ -10275,6 +10298,7 @@
       </name>
       <eventref hlink="_c310c766f625b9b60e1" role="Primary"/>
       <eventref hlink="_c654dbb700602234450" role="Primary"/>
+      <eventref hlink="_1011f29d9d6c62c04565f8bd1cb1" role="Primary"/>
       <eventref hlink="_c654db68abe6a2a82d0" role="Primary"/>
       <eventref hlink="_c310c7f4fba6624ece7" role="Primary"/>
       <childof hlink="_c374540e36235d8afdb"/>
@@ -22048,6 +22072,24 @@
       <confidence>2</confidence>
       <sourceref hlink="_1011ea0358667d6869bbbf7c32af"/>
     </citation>
+    <citation handle="_1011f279a7f5348fb9e634a08701" change="1766926854" id="C1603">
+      <page>pf01052684005141</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1011f2790eed6671d9b8af32af53"/>
+      <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
+    </citation>
+    <citation handle="_1011f28c5ea0462f91f205c5d03f" change="1766926977" id="C1604">
+      <page>pf01052684005142</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1011f28c1a7523e9740c3b147276"/>
+      <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
+    </citation>
+    <citation handle="_1011f29d549520ef8b0a241b8d7a" change="1766927088" id="C1605">
+      <page>pf01052684005145</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1011f29c02352c5856a3f77d3549"/>
+      <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
+    </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
       <noteref hlink="_c32a2935f4a08cfbed0"/>
@@ -30733,6 +30775,10 @@
       <pname value="Buraas"/>
       <placeref hlink="_c313de07f0c0fc02dc7"/>
     </placeobj>
+    <placeobj handle="_1011f2a95efa4afefd9ad65567c0" change="1766927167" id="P0380" type="Unknown">
+      <pname value="Gabestad"/>
+      <placeref hlink="_c310c6e17227733d872"/>
+    </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
       <pname value="Glemmen"/>
@@ -30801,7 +30847,7 @@
       <pname value="Rødnes"/>
       <placeref hlink="_e048ce84c5b4a41aaab07dbd6b1"/>
     </placeobj>
-    <placeobj handle="_c310c6e17227733d872" change="1384098610" id="P0016" type="Unknown">
+    <placeobj handle="_c310c6e17227733d872" change="1766927166" id="P0016" type="Unknown">
       <ptitle>Båstad, Østfold</ptitle>
       <pname value="Båstad, Østfold"/>
     </placeobj>
@@ -33401,6 +33447,24 @@ I folketellingen 1865 bor han fortsatt på Jordbraanen med sin nye kone Karen An
     </note>
     <note handle="_1011eb5c1d746f7e1390d35bbbcb" change="1766914917" id="N1404" type="Citation">
       <text>https://www.digitalarkivet.no/view/267/pg00000002302172</text>
+    </note>
+    <note handle="_1011f2790eed6671d9b8af32af53" change="1766926850" id="N1405" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01052684005141</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01052684005141">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1011f28c1a7523e9740c3b147276" change="1766926975" id="N1406" type="Citation">
+      <text>https://www.digitalarkivet.no/census/person/pf01052684005142</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01052684005142">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1011f29c02352c5856a3f77d3549" change="1766927079" id="N1407" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01052684005145</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01052684005145">
+        <range start="0" end="60"/>
+      </style>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
