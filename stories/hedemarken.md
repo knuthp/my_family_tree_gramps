@@ -13,6 +13,30 @@
     </thead>
     <tbody>
         <tr>
+            <td></td>
+            <td></td>
+            <td>1676</td>
+            <td>Peder Rasmussen og Astri Pedersdatter</td>
+            <td></td>
+            <td>Fra Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/view/27/pa00000000856350">s. 2113</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>1685</td>
+            <td>Peder Rasmussen og Birte Halvorsdatter</td>
+            <td></td>
+            <td>Fra Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/view/27/pa00000000856351">s. 2115</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>1717</td>
+            <td>1717</td>
+            <td>Rasmus Pedersen og Guri Halvorsdatter</td>
+            <td></td>
+            <td>Fra Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/view/27/pa00000000856352">s. 2117 </a></td>
+        </tr>
+        <tr>
             <td>1723</td>
             <td></td>
             <td>1723</td>
@@ -25,7 +49,7 @@
             <td>1779</td>
             <td>Gunder Olsen Hedemarken</td>
             <td></td>
-            <td>Bygget gml fjøset og fikk penger av arveprins Fredrick. (Salg omtales i <a href="https://www.digitalarkivet.no/tl20080609060076">Panteregister H&F</a> )</td>
+            <td>Bygget gml fjøset og fikk penger av arveprins Fredrick. (Salg omtales i <a href="https://www.digitalarkivet.no/tl20080609060076">Panteregister H&F</a> )<br/>Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102121">s. 2121</a></td>
         </tr>
         </tr>
             <td>3.2.1800</td>
@@ -33,7 +57,9 @@
             <td>1801</td>
             <td>Ole Hansen</td>
             <td></td>
-            <td>Ole Hansen tinglyst kjøper 3 februar 1800 ( Panteregister H&F ) Stemmer også med folketellingen 1801 da sønnen til eierens navn er Niels Olsen. Bunes ser ut til å være nevnt i Panteregisteret og det er en husbonde på Bunes Søndre i folketellingen 1801  Han har også en sønn som heter Hans Olsen som bor på Bunes i folketellingen 1801. Mulig han arver gården (eldre enn Niels Olsen)
+            <td>Svoger til Gunder Olsen, Ole Hansen tinglyst kjøper 3 februar 1800 ( Panteregister H&F ) Stemmer også med folketellingen 1801 da sønnen til eierens navn er Niels Olsen. Bunes ser ut til å være nevnt i Panteregisteret og det er en husbonde på Bunes Søndre i folketellingen 1801  Han har også en sønn som heter Hans Olsen som bor på Bunes i folketellingen 1801. Mulig han arver gården (eldre enn Niels Olsen)
+            <br/>
+            Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102121">s. 2121</a>
 </td>
         </tr>
         </tr>
@@ -64,6 +90,8 @@ Helene Gudbrandsdatter (2 kone)</td>
                 En datter av gårdbruker A. Brynhildsen dør på Hedemarken 7 mars 1864.
                 Anders Brynildsen Hedemarken (nr 2957A) fra Eidsberg (herl. annex) emigrerer til Amerika 13.08.1869 fra Oslo med reisemål Prescot. Oppgitt alder er 57 år og gift. Han har 248,10 Spesidaler (som virker til å være et bra beløp) Argo linjen ( http://digitalarkivet.no/cgi-win/webcens.exe?slag=visbase&sidenr=36&filnamn=EMIOSLO&gardpostnr=11462&merk=11462#ovre )
                 Hans kone Sofie Rasmussen (48 år) og barna Marcus (19), Sinila (15) og Halvar (11) er ogsåJohan Andreasen 42 år utvandret 10 april 1868 fra gården Hedemarken sammen med Reol Andersen (21) og Andreas Andersen (17) til Presot Wis  http://www.norwayheritage.com/p_list.asp?jo=2145 Passenger list s/s Oder fra Christiania til Hull, Christiania Politikammer emigrasjonsprotokoll 2. Reol og Andreas var hans sønner ref folketellingen 1865 for Hedemarken.
+                <br/>
+                Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102123">s. 2123</a> Nevner Tosten Brynhildsen og barn Anders 23 år i 1803 med Braathen som undertekst, mulig kobling?
             </td>
         </tr>
         </tr>
