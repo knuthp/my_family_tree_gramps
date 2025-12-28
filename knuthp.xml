@@ -1277,11 +1277,11 @@
       <type>Birth</type>
       <dateval val="1890" type="about"/>
     </event>
-    <event handle="_1011f279fb5e12a991da29c78e19" change="1766926879" id="E1503">
+    <event handle="_1011f279fb5e12a991da29c78e19" change="1766937008" id="E1503">
       <type>Cens</type>
       <dateval val="1891"/>
       <place hlink="_c0dd2a7c1467a278d8d"/>
-      <description>Folketellingen 1819</description>
+      <description>Folketellingen 1891</description>
       <citationref hlink="_1011f279a7f5348fb9e634a08701"/>
     </event>
     <event handle="_1011f28cab9710aadf89f361d550" change="1766926979" id="E1504">
@@ -1297,6 +1297,25 @@
       <place hlink="_c0dd2a7c1467a278d8d"/>
       <description>Folketellingen 1891</description>
       <citationref hlink="_1011f29d549520ef8b0a241b8d7a"/>
+    </event>
+    <event handle="_1011f860c7d62f5b51c8e99a4ec9" change="1766936827" id="E1506">
+      <type>Census</type>
+      <dateval val="1875"/>
+      <place hlink="_c0dd2a7c1467a278d8d"/>
+      <description>Folketellingen 1875</description>
+      <citationref hlink="_1011f8693e4427d8deeb74b100f9"/>
+    </event>
+    <event handle="_1011f87d4dae25174ccbfee49b8c" change="1766936944" id="E1507">
+      <type>Census</type>
+      <place hlink="_c0dd2a7c1467a278d8d"/>
+      <description>Folketellingen 1875</description>
+      <citationref hlink="_1011f87d168d189df2e1be538d3e"/>
+    </event>
+    <event handle="_1011f88bb00c15b8684ac3c5ba" change="1766937053" id="E1508">
+      <type>Cens</type>
+      <dateval val="1875"/>
+      <place hlink="_c0dd2a7c1467a278d8d"/>
+      <description>Folketellingen 1875</description>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -4460,7 +4479,7 @@
       <dateval val="1815-04-10"/>
       <citationref hlink="_c6354a6f7024cce913b"/>
     </event>
-    <event handle="_c4352a32eef0708964f" change="1348328876" id="E0627">
+    <event handle="_c4352a32eef0708964f" change="1766945401" id="E0627">
       <type>Death</type>
       <place hlink="_c312fffa0b60c4f2f99"/>
     </event>
@@ -4470,7 +4489,7 @@
       <place hlink="_c339807617e3b2ec5e9"/>
       <citationref hlink="_c6354a6f5cc4d97ce7f"/>
     </event>
-    <event handle="_c4353a5ffee1625efb9" change="1348330625" id="E0629">
+    <event handle="_c4353a5ffee1625efb9" change="1766945016" id="E0629">
       <type>Census</type>
       <dateval val="1801"/>
       <place hlink="_c4353aa18a40698b512"/>
@@ -4488,7 +4507,7 @@
       <place hlink="_c4351fdd25253dcde4e"/>
       <citationref hlink="_c6354a6f7a23a454142"/>
     </event>
-    <event handle="_c43545bba6442c3b64a" change="1407955409" id="E0631">
+    <event handle="_c43545bba6442c3b64a" change="1766945116" id="E0631">
       <type>Census</type>
       <dateval val="1801"/>
       <place hlink="_cce26d13bb0747becaf"/>
@@ -10226,7 +10245,7 @@
       <childof hlink="_c339205748c13e82d04"/>
       <parentin hlink="_c310b6e017a3441f8d1"/>
     </person>
-    <person handle="_c310bb24330655ae744" change="1348331856" id="I0057">
+    <person handle="_c310bb24330655ae744" change="1766945823" id="I0057">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Randi</first>
@@ -10236,29 +10255,30 @@
       </name>
       <eventref hlink="_c3fd0e42ff1180b55f6" role="Primary"/>
       <eventref hlink="_c43527fc546632ea01b" role="Primary"/>
-      <eventref hlink="_c4352a32eef0708964f" role="Primary"/>
       <eventref hlink="_c4352c7d0340e5b21a3" role="Primary">
         <noteref hlink="_c4352c9243d278de898"/>
       </eventref>
+      <eventref hlink="_c4352a32eef0708964f" role="Primary"/>
       <childof hlink="_c435375fca4559c1ed8"/>
       <parentin hlink="_c310b6e017a3441f8d1"/>
       <citationref hlink="_c6354a6f18a08b42359"/>
       <citationref hlink="_c6354a6f18a6d8137bb"/>
     </person>
-    <person handle="_c310c0bdb2a146310bd" change="1766926886" id="I0058">
+    <person handle="_c310c0bdb2a146310bd" change="1766937123" id="I0058">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Hans Kristian</first>
         <surname>Hansen</surname>
       </name>
       <eventref hlink="_c310c01951673b0b98f" role="Primary"/>
+      <eventref hlink="_1011f88bb00c15b8684ac3c5ba" role="Primary"/>
       <eventref hlink="_1011f279fb5e12a991da29c78e19" role="Primary"/>
       <eventref hlink="_c310c0b7d565b8abe60" role="Primary"/>
       <childof hlink="_c310c4b499a0bdb5520"/>
       <parentin hlink="_c310bee823b6b3f2b6a"/>
       <citationref hlink="_c654feecdfa13548ea2"/>
     </person>
-    <person handle="_c310c29f2df2d2b16d3" change="1766927013" id="I0059">
+    <person handle="_c310c29f2df2d2b16d3" change="1766942998" id="I0059">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Anette</first>
@@ -10268,8 +10288,8 @@
       </name>
       <eventref hlink="_c310c203fca430e6d51" role="Primary"/>
       <eventref hlink="_1011f28cab9710aadf89f361d550" role="Primary"/>
-      <eventref hlink="_f601739a9723efedc057e4da5bf" role="Primary"/>
       <eventref hlink="_f88648e93ef63e5a7682f215e66" role="Primary"/>
+      <eventref hlink="_f601739a9723efedc057e4da5bf" role="Primary"/>
       <eventref hlink="_c310c286470025b2658" role="Primary"/>
       <childof hlink="_c310c95d456473eb2a8"/>
       <parentin hlink="_c310bee823b6b3f2b6a"/>
@@ -10277,7 +10297,7 @@
       <citationref hlink="_c9805adbe3a39a60ceb"/>
       <citationref hlink="_e0d0734b4882c3ac08f47f061a6"/>
     </person>
-    <person handle="_c310c664cfd62040b55" change="1766872925" id="I0060">
+    <person handle="_c310c664cfd62040b55" change="1766936836" id="I0060">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Hans</first>
@@ -10285,12 +10305,13 @@
       </name>
       <eventref hlink="_c310c5a26f454d8b281" role="Primary"/>
       <eventref hlink="_c65210905282c84ed3a" role="Primary"/>
+      <eventref hlink="_1011f860c7d62f5b51c8e99a4ec9" role="Primary"/>
       <eventref hlink="_c310c5ef06c57e73f9f" role="Primary"/>
       <childof hlink="_c37347224c46a3230f9"/>
       <parentin hlink="_c310c4b499a0bdb5520"/>
       <citationref hlink="_c654feecdfa13548ea2"/>
     </person>
-    <person handle="_c310c80b7e229de9dec" change="1766927192" id="I0061">
+    <person handle="_c310c80b7e229de9dec" change="1766936955" id="I0061">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Kristine</first>
@@ -10298,6 +10319,7 @@
       </name>
       <eventref hlink="_c310c766f625b9b60e1" role="Primary"/>
       <eventref hlink="_c654dbb700602234450" role="Primary"/>
+      <eventref hlink="_1011f87d4dae25174ccbfee49b8c" role="Primary"/>
       <eventref hlink="_1011f29d9d6c62c04565f8bd1cb1" role="Primary"/>
       <eventref hlink="_c654db68abe6a2a82d0" role="Primary"/>
       <eventref hlink="_c310c7f4fba6624ece7" role="Primary"/>
@@ -22090,6 +22112,18 @@
       <noteref hlink="_1011f29c02352c5856a3f77d3549"/>
       <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
     </citation>
+    <citation handle="_1011f8693e4427d8deeb74b100f9" change="1766936813" id="C1606">
+      <page>pf01052019007532</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1011f869019160f3c5e614494af"/>
+      <sourceref hlink="_e603fc7c6d03e2a7207fc53d269"/>
+    </citation>
+    <citation handle="_1011f87d168d189df2e1be538d3e" change="1766936943" id="C1607">
+      <page>pf01052019007533</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1011f87cf2973d97ee31714e245b"/>
+      <sourceref hlink="_e603fc7c6d03e2a7207fc53d269"/>
+    </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
       <noteref hlink="_c32a2935f4a08cfbed0"/>
@@ -25479,7 +25513,8 @@
       <noteref hlink="_c448f40d0784c4883db"/>
       <sourceref hlink="_c448f40f1ac1669abd7"/>
     </citation>
-    <citation handle="_c6354a6f5cc6218ee31" change="1362076152" id="C0670">
+    <citation handle="_c6354a6f5cc6218ee31" change="1766945014" id="C0670">
+      <page>pf01058200001775</page>
       <confidence>2</confidence>
       <noteref hlink="_c4353a4bbd44dbd47ca"/>
       <sourceref hlink="_c309eb9603856b833e8"/>
@@ -26280,7 +26315,8 @@
       <confidence>2</confidence>
       <sourceref hlink="_c448f8241f22dffe037"/>
     </citation>
-    <citation handle="_c6354a6f8d82269a83c" change="1362076152" id="C0898">
+    <citation handle="_c6354a6f8d82269a83c" change="1766945115" id="C0898">
+      <page>pf01058200001776</page>
       <confidence>2</confidence>
       <noteref hlink="_c43545b696a3519fd66"/>
       <sourceref hlink="_c309eb9603856b833e8"/>
@@ -33466,6 +33502,18 @@ I folketellingen 1865 bor han fortsatt på Jordbraanen med sin nye kone Karen An
         <range start="0" end="60"/>
       </style>
     </note>
+    <note handle="_1011f869019160f3c5e614494af" change="1766936811" id="N1408" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01052019007532</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01052019007532">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1011f87cf2973d97ee31714e245b" change="1766936942" id="N1409" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01052019007533</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01052019007533">
+        <range start="0" end="60"/>
+      </style>
+    </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
 Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Fødte og døpte 1906, side 85. 
@@ -35176,8 +35224,11 @@ Kile</text>
     <note handle="_c4353a080be6eff0a52" change="1369060550" id="N0540" type="Source Reference Note">
       <text>http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=26&amp;filnamn=f18010122&amp;gardpostnr=103&amp;personpostnr=1671#nedre</text>
     </note>
-    <note handle="_c4353a4bbd44dbd47ca" change="1348330564" id="N0541" type="Source Reference Note">
-      <text>http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=26&amp;filnamn=f18010122&amp;gardpostnr=103&amp;personpostnr=1671#nedre</text>
+    <note handle="_c4353a4bbd44dbd47ca" change="1766945013" id="N0541" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01058200001775</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01058200001775">
+        <range start="0" end="60"/>
+      </style>
     </note>
     <note handle="_c4353ba40d025ab5aad" change="1348330705" id="N0542" type="Source Reference Note">
       <text>http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=26&amp;filnamn=f18010122&amp;gardpostnr=103&amp;personpostnr=1671#nedre</text>
@@ -35188,8 +35239,11 @@ Kile</text>
     <note handle="_c435457642849e7783d" change="1348331735" id="N0544" type="Source Reference Note">
       <text>http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=27&amp;filnamn=f18010122&amp;gardpostnr=103&amp;personpostnr=1672#nedre</text>
     </note>
-    <note handle="_c43545b696a3519fd66" change="1348331761" id="N0545" type="Source Reference Note">
-      <text>http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=27&amp;filnamn=f18010122&amp;gardpostnr=103&amp;personpostnr=1672#nedre</text>
+    <note handle="_c43545b696a3519fd66" change="1766945114" id="N0545" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01058200001776</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01058200001776">
+        <range start="0" end="60"/>
+      </style>
     </note>
     <note handle="_c43546087886e1668b9" change="1348331795" id="N0546" type="Source Reference Note">
       <text>http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=27&amp;filnamn=f18010122&amp;gardpostnr=103&amp;personpostnr=1672#nedre</text>

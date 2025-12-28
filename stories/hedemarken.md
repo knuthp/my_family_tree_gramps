@@ -92,9 +92,10 @@
             <td>1846</td>
             <td>1858</td>
             <td>1858</td>
-            <td>Ole Hansen</br>
-Anne Lovise Jakobsdatter (1 kone)</br>
-Helene Gudbrandsdatter (2 kone)</td>
+            <td>
+                Ole Hansen</br>
+                Anne Lovise Jakobsdatter (1 kone)</br>
+                Helene Gudbrandsdatter (2 kone)</td>
             <td>Arv</td>
             <td>Født i Eidsberg Flytter til gården Børsvolden/Børgsvolden? på Toten våren 1857 (fra skjøte til Anders Brynhildsen 1858 i pantebok) RootsWeb info  Han var først gift med Anne Lovise Jakobsdatter og fikk to barn. Han giftet seg så med Helene Guldbrandsdatter. Faren Hans Olsen er også med på flyttelasset.
             </br>
@@ -196,18 +197,25 @@ Helene Gudbrandsdatter (2 kone)</td>
     </tbody>
 </table>
 
+1. [Folktellingen 1801](https://www.digitalarkivet.no/census/rural-residence/bf01058203002568)
+
 ### Øvre Hedemarken
-Skylddeling i 1850
+Skylddeling i 1858
 
 #### Folketellinger
-1. [Folketellinge 1891](https://www.digitalarkivet.no/census/rural-residence/bf01052684000864)
+1. [Folketellingen 1865](https://www.digitalarkivet.no/census/rural-residence/bf01037994006711)
+1. [Folketellingen 1875](https://www.digitalarkivet.no/census/rural-residence/bf01052019007531)
+1. [Folketellingen 1891](https://www.digitalarkivet.no/census/rural-residence/bf01052684000864)
+1. [Folketellingen 1900](https://www.digitalarkivet.no/census/rural-residence/bf01037008000920)
+1. [Folketellingen 1910](https://www.digitalarkivet.no/census/rural-residence/bf01036351006673)
+1. [Folketellingen 1920](https://www.digitalarkivet.no/census/rural-residence/bf01073655005331)
 
 ### Forpaktere
 
-> Se Indre Smaalene osv
+1. 1920 Adolf Nordli Hedemarken
 
 ### Nedre Hedemarken
-Virker som om skylddelingen skjer 1850.
+Virker som om skylddelingen skjer 1858.
 
 1. Thor Jørgensen og Birthe Marie Brynhildsdatter får barn i 1860, 1863, 1867 på Hedemarken
 1. Johan Torsen og Helene Marie Hansdatter for flere barn på Nedre Hedemarken 1880 og utover.
@@ -215,7 +223,12 @@ Virker som om skylddelingen skjer 1850.
 
 
 #### Folketellinger
+1. [Folketellingen 1865](https://www.digitalarkivet.no/census/rural-residence/bf01037994006729)
+1. [Folketellingen 1875](https://www.digitalarkivet.no/census/rural-residence/bf01052019007540)
 1. [Folketellingen 1891](https://www.digitalarkivet.no/census/rural-residence/bf01052684000866)
+1. [Folketellingen 1900](https://www.digitalarkivet.no/census/rural-residence/bf01037008000921)
+1. [Folketellingen 1910](https://www.digitalarkivet.no/census/rural-residence/bf01036351006680)
+1. [Folketellingen 1920](https://www.digitalarkivet.no/census/rural-residence/bf01073655005339)
 
 ## Panteopplysninger
 
