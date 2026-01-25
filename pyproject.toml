@@ -14,3 +14,10 @@ dependencies = [
 dev = [
     "pytest>=8.3.2"
 ]
+
+[project.scripts]
+nbdownloader = "my_family_tree.nbdownloader:app"
+
+[build-system]
+requires = ["uv_build>=0.9.21,<0.10.0"]
+build-backend = "uv_build"

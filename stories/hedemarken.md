@@ -37,6 +37,14 @@
             <td>Fra Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/view/27/pa00000000856352">s. 2117 </a></td>
         </tr>
         <tr>
+            <td></td>
+            <td>1717</td>
+            <td>1717</td>
+            <td>Lars Olsen og Ragnhild Andersdatter</td>
+            <td></td>
+            <td>Fra Heggen og Frøland sorenskriveri I, AV/SAO-A-11556/H, 1667-1811, <a href="https://www.digitalarkivet.no/sk11216062102119">s. 2119 </a></td>
+        </tr>
+        <tr>
             <td>1723</td>
             <td></td>
             <td>1723</td>
@@ -212,13 +220,14 @@ Skylddeling i 1858
 
 ### Forpaktere
 
-1. 1920 Adolf Nordli Hedemarken
+1. 1920 Adolf Nordli Hedemarken (Folketellingen 1920)
 
 ### Nedre Hedemarken
 Virker som om skylddelingen skjer 1858.
 
 1. Thor Jørgensen og Birthe Marie Brynhildsdatter får barn i 1860, 1863, 1867 på Hedemarken
 1. Johan Torsen og Helene Marie Hansdatter for flere barn på Nedre Hedemarken 1880 og utover.
+1. Jørgen og Anna Hedemarken
 
 
 

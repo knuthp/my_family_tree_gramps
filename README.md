@@ -69,14 +69,9 @@ cp -r _build/* /media/NAS/web/knuthp/family/
 ```
 
 
-## Laste ned media
-```
-poetry shell
-cd media/aviser/<newspaper>
-nbdownloader download <url for newspaper issue> <page>
-```
+## Laste ned media nasjonalbiblioteket
 
-example:
 ```
-nbdownloader download "https://www.nb.no/items/1c07cc5197442ac4107022688b5cd86d?page=3&searchText=ernst%20paul%20hensel" 4
+docker run --name nbno -p 5000:5000 -v ./nbno/data:/data -v ./nbno/tessdata:/opt/tessdata -d ghcr.io/lanj
+elin/nbnopy:latest
 ```

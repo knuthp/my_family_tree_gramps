@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2025-12-28" version="5.1.6"/>
+    <created date="2026-01-01" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -1273,9 +1273,9 @@
       <place hlink="_1011e9f8d90eb1363d5a7e40968"/>
       <citationref hlink="_1011eb5aea13110884cf52ad7186"/>
     </event>
-    <event handle="_1011eb626ccd46fcad1d25e37c77" change="1766914958" id="E1502">
+    <event handle="_1011eb626ccd46fcad1d25e37c77" change="1767258682" id="E1502">
       <type>Birth</type>
-      <dateval val="1890" type="about"/>
+      <dateval val="1790" type="about"/>
     </event>
     <event handle="_1011f279fb5e12a991da29c78e19" change="1766937008" id="E1503">
       <type>Cens</type>
@@ -1865,7 +1865,7 @@
       <place hlink="_c0dd2a7c1467a278d8d"/>
       <citationref hlink="_c6354a6f70208cf328b"/>
     </event>
-    <event handle="_c310c93ae103ca7e858" change="1766911076" id="E0091">
+    <event handle="_c310c93ae103ca7e858" change="1767257323" id="E0091">
       <type>Marriage</type>
       <dateval val="1857-02-25"/>
       <noteref hlink="_1011e90e12aa189ebe3b5b7f732c"/>
@@ -5256,7 +5256,7 @@
       <place hlink="_c652101089667549f0c"/>
       <citationref hlink="_c652106b16018b0b85e"/>
     </event>
-    <event handle="_c654db68abe6a2a82d0" change="1362923503" id="E0758">
+    <event handle="_c654db68abe6a2a82d0" change="1767257451" id="E0758">
       <type>Census</type>
       <dateval val="1900"/>
       <place hlink="_c0dd2a7c1467a278d8d"/>
@@ -27137,9 +27137,10 @@
       <noteref hlink="_c652108a7b83e0b19c4"/>
       <sourceref hlink="_c3073c1a93a59566b01"/>
     </citation>
-    <citation handle="_c654db63dfc3049fe00" change="1362923501" id="C1043">
-      <page>Kristine Kristiansdatter</page>
+    <citation handle="_c654db63dfc3049fe00" change="1767257449" id="C1043">
+      <page>pf01037008005595</page>
       <confidence>2</confidence>
+      <noteref hlink="_1012b783e1db418121e4fab115fc"/>
       <sourceref hlink="_c30a35b868e30d2fcb7"/>
     </citation>
     <citation handle="_c654dbedebc3843a3af" change="1766872708" id="C1044">
@@ -33432,10 +33433,10 @@ Navnsjøboerne boka.</text>
         <range start="0" end="46"/>
       </style>
     </note>
-    <note handle="_1011e90e12aa189ebe3b5b7f732c" change="1766911920" id="N1397" type="Event Note">
+    <note handle="_1011e90e12aa189ebe3b5b7f732c" change="1767257321" id="N1397" type="Event Note">
       <text>Notat i kirkebok angående tidligere ekteskap.
 
-Hans Hansen virker til å ha vært gift tidligere med Gunhild og det står noe om Narvestaddalen. Jeg tror også Kristine Kristansdatter har vært gift tidligere.
+Hans Hansen virker til å ha vært gift tidligere med Gunhild og det står noe om Narvestaddalen og død angående tidligere ekteskap.
 
 Folketelligen 1865 lister flere eldre barn født tidligere enn 1857
 1. Inger J 18 år i 1865
@@ -33511,6 +33512,12 @@ I folketellingen 1865 bor han fortsatt på Jordbraanen med sin nye kone Karen An
     <note handle="_1011f87cf2973d97ee31714e245b" change="1766936942" id="N1409" type="Link">
       <text>https://www.digitalarkivet.no/census/person/pf01052019007533</text>
       <style name="link" value="https://www.digitalarkivet.no/census/person/pf01052019007533">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1012b783e1db418121e4fab115fc" change="1767257432" id="N1410" type="Link">
+      <text>https://www.digitalarkivet.no/census/person/pf01037008005595</text>
+      <style name="link" value="https://www.digitalarkivet.no/census/person/pf01037008005595">
         <range start="0" end="60"/>
       </style>
     </note>
