@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2026-02-21" version="5.1.6"/>
+    <created date="2026-03-14" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -130,13 +130,15 @@
       <type>Death</type>
       <dateval val="1972-08-17"/>
     </event>
-    <event handle="_1001d24401163525c6ab1ed93497" change="1760000868" id="E1337">
+    <event handle="_1001d24401163525c6ab1ed93497" change="1773508929" id="E1337">
       <type>Birth</type>
-      <dateval val="1859"/>
+      <dateval val="1859-11-27"/>
+      <place hlink="_1003988c0b6bdf19e6ef470552b"/>
     </event>
-    <event handle="_1001d24a0a18720fc48ef8028510" change="1760000907" id="E1338">
+    <event handle="_1001d24a0a18720fc48ef8028510" change="1773509655" id="E1338">
       <type>Birth</type>
       <dateval val="1859-09-09"/>
+      <citationref hlink="_10214620c5c74856edbc40f5f0ad"/>
     </event>
     <event handle="_1001d24c3c904100d89d627bf37d" change="1760000922" id="E1339">
       <type>Death</type>
@@ -178,9 +180,10 @@
       <citationref hlink="_10027afa6fdc608bb32b18db9e77"/>
       <citationref hlink="_10039c92af6c32e174eb5ef5e340"/>
     </event>
-    <event handle="_10027b80682b721e68ef624cb6ea" change="1760284799" id="E1347">
+    <event handle="_10027b80682b721e68ef624cb6ea" change="1773506096" id="E1347">
       <type>Birth</type>
-      <dateval val="1899"/>
+      <dateval val="1899-05-03"/>
+      <place hlink="_102143d31f0c2845b83708239ec3"/>
       <citationref hlink="_10027afa6fdc608bb32b18db9e77"/>
     </event>
     <event handle="_10027b8b78a451dffcc0be0285c3" change="1760285041" id="E1348">
@@ -1663,6 +1666,99 @@
       <place hlink="_c959f3570be312fb088"/>
       <description>Folketellingen 1870</description>
       <citationref hlink="_101854364e8119dfae2f75e950bb"/>
+    </event>
+    <event handle="_1021439947fe77a704c88e027d19" change="1773505744" id="pf01037040002091">
+      <type>Census</type>
+      <dateval val="1900"/>
+      <place hlink="_102143c579d95c2afeef074c74ed"/>
+      <description>Folketellingen 1900</description>
+      <citationref hlink="_10214398d81617081903648fa481"/>
+    </event>
+    <event handle="_102143b033772f4f9c2c86469653" change="1773505718" id="pf01037040002085">
+      <type>Census</type>
+      <dateval val="1900"/>
+      <place hlink="_102143c579d95c2afeef074c74ed"/>
+      <description>Folketellingen 1900</description>
+      <citationref hlink="_102143af94a4269f322e9cd7ef96"/>
+    </event>
+    <event handle="_102143c5c8797df610161a01ed16" change="1773505700" id="pf01037040002086">
+      <type>Census</type>
+      <dateval val="1900"/>
+      <place hlink="_102143c579d95c2afeef074c74ed"/>
+      <citationref hlink="_102143c017905e2be01c65683871"/>
+    </event>
+    <event handle="_1021442e9a2b32f23cd6833561a7" change="1773506417" id="pf01036387002123">
+      <type>Census</type>
+      <dateval val="1910"/>
+      <place hlink="_10214432e91b1256ea75b679e500"/>
+      <description>Folketellingen 1910</description>
+      <citationref hlink="_1021442e596f70042ac516f452f6"/>
+    </event>
+    <event handle="_1021444f34cd1bdd775db12733ce" change="1773506600" id="E1558">
+      <type>Birth</type>
+      <dateval val="1840-01-26"/>
+      <place hlink="_10039b9cea6d16128ee4695cc18d"/>
+      <citationref hlink="_1021444de5e469b5782356805c19"/>
+    </event>
+    <event handle="_10214457043615f82b92cea424f" change="1773506651" id="pf01036387002120">
+      <type>Census</type>
+      <dateval val="1910"/>
+      <place hlink="_10214432e91b1256ea75b679e500"/>
+      <description>Folketellingen 1910</description>
+      <citationref hlink="_1021444de5e469b5782356805c19"/>
+    </event>
+    <event handle="_10214462e0b24a81545b49535057" change="1773507290" id="E1559">
+      <type>Birth</type>
+      <dateval val="1857-01-28"/>
+      <place hlink="_10039b9cea6d16128ee4695cc18d"/>
+      <citationref hlink="_102143af94a4269f322e9cd7ef96"/>
+    </event>
+    <event handle="_10214470309e68749c994decb2e3" change="1773507130" id="E1560">
+      <type>Birth</type>
+      <dateval val="1864-08-08"/>
+      <place hlink="_10039b9cea6d16128ee4695cc18d"/>
+      <citationref hlink="_102143c017905e2be01c65683871"/>
+    </event>
+    <event handle="_10214497a84a44179ce6e15d769b" change="1773507075" id="pf01036387002542">
+      <type>Census</type>
+      <dateval val="1910"/>
+      <place hlink="_1021448f8a82717ba6905d599d0d"/>
+      <description>Folketellingen 1910</description>
+      <citationref hlink="_1021449771975f55c9580cbf1f51"/>
+    </event>
+    <event handle="_102144af6b5c390799f759a7b17e" change="1773507231" id="pf01036387002543">
+      <type>Census</type>
+      <dateval val="1910"/>
+      <place hlink="_10214432e91b1256ea75b679e500"/>
+      <description>Folketellingen 1910</description>
+    </event>
+    <event handle="_102145420da52135483cec300be4" change="1773508204" id="E1561">
+      <type>Marriage</type>
+      <dateval val="1880-10-17"/>
+      <place hlink="_1003988c0b6bdf19e6ef470552b"/>
+      <citationref hlink="_1021454163e254c9b270e12b3297"/>
+    </event>
+    <event handle="_10214593b5211f20a828ad012d9" change="1773508762" id="pf01037039002450">
+      <type>Census</type>
+      <place hlink="_10214590019e555964950a0b21a0"/>
+      <description>Folketellingen 1900</description>
+      <citationref hlink="_102145936b2e175b6633a06dc18d"/>
+    </event>
+    <event handle="_102145d0474066f73df114ab1581" change="1773509124" id="E1562">
+      <type>Census</type>
+      <dateval val="1910"/>
+      <place hlink="_102145c89bb92c86909ecaaa3e15"/>
+      <description>Folketellingen 1910</description>
+      <citationref hlink="_102145d001ef11f7ef27e638112c"/>
+    </event>
+    <event handle="_1021464bf6e25b5d3d76d934f3d2" change="1773509934" id="E1563">
+      <type>Birth</type>
+      <dateval val="1788"/>
+    </event>
+    <event handle="_1021465eac114f4b9880bf5cfcb3" change="1773510057" id="E1564">
+      <type>Death</type>
+      <dateval val="1865-10-08"/>
+      <citationref hlink="_1021465e75d92e25de51f92c5aa4"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -8628,7 +8724,7 @@
       <childof hlink="_1001d2516a3f78189d401c28e7d7"/>
       <parentin hlink="_1001d222c849663012aa96ac49ca"/>
     </person>
-    <person handle="_1001d22fb5cb20011f1a4ef99961" change="1760000930" id="I0728">
+    <person handle="_1001d22fb5cb20011f1a4ef99961" change="1773508206" id="I0728">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Gina Pauline</first>
@@ -8639,16 +8735,19 @@
       <childof hlink="_1001d23e06ee36e58d03e3a89b84"/>
       <parentin hlink="_1001d222c849663012aa96ac49ca"/>
     </person>
-    <person handle="_1001d23e52e52e7b1da806f894c2" change="1760000945" id="I0729">
+    <person handle="_1001d23e52e52e7b1da806f894c2" change="1773509289" id="I0729">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Torvald</first>
         <surname>Andreassen</surname>
       </name>
       <eventref hlink="_1001d24401163525c6ab1ed93497" role="Primary"/>
+      <eventref hlink="_10214593b5211f20a828ad012d9" role="Primary"/>
+      <eventref hlink="_102145d0474066f73df114ab1581" role="Primary"/>
+      <childof hlink="_102145e5d987451612bafb3ce70a"/>
       <parentin hlink="_1001d23e06ee36e58d03e3a89b84"/>
     </person>
-    <person handle="_1001d245a6b5f1923aa4337fa9e" change="1760000930" id="I0730">
+    <person handle="_1001d245a6b5f1923aa4337fa9e" change="1773509473" id="I0730">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Berthe Marie</first>
@@ -8656,6 +8755,7 @@
       </name>
       <eventref hlink="_1001d24a0a18720fc48ef8028510" role="Primary"/>
       <eventref hlink="_1001d24c3c904100d89d627bf37d" role="Primary"/>
+      <childof hlink="_102145fbbb692353d718879ea839"/>
       <parentin hlink="_1001d23e06ee36e58d03e3a89b84"/>
     </person>
     <person handle="_1001d251c86e64db708d1a9fd66b" change="1760001011" id="I0731">
@@ -8729,13 +8829,16 @@
       <childof hlink="_10039a91ebb66bc3e99a01e9432d"/>
       <parentin hlink="_10027b688b381c3c68193e4e2fd9"/>
     </person>
-    <person handle="_10027b78ff8e42165fab982e80e5" change="1760284814" id="I0739">
+    <person handle="_10027b78ff8e42165fab982e80e5" change="1773506420" id="I0739">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Gudrun Marie</first>
         <surname>Tomter</surname>
       </name>
       <eventref hlink="_10027b80682b721e68ef624cb6ea" role="Primary"/>
+      <eventref hlink="_1021439947fe77a704c88e027d19" role="Primary"/>
+      <eventref hlink="_1021442e9a2b32f23cd6833561a7" role="Primary"/>
+      <childof hlink="_1021439eabc0181e40ce7fb6f89f"/>
       <parentin hlink="_10027b688b381c3c68193e4e2fd9"/>
     </person>
     <person handle="_10027d34471a3eb75940680b1e5b" change="1760726425" id="I0740">
@@ -9790,6 +9893,57 @@
       <eventref hlink="_101841c2b014140200ae9fee5a08" role="Primary"/>
       <eventref hlink="_1018534f93eb353b4361b9f4fda6" role="Primary"/>
       <parentin hlink="_1018414ff9cd45e998c66d18d88c"/>
+    </person>
+    <person handle="_1021439f3181141c79993a1634e7" change="1773507293" id="I0827">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole Sigvart</first>
+        <surname>Olsen</surname>
+      </name>
+      <eventref hlink="_10214462e0b24a81545b49535057" role="Primary"/>
+      <eventref hlink="_102143b033772f4f9c2c86469653" role="Primary"/>
+      <eventref hlink="_10214497a84a44179ce6e15d769b" role="Primary"/>
+      <parentin hlink="_1021439eabc0181e40ce7fb6f89f"/>
+    </person>
+    <person handle="_102143b256ed28cdbdee7334aad4" change="1773507236" id="I0828">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Ragna Lovise</first>
+        <surname>Petterdatter</surname>
+      </name>
+      <eventref hlink="_10214470309e68749c994decb2e3" role="Primary"/>
+      <eventref hlink="_102143c5c8797df610161a01ed16" role="Primary"/>
+      <eventref hlink="_102144af6b5c390799f759a7b17e" role="Primary"/>
+      <childof hlink="_1021443e19743039bcef6d304b8a"/>
+      <parentin hlink="_1021439eabc0181e40ce7fb6f89f"/>
+    </person>
+    <person handle="_1021443e96f72cf16e24db3e2829" change="1773506670" id="I0829">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Petter</first>
+        <surname>Kvisler</surname>
+      </name>
+      <eventref hlink="_1021444f34cd1bdd775db12733ce" role="Primary"/>
+      <eventref hlink="_10214457043615f82b92cea424f" role="Primary"/>
+      <parentin hlink="_1021443e19743039bcef6d304b8a"/>
+    </person>
+    <person handle="_102145e64b963d4a974ebf173f74" change="1773509289" id="I0830">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Andreas</first>
+        <surname>Thorvaldsen</surname>
+      </name>
+      <parentin hlink="_102145e5d987451612bafb3ce70a"/>
+    </person>
+    <person handle="_102145fc377322475d7dcfe0726e" change="1773510062" id="I0831">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Halvor</first>
+        <surname>Olsen</surname>
+      </name>
+      <eventref hlink="_1021464bf6e25b5d3d76d934f3d2" role="Primary"/>
+      <eventref hlink="_1021465eac114f4b9880bf5cfcb3" role="Primary"/>
+      <parentin hlink="_102145fbbb692353d718879ea839"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -18823,10 +18977,11 @@
       <eventref hlink="_1001d22c8f1869ff9f5202c86c79" role="Family"/>
       <childref hlink="_1001d16f655a2431e32285715d4f"/>
     </family>
-    <family handle="_1001d23e06ee36e58d03e3a89b84" change="1760000930" id="F0423">
+    <family handle="_1001d23e06ee36e58d03e3a89b84" change="1773508206" id="F0423">
       <rel type="Unknown"/>
       <father hlink="_1001d23e52e52e7b1da806f894c2"/>
       <mother hlink="_1001d245a6b5f1923aa4337fa9e"/>
+      <eventref hlink="_102145420da52135483cec300be4" role="Family"/>
       <childref hlink="_1001d22fb5cb20011f1a4ef99961"/>
     </family>
     <family handle="_1001d2516a3f78189d401c28e7d7" change="1760001011" id="F0424">
@@ -19156,6 +19311,27 @@
       <father hlink="_10184150417f33127611c2741e35"/>
       <mother hlink="_1018417731da3a299948bf8830e"/>
       <childref hlink="_1001d1f4491240fa27bdb6841e28"/>
+    </family>
+    <family handle="_1021439eabc0181e40ce7fb6f89f" change="1773505722" id="F0479">
+      <rel type="Unknown"/>
+      <father hlink="_1021439f3181141c79993a1634e7"/>
+      <mother hlink="_102143b256ed28cdbdee7334aad4"/>
+      <childref hlink="_10027b78ff8e42165fab982e80e5"/>
+    </family>
+    <family handle="_1021443e19743039bcef6d304b8a" change="1773506670" id="F0480">
+      <rel type="Unknown"/>
+      <father hlink="_1021443e96f72cf16e24db3e2829"/>
+      <childref hlink="_102143b256ed28cdbdee7334aad4"/>
+    </family>
+    <family handle="_102145e5d987451612bafb3ce70a" change="1773509289" id="F0481">
+      <rel type="Unknown"/>
+      <father hlink="_102145e64b963d4a974ebf173f74"/>
+      <childref hlink="_1001d23e52e52e7b1da806f894c2"/>
+    </family>
+    <family handle="_102145fbbb692353d718879ea839" change="1773509473" id="F0482">
+      <rel type="Unknown"/>
+      <father hlink="_102145fc377322475d7dcfe0726e"/>
+      <childref hlink="_1001d245a6b5f1923aa4337fa9e"/>
     </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
@@ -22962,6 +23138,78 @@
       <confidence>2</confidence>
       <noteref hlink="_10185451687826e5aa54b03d274e"/>
       <sourceref hlink="_1018544ce8b03532330780d930fb"/>
+    </citation>
+    <citation handle="_10214398d81617081903648fa481" change="1773505405" id="C1664">
+      <page>pf01037040002091</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102143974e626f0f0117c4b2e133"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_102143af94a4269f322e9cd7ef96" change="1773505554" id="C1665">
+      <page>pf01037040002085</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102143ae66f569702fe3cd6e05ac"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_102143c017905e2be01c65683871" change="1773505662" id="C1666">
+      <page>pf01037040002086</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102143bf670e495de5ea9f70230e"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_1021442e596f70042ac516f452f6" change="1773506385" id="C1667">
+      <page>pf01036387002123</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1021442e05b733e7fd645415ed79"/>
+      <sourceref hlink="_c37131841dc5fc4a003"/>
+    </citation>
+    <citation handle="_1021444de5e469b5782356805c19" change="1773506592" id="C1668">
+      <page>pf01036387002120</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1021444d489b54c01bf9eeca718b"/>
+      <sourceref hlink="_c37131841dc5fc4a003"/>
+    </citation>
+    <citation handle="_1021449771975f55c9580cbf1f51" change="1773507074" id="C1669">
+      <page>pf01036387002542</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1021449727ae4314f0b3d7356e68"/>
+      <sourceref hlink="_c37131841dc5fc4a003"/>
+    </citation>
+    <citation handle="_102144afe739738b0ae9abe8efd8" change="1773507234" id="C1670">
+      <page>pf01036387002543</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102144ae416053a50aed9abea95a"/>
+      <sourceref hlink="_c37131841dc5fc4a003"/>
+    </citation>
+    <citation handle="_1021454163e254c9b270e12b3297" change="1773508187" id="C1671">
+      <page>No 14 page 152</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1021453add0b7cc4a07a8c36a9b6"/>
+      <sourceref hlink="_10214536c998766a7d846bc4b8ca"/>
+    </citation>
+    <citation handle="_102145936b2e175b6633a06dc18d" change="1773508761" id="C1672">
+      <page>pf01037039002450</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102145988e7d2e33a8c0a39eaee1"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_102145d001ef11f7ef27e638112c" change="1773509122" id="C1673">
+      <page>pf01036528003928</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102145cfc9be5e508229663857fc"/>
+      <sourceref hlink="_c37131841dc5fc4a003"/>
+    </citation>
+    <citation handle="_10214620c5c74856edbc40f5f0ad" change="1773509651" id="C1674">
+      <page>No 29, page 53</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102146207f1e7590a49ffe5c94b3"/>
+      <sourceref hlink="_10214618cdc0de7ead77fc61c4e"/>
+    </citation>
+    <citation handle="_1021465e75d92e25de51f92c5aa4" change="1773510056" id="C1675">
+      <page>No 27, page 277</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1021465e32eb431bd94dc387d60f"/>
+      <sourceref hlink="_10214618cdc0de7ead77fc61c4e"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -30759,6 +31007,12 @@
     <source handle="_1018544ce8b03532330780d930fb" change="1769667958" id="S0181">
       <stitle>Klokkerbok for Østre Fredrikstad prestegjeld 1900-1919</stitle>
     </source>
+    <source handle="_10214536c998766a7d846bc4b8ca" change="1773508118" id="S0182">
+      <stitle>Ullensaker Kirkebøker</stitle>
+    </source>
+    <source handle="_10214618cdc0de7ead77fc61c4e" change="1773509992" id="S0183">
+      <stitle>Aurskog Kirkebøker</stitle>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -31436,7 +31690,7 @@
     <placeobj handle="_100381cd415b6061b8ab4aa499e5" change="1760724865" id="P0314" type="Unknown">
       <pname value="Lilleakerlunden 0083c"/>
     </placeobj>
-    <placeobj handle="_1003988c0b6bdf19e6ef470552b" change="1760906529" id="P0315" type="Unknown">
+    <placeobj handle="_1003988c0b6bdf19e6ef470552b" change="1773508698" id="P0315" type="Unknown">
       <pname value="Ullensaker"/>
     </placeobj>
     <placeobj handle="_10039a889b415c365350c1286aed" change="1760766359" id="P0316" type="Unknown">
@@ -31451,7 +31705,7 @@
     <placeobj handle="_10039b8ecd6474bfd0abafa3d83d" change="1760768077" id="P0319" type="Unknown">
       <pname value="Hvitsten, Vestby"/>
     </placeobj>
-    <placeobj handle="_10039b9cea6d16128ee4695cc18d" change="1760768169" id="P0320" type="Unknown">
+    <placeobj handle="_10039b9cea6d16128ee4695cc18d" change="1773507019" id="P0320" type="Unknown">
       <pname value="Nes Romerrike"/>
     </placeobj>
     <placeobj handle="_10039c4300ca5d445c23b6de248" change="1760769258" id="P0321" type="Unknown">
@@ -31720,6 +31974,37 @@
     <placeobj handle="_1018415938fe9a0a092d1327dca" change="1769636162" id="P0388" type="Unknown">
       <pname value="Vaterland"/>
       <placeref hlink="_c959f3570be312fb088"/>
+    </placeobj>
+    <placeobj handle="_102143c579d95c2afeef074c74ed" change="1773505698" id="P0389" type="Unknown">
+      <pname value="Bjerk"/>
+      <placeref hlink="_10039b9cea6d16128ee4695cc18d"/>
+    </placeobj>
+    <placeobj handle="_102143d31f0c2845b83708239ec3" change="1773505787" id="P0390" type="Unknown">
+      <pname value="Sørum"/>
+      <placeref hlink="_10039b9cea6d16128ee4695cc18d"/>
+    </placeobj>
+    <placeobj handle="_10214432e91b1256ea75b679e500" change="1773506415" id="P0391" type="Unknown">
+      <pname value="Kvisler"/>
+      <placeref hlink="_10039b9cea6d16128ee4695cc18d"/>
+    </placeobj>
+    <placeobj handle="_1021448f8a82717ba6905d599d0d" change="1773507022" id="P0392" type="Unknown">
+      <pname value="Tomter"/>
+      <placeref hlink="_10039b9cea6d16128ee4695cc18d"/>
+    </placeobj>
+    <placeobj handle="_10214590019e555964950a0b21a0" change="1773508703" id="P0393" type="Unknown">
+      <pname value="Fjeld"/>
+      <placeref hlink="_1003988c0b6bdf19e6ef470552b"/>
+    </placeobj>
+    <placeobj handle="_102145c5a8626c286d1df96cea14" change="1773509054" id="P0394" type="Unknown">
+      <pname value="Telemark"/>
+    </placeobj>
+    <placeobj handle="_102145c637a03e92df2ddd1e7ff" change="1773509070" id="P0395" type="Unknown">
+      <pname value="Heddal"/>
+      <placeref hlink="_102145c5a8626c286d1df96cea14"/>
+    </placeobj>
+    <placeobj handle="_102145c89bb92c86909ecaaa3e15" change="1773509074" id="P0396" type="Unknown">
+      <pname value="Hove"/>
+      <placeref hlink="_102145c637a03e92df2ddd1e7ff"/>
     </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
@@ -33081,7 +33366,7 @@
       <file src="media/kirkeboker/sorum/minestrialbok_1907-1925/aud_rigmor_kolstad_jensen_minetrialbok_1926_s132_nr2.jpg" mime="image/jpeg" checksum="37a3d9c3ed675ba5e5d20a557a2b357b" description="aud_rigmor_kolstad_jensen_minetrialbok_1926_s132_nr2"/>
     </object>
     <object handle="_1012e9dc4c673523190b310cd0cd" change="1767342101" id="O0086">
-      <file src="media/boeker/rakkestad_herred_1814-1914/312_hans_hansen_grindstad.jpg" mime="image/jpeg" checksum="d783812a9185dbe946f671ea02a0279d" description="rakkestad_herred_312_hans_hansen_grindstad"/>
+      <file src="/home/knuthp/src/my_family_tree_gramps/media/boeker/rakkestad_herred_1814-1914/312_hans_hansen_grindstad.jpg" mime="image/jpeg" checksum="d783812a9185dbe946f671ea02a0279d" description="rakkestad_herred_312_hans_hansen_grindstad"/>
     </object>
     <object handle="_c3fd07655d625dd11ed" change="1690442860" id="O0000">
       <file src="media/boeker/gaardshistorie_hurdal/Rognlia.pdf" mime="application/pdf" checksum="a65abd6bc5da5c9f95e7a20660d6d454" description="Rognlia"/>
@@ -33866,9 +34151,9 @@ Mulig hun bor hos slektninger da flere heter Jensen der også.</text>
       </style>
     </note>
     <note handle="_1005042136c07e59c110ca22a37d" change="1761373016" id="N1316" type="Person Note">
-      <text>Testamentstadfestelse 	20 Mai 1833  [1, 2]
-Testamentstadfestelse 	14 Mar 1834  [1, 3]
-Testamentstadfestelse 	14 Jul 1834  [1, 4]
+      <text>Testamentstadfestelse 	20 Mai 1833  [1, 2] 
+Testamentstadfestelse 	14 Mar 1834  [1, 3] 
+Testamentstadfestelse 	14 Jul 1834  [1, 4] 
 Testamentstadfestelse 	25 Aug 1834  [5, 6] </text>
     </note>
     <note handle="_1005043d39ab523bb2ffac19cd6" change="1761373200" id="N1317" type="Link">
@@ -34830,10 +35115,93 @@ https://www.digitalarkivet.no/pg00000002378056 </text>
         <range start="279" end="325"/>
       </style>
     </note>
+    <note handle="_1021437e8b9b39ef6a9bd008470e" change="1773505233" id="N1475" type="Person Note">
+      <text>Gudrun Marie Sigvartsdatter Folketellingen 1900
+Født 1899-05-03
+Bjerk Nes kommune, Øvre Romerike fogd
+Far: Sigvart Olsen 1857
+Mor: Ragna Petterdatter 1864
+https://www.digitalarkivet.no/census/person/pf01037040002091
+
+
+</text>
+    </note>
+    <note handle="_102143974e626f0f0117c4b2e133" change="1773505395" id="N1476" type="Link">
+      <text>https://www.digitalarkivet.no/pf01037040002091</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01037040002091">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102143ae66f569702fe3cd6e05ac" change="1773505546" id="N1477" type="Link">
+      <text>https://www.digitalarkivet.no/pf01037040002085</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01037040002085">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102143bf670e495de5ea9f70230e" change="1773505658" id="N1478" type="Link">
+      <text>https://www.digitalarkivet.no/pf01037040002086</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01037040002086">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1021442e05b733e7fd645415ed79" change="1773506383" id="N1479" type="Link">
+      <text>https://www.digitalarkivet.no/pf01036387002123</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01036387002123">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1021444d489b54c01bf9eeca718b" change="1773506588" id="N1480" type="Link">
+      <text>https://www.digitalarkivet.no/pf01036387002120</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01036387002120">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1021449727ae4314f0b3d7356e68" change="1773507072" id="N1481" type="Link">
+      <text>https://www.digitalarkivet.no/pf01036387002542</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01036387002542">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102144ae416053a50aed9abea95a" change="1773507223" id="N1482" type="Citation">
+      <text>https://www.digitalarkivet.no/pf01036387002543</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01036387002543">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1021453add0b7cc4a07a8c36a9b6" change="1773508145" id="N1483" type="Link">
+      <text>https://goto.digitalarkivet.no/kb20060927030135</text>
+      <style name="link" value="https://goto.digitalarkivet.no/kb20060927030135">
+        <range start="0" end="47"/>
+      </style>
+    </note>
+    <note handle="_102145988e7d2e33a8c0a39eaee1" change="1773508759" id="N1484" type="Link">
+      <text>https://www.digitalarkivet.no/pf01037039002450</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01037039002450">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102145cfc9be5e508229663857fc" change="1773509121" id="N1485" type="Link">
+      <text>https://www.digitalarkivet.no/pf01036528003928</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01036528003928">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102146207f1e7590a49ffe5c94b3" change="1773509649" id="N1486" type="Link">
+      <text>https://goto.digitalarkivet.no/kb20060929050059</text>
+      <style name="link" value="https://goto.digitalarkivet.no/kb20060929050059">
+        <range start="0" end="47"/>
+      </style>
+    </note>
+    <note handle="_1021465e32eb431bd94dc387d60f" change="1773510054" id="N1487" type="Link">
+      <text>https://goto.digitalarkivet.no/kb20060929050326</text>
+      <style name="link" value="https://goto.digitalarkivet.no/kb20060929050326">
+        <range start="0" end="47"/>
+      </style>
+    </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
-Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Fødte og døpte 1906, side 85.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7359&amp;idx_id=7359&amp;uid=ny&amp;idx_side=-86
+Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Fødte og døpte 1906, side 85. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7359&amp;idx_id=7359&amp;uid=ny&amp;idx_side=-86 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061027350785.jpg</text>
     </note>
     <note handle="_c0dd2a165625a8cb308" change="1325350790" id="N0003" type="Source Note" format="1">
@@ -34846,19 +35214,19 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006102735078
       <text>http://www.arkivverket.no/URN:kb_read?ls=1&amp;idx_id=3446</text>
     </note>
     <note handle="_c22bfae0fd6646fd3c0" change="1334338531" id="N0007" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. 8 (1862-1871), Fødte og døpte 1863, side 23.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=377&amp;idx_id=377&amp;uid=ny&amp;idx_side=-24
+      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. 8 (1862-1871), Fødte og døpte 1863, side 23. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=377&amp;idx_id=377&amp;uid=ny&amp;idx_side=-24 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060330020317.jpg</text>
     </note>
     <note handle="_c22bfe064365155f2de" change="1334338757" id="N0010" type="Citation">
       <text>Fødte og døpte 1906, nr. 208
-Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Fødte og døpte 1906, side 85.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7359&amp;idx_id=7359&amp;uid=ny&amp;idx_side=-86
+Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Fødte og døpte 1906, side 85. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7359&amp;idx_id=7359&amp;uid=ny&amp;idx_side=-86 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061027350785.jpg</text>
     </note>
     <note handle="_c22c011a1226c53fa5a" change="1334339080" id="N0011" type="Event Note">
-      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Konfirmerte 1921, side 441.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7359&amp;idx_id=7359&amp;uid=ny&amp;idx_side=-437
+      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922), Konfirmerte 1921, side 441. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7359&amp;idx_id=7359&amp;uid=ny&amp;idx_side=-437 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061027351136.jpg</text>
     </note>
     <note handle="_c22c17f78ae752a483b" change="1334341477" id="N0014" type="Citation">
@@ -34943,19 +35311,19 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006102735113
       </style>
     </note>
     <note handle="_c30d3da4aca5278f73b" change="1340385304" id="N0041" type="Transcript">
-      <text>Christian Olsen skreiv seg for Soelien (Srarlia), for i 1695 hadde  Alm-
-lia blitt delt i to, Nordlia  og Sralia.
-Men  tilbake til legatet:
-&lt;&lt;Da det  h a r   behaget  den  algode  Gud  a t  velsigne  mig  med  timelig
-Formue  og  givet mig  mere  end  jeg  i  dette  nærværende  Liv  t enke r   a t
-behrave, s å  er dette a t  jeg med fuldt  Overlæg og fuld Sands  og Samling
-vil  testamentere  og  bortskjænke  100  Rbd  S.  V.  (riksbankdaler  sralv
-verdi)  Siger Et  hundrede Riksbankdaler  Sralv Værdie, s t å ende  på  obli-
-gasjon hos Even Nielsen Rognlien, til Understrattelse  for f a t t ige  Skole-
-brarn  i min Fradebygd Hurdalen, som jeg  nu overlader  til Peder Johan-
-sen, skolelærer, Ole  Eriksen  Rrasrud  og  J ens  Johansen  Garsjraes fulde
-Rådighed  efter  min  d0d  a t   uddele  og  bestyre,  som  de  e f t e r   bedste
-Skjransomhed  finde  for  godt,  hvilket  jeg  nu  haver  t r ende   Personer
+      <text>Christian Olsen skreiv seg for Soelien (Srarlia), for i 1695 hadde  Alm- 
+lia blitt delt i to, Nordlia  og Sralia. 
+Men  tilbake til legatet: 
+&lt;&lt;Da det  h a r   behaget  den  algode  Gud  a t  velsigne  mig  med  timelig 
+Formue  og  givet mig  mere  end  jeg  i  dette  nærværende  Liv  t enke r   a t  
+behrave, s å  er dette a t  jeg med fuldt  Overlæg og fuld Sands  og Samling 
+vil  testamentere  og  bortskjænke  100  Rbd  S.  V.  (riksbankdaler  sralv 
+verdi)  Siger Et  hundrede Riksbankdaler  Sralv Værdie, s t å ende  på  obli- 
+gasjon hos Even Nielsen Rognlien, til Understrattelse  for f a t t ige  Skole- 
+brarn  i min Fradebygd Hurdalen, som jeg  nu overlader  til Peder Johan-  
+sen, skolelærer, Ole  Eriksen  Rrasrud  og  J ens  Johansen  Garsjraes fulde 
+Rådighed  efter  min  d0d  a t   uddele  og  bestyre,  som  de  e f t e r   bedste 
+Skjransomhed  finde  for  godt,  hvilket  jeg  nu  haver  t r ende   Personer 
 hidkaldet, for a t  modtage denne  min Begjæring og Villie</text>
       <style name="bold">
         <range start="550" end="571"/>
@@ -34983,13 +35351,13 @@ hidkaldet, for a t  modtage denne  min Begjæring og Villie</text>
       <text>http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&amp;db=bjerkek&amp;id=I08657</text>
     </note>
     <note handle="_c30d46c63a63fb11395" change="1398535140" id="N0049" type="Transcript">
-      <text>5) Even Nilsen, f. 1788, br. 1806-45, g. m. Johanne Mikkelsd. Fårlund, Toten. Barn: Nils, Mickael
-(g. m. Marie Gulbrandsd. Bonkerua), Berte (g. m. lærer Ola Larsen Bålsrud), Elline, Johannes, Anders,
-Martin, Tine (g. m. Kristoffer Dal). Even tredje gang g. m. Johanne Larsd. Dalen. En sønn: Even. (Br.s
-annen kone er ukjent, men hun hadde ingen barn.) Br. leide bort Dalen til Kristian Nilsen Haga i Eidsvold
-fra 1813. Han brukte plassen som seter. Seterdagen var l0. juni og saudagen l0. sept. (da sauen skulle
-sankes ned fra skogen). Etter Even Nilsens død blei flere gardparter skilt fra hovedbølet til flere av barna:
-Dalen til Johannes, Enga til Evens bror Ole Nilsen, Søgardn til Martin, Midtgardn til Anders, Nordgardn
+      <text>5) Even Nilsen, f. 1788, br. 1806-45, g. m. Johanne Mikkelsd. Fårlund, Toten. Barn: Nils, Mickael 
+(g. m. Marie Gulbrandsd. Bonkerua), Berte (g. m. lærer Ola Larsen Bålsrud), Elline, Johannes, Anders, 
+Martin, Tine (g. m. Kristoffer Dal). Even tredje gang g. m. Johanne Larsd. Dalen. En sønn: Even. (Br.s 
+annen kone er ukjent, men hun hadde ingen barn.) Br. leide bort Dalen til Kristian Nilsen Haga i Eidsvold 
+fra 1813. Han brukte plassen som seter. Seterdagen var l0. juni og saudagen l0. sept. (da sauen skulle 
+sankes ned fra skogen). Etter Even Nilsens død blei flere gardparter skilt fra hovedbølet til flere av barna: 
+Dalen til Johannes, Enga til Evens bror Ole Nilsen, Søgardn til Martin, Midtgardn til Anders, Nordgardn 
 til Elline og husmannsplassen Bonkerud til Nils. Over til svigersønnen :</text>
       <style name="bold">
         <range start="2" end="14"/>
@@ -34999,11 +35367,11 @@ til Elline og husmannsplassen Bonkerud til Nils. Over til svigersønnen :</text>
       <text>http://mapage.noos.fr/nilsaxel2/NABimages2/Rognlia.pdf</text>
     </note>
     <note handle="_c30d48fb022717ad281" change="1398535134" id="N0051" type="Transcript">
-      <text>1) Anders Evensen, f. 1820, br. 1845-78, g. m. Katrine Ulriksdatter Nordlia. Barn: Johanne (g. m.
-Bent Sandsnes), Even (til Lundby), Karine (g. m. Andreas Rønningen), Tea (g. m. Andreas Larsen
-Sandsnesseter), Anton, Martin (til Fåle i Nordby), Gustav (byggmester i Oslo). Anders 2. g. m. Sørine
-Brattliløkken. Barn: Johannes (USA), Kristian og Agnes. Br. kjøpte Rognliflaen av broren Johannes i
-1855 og Nordstua Lundby i 1863 og dreiv deretter i 15 år Midtgardn som underbruk til Lundby. Over til
+      <text>1) Anders Evensen, f. 1820, br. 1845-78, g. m. Katrine Ulriksdatter Nordlia. Barn: Johanne (g. m. 
+Bent Sandsnes), Even (til Lundby), Karine (g. m. Andreas Rønningen), Tea (g. m. Andreas Larsen 
+Sandsnesseter), Anton, Martin (til Fåle i Nordby), Gustav (byggmester i Oslo). Anders 2. g. m. Sørine 
+Brattliløkken. Barn: Johannes (USA), Kristian og Agnes. Br. kjøpte Rognliflaen av broren Johannes i 
+1855 og Nordstua Lundby i 1863 og dreiv deretter i 15 år Midtgardn som underbruk til Lundby. Over til 
 sønnen:</text>
       <style name="bold">
         <range start="2" end="17"/>
@@ -35583,7 +35951,7 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-sk2008112531007
       <text>http://www.tore-nygaard.com/ostfold/1374.htm</text>
     </note>
     <note handle="_c339195e89c0f0f8a46" change="1341562538" id="N0231" type="Person Note">
-      <text>31.03.1687 utsteder Kristoffer (Madsen) Aamot i Fet, Sten Madsen (Melleby) i Baastad og Kristoffer Bliksrud i Høland bygselseddel til Gulbrand Mortensen på 1 skippund i Berger. Bygselseddelen ble tinglyst 20.03.1690.
+      <text>31.03.1687 utsteder Kristoffer (Madsen) Aamot i Fet, Sten Madsen (Melleby) i Baastad og Kristoffer Bliksrud i Høland bygselseddel til Gulbrand Mortensen på 1 skippund i Berger. Bygselseddelen ble tinglyst 20.03.1690. 
 14.10.1702 skjøter så Steen 5½ lispund i Berger til Gulbrand Mortensen. Skjøtet tinglyses 23.10.1702.</text>
       <style name="bold">
         <range start="134" end="176"/>
@@ -36261,8 +36629,8 @@ http://www.familyorigins.com/users/j/a/c/Meredith-K-Jacobssmith/FAMO1-0001/d373.
       <text>http://www.arildbraathen.com/arild666/pafg670.htm#20148</text>
     </note>
     <note handle="_c37454c7ed47071acb4" change="1343152537" id="N0455" type="Source Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Trøgstad, Klokkerbok nr. I 1 (1815-1831), Fødte og døpte 1819, side 43-44.
-Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=7478&amp;idx_id=7478&amp;uid=ny&amp;idx_side=-38
+      <text>Kildeinformasjon: Østfold fylke, Trøgstad, Klokkerbok nr. I 1 (1815-1831), Fødte og døpte 1819, side 43-44. 
+Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=7478&amp;idx_id=7478&amp;uid=ny&amp;idx_side=-38 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061019010422.jpg</text>
     </note>
     <note handle="_c37455922194c4e0476" change="1343152620" id="N0456" type="Source Reference Note">
@@ -36569,7 +36937,7 @@ Kile</text>
 http://gw2.geneanet.org/inger?lang=no;pz=inger+helene;nz=falch+jacobsen;ocz=0;p=ragnhild;n=stenersdatter
 
 Kilde:
-Kildeinformasjon: Østfold fylke, Trøgstad, Ministerialbok nr. I 5 (1784-1814), Ekteviede 1811, side 152.
+Kildeinformasjon: Østfold fylke, Trøgstad, Ministerialbok nr. I 5 (1784-1814), Ekteviede 1811, side 152. 
 Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7477&amp;idx_id=7477&amp;uid=ny&amp;idx_side=-156
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061019010376.jpg</text>
       <style name="link" value="gramps://Person/handle/c313002be724a8694e7">
@@ -36717,12 +37085,12 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006101901037
     <note handle="_c44b50f339d75dfed5f" change="1348923498" id="N0594" type="Person Note">
       <text>Ekteskap med Ane Hansdatter, nr 39
 
-Kildeinformasjon: Østfold fylke, Trøgstad, Klokkerbok nr. I 1 (1815-1831), Ekteviede 1818, side 12-13.
+Kildeinformasjon: Østfold fylke, Trøgstad, Klokkerbok nr. I 1 (1815-1831), Ekteviede 1818, side 12-13. 
 Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7478&amp;idx_id=7478&amp;uid=ny&amp;idx_side=-127
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061019010511.jpg</text>
     </note>
     <note handle="_c44b524266e18fb0026" change="1348923635" id="N0595" type="Source Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Trøgstad, Klokkerbok nr. I 1 (1815-1831), Ekteviede 1818, side 12-13.
+      <text>Kildeinformasjon: Østfold fylke, Trøgstad, Klokkerbok nr. I 1 (1815-1831), Ekteviede 1818, side 12-13. 
 Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7478&amp;idx_id=7478&amp;uid=ny&amp;idx_side=-127
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061019010511.jpg</text>
     </note>
@@ -36766,8 +37134,8 @@ http://www.arkivverket.no/URN:kb_read?ls=1&amp;idx_id=7359</text>
       <text>gårdsnr. 229, bruksnr. 232</text>
     </note>
     <note handle="_c55a5967042609a74d5" change="1362076642" id="N0603" type="Source Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Mysen i Eidsberg, Ministerialbok nr. IV 1 (1921-1948), Ekteviede 1936, side 264.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=22808&amp;idx_id=22808&amp;uid=ny&amp;idx_side=-214
+      <text>Kildeinformasjon: Østfold fylke, Mysen i Eidsberg, Ministerialbok nr. IV 1 (1921-1948), Ekteviede 1936, side 264. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=22808&amp;idx_id=22808&amp;uid=ny&amp;idx_side=-214 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb10040901280215.jpg</text>
     </note>
     <note handle="_c55a5c8b63804b16282" change="1356199482" id="N0605" type="Person Note">
@@ -36807,22 +37175,22 @@ Mysen-møbler gjennom 100 år, Norsk Møbelfaglig Senter av Eldar Høidal</text>
       <text>Mulige koblinger mellom Asbjørn og Emma. MS Krabben gikk fra Sarpefossen til Grønsund [Bygdehistori Eidsberg II]. Jernbanen gikk gjennom Mysen til Sarpsborg.</text>
     </note>
     <note handle="_c55a6b653de22e4c092" change="1356200872" id="N0610" type="Source Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. 8 (1862-1871), Fødte og døpte 1863, side 23.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=377&amp;idx_id=377&amp;uid=ny&amp;idx_side=-24
+      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. 8 (1862-1871), Fødte og døpte 1863, side 23. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=377&amp;idx_id=377&amp;uid=ny&amp;idx_side=-24 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060330020317.jpg</text>
     </note>
     <note handle="_c55a6e8805c7c47a5ad" change="1356201588" id="N0611" type="Source Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. 11 (1878-1917), Ekteviede 1891, side 627.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=3446&amp;idx_id=3446&amp;uid=ny&amp;idx_side=-617
+      <text>Kildeinformasjon: Østfold fylke, Glemmen, Ministerialbok nr. 11 (1878-1917), Ekteviede 1891, side 627. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=3446&amp;idx_id=3446&amp;uid=ny&amp;idx_side=-617 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060511030076.jpg</text>
     </note>
     <note handle="_c55a6fa0c6e28754975" change="1356201315" id="N0612" type="Source Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Glemmen, Klokkerbok nr. 3 (1852-1866), Fødte og døpte 1863, side 150-151.
+      <text>Kildeinformasjon: Østfold fylke, Glemmen, Klokkerbok nr. 3 (1852-1866), Fødte og døpte 1863, side 150-151. 
 Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7457&amp;idx_id=7457&amp;uid=ny&amp;idx_side=-78
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061017030329.jpg</text>
     </note>
     <note handle="_c55a7010a46330c041c" change="1356201361" id="N0613" type="Source Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Glemmen, Klokkerbok nr. 3 (1852-1866), Fødte og døpte 1863, side 150-151.
+      <text>Kildeinformasjon: Østfold fylke, Glemmen, Klokkerbok nr. 3 (1852-1866), Fødte og døpte 1863, side 150-151. 
 Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7457&amp;idx_id=7457&amp;uid=ny&amp;idx_side=-78
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061017030329.jpg</text>
     </note>
@@ -36849,7 +37217,7 @@ Yrke 1900, 1906, 1910, 1921 1935: Lekterfører [Folketellingen 1900, Folketellin
     <note handle="_c55a73f5d5a4c517879" change="1356201770" id="N0617" type="Person Note">
       <text>Bosted 1900 Nygaard - Traramoen, Glemmen (Glemminge) (Folketellingen 1900)
 1900 Nygaard - Traramoen [Folketellingen 1900]
-1906 Traramoen [Kirkebok Asbjørns fødsel/dåp]
+1906 Traramoen [Kirkebok Asbjørns fødsel/dåp] 
 1910 Traramoen [Folketellingen 1900]
 1921 Traramoen [Kirkebok Asbjørns konfirmasjon]</text>
     </note>
@@ -37013,7 +37381,7 @@ http://histfam.familysearch.org/getperson.php?personID=I3255&amp;tree=Hvaler</te
       <text>http://www.digitalarkivet.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=2&amp;filnamn=f60239&amp;gardpostnr=100&amp;personpostnr=557#nedre</text>
     </note>
     <note handle="_c61887729503e3ecef2" change="1361304087" id="N0665" type="Source Reference Note">
-      <text>Kildeinformasjon: Akershus fylke, Hurdal i Hurdal, Ministerialbok nr. I 5 (1846-1859), Fødte og døpte 1848, side 12.
+      <text>Kildeinformasjon: Akershus fylke, Hurdal i Hurdal, Ministerialbok nr. I 5 (1846-1859), Fødte og døpte 1848, side 12. 
 Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=516&amp;idx_id=516&amp;uid=ny&amp;idx_side=-16
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060308040889.jpg</text>
     </note>
@@ -37021,7 +37389,7 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006030804088
       <text>Usikkerhet om dette er riktig. Ser ut som om det står far er Halvor Johansen, mens i dåp til barnet til Pernille står det Halvor Christensen?</text>
     </note>
     <note handle="_c6189845a7a00cc81e3" change="1361305851" id="N0667" type="Source Reference Note">
-      <text>Kildeinformasjon: Akershus fylke, Hurdal, Ministerialbok nr. I 1 (1777-1812), Fødte og døpte 1812, Døde og begravede 1810, side 113.
+      <text>Kildeinformasjon: Akershus fylke, Hurdal, Ministerialbok nr. I 1 (1777-1812), Fødte og døpte 1812, Døde og begravede 1810, side 113. 
 Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=7667&amp;idx_id=7667&amp;uid=ny&amp;idx_side=-115
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061106020301.jpg</text>
     </note>
@@ -37190,8 +37558,8 @@ Mulig person, http://slekt.nr.no/wiki/Pernille_Halvorsdatter_(k0239a812-1)</text
       <text>http://www.arkivverket.no/URN:kb_read?ls=1&amp;idx_id=406</text>
     </note>
     <note handle="_c64ba3611923cec4e37" change="1362676036" id="N0712" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 9 (1850-1856), Konfirmerte 1856, side 172.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=406&amp;idx_id=406&amp;uid=ny&amp;idx_side=-181
+      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 9 (1850-1856), Konfirmerte 1856, side 172. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=406&amp;idx_id=406&amp;uid=ny&amp;idx_side=-181 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060321030775.jpg</text>
     </note>
     <note handle="_c64ba6e3a7c0b775ff9" change="1690995953" id="N0713" type="Link">
@@ -37211,13 +37579,13 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006032103077
 4. 20 år i 1865 i Skiptvedt [Folketellingen 1865]</text>
     </note>
     <note handle="_c6519382630088f5b18" change="1362835434" id="N0716" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 7 (1825-1841), Fødte og døpte 1840, side 129.
+      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 7 (1825-1841), Fødte og døpte 1840, side 129. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=9&amp;idx_id=9&amp;uid=ny&amp;idx_side=-134
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061020020591.jpg</text>
     </note>
     <note handle="_c6519412f8c67fc60f7" change="1362837023" id="N0717" type="Person Note">
       <text>Etterlysning på news:
-https://groups.google.com/forum/?hl=no&amp;fromgroups#!topic/no.fritid.slektsforsking.etterlysing/dmtB2evT9o8
+https://groups.google.com/forum/?hl=no&amp;fromgroups#!topic/no.fritid.slektsforsking.etterlysing/dmtB2evT9o8 
 
 Foreldre Ole Hansen og Olea Johannesdtr.
 
@@ -37240,17 +37608,17 @@ og Anne Evensdtr 35 år.</text>
       <text>http://digitalarkivet.no/cgi-win/WebCens.exe?slag=visbase&amp;sidenr=2&amp;filnamn=f60128&amp;gardpostnr=117&amp;personpostnr=791#nedre</text>
     </note>
     <note handle="_c651991fef766a5999d" change="1362836022" id="N0719" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 7 (1825-1841), Ekteviede 1836, side 211.
+      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 7 (1825-1841), Ekteviede 1836, side 211. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=9&amp;idx_id=9&amp;uid=ny&amp;idx_side=-216
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061020020673.jpg</text>
     </note>
     <note handle="_c651a0955e860ad67cb" change="1362836804" id="N0720" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 6 (1814-1824), Fødte og døpte 1819-1820, side 126-127.
+      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 6 (1814-1824), Fødte og døpte 1819-1820, side 126-127. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=8&amp;idx_id=8&amp;uid=ny&amp;idx_side=-65
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061020020251.jpg</text>
     </note>
     <note handle="_c651a56c49a42edef3f" change="1362837312" id="N0721" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 6 (1814-1824), Ekteviede 1820, side 430-431.
+      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. I 6 (1814-1824), Ekteviede 1820, side 430-431. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=8&amp;idx_id=8&amp;uid=ny&amp;idx_side=-159
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061020020345.jpg</text>
     </note>
@@ -37261,23 +37629,23 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006102002034
       <text>Ole Hansen Ruud med flere
 http://www.disnorge.no/slektsforum/viewtopic.php?t=73700:
 
-Den familien jeg finner, har en viss tilknytning til Store Rud i Os.
-Jeg tror at foreldrene til Johannes og Edvard Olsønner er:
-OLE HANSEN RUUD og OLEA JOHANNESDATTER (f. på Gjølstad-plass). Vielsen, mars, 1836 - nr. 11 venstre side:
-http://www.arkivverket.no/URN:kb_read?idx_kildeid=9&amp;idx_id=9&amp;uid=ny&amp;id x_side=-216
+Den familien jeg finner, har en viss tilknytning til Store Rud i Os. 
+Jeg tror at foreldrene til Johannes og Edvard Olsønner er: 
+OLE HANSEN RUUD og OLEA JOHANNESDATTER (f. på Gjølstad-plass). Vielsen, mars, 1836 - nr. 11 venstre side: 
+http://www.arkivverket.no/URN:kb_read?idx_kildeid=9&amp;idx_id=9&amp;uid=ny&amp;id x_side=-216 
 
-De hadde minst disse barn (iflg. FS):
-1. Maren Johanne OLESDATTER - Birth/Christening: 27 Jun 1856 Rakkestad
-2. Anders OLESEN - Birth/Christening: 13 Dec 1846 Rakkestad
-3. Ole Christian OLESEN - Birth/Christening: 21 Oct 1861 Rakkestad
-4. Johannes OLESEN - Birth/Christening: 01 Dec 1837 Rakkestad
-5. Edvard OLESEN - Birth/Christening: 17 May 1849 Rakkestad
-6. Johannes OLESEN - Birth/Christening: 03 Sep 1844 Rakkestad
-7. Thoger OLESEN - Birth/Christening: 04 May 1859 Rakkestad
-8. Hans OLESEN - Birth/Christening: 19 Oct 1840 Rakkestad
+De hadde minst disse barn (iflg. FS): 
+1. Maren Johanne OLESDATTER - Birth/Christening: 27 Jun 1856 Rakkestad 
+2. Anders OLESEN - Birth/Christening: 13 Dec 1846 Rakkestad 
+3. Ole Christian OLESEN - Birth/Christening: 21 Oct 1861 Rakkestad 
+4. Johannes OLESEN - Birth/Christening: 01 Dec 1837 Rakkestad 
+5. Edvard OLESEN - Birth/Christening: 17 May 1849 Rakkestad 
+6. Johannes OLESEN - Birth/Christening: 03 Sep 1844 Rakkestad 
+7. Thoger OLESEN - Birth/Christening: 04 May 1859 Rakkestad 
+8. Hans OLESEN - Birth/Christening: 19 Oct 1840 Rakkestad 
 
 
-Faren til Ole Hansen er ant. tjenestegutten HANS JACOBSEN på Ruud, i FT 1801:
+Faren til Ole Hansen er ant. tjenestegutten HANS JACOBSEN på Ruud, i FT 1801: 
 
 Http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=1 7&amp;filnamn=f10128&amp;gardpostnr=128&amp;personpostnr=2109&amp;merk=2109#ovre</text>
     </note>
@@ -37285,12 +37653,12 @@ Http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;sidenr=1 7&amp
       <text>http://digitalarkivet.uib.no/cgi-win/webcens.exe?slag=visbase&amp;filnamn=f10128</text>
     </note>
     <note handle="_c651fc1c7547c3d42d4" change="1362846402" id="N0725" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. 11 (1862-1877), Ekteviede 1866, side 294.
+      <text>Kildeinformasjon: Østfold fylke, Rakkestad, Ministerialbok nr. 11 (1862-1877), Ekteviede 1866, side 294. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=5766&amp;idx_id=5766&amp;uid=ny&amp;idx_side=-316
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060920010765.jpg</text>
     </note>
     <note handle="_c65205f98937171e8a2" change="1362847436" id="N0726" type="Event Reference Note">
-      <text>Kildeinformasjon: Østfold fylke, Skiptvet, Ministerialbok nr. 6 (1839-1860), Fødte og døpte 1846, side 31.
+      <text>Kildeinformasjon: Østfold fylke, Skiptvet, Ministerialbok nr. 6 (1839-1860), Fødte og døpte 1846, side 31. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=7220&amp;idx_id=7220&amp;uid=ny&amp;idx_side=-37
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061003100037.jpg</text>
     </note>
@@ -37301,12 +37669,12 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006100310003
       </style>
     </note>
     <note handle="_c652121cfd675622702" change="1362848709" id="N0728" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Eidsberg, Ministerialbok nr. I 10A (1857-1866), Fødte og døpte 1858, side 39.
+      <text>Kildeinformasjon: Østfold fylke, Eidsberg, Ministerialbok nr. I 10A (1857-1866), Fødte og døpte 1858, side 39. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=359&amp;idx_id=359&amp;uid=ny&amp;idx_side=-42
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060404030507.jpg</text>
     </note>
     <note handle="_c654dd3b66f5207e113" change="1362923695" id="N0729" type="Citation">
-      <text>Kildeinformasjon: Østfold fylke, Hærland i Eidsberg, Ministerialbok nr. II 2 (1901-1933), Døde og begravede 1901, side 163.
+      <text>Kildeinformasjon: Østfold fylke, Hærland i Eidsberg, Ministerialbok nr. II 2 (1901-1933), Døde og begravede 1901, side 163. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=22806&amp;idx_id=22806&amp;uid=ny&amp;idx_side=-166
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb10040804070505.jpg</text>
     </note>
@@ -37515,31 +37883,31 @@ Ole Johansen var g.m. Maren Helene Thorsdtr, f. 1855, dtr til Thor Jørgensen og
 Peder hadde før han døde gitt det han eide i gården Klerud til sin sønn Jens Pedersen mot å bli forsørget av ham.</text>
     </note>
     <note handle="_c956c07a7fc3de89bd5" change="1383590210" id="N0792" type="Citation">
-      <text>Enken etter Gunder Lomsnes giftet seg igjen med Peder Kristensen,
-og han ble bruker av garden. I 1725 døde hans kOIJ.e, og på skiftet etter
-henne møtte Rasmus Tønsberg som verge for brorsønnen Jon Gundersen
-Lomsnes og fordret at Peder Kristensen skulle gi fra seg garden. Det
-gjorde han også, men det ser ut til at han fikk brukbare vilkår for det.
-Han skulle løses ut med 200 daler, 100 kontant og resten mot pant
-i garden. Rasmus Tønsberg skulle svare all gjeld som heftet i boet, og
-det var hele 326 daler, så skulle Peder Kristensen gi fra seg garden som
-den stod med avling og lØsøre. Det eneste han skulle beholde, var en
-grahest med sadel og sine egne gangklær. Besetningen som Rasmus
-Tønsberg kvitterte for, bestod av 2 hester, 5 kyr, 4 kviger, 1 okse, 3 sauer,
-4 lam, 3 geiter, 2 voksne grispurker og 2 unge griser. Løsøret på garden
+      <text>Enken etter Gunder Lomsnes giftet seg igjen med Peder Kristensen, 
+og han ble bruker av garden. I 1725 døde hans kOIJ.e, og på skiftet etter 
+henne møtte Rasmus Tønsberg som verge for brorsønnen Jon Gundersen 
+Lomsnes og fordret at Peder Kristensen skulle gi fra seg garden. Det 
+gjorde han også, men det ser ut til at han fikk brukbare vilkår for det. 
+Han skulle løses ut med 200 daler, 100 kontant og resten mot pant 
+i garden. Rasmus Tønsberg skulle svare all gjeld som heftet i boet, og 
+det var hele 326 daler, så skulle Peder Kristensen gi fra seg garden som 
+den stod med avling og lØsøre. Det eneste han skulle beholde, var en 
+grahest med sadel og sine egne gangklær. Besetningen som Rasmus 
+Tønsberg kvitterte for, bestod av 2 hester, 5 kyr, 4 kviger, 1 okse, 3 sauer, 
+4 lam, 3 geiter, 2 voksne grispurker og 2 unge griser. Løsøret på garden 
 var verdsatt til 110 daler</text>
     </note>
     <note handle="_c956cc0cd9025582ec8" change="1383591429" id="N0793" type="Citation">
       <text>Om Nordre Klerud:
 I 1690 kalles gården kappelangård, dvs at den ble brukt av prestens kappelan Christen Pedersen, Høland som også var prestens svigersønn og som også etterfulgte han som sogneprest i 1696, men døde allerede i 1899 (0.359) Enken fortsatte å bruke gården, men hennes økonomiske stilling var slett og hun søkte om skattenedsettelse og la da frem følgende anbefaling fra biskopen i Oslo:
 
-&quot;Sandferdig Beretning.
+&quot;Sandferdig Beretning. 
 Kand udi al Sandhed attesteris at Hæderlig og Gudelskende Matrone Ingeborg Jørgensdatter Sl. Hr. Christen Pedersøn forrige Sognepræstis ved Rødnæs Præstegield. Hans efterladte Enke havde formedelst slette Wilckor og mange uopfødde Børn befindes saa fattig og nødtrængende at hun ikke uden dem den fatteige Prøste Enken udi Deres Kongl Majss allernaadigste udgangne Skattebrev allernaadigst forundres Skattefrihed av et Skippund Tunge kand substitere.
 Bispegaarden for Christiania den 5. April 1701.&quot;
 
 Hu fikk skatten nedsatt med 3 rdl. og 2 mark hvert år så lengu hun brukte gården. I &quot;skoskatten&quot; for 1711 heter det for Klerud: &quot;Præsteenke Sal. hr. Christen Pedersøn og 4 børn, 1 liden tjenestejente, 1 liden tjnestegut&quot;
 
-Matrikkelen 1723:
+Matrikkelen 1723: 
 Eier og bruker er Ingeborg sal. hr. Christen Pedersøn. Skog til husfornødenhet. I sollier og tungvint. Utsæd 3 kv. bl.korn, 8 tnd. havre, 1/2 sett erter, 1 sett lin. Høyavling 22 lass Fehold 9 kuer, 10 sauer og geiter. Skyld 1 skp. 7 lp. Avtals 4 1/2 lp.</text>
     </note>
     <note handle="_c956d33caac7630a75e" change="1383592177" id="N0794" type="General">
@@ -37979,20 +38347,20 @@ Det er derfor mulig at denne personen (Siri Olsdatter Daltorp er datteren.... (S
     <note handle="_c9735c9c4c05d20efa3" change="1761685049" id="N0930" type="MainPage">
       <text>Introduksjon
 
-Dette er slektssidene for Knut H Pedersen, min kone og datter. Jeg har samlet informasjon om våre forfedre tilbake i tid, informasjon om våre forfedres søsken og andre barn er ikke tatt med. Slektsgranskningen er basert både på primærkilder som folketellinger, kirkebøker og gravregister og sekundærkilder som slektsbøker, gårdshistorie og andre personer sin slektsgranskning samt nettstedet Geni.
-
+Dette er slektssidene for Knut H Pedersen, min kone og datter. Jeg har samlet informasjon om våre forfedre tilbake i tid, informasjon om våre forfedres søsken og andre barn er ikke tatt med. Slektsgranskningen er basert både på primærkilder som folketellinger, kirkebøker og gravregister og sekundærkilder som slektsbøker, gårdshistorie og andre personer sin slektsgranskning samt nettstedet Geni.  
+ 
 Vår slektshistorie bygger i stor grad på andres arbeid som finnes tilgjenglig på Internet og dette har jeg kommer frem av kildehenvisninger. Mitt arbeid har bestått i å undersøke vår nærmeste slekt og koble dette sammen med arbeidet andre har gjort og publisert. Jeg har ikke kommet så langt i å verifisere om slektstreet stemmer, og det vil nok kunne finnes ting som ikke er 100% korrekt.
 
 Slekt Knut H.
 Min agnatiske slektslinje (slekt i mannslinje) har jeg funnet tilbake via Peder Pedersen født 1821, som flyttet fra Skulstadberget i Grue  (Hedmark) til Traramoen i Fredrikstad i 1845. Hans slekt er av skogfinner som har levd på Finnskogen i lang tid.
-Peder Pedersen's kone Anne Lovise Olsdatter Pedersen sin slekt har jeg sporet hennes ganske langt tilbake(1500-tallet) på Hvaler i Østfold. Og deres sønn Kristian Pedersen sin kone Mina Anette Hansdatter Pedersen sin slekt til Store-Rud i Rakkestad.
+Peder Pedersen's kone Anne Lovise Olsdatter Pedersen sin slekt har jeg sporet hennes ganske langt tilbake(1500-tallet) på Hvaler i Østfold. Og deres sønn Kristian Pedersen sin kone Mina Anette Hansdatter Pedersen sin slekt til Store-Rud i Rakkestad. 
 
 
 Min farmor Emma Hensel Pedersen kommer fra Tyskland og her har det heller ikke lykkes meg å finne slekt lenger tilbake enn hennes foreldre Ernst Paul Hensel og Anna Louise Boehm  som også flyttet til Norge i 1920 fra Hamburg (trolig Bergedorf rett på utsiden av Hamburg.)
 
 På min mormor Astrid Ødemark Langebrekke side kommer slekten fra Hurdal i Akershus. De kom flyttende til Kykkelsrud og bosatte seg der i forbindelse med kraftverkutbyggingen. Hennes far Isac Olsen Ødemark har jeg funnet et par generasjoner tilbake, mens hennes mor Angnes Severine Andersdatter Ødemark har noen slektslinjer tilbake på 1600 tallet som trolig kan være av finsk opprinnelse.
 
-Min morfar Kristian Langebrekke er den av mine besteforeldre der jeg har funnet mest slekt tilbake i tid. Jeg har all slekt til og med mine tipp-tipp-tipp-oldeforeldre og enkelte slektsrekker går langt-langt tilbake i tid, om enn det nok etter hvert blir betydelig tvil av hvor korrekt det er og jeg derfor har valgt å ikke kopiere alt andre har publisert. Her finnes knytninger til Kjeserud/Botner slekten, Skjørtorp slekten, Karlsrud slekten,  Høie-Mysen slekten, Kind slekten, Aarnæs slekten, Michelet slekten og Nannestad slekten som det finnes publiserte slektsbøker på.
+Min morfar Kristian Langebrekke er den av mine besteforeldre der jeg har funnet mest slekt tilbake i tid. Jeg har all slekt til og med mine tipp-tipp-tipp-oldeforeldre og enkelte slektsrekker går langt-langt tilbake i tid, om enn det nok etter hvert blir betydelig tvil av hvor korrekt det er og jeg derfor har valgt å ikke kopiere alt andre har publisert. Her finnes knytninger til Kjeserud/Botner slekten, Skjørtorp slekten, Karlsrud slekten,  Høie-Mysen slekten, Kind slekten, Aarnæs slekten, Michelet slekten og Nannestad slekten som det finnes publiserte slektsbøker på. 
 
 Slekt min kone
 
@@ -38096,7 +38464,7 @@ Hennes mors slekt: Gunnar Dahl, Gerd Dahl</text>
     <note handle="_c9803161e423a456933" change="1384702872" id="N0931" type="Person Note">
       <text>Fra Rødnes bygdebok: Hiin
 
-I 1785 fikk Gunder Christophersen Sukke bygslet en halvdel, mens Ingebret Mortensen beholdt den annen halvdel. I 1795 solge Øymark kirke gården til de 2 forpaktere, Ingebreg får 5 skinn for 343 rdl. og 3 sk. og Gunder får 7 skinn for 481 rdl og 1 sk. Ingebreg solgte straks 2 skinn til Gunder for 230 rdl. og i 1804 solgte han de siste 3 skinn til Frederik Mathisen - se Tommelsrud. Året etter solgte Fredrik disse til Aksel Iversen Stillesby som i 1806 solgte til Gunder for 600 rdl. og denne er dermed eneeier av Hiin.
+I 1785 fikk Gunder Christophersen Sukke bygslet en halvdel, mens Ingebret Mortensen beholdt den annen halvdel. I 1795 solge Øymark kirke gården til de 2 forpaktere, Ingebreg får 5 skinn for 343 rdl. og 3 sk. og Gunder får 7 skinn for 481 rdl og 1 sk. Ingebreg solgte straks 2 skinn til Gunder for 230 rdl. og i 1804 solgte han de siste 3 skinn til Frederik Mathisen - se Tommelsrud. Året etter solgte Fredrik disse til Aksel Iversen Stillesby som i 1806 solgte til Gunder for 600 rdl. og denne er dermed eneeier av Hiin. 
 
 Gunder var først gift med Marthe Brynhildstr. Brudal. Hun d. barnløs straks etter.
 
@@ -38156,7 +38524,7 @@ I 1656 eier han i alt:
 	Buer i Øymark		14 lp. 3 rem.
 	Hafsten i Høland	10 lp.
 
-Oluf var annen gang gift med Anne Amundsdatter. Av barn fra 1. ekteskap kjennes bare en sønn, Ellef Olsen Lille Degnes, født ca 1621, en datter Aase gift med Peder Eriksen Storløs var vel også av dette ekteskap.
+Oluf var annen gang gift med Anne Amundsdatter. Av barn fra 1. ekteskap kjennes bare en sønn, Ellef Olsen Lille Degnes, født ca 1621, en datter Aase gift med Peder Eriksen Storløs var vel også av dette ekteskap. 
 
 Oluf Akselsen dør ca 1670 80 år gammel.</text>
     </note>
@@ -38293,7 +38661,7 @@ Oluf Akselsen dør ca 1670 80 år gammel.</text>
       <text>Antatt oppholdssted: Stensjøen Østre Thoten</text>
     </note>
     <note handle="_cb85c640e30183bc87a" change="1398596357" id="N0983" type="Citation">
-      <text>Kildeinformasjon: Akershus fylke, Hurdal i Hurdal, Klokkerbok nr. 1 (1902-1934), Ekteviede 1911, side 273.
+      <text>Kildeinformasjon: Akershus fylke, Hurdal i Hurdal, Klokkerbok nr. 1 (1902-1934), Ekteviede 1911, side 273. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=519&amp;idx_id=519&amp;uid=ny&amp;idx_side=-276
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060308030675.jpg</text>
     </note>
@@ -38388,7 +38756,7 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006030803067
       <text>http://www.geni.com/people/Goro-Brodshaug/6000000011529397557</text>
     </note>
     <note handle="_cb9679ed7fc06833140" change="1399044717" id="N1014" type="Citation">
-      <text>Kildeinformasjon: Akershus fylke, Hurdal, Ministerialbok nr. I 4 (1828-1845), Ekteviede 1833, side 151.
+      <text>Kildeinformasjon: Akershus fylke, Hurdal, Ministerialbok nr. I 4 (1828-1845), Ekteviede 1833, side 151. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=7669&amp;idx_id=7669&amp;uid=ny&amp;idx_side=-153
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20061106030002.jpg</text>
     </note>
@@ -38396,18 +38764,18 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006110603000
       <text>http://www.arkivverket.no/URN:kb_read?ls=1&amp;idx_id=7669</text>
     </note>
     <note handle="_cce2521139e5df91a27" change="1407952572" id="N1016" type="Source Note">
-      <text>Kildeinformasjon: Østfold fylke, Eidsberg i Eidsberg, Ministerialbok nr. I 14 (1902-1919), Fødte og døpte 1914, side 78.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=22804&amp;idx_id=22804&amp;uid=ny&amp;idx_side=-83
+      <text>Kildeinformasjon: Østfold fylke, Eidsberg i Eidsberg, Ministerialbok nr. I 14 (1902-1919), Fødte og døpte 1914, side 78. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=22804&amp;idx_id=22804&amp;uid=ny&amp;idx_side=-83 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb10040903120086.jpg</text>
     </note>
     <note handle="_cce25386e901676ede9" change="1407952725" id="N1017" type="Source Note">
-      <text>Kildeinformasjon: Østfold fylke, Eidsberg i Eidsberg, Klokkerbok nr. I 3 (1913-1937), Fødte og døpte 1914, side 8.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=720&amp;idx_id=720&amp;uid=ny&amp;idx_side=-9
+      <text>Kildeinformasjon: Østfold fylke, Eidsberg i Eidsberg, Klokkerbok nr. I 3 (1913-1937), Fødte og døpte 1914, side 8. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=720&amp;idx_id=720&amp;uid=ny&amp;idx_side=-9 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060210020356.jpg</text>
     </note>
     <note handle="_cce257221da6c2838a6" change="1407953103" id="N1018" type="Source Note">
-      <text>Kildeinformasjon: Østfold fylke, Eidsberg i Eidsberg, Ministerialbok nr. I 15 (1920-1937), Konfirmerte 1928, side 162.
-Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=22805&amp;idx_id=22805&amp;uid=ny&amp;idx_side=-121
+      <text>Kildeinformasjon: Østfold fylke, Eidsberg i Eidsberg, Ministerialbok nr. I 15 (1920-1937), Konfirmerte 1928, side 162. 
+Permanent sidelenke:  http://www.arkivverket.no/URN:kb_read?idx_kildeid=22805&amp;idx_id=22805&amp;uid=ny&amp;idx_side=-121 
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb10040903030124.jpg</text>
     </note>
     <note handle="_cce259ee5c53c71ae23" change="1407953396" id="N1019" type="Source Note">
@@ -38429,7 +38797,7 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb1004090303012
       <text>Fra kirkebok ved ekteskap med Kristian Pedersen er hennes far arbeider Hans Olsen Ruud, og forlover Sagarbeider Hans Olsen Ruud Billettberget.</text>
     </note>
     <note handle="_cd7c0aa137a53ece11b" change="1703596317" id="N1025" type="General">
-      <text>Kildeinformasjon: Østfold fylke, Onsøy, Ministerialbok nr. 4 (1861-1877), Fødte og døpte 1870, side 156.
+      <text>Kildeinformasjon: Østfold fylke, Onsøy, Ministerialbok nr. 4 (1861-1877), Fødte og døpte 1870, side 156. 
 Permanent sidelenke: http://www.arkivverket.no/URN:kb_read?idx_kildeid=6221&amp;idx_id=6221&amp;uid=ny&amp;idx_side=-163
 Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb20060928030899.jpg</text>
       <style name="link" value="http://www.arkivverket.no/URN:NBN:no-a1450-kb20060928030899.jpg">
@@ -38445,14 +38813,14 @@ Permanent bildelenke: http://www.arkivverket.no/URN:NBN:no-a1450-kb2006092803089
     <note handle="_cd7c134e91e55fadac4" change="1412080054" id="N1027" type="Person Note">
       <text>Peter Pedersen innflyttet fra Skiptvet januar 1855
 
-Peter Pedersen (Thoen), alder 41 år, er oppført i Skiptvet kirkebok som utflyttet til Røken 9/1/55.
-Hans hustru het Marie Svendsdr. og de hadde barna Johan Anton Petersen f. 1843, Karen Oline f. 1846 og sannsynligvis flere.
-Sønnen Johan Anton giftet seg i Eidsberg i 1867. Jeg vet ikke om hele familien kom tilbake til Østfold, eller bare ham.
-I en opptegnelse står Peter Pedersens navn oppført med gårdsnavnet Guttersrud - men jeg finner ham ikke på Guttersrud eller i resten av Røyken (eller noe annet sted) i 1865 folketellingen.
+Peter Pedersen (Thoen), alder 41 år, er oppført i Skiptvet kirkebok som utflyttet til Røken 9/1/55. 
+Hans hustru het Marie Svendsdr. og de hadde barna Johan Anton Petersen f. 1843, Karen Oline f. 1846 og sannsynligvis flere. 
+Sønnen Johan Anton giftet seg i Eidsberg i 1867. Jeg vet ikke om hele familien kom tilbake til Østfold, eller bare ham. 
+I en opptegnelse står Peter Pedersens navn oppført med gårdsnavnet Guttersrud - men jeg finner ham ikke på Guttersrud eller i resten av Røyken (eller noe annet sted) i 1865 folketellingen. 
 Er takknemlig for hjelp med opplysninger om familiens opphold i Røyken.
 
 Svar:
-Har funnet flere opplysninger om ham i Østfold. Han ble gift på nytt i 1852 og det må være denne hustruen, Lene Maria Hansdr, som fulgte med til Røyken. IGI gir ett barn Petter Martinius født 12 nov 1856 og døpt 24. jan 1858 i Røyken. 1865 folketellingen viser Lene som enke på Gudim i Asker, med 3 barn, Anne M. på 14, født Skiptvet, Lauritz på 11 og Peter M. på 8, begge født Røyken.
+Har funnet flere opplysninger om ham i Østfold. Han ble gift på nytt i 1852 og det må være denne hustruen, Lene Maria Hansdr, som fulgte med til Røyken. IGI gir ett barn Petter Martinius født 12 nov 1856 og døpt 24. jan 1858 i Røyken. 1865 folketellingen viser Lene som enke på Gudim i Asker, med 3 barn, Anne M. på 14, født Skiptvet, Lauritz på 11 og Peter M. på 8, begge født Røyken. 
 Er fortsatt takknemlig for hjelp med Peters dødsfall og fødsel/dåp til sønnen Lauritz, samt evt. andre opplysninger fra familiens tid i Røken.
 
 ---
@@ -38758,7 +39126,7 @@ Langebrekke, Antonsen, Hans, gbr. 650, 3800
 Skattelikning 1911
 Langebrekke, Hans, gbr., 1000, 9700
 
-Skattelikning 1917
+Skattelikning 1917 
 Hans Langebrekke, Formue 34000 Inntekt 2300 skatteklasse 3 Skatt 169,21
 Østlandet 1917-06-08
 
@@ -38854,11 +39222,11 @@ Panteregister VII 1Aa, Rakkestad Løpenr 75a/g.nr 54 b.nr 2 Langebrekke
 https://www.nb.no/items/5a497bd22b155c7138b564ca40ad904b?page=0&amp;searchText=&quot;isak ødemark&quot;
 
 Herr sorenskriveren, Mysen
-Under henvisning til tidligere anmeldelse til firmaregistret angaaende firmaet
-Moen &amp; Ødemark
-meddeles herved , at medeier Harald M. Moen 1ste juli 1919 er utgaaet av firmaet.
+Under henvisning til tidligere anmeldelse til firmaregistret angaaende firmaet 
+Moen &amp; Ødemark 
+meddeles herved , at medeier Harald M. Moen 1ste juli 1919 er utgaaet av firmaet. 
 
-Isak Ødemark fortsætter forretningen under firmanavn: I. Ødemark some eneindehaver og eneansvarlig.
+Isak Ødemark fortsætter forretningen under firmanavn: I. Ødemark some eneindehaver og eneansvarlig. 
 Harald M Moen. I. Ødemark
 
 Registert idag
@@ -38895,7 +39263,7 @@ Isak Olsen Ødemark.
 
 Regisrert idag
 Rakkestad sorenskriveri, 31. mars, 1916
-Rolf Olsen,
+Rolf Olsen, 
 edsv
 
 
@@ -38974,7 +39342,7 @@ Joh. Gulbrandsen.
 
 Hr. Sorenskriveren i Eidsvold.
 
-Jeg undertegnede Agnes Andersdatter Ødemark anmelder herved at jeg under Firma
+Jeg undertegnede Agnes Andersdatter Ødemark anmelder herved at jeg under Firma 
 
 Agnes Ødemark
 
@@ -39245,9 +39613,9 @@ H.T Kalleberg
 Ref Øvre Smaalenene 1913-12-22
 
 ??1913-07-01 Nikolay Lundeby kjøper Ljan Landhandleri
-&quot;Landhandler Austad ved Kykkelsrud i Askim har solgt sin forretning og eiendom til hr. Nikolai Lundeby fra Hurdalen. Overdragelse 1.ste juli&quot;.
+&quot;Landhandler Austad ved Kykkelsrud i Askim har solgt sin forretning og eiendom til hr. Nikolai Lundeby fra Hurdalen. Overdragelse 1.ste juli&quot;. 
 Ref Øvre Smaalenene 1913-06-09 side 2, kolonne 2, midten.
-Ref 50 år siden fakta i Øvre Smaalenene 1963-06-06 side 8
+Ref 50 år siden fakta i Øvre Smaalenene 1963-06-06 side 8 
 
 
 1915-12-30 Nikolay Lundby dør
@@ -39495,7 +39863,7 @@ Født 1869-12-5</text>
       <text>https://www.histreg.no/index.php/person/pf01052719000515</text>
     </note>
     <note handle="_f8aa4542c6e7505bb42624429a7" change="1708813688" id="N1217" type="Person Note">
-      <text>Gift i 1906-07-04 med Kristian Valdemar Lauritsen Melby.
+      <text>Gift i 1906-07-04 med Kristian Valdemar Lauritsen Melby. 
 
 https://www.digitalarkivet.no/view/327/pv00000000911882
 </text>
@@ -39504,7 +39872,7 @@ https://www.digitalarkivet.no/view/327/pv00000000911882
       <text>Barn
 	Bergliot Kristine 1912-03-03 -&gt; 2000-03-31
 	Astrid Sørine
-	Nora 1915-11-14 -&gt; 2002-03-05
+	Nora 1915-11-14 -&gt; 2002-03-05	
 	Gudrun 1917-10-14 -&gt; 1982-01-31, gift Solberg
 	Ingar 1925--06-22 -&gt; 2003-07-22
 
@@ -39528,7 +39896,7 @@ https://slektogdata.no/gravminner/grav/62f1466b-9631-4573-8dc4-c1f629135e2a</tex
       <text>https://www.nb.no/items/1c07cc5197442ac4107022688b5cd86d?page=3&amp;searchText=hensel</text>
     </note>
     <note handle="_faea32949847bd5dbfb8093c41" change="1724273611" id="N1223" type="Transcript">
-      <text>Annethe Hedemarken.
+      <text>Annethe Hedemarken. 
 «Sæl er den, som med sama mot kan taka ved det altsammen», sier dikteren. Og det var det ho kunne ho Mor Hedemarken.
 
 Fra ung av fekk ho prøve sorg og motgang; men ho gikk lutra ut av det uten aa svikte i sitt kald og sim gjerning.
@@ -39537,15 +39905,15 @@ Litt over de tyve blev ho gift med Hans Hansen på øvre Hedemarken. En ung mand
 
 Ækteskapet var lykkelig, men kort. Inhen han nådde 33 år var han død.
 
-Og ho satt igjen med en nyfødd datter og kun fremmede om sig til aa passe gaard og skog og sagbruksvirksomheten.
+Og ho satt igjen med en nyfødd datter og kun fremmede om sig til aa passe gaard og skog og sagbruksvirksomheten. 
 
 Dette var våren 1890.
 
-Gjælden var stor og tideme trange og muligheteme smaa. Men ho vilde beholde gaarden for sitt barn og ente la den gaa fra sig.
+Gjælden var stor og tideme trange og muligheteme smaa. Men ho vilde beholde gaarden for sitt barn og ente la den gaa fra sig. 
 
-Det blev slit og vaakenætter for hende fram gjennem aara. Men ho var tru mot den mands minde, som ho hadde lovet følge paa livsveien. Og ho bevara gaarden for slækta, og opdrog sin datter til arbeidssomhet og rettskaffenhet.
+Det blev slit og vaakenætter for hende fram gjennem aara. Men ho var tru mot den mands minde, som ho hadde lovet følge paa livsveien. Og ho bevara gaarden for slækta, og opdrog sin datter til arbeidssomhet og rettskaffenhet. 
 
-Paa sine gamle dager oplevde ho den sorg at hendes svigersønn ble kjørt ihjel av tyskeme under okkupationen.
+Paa sine gamle dager oplevde ho den sorg at hendes svigersønn ble kjørt ihjel av tyskeme under okkupationen. 
 
 No har ho funnet den hvile og fred, som ho sikkerlig mange ganger har længta efter. Og
 
