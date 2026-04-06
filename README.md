@@ -72,6 +72,16 @@ cp -r _build/* /media/NAS/web/knuthp/family/
 ## Laste ned media nasjonalbiblioteket
 
 ```
-docker run --name nbno -p 5000:5000 -v ./nbno/data:/data -v ./nbno/tessdata:/opt/tessdata -d ghcr.io/lanj
-elin/nbnopy:latest
+docker run --name nbno -p 5000:5000 -v ./nbno/data:/data -v ./nbno/tessdata:/opt/tessdata -d ghcr.io/lanjelin/nbnopy:latest
 ```
+
+Downloader web: <http://localhost:5000/>
+
+Gå til hvordan sitere e.l. og finn id'er som dette (fjerne nb_no)
+```
+digibok_2014071608186
+```
+
+Last ned først, så OCR kjøring og lage PDF.
+
+OCR log `nbno/data/logs/pdf_ocr.log`
