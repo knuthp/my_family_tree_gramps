@@ -18,7 +18,7 @@ AUD_JENSEN="I0736"
 BJARNE_JENSEN="I0735"
 GERD_DAHL="I0384"
 GUNNAR_DAHL="I0355"
-
+LINNEA_PEDERSEN="I0146"
 
 declare -a ANCESTORS=($ASTRID_LANGEBREKKE $KRISTIAN_LANGEBREKKE $EMMA_PEDERSEN $ASBJORN_PEDERSEN $AUD_JENSEN $BJARNE_JENSEN $GERD_DAHL $GUNNAR_DAHL)
 
@@ -26,3 +26,6 @@ for PID in "${ANCESTORS[@]}"; do
     FILENAME="${OUTPUT_DIR}/$(echo $PID | tr ' ' '_')_fan_chart.svg"
     gramps -O knuthp -a report -p "name=$NAME,pid=$PID,circle=0,off=svg,of=$FILENAME"
 done
+
+FILENAME="${OUTPUT_DIR}/$LINNEA_PEDERSEN_fan_chart.svg"
+gramps -O knuthp -a report -p "name=$NAME,pid=$LINNEA_PEDERSEN,maxgen=4,circle=0,off=svg,of=$FILENAME"
