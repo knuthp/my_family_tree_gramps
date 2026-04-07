@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2026-04-06" version="5.1.6"/>
+    <created date="2026-04-07" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -103,10 +103,11 @@
       <citationref hlink="_101791b0cc757f0e38598b2eb21b"/>
       <citationref hlink="_10183fc36c2d2b0428a950989f10"/>
     </event>
-    <event handle="_1001d1f9bad56d5e0fc12c92c02f" change="1769333741" id="E1330">
+    <event handle="_1001d1f9bad56d5e0fc12c92c02f" change="1775594058" id="E1330">
       <type>Birth</type>
       <dateval val="1860-04-04"/>
       <place hlink="_e048ce84c695ef716d312565782"/>
+      <citationref hlink="_1026208798ec6f5a17c560f372c6"/>
     </event>
     <event handle="_1001d1fb8e755fa3bcf171c9af4e" change="1760000393" id="E1331">
       <type>Death</type>
@@ -1597,9 +1598,9 @@
       <description>Folketellingen 1885</description>
       <citationref hlink="_1018416daf5918826834ac849f63"/>
     </event>
-    <event handle="_10184181ecc67b4557f3bdc2a127" change="1769636761" id="E1545">
+    <event handle="_10184181ecc67b4557f3bdc2a127" change="1775595453" id="E1545">
       <type>Birth</type>
-      <dateval val="1840"/>
+      <dateval val="1840-12-04"/>
       <place hlink="_c959f3570be312fb088"/>
       <citationref hlink="_10184181ae481a90cf2d52c2cf72"/>
     </event>
@@ -2044,6 +2045,31 @@
       <dateval val="1873-08-08"/>
       <description>Husmand. Baadmand</description>
       <citationref hlink="_1025e8a55c5e6e1867013aa648f9"/>
+    </event>
+    <event handle="_10261bf8be7c2af94c33c3abb78b" change="1775586425" id="E1606">
+      <type>Marriage</type>
+      <dateval val="1853-03-29"/>
+      <place hlink="_c959f3570be312fb088"/>
+      <citationref hlink="_10261bf87206356cad4acd8f8b82"/>
+    </event>
+    <event handle="_102621084887322a14ebefbfcabf" change="1775594899" id="E1607">
+      <type>Birth</type>
+      <dateval val="1791-10-03"/>
+      <place hlink="_c959f3570be312fb088"/>
+    </event>
+    <event handle="_1026210c1d523537a4b89493af84" change="1775594924" id="E1608">
+      <type>Death</type>
+      <dateval val="1871-10-07"/>
+      <place hlink="_1018415938fe9a0a092d1327dca"/>
+    </event>
+    <event handle="_102621173ec71f56c24e3e99769" change="1775594997" id="E1609">
+      <type>Occupation</type>
+      <place hlink="_c959f3570be312fb088"/>
+      <description>Snekkermester</description>
+    </event>
+    <event handle="_1026217004923ee32f3d5ce78fdf" change="1775595579" id="E1610">
+      <type>Death</type>
+      <dateval val="1883"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -8980,7 +9006,7 @@
       <parentin hlink="_1001d1dd75a143fc651347a2d63d"/>
       <citationref hlink="_10183fac44d17184fb49db5490c3"/>
     </person>
-    <person handle="_1001d1f4491240fa27bdb6841e28" change="1769667824" id="I0726">
+    <person handle="_1001d1f4491240fa27bdb6841e28" change="1775586429" id="I0726">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Emilie Hansine Alette</first>
@@ -10191,7 +10217,7 @@
       <parentin hlink="_101840eaa1a75204cf8c25c442f"/>
       <citationref hlink="_101840fa79c535fde8209d959283"/>
     </person>
-    <person handle="_10184150417f33127611c2741e35" change="1769719448" id="I0825">
+    <person handle="_10184150417f33127611c2741e35" change="1775595408" id="I0825">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Hans</first>
@@ -10204,10 +10230,13 @@
       <eventref hlink="_1018416e0edc96d1832f3e85694" role="Primary"/>
       <eventref hlink="_101853c7ecad1454542eb1e9c7d6" role="Primary"/>
       <eventref hlink="_10185401b68f7643b65b7c306df" role="Primary"/>
+      <childof hlink="_10261c00389d441db085840acaaa"/>
       <parentin hlink="_1018414ff9cd45e998c66d18d88c"/>
       <noteref hlink="_101872fcfe5a550ab5af2bccba2f"/>
+      <citationref hlink="_1026213ee0f2695395c3251b48af"/>
+      <citationref hlink="_1026215505405d9cce2aad5a5f23"/>
     </person>
-    <person handle="_1018417731da3a299948bf8830e" change="1769718721" id="I0826">
+    <person handle="_1018417731da3a299948bf8830e" change="1775595346" id="I0826">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Alette Marie</first>
@@ -10216,7 +10245,9 @@
       <eventref hlink="_10184181ecc67b4557f3bdc2a127" role="Primary"/>
       <eventref hlink="_101841c2b014140200ae9fee5a08" role="Primary"/>
       <eventref hlink="_1018534f93eb353b4361b9f4fda6" role="Primary"/>
+      <childof hlink="_10261c0ed2a12f9490f761003c14"/>
       <parentin hlink="_1018414ff9cd45e998c66d18d88c"/>
+      <citationref hlink="_1026214c4ad77194697ab5410580"/>
     </person>
     <person handle="_1021439f3181141c79993a1634e7" change="1773507293" id="I0827">
       <gender>M</gender>
@@ -10323,6 +10354,40 @@
       </name>
       <parentin hlink="_1025e94322ce58514f67064a482"/>
       <noteref hlink="_1025e94fe4f73d7148ef3aaf3b8d"/>
+    </person>
+    <person handle="_10261c00891c41f44525bad3459a" change="1775586546" id="I0837">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Matthis</first>
+        <surname>Nielsen</surname>
+      </name>
+      <parentin hlink="_10261c00389d441db085840acaaa"/>
+      <noteref hlink="_10261c0cc24d719a60bac6c1d9c3"/>
+    </person>
+    <person handle="_10261c0f13ec1758177085df3a42" change="1775596349" id="I0838">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Niels</first>
+        <surname>Nilsen Bøckmann</surname>
+      </name>
+      <eventref hlink="_102621084887322a14ebefbfcabf" role="Primary"/>
+      <eventref hlink="_102621173ec71f56c24e3e99769" role="Primary"/>
+      <eventref hlink="_1026210c1d523537a4b89493af84" role="Primary"/>
+      <parentin hlink="_10261c0ed2a12f9490f761003c14"/>
+      <noteref hlink="_10261c18ec1dc388dcc79490be4"/>
+      <noteref hlink="_102621e5802d6a0bb6460fae1911"/>
+      <citationref hlink="_102621011e0f5ad97f27d7b97a14"/>
+    </person>
+    <person handle="_10261c7cdb0a105a16fe2a892b4f" change="1775595581" id="I0839">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Hedvig</first>
+        <surname>Larsdatter</surname>
+      </name>
+      <eventref hlink="_1026217004923ee32f3d5ce78fdf" role="Primary"/>
+      <parentin hlink="_10261c0ed2a12f9490f761003c14"/>
+      <noteref hlink="_10261c89380e60d33867e900f720"/>
+      <citationref hlink="_102621694d2f5b5b58ba2d855e67"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -19688,10 +19753,11 @@
       <father hlink="_101840eb01be5e03df9c2a7d23e7"/>
       <childref hlink="_10179a99f09e1f89f71887a5222e"/>
     </family>
-    <family handle="_1018414ff9cd45e998c66d18d88c" change="1769636437" id="F0478">
+    <family handle="_1018414ff9cd45e998c66d18d88c" change="1775586429" id="F0478">
       <rel type="Unknown"/>
       <father hlink="_10184150417f33127611c2741e35"/>
       <mother hlink="_1018417731da3a299948bf8830e"/>
+      <eventref hlink="_10261bf8be7c2af94c33c3abb78b" role="Family"/>
       <childref hlink="_1001d1f4491240fa27bdb6841e28"/>
     </family>
     <family handle="_1021439eabc0181e40ce7fb6f89f" change="1773505722" id="F0479">
@@ -19731,6 +19797,17 @@
       <rel type="Unknown"/>
       <father hlink="_1025e943a51f10b2f17acdbf90eb"/>
       <childref hlink="_1025e56f9ef03cfd04639535e422"/>
+    </family>
+    <family handle="_10261c00389d441db085840acaaa" change="1775586546" id="F0486">
+      <rel type="Unknown"/>
+      <father hlink="_10261c00891c41f44525bad3459a"/>
+      <childref hlink="_10184150417f33127611c2741e35"/>
+    </family>
+    <family handle="_10261c0ed2a12f9490f761003c14" change="1775587360" id="F0487">
+      <rel type="Unknown"/>
+      <father hlink="_10261c0f13ec1758177085df3a42"/>
+      <mother hlink="_10261c7cdb0a105a16fe2a892b4f"/>
+      <childref hlink="_1018417731da3a299948bf8830e"/>
     </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
@@ -23909,6 +23986,48 @@
       <confidence>2</confidence>
       <noteref hlink="_1025e8a51c281094e29528307d14"/>
       <sourceref hlink="_1025e8a2160372de0a5d4428cca9"/>
+    </citation>
+    <citation handle="_10261bf87206356cad4acd8f8b82" change="1775586406" id="C1726">
+      <page>p 148,  no 5</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10261bd867315f36bc1b3749b786"/>
+      <sourceref hlink="_10261bf807521d88bef7862a0001"/>
+    </citation>
+    <citation handle="_1026208798ec6f5a17c560f372c6" change="1775594055" id="C1727">
+      <page>p. 26, no. 26</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10262086fa9f1eb12314c0038fd1"/>
+      <sourceref hlink="_10261bf807521d88bef7862a0001"/>
+    </citation>
+    <citation handle="_102621011e0f5ad97f27d7b97a14" change="1775594852" id="C1728">
+      <page>6000000002700684922</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10262100e68141425b3ed4b42800"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1026213ee0f2695395c3251b48af" change="1775595257" id="C1729">
+      <page>Hans-Matthiesen/6000000090210892908</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1026213e2aba7b0f4abc827eb327"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1026214c4ad77194697ab5410580" change="1775595344" id="C1730">
+      <page>Alette-B%C3%B8ckmann/6000000090212127887</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1026214c01f72915234c0e269c6"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1026215505405d9cce2aad5a5f23" change="1775595402" id="C1731">
+      <page>Hans-Matthiesen/6000000090212433865</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10262154d2347e55f316147b98ae"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102621694d2f5b5b58ba2d855e67" change="1775595535" id="C1732">
+      <page>Hedvig-Larsdatter/6000000090210310964</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10262167b68022ee961ac2126e09"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -31734,6 +31853,10 @@
       <stitle>Klokkerbok for Eidsvoll prestegjeld, Eidsvoll sokn 1871-1877</stitle>
       <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
     </source>
+    <source handle="_10261bf807521d88bef7862a0001" change="1775586404" id="S0190">
+      <stitle>SAO-A-11082: Fredrikstad prestekontor Kirkebøker</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -34413,7 +34536,7 @@
     <repository handle="_1007ee1930a5600bd06f3deeeda8" change="1762624544" id="R0004">
       <type>Library</type>
     </repository>
-    <repository handle="_c22c08a40be2f769a20" change="1775500275" id="R0000">
+    <repository handle="_c22c08a40be2f769a20" change="1775586402" id="R0000">
       <rname>Skannede kirkebøker</rname>
       <type>Web site</type>
       <url  href="http://www.arkivverket.no/URN:kb_read" type="Web Home" description="Skannede kirkebøker"/>
@@ -35887,13 +36010,20 @@ Flyttet til Fredrikstad mellom 1857 og 1864.</text>
         <range start="0" end="46"/>
       </style>
     </note>
-    <note handle="_101872fcfe5a550ab5af2bccba2f" change="1769720447" id="N1474" type="Person Note">
-      <text>Hans Mathisen fra Vaterland gifter seg 1853-03-29 med Emilie Bøckman
+    <note handle="_101872fcfe5a550ab5af2bccba2f" change="1775595094" id="N1474" type="Person Note">
+      <text>Hans Mathiesen er trolig gift med to søstre av slekten Bøchmann. Først Emilie, så Marie Alette som er 9 år yngre. Marie Alette er mor til vår gren av slekten.
+
+
+Litt om Emilie Bøchmann
+Hans Mathisen fra Vaterland gifter seg 1853-03-29 med Emilie Bøckman
 
 Fredrikstad prestekontor Kirkebøker, AV/SAO-A-11082/F/Fa/L0005: Ministerialbok nr. 5, 1835-1856, s. 141
 Nr. 5 side 141
 https://www.digitalarkivet.no/kb20060405010287
 
+Emilie Bøchmann er fadder til Lena, trolig tante https://www.digitalarkivet.no/pd00000042596670
+
+Emilie Bøckmann på geni https://www.geni.com/people/Emilie-B%C3%B8ckmann/6000000090211048821
 
 Datter Emilie født 1855
 
@@ -35902,8 +36032,23 @@ https://www.digitalarkivet.no/pd00000042599773
 
 Datter Emilie død 1858-08-07
 https://www.digitalarkivet.no/pg00000002378056 </text>
+      <style name="bold">
+        <range start="161" end="184"/>
+      </style>
+      <style name="fontsize" value="12">
+        <range start="161" end="184"/>
+      </style>
+      <style name="link" value="https://www.digitalarkivet.no/kb20060405010287">
+        <range start="374" end="420"/>
+      </style>
+      <style name="link" value="https://www.digitalarkivet.no/pd00000042596670">
+        <range start="471" end="517"/>
+      </style>
       <style name="link" value="https://www.digitalarkivet.no/pd00000042599773">
-        <range start="279" end="325"/>
+        <range start="654" end="700"/>
+      </style>
+      <style name="link" value="https://www.geni.com/people/Emilie-B%C3%B8ckmann/6000000090211048821">
+        <range start="543" end="611"/>
       </style>
     </note>
     <note handle="_1021437e8b9b39ef6a9bd008470e" change="1773505233" id="N1475" type="Person Note">
@@ -36340,6 +36485,77 @@ Oppholdssted står Habbarstad og finner også en Laura Larsdatter som Forsørget
 Hans far Johannes Johansen er nevn som brudgommens far samme sted.</text>
       <style name="link" value="https://www.digitalarkivet.no/pv00000000437353">
         <range start="81" end="127"/>
+      </style>
+    </note>
+    <note handle="_10261bd867315f36bc1b3749b786" change="1775586196" id="N1546" type="Link">
+      <text>https://www.digitalarkivet.no/kb20060405010287</text>
+      <style name="link" value="https://www.digitalarkivet.no/kb20060405010287">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10261c0cc24d719a60bac6c1d9c3" change="1775586539" id="N1547" type="Person Note">
+      <text>Fra sønnens bryllup https://nye.digitalarkivet.no/source/364/parish/39910fdd-1d77-46c7-a6f3-97cbca1669e3</text>
+      <style name="link" value="https://nye.digitalarkivet.no/source/364/parish/39910fdd-1d77-46c7-a6f3-97cbca1669e3">
+        <range start="19" end="104"/>
+      </style>
+    </note>
+    <note handle="_10261c18ec1dc388dcc79490be4" change="1775594320" id="N1548" type="Person Note">
+      <text>Fra datterens bryllup  https://nye.digitalarkivet.no/source/364/parish/39910fdd-1d77-46c7-a6f3-97cbca1669e3
+
+Fra sønnen Ludvigs konfirmasjon 1848 https://www.digitalarkivet.no/pk00000002327709</text>
+      <style name="link" value="https://nye.digitalarkivet.no/source/364/parish/39910fdd-1d77-46c7-a6f3-97cbca1669e3">
+        <range start="23" end="107"/>
+      </style>
+      <style name="link" value="https://www.digitalarkivet.no/pk00000002327709">
+        <range start="146" end="192"/>
+      </style>
+    </note>
+    <note handle="_10261c89380e60d33867e900f720" change="1775587355" id="N1549" type="Person Note">
+      <text>Fra datteren Emilies bryllup. Mulgi Hans Mathiesen var gift to ganger. Usikker hvem som er mor til Emilie Hansine Alette.</text>
+    </note>
+    <note handle="_10262086fa9f1eb12314c0038fd1" change="1775594051" id="N1550" type="Link">
+      <text>https://www.digitalarkivet.no/kb20060927060457</text>
+      <style name="link" value="https://www.digitalarkivet.no/kb20060927060457">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10262100e68141425b3ed4b42800" change="1775594850" id="N1551" type="Link">
+      <text>https://www.geni.com/people/Nils-Nilsen-B%C3%B8ckmann/6000000002700684922</text>
+      <style name="link" value="https://www.geni.com/people/Nils-Nilsen-B%C3%B8ckmann/6000000002700684922">
+        <range start="0" end="73"/>
+      </style>
+    </note>
+    <note handle="_1026213e2aba7b0f4abc827eb327" change="1775595252" id="N1552" type="Link">
+      <text>https://www.geni.com/people/Hans-Matthiesen/6000000090210892908</text>
+      <style name="link" value="https://www.geni.com/people/Hans-Matthiesen/6000000090210892908">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_1026214c01f72915234c0e269c6" change="1775595343" id="N1553" type="Link">
+      <text>https://www.geni.com/people/Alette-B%C3%B8ckmann/6000000090212127887</text>
+      <style name="link" value="https://www.geni.com/people/Alette-B%C3%B8ckmann/6000000090212127887">
+        <range start="0" end="68"/>
+      </style>
+    </note>
+    <note handle="_10262154d2347e55f316147b98ae" change="1775595400" id="N1554" type="Link">
+      <text>https://www.geni.com/people/Hans-Matthiesen/6000000090212433865</text>
+      <style name="link" value="https://www.geni.com/people/Hans-Matthiesen/6000000090212433865">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_10262167b68022ee961ac2126e09" change="1775595524" id="N1555" type="Link">
+      <text>https://www.geni.com/people/Hedvig-Larsdatter/6000000090210310964</text>
+      <style name="link" value="https://www.geni.com/people/Hedvig-Larsdatter/6000000090210310964">
+        <range start="0" end="65"/>
+      </style>
+    </note>
+    <note handle="_102621e5802d6a0bb6460fae1911" change="1775596349" id="N1556" type="Person Note">
+      <text>Mulig mer info om slekten i denne boken fra 1929. Håndskrevet, så ikke studert enda.
+
+Stamtavle over den norske Bøckmanslekt 1629-1929
+https://www.nb.no/items/URN:NBN:no-nb_digibok_2012062813001</text>
+      <style name="link" value="https://www.nb.no/items/URN:NBN:no-nb_digibok_2012062813001">
+        <range start="135" end="194"/>
       </style>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
