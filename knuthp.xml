@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2026-04-07" version="5.1.6"/>
+    <created date="2026-04-09" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -1646,11 +1646,12 @@
       <description>Folketellingen 1875</description>
       <citationref hlink="_1018537ecd39a7c935f118cda37"/>
     </event>
-    <event handle="_101853b441e1556895ff98fed81f" change="1769666958" id="E1552">
+    <event handle="_101853b441e1556895ff98fed81f" change="1775750765" id="E1552">
       <type>Census</type>
       <dateval val="1891"/>
       <place hlink="_c959f3570be312fb088"/>
       <description>Folketellingen 1891</description>
+      <citationref hlink="_10267def61097209f000a5c6ab0d"/>
     </event>
     <event handle="_101853c7ecad1454542eb1e9c7d6" change="1769667097" id="E1553">
       <type>Census</type>
@@ -2070,6 +2071,21 @@
     <event handle="_1026217004923ee32f3d5ce78fdf" change="1775595579" id="E1610">
       <type>Death</type>
       <dateval val="1883"/>
+    </event>
+    <event handle="_10267e8f9663d0d1e0691631922" change="1775751814" id="E1611">
+      <type>Marriage</type>
+      <dateval val="1830"/>
+      <place hlink="_c959f3570be312fb088"/>
+    </event>
+    <event handle="_10267e9973ee589f633ba034886" change="1775751878" id="E1612">
+      <type>Birth</type>
+      <dateval val="1740"/>
+      <place hlink="_c309e5c10ae4b094153"/>
+    </event>
+    <event handle="_10267eb6681841e570da6f17b13a" change="1775752068" id="E1613">
+      <type>Marriage</type>
+      <dateval val="1783"/>
+      <place hlink="_c969df9bf561e2943b4"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -10236,7 +10252,7 @@
       <citationref hlink="_1026213ee0f2695395c3251b48af"/>
       <citationref hlink="_1026215505405d9cce2aad5a5f23"/>
     </person>
-    <person handle="_1018417731da3a299948bf8830e" change="1775595346" id="I0826">
+    <person handle="_1018417731da3a299948bf8830e" change="1775751816" id="I0826">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Alette Marie</first>
@@ -10364,7 +10380,7 @@
       <parentin hlink="_10261c00389d441db085840acaaa"/>
       <noteref hlink="_10261c0cc24d719a60bac6c1d9c3"/>
     </person>
-    <person handle="_10261c0f13ec1758177085df3a42" change="1775596349" id="I0838">
+    <person handle="_10261c0f13ec1758177085df3a42" change="1775752115" id="I0838">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Niels</first>
@@ -10373,10 +10389,11 @@
       <eventref hlink="_102621084887322a14ebefbfcabf" role="Primary"/>
       <eventref hlink="_102621173ec71f56c24e3e99769" role="Primary"/>
       <eventref hlink="_1026210c1d523537a4b89493af84" role="Primary"/>
+      <childof hlink="_10267e934dce3d97e1633644b698"/>
       <parentin hlink="_10261c0ed2a12f9490f761003c14"/>
       <noteref hlink="_10261c18ec1dc388dcc79490be4"/>
-      <noteref hlink="_102621e5802d6a0bb6460fae1911"/>
       <citationref hlink="_102621011e0f5ad97f27d7b97a14"/>
+      <citationref hlink="_10267e866a4a5733f7ee800eeb98"/>
     </person>
     <person handle="_10261c7cdb0a105a16fe2a892b4f" change="1775595581" id="I0839">
       <gender>F</gender>
@@ -10388,6 +10405,25 @@
       <parentin hlink="_10261c0ed2a12f9490f761003c14"/>
       <noteref hlink="_10261c89380e60d33867e900f720"/>
       <citationref hlink="_102621694d2f5b5b58ba2d855e67"/>
+    </person>
+    <person handle="_10267e93f5c1457e6318c4e64534" change="1775752115" id="I0840">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Nils</first>
+        <surname>Bøckmann</surname>
+      </name>
+      <eventref hlink="_10267e9973ee589f633ba034886" role="Primary"/>
+      <parentin hlink="_10267e934dce3d97e1633644b698"/>
+      <noteref hlink="_10267ea519c95e92a26c27afec3d"/>
+      <citationref hlink="_10267e866a4a5733f7ee800eeb98"/>
+    </person>
+    <person handle="_10267ea673cc26533f716187b287" change="1775752115" id="I0841">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Guri</first>
+        <surname>Larsdatter</surname>
+      </name>
+      <parentin hlink="_10267e934dce3d97e1633644b698"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -19803,11 +19839,19 @@
       <father hlink="_10261c00891c41f44525bad3459a"/>
       <childref hlink="_10184150417f33127611c2741e35"/>
     </family>
-    <family handle="_10261c0ed2a12f9490f761003c14" change="1775587360" id="F0487">
+    <family handle="_10261c0ed2a12f9490f761003c14" change="1775751816" id="F0487">
       <rel type="Unknown"/>
       <father hlink="_10261c0f13ec1758177085df3a42"/>
       <mother hlink="_10261c7cdb0a105a16fe2a892b4f"/>
+      <eventref hlink="_10267e8f9663d0d1e0691631922" role="Family"/>
       <childref hlink="_1018417731da3a299948bf8830e"/>
+    </family>
+    <family handle="_10267e934dce3d97e1633644b698" change="1775752115" id="F0488">
+      <rel type="Unknown"/>
+      <father hlink="_10267e93f5c1457e6318c4e64534"/>
+      <mother hlink="_10267ea673cc26533f716187b287"/>
+      <eventref hlink="_10267eb6681841e570da6f17b13a" role="Family"/>
+      <childref hlink="_10261c0f13ec1758177085df3a42"/>
     </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
@@ -24028,6 +24072,19 @@
       <confidence>2</confidence>
       <noteref hlink="_10262167b68022ee961ac2126e09"/>
       <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10267def61097209f000a5c6ab0d" change="1775750764" id="C1733">
+      <page>pf01052671003082</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10267def1b95754a6805086c5967"/>
+      <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
+    </citation>
+    <citation handle="_10267e866a4a5733f7ee800eeb98" change="1775767135" id="C1734">
+      <page>p. 85</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10267e82b611321fe4351f2a97bf"/>
+      <objref hlink="_102687b03ae36ecfcc98e3b975f4"/>
+      <sourceref hlink="_10267e6ccc11fc3bb1a06226391"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -31857,6 +31914,10 @@
       <stitle>SAO-A-11082: Fredrikstad prestekontor Kirkebøker</stitle>
       <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
     </source>
+    <source handle="_10267e6ccc11fc3bb1a06226391" change="1775751586" id="S0191">
+      <stitle>Stamtavle over den norske Bøckmanslekt 1629-1929</stitle>
+      <reporef hlink="_e603c36266934364e2d3b33044a" medium="Book"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -34282,6 +34343,9 @@
     <object handle="_1012e9dc4c673523190b310cd0cd" change="1774090981" id="O0086">
       <file src="media/boeker/rakkestad_herred_1814-1914/312_hans_hansen_grindstad.jpg" mime="image/jpeg" checksum="d783812a9185dbe946f671ea02a0279d" description="rakkestad_herred_312_hans_hansen_grindstad"/>
     </object>
+    <object handle="_102687b03ae36ecfcc98e3b975f4" change="1775767258" id="O0087">
+      <file src="media/boeker/stamtavle_over_slekten_boeckman/stamtavle_over_slekten_boeckman_p85.pdf" mime="application/pdf" checksum="68d5e16c1ac3744757083549dca660d5" description="stamtavle_over_slekten_boeckman_p85"/>
+    </object>
     <object handle="_c3fd07655d625dd11ed" change="1690442860" id="O0000">
       <file src="media/boeker/gaardshistorie_hurdal/Rognlia.pdf" mime="application/pdf" checksum="a65abd6bc5da5c9f95e7a20660d6d454" description="Rognlia"/>
     </object>
@@ -34546,7 +34610,7 @@
       <type>Library</type>
       <noteref hlink="_c632295f6f007ab77eb"/>
     </repository>
-    <repository handle="_e603c36266934364e2d3b33044a" change="1775498019" id="R0002">
+    <repository handle="_e603c36266934364e2d3b33044a" change="1775751582" id="R0002">
       <rname>Digitalarkivet</rname>
       <type>Library</type>
     </repository>
@@ -36557,6 +36621,39 @@ https://www.nb.no/items/URN:NBN:no-nb_digibok_2012062813001</text>
       <style name="link" value="https://www.nb.no/items/URN:NBN:no-nb_digibok_2012062813001">
         <range start="135" end="194"/>
       </style>
+    </note>
+    <note handle="_10267def1b95754a6805086c5967" change="1775750762" id="N1557" type="Link">
+      <text>https://www.digitalarkivet.no/pf01052671003082</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01052671003082">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10267e82b611321fe4351f2a97bf" change="1775751729" id="N1558" type="Link">
+      <text>https://www.nb.no/items/51527f6cdada6329a84f80a3a7973608?page=85</text>
+      <style name="link" value="https://www.nb.no/items/51527f6cdada6329a84f80a3a7973608?page=85">
+        <range start="0" end="64"/>
+      </style>
+    </note>
+    <note handle="_10267ea519c95e92a26c27afec3d" change="1775752111" id="N1559" type="Person Note">
+      <text>Snekkermester Nils Bøckmann 
+
+f. 1740, d 1805 begravet 30/12. 
+
+I 1773 kom han fra Sverige til Kristiania, hvor han søkte arbeide, men da han ikke hadde fremlagt beviset på svennerprøven blev der mudder? i lauget. Han fremla kopi av svennebrevet fra Stockholm og attest fra Fillipstad hvor han hadde arbedet og fikk omsider tilladelse til at arbeide til avslutning av svenneprøven. Siden skaffet han fra mesteren i Stockholm det egentlige svennebrev. I 1785 nedsatte han sig som snekkermester i Fredrikstad hvor han blev til sin død.
+
+Barn
+2a. en datter død ganske liten
+2b. Nils Bøckmann født i Fredrikstad 1791, døpt 20/3 død omkring 1870 samme sted, snekkermester
+Gift 1) 1822 med Lena Nilsdatter fra Waterland ved Ø. Fredrikstad, død omkring 1827.
+Gift 2) 1830 med Hedevig Larsdatter fra Waterland d. 1883
+Barn
+a. Hans
+b. Grethe Lovise
+c. Emilie (Mathisen) død omkring 1856
+d. Ludvig
+e. Grethe Henriette
+f. Alette Marie (Mathisen)
+gift med skipper senere los Hans Mathisen, enkemann efter hendes søster Emilie &quot;Ingen barn&quot;</text>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
