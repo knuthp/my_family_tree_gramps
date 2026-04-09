@@ -24079,11 +24079,12 @@
       <noteref hlink="_10267def1b95754a6805086c5967"/>
       <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
     </citation>
-    <citation handle="_10267e866a4a5733f7ee800eeb98" change="1775767135" id="C1734">
-      <page>p. 85</page>
+    <citation handle="_10267e866a4a5733f7ee800eeb98" change="1775767619" id="C1734">
+      <page>p. 85, 87</page>
       <confidence>2</confidence>
       <noteref hlink="_10267e82b611321fe4351f2a97bf"/>
       <objref hlink="_102687b03ae36ecfcc98e3b975f4"/>
+      <objref hlink="_102687f73aa5294c50360725f3e3"/>
       <sourceref hlink="_10267e6ccc11fc3bb1a06226391"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
@@ -34345,6 +34346,9 @@
     </object>
     <object handle="_102687b03ae36ecfcc98e3b975f4" change="1775767258" id="O0087">
       <file src="media/boeker/stamtavle_over_slekten_boeckman/stamtavle_over_slekten_boeckman_p85.pdf" mime="application/pdf" checksum="68d5e16c1ac3744757083549dca660d5" description="stamtavle_over_slekten_boeckman_p85"/>
+    </object>
+    <object handle="_102687f73aa5294c50360725f3e3" change="1775767618" id="O0088">
+      <file src="media/boeker/stamtavle_over_slekten_boeckman/stamtavle_over_slekten_boeckman_p87.pdf" mime="application/pdf" checksum="6f0b6d556c429a29070f8046b880b201" description="stamtavle_over_slekten_boeckman_p87"/>
     </object>
     <object handle="_c3fd07655d625dd11ed" change="1690442860" id="O0000">
       <file src="media/boeker/gaardshistorie_hurdal/Rognlia.pdf" mime="application/pdf" checksum="a65abd6bc5da5c9f95e7a20660d6d454" description="Rognlia"/>
