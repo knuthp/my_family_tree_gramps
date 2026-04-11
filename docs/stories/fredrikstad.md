@@ -16,6 +16,7 @@ Gunhild's tipp-tipp-oldefar Christen Dahl flytter til Fredrikstad med sin kone R
 
 
 Folketellinger
+
 1. 1870 Færgeports Gade 127-131 (Christen og Randi Dahl med barnet Oluf Petter)
 2. 1885 Voldgade (Christen og Randi Dahl med Oluf)
 3. 1900 Kasernegade (Randi Dahl enke)

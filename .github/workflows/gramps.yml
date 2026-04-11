@@ -17,6 +17,11 @@ jobs:
             ./scripts/gramps_fan_chart
             ls -l _build/
 
+      - name: Build Zensical and merge into _build
+        run: |
+            uv run zensical build
+            cp -r site/* _build/
+
       - name: Setup Pages
         if: github.ref == 'refs/heads/main'
         uses: actions/configure-pages@v3
