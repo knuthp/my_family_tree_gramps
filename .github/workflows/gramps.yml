@@ -36,14 +36,6 @@ jobs:
           # location of the artifacts
           path: "_build/"
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy _build --project-name=family
-        
-
   deploy-gramps:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
