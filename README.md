@@ -1,21 +1,29 @@
 # Gramps slekstshistorie data for Knut H Pedersen
-Dette git repository brukes for lagring av mitt familietre ved bruk av programmet [Gramps](https://github.com/gramps-project/gramps)
+
+Dette git repository brukes for lagring av mitt familietre ved bruk av programmet [Gramps] og static site generator Zensical (https://family.knuthp.no/)
 
 ## Krav
-Gramps 5.1.x installert
+
+1. Gramps 5.1.x installert
+2. uv installert
 
 ```bash
 ...
 sudo apt install language-pack-gnome-en
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 ## Setup
+
 1. Gramps prefrences media path root settes til root av git repository.
 1. Gramps på Engelsk språk
 
 ## Mine konvensjoner
+
 Dette er beste praksis som jeg nå prøver å følge på nye ting
+
 ### Plasser (Places)
+
 Bruk "Enclosed By" for hierarkiske plasser
 1. Land
 2. Fylke
@@ -23,6 +31,7 @@ Bruk "Enclosed By" for hierarkiske plasser
 4. Plass
 
 ### Kilder for Hendelser (Source for events)
+
 Legg linker til kilden på kilden og ikke på hendelsen.
 Da kommer de ikke inn i hendelseslisten, men som del av kilden nederst.
 
@@ -32,52 +41,58 @@ Da kommer bildet i kildelisten og ikke som gallery på personen.
 
 
 ### Linker til Internet for kilder
+
 Lag en Link av teksten vha menyen til Internet Adress. La notatet være av typen LINK
 
 ## Ta backup, import
+
 Ta backup av Gramps data uten å inkludere media
+
 ```bash
 gramps --open knuthp --export ./knuthp.gramps  && gunzip < knuthp.gramps > knuthp.xml
 ```
 
 Første gangs import
+
 ```bash
 sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml | gzip > knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps && gramps --create=knuthp --import=./knuthp.gramps
 ```
 
 Import hvis databasen finnes på lokal maskin
+
 ```bash
 sed -e "s~<mediapath>.*</mediapath>~<mediapath>`pwd`</mediapath>~g" knuthp.xml| gzip > knuthp.gramps && gramps --import=./knuthp.gramps && gramps --import=./knuthp.gramps
 ```
 
 Windows 11 WSL 2 special startup
-```
+
+```bash
 GDK_BACKEND=x11 MOZ_ENABLE_WAYLAND=0 gramps
 ```
 
 ## Generere html
+
 Generer fra knuthp databasen på lokal maskin
+
 ```bash
 ./scripts/gramps_html
 ```
 
+## Publisering til https://family.knuthp.no
 
-## Oppdatere Synology siten
-```bash
-sudo mount -vvv diskstation.local:/volume1/web /media/NAS/web
-cp -r _build/* /media/NAS/web/knuthp/family/
-```
-
+Publisering av offisielle sider går via github actions. I tillegg peker DNS for `family.knuthp.no` til 
+github pages for dette repositoriet.
 
 ## Laste ned media nasjonalbiblioteket
 
-```
+```bash
 docker run --name nbno -p 5000:5000 -v ./nbno/data:/data -v ./nbno/tessdata:/opt/tessdata -d ghcr.io/lanjelin/nbnopy:latest
 ```
 
 Downloader web: <http://localhost:5000/>
 
 Gå til hvordan sitere e.l. og finn id'er som dette (fjerne nb_no)
+
 ```
 digibok_2014071608186
 ```
