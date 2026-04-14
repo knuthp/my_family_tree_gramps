@@ -33,19 +33,24 @@ Is it possible to use D3.js or similar to render a family tree?
 
 <script id="tree-data" type="application/json">
 {
-  "name": "John Smith",
-  "children": [
+  "name": "You",
+  "born": "1980",
+  "parents": [
     {
-      "name": "Anna Smith",
-      "children": [
-        { "name": "Peter Smith" },
-        { "name": "Laura Smith" }
+      "name": "Father",
+      "born": "1950",
+      "died": "2010",
+      "parents": [
+        { "name": "Paternal Grandfather", "born": "1920", "died": "1995" },
+        { "name": "Paternal Grandmother", "born": "1925", "died": "2001" }
       ]
     },
     {
-      "name": "Michael Smith",
-      "children": [
-        { "name": "Sophie Smith" }
+      "name": "Mother",
+      "born": "1955",
+      "parents": [
+        { "name": "Maternal Grandfather", "born": "1918", "died": "1988" },
+        { "name": "Maternal Grandmother", "born": "1922", "died": "1999" }
       ]
     }
   ]
@@ -59,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("tree-data").textContent
   );
 
-  const width = 900;
+  const width = 1000;
   const height = 600;
 
   const svg = d3
@@ -67,11 +72,12 @@ document.addEventListener("DOMContentLoaded", () => {
     .append("svg")
     .attr("viewBox", [0, 0, width, height]);
 
-  const g = svg.append("g").attr("transform", "translate(80,40)");
+  const g = svg.append("g").attr("transform", "translate(40,40)");
 
   const treeLayout = d3.tree().size([height - 80, width - 160]);
 
-  const root = d3.hierarchy(data);
+  // 👇 parents instead of children
+  const root = d3.hierarchy(data, d => d.parents);
   treeLayout(root);
 
   // Links
@@ -96,13 +102,27 @@ document.addEventListener("DOMContentLoaded", () => {
     .attr("class", "node")
     .attr("transform", d => `translate(${d.y},${d.x})`);
 
-  node.append("circle").attr("r", 6);
+  node.append("circle")
+    .attr("r", 6)
+    .attr("fill", d => d.data.died ? "#999" : "#4c8bf5");
 
-  node
-    .append("text")
-    .attr("dy", 3)
-    .attr("x", d => (d.children ? -10 : 10))
-    .style("text-anchor", d => (d.children ? "end" : "start"))
+  // Name
+  node.append("text")
+    .attr("x", 10)
+    .attr("dy", "-0.3em")
+    .style("font-weight", "bold")
     .text(d => d.data.name);
+
+  // Dates
+  node.append("text")
+    .attr("x", 10)
+    .attr("dy", "1.0em")
+    .style("font-size", "12px")
+    .style("fill", "#555")
+    .text(d => {
+      const b = d.data.born ? `b. ${d.data.born}` : "";
+      const dth = d.data.died ? ` – d. ${d.data.died}` : "";
+      return b + dth;
+    });
 });
 </script>
