@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2026-04-11" version="5.1.6"/>
+    <created date="2026-04-14" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -168,10 +168,11 @@
       <place hlink="_1025e5f14c516938c74665d0bab4"/>
       <citationref hlink="_1025e56d862526b4f10bb25f0e95"/>
     </event>
-    <event handle="_1001d28441fdcca2add369e691c" change="1773590540" id="E1342">
+    <event handle="_1001d28441fdcca2add369e691c" change="1776189114" id="E1342">
       <type>Birth</type>
       <dateval val="1866-07-01"/>
-      <place hlink="_102176572f5e4e87a3f3cd76ef24"/>
+      <place hlink="_10278336241073e0519f4873fd3"/>
+      <citationref hlink="_102782c3a15e58b6b22d2d454243"/>
     </event>
     <event handle="_1001d28c45c45de4af4d6d4f286" change="1773590476" id="E1343">
       <type>Birth</type>
@@ -2157,6 +2158,40 @@
       <place hlink="_1018415938fe9a0a092d1327dca"/>
       <description>Folketellingen 1801</description>
       <citationref hlink="_1026de4b57261b5e624023432cfb"/>
+    </event>
+    <event handle="_1027836c1973ac8296cea8080a6" change="1776189466" id="E1626">
+      <type>Birth</type>
+      <dateval val="1820"/>
+      <place hlink="_102176572f5e4e87a3f3cd76ef24"/>
+    </event>
+    <event handle="_1027837098532431fca0c407543f" change="1776189533" id="E1627">
+      <type>Census</type>
+      <dateval val="1865"/>
+      <place hlink="_10278336241073e0519f4873fd3"/>
+      <description>Folketellingen 1865</description>
+      <citationref hlink="_1027837602f4605a915ca67cc202"/>
+    </event>
+    <event handle="_10278382109153156836100f7a71" change="1776189610" id="E1628">
+      <type>Birth</type>
+      <dateval val="1830"/>
+      <place hlink="_102176572f5e4e87a3f3cd76ef24"/>
+    </event>
+    <event handle="_1027838ca48d33dba875477435" change="1776189680" id="E1629">
+      <type>Census</type>
+      <dateval val="1865"/>
+      <description>Folketellingen 1865</description>
+      <citationref hlink="_1027838c743e65ac1fff5ca5b55d"/>
+    </event>
+    <event handle="_102783ecaed76456d4b7c42a9c5e" change="1776190309" id="E1630">
+      <type>Marriage</type>
+      <dateval val="1850-04-20"/>
+      <place hlink="_10278336241073e0519f4873fd3"/>
+      <citationref hlink="_102783ec3d387393e09e45fdcfe1"/>
+    </event>
+    <event handle="_1027840ce2907c94b73c9ac401cf" change="1776190520" id="E1631">
+      <type>Residence</type>
+      <dateval val="1850"/>
+      <place hlink="_10278409a7dda42b4b6a0282ce9"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -9202,7 +9237,7 @@
       <parentin hlink="_1001d2516a3f78189d401c28e7d7"/>
       <citationref hlink="_1025e1df40e74d9c03fb95b69fc0"/>
     </person>
-    <person handle="_1001d27e301e19b64a3c431a48cb" change="1773591456" id="I0733">
+    <person handle="_1001d27e301e19b64a3c431a48cb" change="1776190315" id="I0733">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Sven Gunerius</first>
@@ -9212,6 +9247,7 @@
       <eventref hlink="_1021762418724360d90aa67d2943" role="Primary"/>
       <eventref hlink="_102176d4bfc833a03282f5944f57" role="Primary"/>
       <eventref hlink="_1021766b1c0d71df9b9a01fc7dee" role="Primary"/>
+      <childof hlink="_102782dc90202090a2c43ced6a9"/>
       <parentin hlink="_1001d27deced16cbd904d12ccd5c"/>
     </person>
     <person handle="_1001d286756b99d4c248d441157" change="1773593849" id="I0734">
@@ -10553,6 +10589,49 @@
       <eventref hlink="_1026de3e7351bd9ed8a9de3f556" role="Primary"/>
       <eventref hlink="_1026de4bc7eb59e9edc65e2f6090" role="Primary"/>
       <parentin hlink="_1026dd9d771c314609ba114a3e18"/>
+    </person>
+    <person handle="_102782de10cb14c374cb2a584ff8" change="1776190391" id="I0847">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Nils</first>
+        <surname>Jensen</surname>
+      </name>
+      <eventref hlink="_1027836c1973ac8296cea8080a6" role="Primary"/>
+      <eventref hlink="_1027837098532431fca0c407543f" role="Primary"/>
+      <childof hlink="_102783f4777b932ff852d5669ad"/>
+      <parentin hlink="_102782dc90202090a2c43ced6a9"/>
+      <citationref hlink="_102782c3a15e58b6b22d2d454243"/>
+    </person>
+    <person handle="_10278323ffe87225c9dccc1ad0fa" change="1776190548" id="I0848">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Maren Helene</first>
+        <surname>Torstensdatter</surname>
+      </name>
+      <eventref hlink="_10278382109153156836100f7a71" role="Primary"/>
+      <eventref hlink="_1027840ce2907c94b73c9ac401cf" role="Primary"/>
+      <eventref hlink="_1027838ca48d33dba875477435" role="Primary"/>
+      <childof hlink="_102783fb91b2a7f642e0ece0126"/>
+      <parentin hlink="_102782dc90202090a2c43ced6a9"/>
+      <citationref hlink="_102782c3a15e58b6b22d2d454243"/>
+    </person>
+    <person handle="_102783f4d1434488ea281dddca85" change="1776190391" id="I0849">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Jens</first>
+        <surname>Nielsen</surname>
+      </name>
+      <parentin hlink="_102783f4777b932ff852d5669ad"/>
+      <citationref hlink="_102783ec3d387393e09e45fdcfe1"/>
+    </person>
+    <person handle="_102783fbe7d365270bceb69ea831" change="1776190438" id="I0850">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Torsten</first>
+        <surname>Gundersen</surname>
+      </name>
+      <parentin hlink="_102783fb91b2a7f642e0ece0126"/>
+      <citationref hlink="_102783ec3d387393e09e45fdcfe1"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -19995,6 +20074,23 @@
       <mother hlink="_1026ddbc2625213a54cc761b7875"/>
       <childref hlink="_1026db1b9f8327e3ddd5ab0b359a"/>
     </family>
+    <family handle="_102782dc90202090a2c43ced6a9" change="1776190315" id="F0491">
+      <rel type="Unknown"/>
+      <father hlink="_102782de10cb14c374cb2a584ff8"/>
+      <mother hlink="_10278323ffe87225c9dccc1ad0fa"/>
+      <eventref hlink="_102783ecaed76456d4b7c42a9c5e" role="Family"/>
+      <childref hlink="_1001d27e301e19b64a3c431a48cb"/>
+    </family>
+    <family handle="_102783f4777b932ff852d5669ad" change="1776190391" id="F0492">
+      <rel type="Unknown"/>
+      <father hlink="_102783f4d1434488ea281dddca85"/>
+      <childref hlink="_102782de10cb14c374cb2a584ff8"/>
+    </family>
+    <family handle="_102783fb91b2a7f642e0ece0126" change="1776190438" id="F0493">
+      <rel type="Unknown"/>
+      <father hlink="_102783fbe7d365270bceb69ea831"/>
+      <childref hlink="_10278323ffe87225c9dccc1ad0fa"/>
+    </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
       <father hlink="_c0dd13bf6ba157a82e9"/>
@@ -24305,6 +24401,30 @@
       <confidence>2</confidence>
       <noteref hlink="_1026de4aecce7169009a0f26b85e"/>
       <sourceref hlink="_c309eb9603856b833e8"/>
+    </citation>
+    <citation handle="_102782c3a15e58b6b22d2d454243" change="1776188362" id="C1748">
+      <page>pd00000007175098</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102782c3414c60ddfce2f5a6990d"/>
+      <sourceref hlink="_102782bc327c4677eeae5598342b"/>
+    </citation>
+    <citation handle="_1027837602f4605a915ca67cc202" change="1776189531" id="C1749">
+      <page>pf01038007002782</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10278375bc3a5c8e12ab1e24f82d"/>
+      <sourceref hlink="_c3073c1a93a59566b01"/>
+    </citation>
+    <citation handle="_1027838c743e65ac1fff5ca5b55d" change="1776189678" id="C1750">
+      <page>pf01038007002783</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027838c3973226e99ba3e008702"/>
+      <sourceref hlink="_c3073c1a93a59566b01"/>
+    </citation>
+    <citation handle="_102783ec3d387393e09e45fdcfe1" change="1776190306" id="C1751">
+      <page>pv00000000879403</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102783ebdc395af999f76ab217f"/>
+      <sourceref hlink="_102783e64cb7f77f8e8cbc40963"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -32145,6 +32265,14 @@
     <source handle="_1026dd803d2c5a7aa5213e01d809" change="1775911097" id="S0193">
       <stitle>Ministerialbok for Fredrikstad prestegjeld, Fredrikstad sokn 1750-1804 (0103Q)</stitle>
     </source>
+    <source handle="_102782bc327c4677eeae5598342b" change="1776188314" id="S0194">
+      <stitle>Ministerialbok for Kråkstad prestegjeld 1858-1870 (0212P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_102783e64cb7f77f8e8cbc40963" change="1776190267" id="S0195">
+      <stitle>Ministerialbok for Kråkstad prestegjeld 1848-1857 (0212P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -33173,7 +33301,7 @@
       <pname value="Fossveien 10"/>
       <placeref hlink="_e048ce84c8eb8190b7e057d89e"/>
     </placeobj>
-    <placeobj handle="_102176572f5e4e87a3f3cd76ef24" change="1773590539" id="P0406" type="Unknown">
+    <placeobj handle="_102176572f5e4e87a3f3cd76ef24" change="1776189112" id="P0406" type="Unknown">
       <pname value="Kråkstad"/>
     </placeobj>
     <placeobj handle="_102176a1c4ff53c5c6836f9df3fb" change="1773593572" id="P0407" type="Unknown">
@@ -33211,6 +33339,13 @@
     <placeobj handle="_1026db581c23408fb715205f317b" change="1775907478" id="P0415" type="Unknown">
       <pname value="Myhra"/>
       <placeref hlink="_1018415938fe9a0a092d1327dca"/>
+    </placeobj>
+    <placeobj handle="_10278336241073e0519f4873fd3" change="1776189113" id="P0416" type="Unknown">
+      <pname value="Bakker af Frestad nordre"/>
+      <placeref hlink="_102176572f5e4e87a3f3cd76ef24"/>
+    </placeobj>
+    <placeobj handle="_10278409a7dda42b4b6a0282ce9" change="1776190499" id="P0417" type="Unknown">
+      <pname value="Ustvedt"/>
     </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
@@ -34834,7 +34969,7 @@
     <repository handle="_1007ee1930a5600bd06f3deeeda8" change="1762624544" id="R0004">
       <type>Library</type>
     </repository>
-    <repository handle="_c22c08a40be2f769a20" change="1775906757" id="R0000">
+    <repository handle="_c22c08a40be2f769a20" change="1776190266" id="R0000">
       <rname>Skannede kirkebøker</rname>
       <type>Web site</type>
       <url  href="http://www.arkivverket.no/URN:kb_read" type="Web Home" description="Skannede kirkebøker"/>
@@ -37005,6 +37140,30 @@ Det står også noe om bosted host borgemesteren</text>
     <note handle="_1026de4aecce7169009a0f26b85e" change="1775912425" id="N1574" type="Link">
       <text>https://www.digitalarkivet.no/pf01058191001703</text>
       <style name="link" value="https://www.digitalarkivet.no/pf01058191001703">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102782c3414c60ddfce2f5a6990d" change="1776188360" id="N1575" type="Link">
+      <text>https://www.digitalarkivet.no/pd00000007175098</text>
+      <style name="link" value="https://www.digitalarkivet.no/pd00000007175098">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10278375bc3a5c8e12ab1e24f82d" change="1776189530" id="N1576" type="Link">
+      <text>https://www.digitalarkivet.no/pf01038007002782</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01038007002782">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1027838c3973226e99ba3e008702" change="1776189677" id="N1577" type="Link">
+      <text>https://www.digitalarkivet.no/pf01038007002783</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01038007002783">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102783ebdc395af999f76ab217f" change="1776190304" id="N1578" type="Link">
+      <text>https://www.digitalarkivet.no/pv00000000879403</text>
+      <style name="link" value="https://www.digitalarkivet.no/pv00000000879403">
         <range start="0" end="46"/>
       </style>
     </note>
