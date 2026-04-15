@@ -1440,10 +1440,11 @@
       <place hlink="_c959f3570be312fb088"/>
       <description>Folketellingen 1900</description>
     </event>
-    <event handle="_10179aa477ca66e30151b522444a" change="1769634875" id="E1523">
+    <event handle="_10179aa477ca66e30151b522444a" change="1776268191" id="E1523">
       <type>Birth</type>
       <dateval val="1824-01-21"/>
       <place hlink="_10179aa1c6b960f2037cd3121a49"/>
+      <citationref hlink="_1027b2490731a63717a8d6a657e"/>
     </event>
     <event handle="_10179ab2e2896fe960cfde522d52" change="1769356570" id="E1524">
       <type>Census</type>
@@ -10432,7 +10433,7 @@
       <noteref hlink="_10184041e30a1d6143977c2e2f16"/>
       <citationref hlink="_10183ff2a3a63f12923a47ebc254"/>
     </person>
-    <person handle="_10179a99f09e1f89f71887a5222e" change="1769635561" id="I0821">
+    <person handle="_10179a99f09e1f89f71887a5222e" change="1776268250" id="I0821">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Randi</first>
@@ -10454,6 +10455,7 @@
       <eventref hlink="_101840afefad72887d250dae978c" role="Primary"/>
       <childof hlink="_101840eaa1a75204cf8c25c442f"/>
       <parentin hlink="_10179a30e5d138dfd5f677ea9cc5"/>
+      <citationref hlink="_1027b1ba3a7673fb088b2f75abed"/>
     </person>
     <person handle="_10179ace1f2955d63c5bff51d4b4" change="1769634830" id="I0822">
       <gender>M</gender>
@@ -10474,7 +10476,7 @@
       <parentin hlink="_10179acdd4f5738d4ddbb6bff585"/>
       <citationref hlink="_10179a65043736e9e3b34146bb5a"/>
     </person>
-    <person handle="_101840eb01be5e03df9c2a7d23e7" change="1776246101" id="I0824">
+    <person handle="_101840eb01be5e03df9c2a7d23e7" change="1776268119" id="I0824">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Andreas</first>
@@ -10482,6 +10484,7 @@
       </name>
       <parentin hlink="_101840eaa1a75204cf8c25c442f"/>
       <citationref hlink="_101840fa79c535fde8209d959283"/>
+      <citationref hlink="_1027b2490731a63717a8d6a657e"/>
     </person>
     <person handle="_10184150417f33127611c2741e35" change="1775907145" id="I0825">
       <gender>M</gender>
@@ -10920,6 +10923,15 @@
       <eventref hlink="_1027b113d593397328c70415e39f" role="Primary"/>
       <parentin hlink="_1027b0e8315927dc3f301d92e17e"/>
       <citationref hlink="_1027b10be68374077ebae141080c"/>
+    </person>
+    <person handle="_1027b25ac1c07318f18fa52f0ea" change="1776268250" id="I0864">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Berthe</first>
+        <surname>Jacobsdatter</surname>
+      </name>
+      <parentin hlink="_101840eaa1a75204cf8c25c442f"/>
+      <citationref hlink="_1027b2490731a63717a8d6a657e"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -20280,9 +20292,10 @@
       <mother hlink="_10179ad1790c323ee23e8b8a50b2"/>
       <childref hlink="_10179a3226c0bf073e176a87b49"/>
     </family>
-    <family handle="_101840eaa1a75204cf8c25c442f" change="1769635561" id="F0477">
+    <family handle="_101840eaa1a75204cf8c25c442f" change="1776268250" id="F0477">
       <rel type="Unknown"/>
       <father hlink="_101840eb01be5e03df9c2a7d23e7"/>
+      <mother hlink="_1027b25ac1c07318f18fa52f0ea"/>
       <childref hlink="_10179a99f09e1f89f71887a5222e"/>
     </family>
     <family handle="_1018414ff9cd45e998c66d18d88c" change="1775586429" id="F0478">
@@ -24898,6 +24911,18 @@
       <confidence>2</confidence>
       <noteref hlink="_1027b10b1917751fe71aa698bf9e"/>
       <sourceref hlink="_c448cb38e7c30a15647"/>
+    </citation>
+    <citation handle="_1027b1ba3a7673fb088b2f75abed" change="1776267154" id="C1777">
+      <page>pv00000002576994</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027b1b9ed6a4d050f2b44dfda8"/>
+      <sourceref hlink="_f8aa38181c16eddc63337ec86b4"/>
+    </citation>
+    <citation handle="_1027b2490731a63717a8d6a657e" change="1776268089" id="C1778">
+      <page>pd00000044024164</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027b248befe58bc4f65518a17b2"/>
+      <sourceref hlink="_1027b2447eb242eb468f9e3593b3"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -32758,6 +32783,10 @@
       <stitle>Ministerialbok for Kråkstad prestegjeld, Kråkstad sokn 1880-1892 (0212P)</stitle>
       <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
     </source>
+    <source handle="_1027b2447eb242eb468f9e3593b3" change="1776268060" id="S0199">
+      <stitle>Ministerialbok for Vinger prestegjeld, Vinger sokn 1772-1813 (0421Q)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -35475,7 +35504,7 @@
     <repository handle="_1007ee1930a5600bd06f3deeeda8" change="1762624544" id="R0004">
       <type>Library</type>
     </repository>
-    <repository handle="_c22c08a40be2f769a20" change="1776240974" id="R0000">
+    <repository handle="_c22c08a40be2f769a20" change="1776268058" id="R0000">
       <rname>Skannede kirkebøker</rname>
       <type>Web site</type>
       <url  href="http://www.arkivverket.no/URN:kb_read" type="Web Home" description="Skannede kirkebøker"/>
@@ -37813,6 +37842,18 @@ Det står også noe om bosted host borgemesteren</text>
     </note>
     <note handle="_1027b10b1917751fe71aa698bf9e" change="1776266006" id="N1603" type="Link">
       <text>https://ancestors.familysearch.org/en/tree/person/GVMX-1MJ</text>
+    </note>
+    <note handle="_1027b1b9ed6a4d050f2b44dfda8" change="1776267152" id="N1604" type="Link">
+      <text>https://histreg.no/index.php/verify/pv00000002576994</text>
+      <style name="link" value="https://histreg.no/index.php/verify/pv00000002576994">
+        <range start="0" end="52"/>
+      </style>
+    </note>
+    <note handle="_1027b248befe58bc4f65518a17b2" change="1776268088" id="N1605" type="Link">
+      <text>https://www.digitalarkivet.no/pd00000044024164</text>
+      <style name="link" value="https://www.digitalarkivet.no/pd00000044024164">
+        <range start="0" end="46"/>
+      </style>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
