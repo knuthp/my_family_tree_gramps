@@ -1,7 +1,10 @@
 
 
-serve:
+serve_zensical:
     uv run zensical serve
+
+serve:
+    uv run python -m http.server -d _build
 
 build: build_gramps build_zensical
     cp -r site/* _build/
