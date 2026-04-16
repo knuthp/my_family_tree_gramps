@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2026-04-15" version="5.1.6"/>
+    <created date="2026-04-16" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -2355,11 +2355,13 @@
       <description>ernærer sig med Tømmerhugst og Tømmerflødning</description>
       <citationref hlink="_1027b91eb5c8796be7009c26db50"/>
     </event>
-    <event handle="_1027b92c92cf2dc165d5aaf8db0e" change="1776281953" id="E1663">
+    <event handle="_1027b92c92cf2dc165d5aaf8db0e" change="1776323977" id="E1663">
       <type>Birth</type>
       <dateval val="1836-12-27"/>
       <place hlink="_1027b98db3f369a3b356296bbcd8"/>
       <citationref hlink="_1027b92c5ffe222ed4c193c4c048"/>
+      <citationref hlink="_1027d37fe0925815e3bdccfc0c2c"/>
+      <citationref hlink="_1027d3988cf252251478d087e563"/>
     </event>
     <event handle="_1027b933ad7a7dd1172397423f97" change="1776279694" id="E1664">
       <type>Census</type>
@@ -2434,6 +2436,46 @@
     <event handle="_1027baadc1a27ecd44923f9ff2d6" change="1776282171" id="E1675">
       <type>Death</type>
       <dateval val="1841-10-28"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d39e241a7a1947fae59effb7" change="1776324052" id="E1676">
+      <type>Birth</type>
+      <dateval val="1811-03-01"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d39ef7f14501850d9eb06a0a" change="1776324067" id="E1677">
+      <type>Death</type>
+      <dateval val="1880-03-06"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d3c79c1042361e8459106df4" change="1776324284" id="E1678">
+      <type>Birth</type>
+      <dateval val="1780"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d3cdf55465130c6c2a71bbe3" change="1776324325" id="E1679">
+      <type>Death</type>
+      <dateval val="1873-01-22"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d41371c052e1daea7887e7c3" change="1776324781" id="E1680">
+      <type>Birth</type>
+      <dateval val="1756"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d41595d36fb73de42bffa96a" change="1776324795" id="E1681">
+      <type>Death</type>
+      <dateval val="1838"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d426fdc65afd17f12102f0d2" change="1776324926" id="E1682">
+      <type>Birth</type>
+      <dateval val="1768" type="about"/>
+      <place hlink="_10214b747528578c63fa3409f0a5"/>
+    </event>
+    <event handle="_1027d42c51f83d9288514aac6b5" change="1776324944" id="E1683">
+      <type>Death</type>
+      <dateval val="1850"/>
       <place hlink="_10214b747528578c63fa3409f0a5"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
@@ -11055,7 +11097,7 @@
       <childof hlink="_1027b9cb5f91657071d00eed2d05"/>
       <parentin hlink="_1027b82a46d73205f4a5f1f3de19"/>
     </person>
-    <person handle="_1027b8eb055049f752a36fd17967" change="1776281515" id="I0866">
+    <person handle="_1027b8eb055049f752a36fd17967" change="1776323985" id="I0866">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Gorine</first>
@@ -11081,7 +11123,7 @@
       <parentin hlink="_1027b9cb5f91657071d00eed2d05"/>
       <citationref hlink="_1027b9b9ffe2bc0277dbd1113cb"/>
     </person>
-    <person handle="_1027b9d723c2280398c4604c5ece" change="1776282180" id="I0868">
+    <person handle="_1027b9d723c2280398c4604c5ece" change="1776323899" id="I0868">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Jacob</first>
@@ -11092,6 +11134,66 @@
       <parentin hlink="_1027b9d6cd4d5ad7fec7d7dc82b3"/>
       <citationref hlink="_1027b9b9ffe2bc0277dbd1113cb"/>
       <citationref hlink="_1027baa3f7a4cb4c4606c24f9a"/>
+      <citationref hlink="_1027d37fe0925815e3bdccfc0c2c"/>
+    </person>
+    <person handle="_1027d3811b41105b5eecc2c7042b" change="1776324330" id="I0869">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Eli</first>
+        <surname>Erichsdatter</surname>
+      </name>
+      <eventref hlink="_1027d39e241a7a1947fae59effb7" role="Primary"/>
+      <eventref hlink="_1027d39ef7f14501850d9eb06a0a" role="Primary"/>
+      <childof hlink="_1027d3ad647011f09a3c0cc6f79a"/>
+      <parentin hlink="_1027b9d6cd4d5ad7fec7d7dc82b3"/>
+      <citationref hlink="_1027d37fe0925815e3bdccfc0c2c"/>
+    </person>
+    <person handle="_1027d3add26249a41fd35e690337" change="1776324191" id="I0870">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Erich</first>
+        <surname>Olsen Guttormsrud</surname>
+      </name>
+      <parentin hlink="_1027d3ad647011f09a3c0cc6f79a"/>
+      <citationref hlink="_1027d3b77afc1fa6b45624a8bb6a"/>
+    </person>
+    <person handle="_1027d3bcfef8162bc610efb1cd5f" change="1776324947" id="I0871">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Guri</first>
+        <surname>Hansdatter</surname>
+      </name>
+      <name alt="1" type="Birth Name">
+        <first>Sørensen Austvatn, Guri</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_1027d3c79c1042361e8459106df4" role="Primary"/>
+      <eventref hlink="_1027d3cdf55465130c6c2a71bbe3" role="Primary"/>
+      <childof hlink="_1027d4018d29fc0bc91eae55b04"/>
+      <parentin hlink="_1027d3ad647011f09a3c0cc6f79a"/>
+      <citationref hlink="_1027d3c38418211a985e98f55095"/>
+    </person>
+    <person handle="_1027d40517c8611038015d28c253" change="1776324947" id="I0872">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Hans</first>
+        <surname>Olsen Skjeppestad</surname>
+      </name>
+      <eventref hlink="_1027d41371c052e1daea7887e7c3" role="Primary"/>
+      <eventref hlink="_1027d41595d36fb73de42bffa96a" role="Primary"/>
+      <parentin hlink="_1027d4018d29fc0bc91eae55b04"/>
+      <citationref hlink="_1027d40ff1a1719a78b55338512c"/>
+    </person>
+    <person handle="_1027d419a49450ca3114338b7608" change="1776324947" id="I0873">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Rønnaug</first>
+        <surname>Toresdatter Aulie</surname>
+      </name>
+      <eventref hlink="_1027d426fdc65afd17f12102f0d2" role="Primary"/>
+      <eventref hlink="_1027d42c51f83d9288514aac6b5" role="Primary"/>
+      <parentin hlink="_1027d4018d29fc0bc91eae55b04"/>
+      <citationref hlink="_1027d41f63e3610e4be1897c2388"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -20603,10 +20705,23 @@
       <father hlink="_1027b9cb93a026201a1261cafba3"/>
       <childref hlink="_1027b82a81457fe1463b331e6a99"/>
     </family>
-    <family handle="_1027b9d6cd4d5ad7fec7d7dc82b3" change="1776280795" id="F0502">
+    <family handle="_1027b9d6cd4d5ad7fec7d7dc82b3" change="1776323985" id="F0502">
       <rel type="Unknown"/>
       <father hlink="_1027b9d723c2280398c4604c5ece"/>
+      <mother hlink="_1027d3811b41105b5eecc2c7042b"/>
       <childref hlink="_1027b8eb055049f752a36fd17967"/>
+    </family>
+    <family handle="_1027d3ad647011f09a3c0cc6f79a" change="1776324330" id="F0503">
+      <rel type="Unknown"/>
+      <father hlink="_1027d3add26249a41fd35e690337"/>
+      <mother hlink="_1027d3bcfef8162bc610efb1cd5f"/>
+      <childref hlink="_1027d3811b41105b5eecc2c7042b"/>
+    </family>
+    <family handle="_1027d4018d29fc0bc91eae55b04" change="1776324947" id="F0504">
+      <rel type="Unknown"/>
+      <father hlink="_1027d40517c8611038015d28c253"/>
+      <mother hlink="_1027d419a49450ca3114338b7608"/>
+      <childref hlink="_1027d3bcfef8162bc610efb1cd5f"/>
     </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
@@ -25190,6 +25305,42 @@
       <page>Jakob-Nybakk/6000000168923627149</page>
       <confidence>2</confidence>
       <noteref hlink="_1027baa3c58cb837867c04c3b5e"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1027d37fe0925815e3bdccfc0c2c" change="1776323814" id="C1794">
+      <page>pd00000036297287</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027d37ba250b09e6626bc635f7"/>
+      <sourceref hlink="_1027d37fb66e5137182e2e9e9c3e"/>
+    </citation>
+    <citation handle="_1027d3988cf252251478d087e563" change="1776323975" id="C1795">
+      <page>Eli-Sandsbr%C3%A5ten/6000000168924470945</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027d3985dbc794f33b93f5f2893"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1027d3b77afc1fa6b45624a8bb6a" change="1776324178" id="C1796">
+      <page>Erik-Olsen-Guttormsrud/6000000198104683830</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027d3b744164a808f4515f3fbe8"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1027d3c38418211a985e98f55095" change="1776324257" id="C1797">
+      <page>Guri-S%C3%B8rensen-Austvatn/6000000198104549832</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027d3c344957aae7aa32d8cf573"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1027d40ff1a1719a78b55338512c" change="1776324758" id="C1798">
+      <page>Hans-Skjeppestad/6000000020733081086</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027d40f89783d12f608326e90ef"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1027d41f63e3610e4be1897c2388" change="1776324859" id="C1799">
+      <page>R%C3%B8nnaug-Auli/6000000020732949538</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1027d41f37b14c1efb2cb5d5769f"/>
       <sourceref hlink="_c30d348782a173ec7a7"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
@@ -33071,6 +33222,10 @@
       <stitle>Ministerialbok for Nord-Odal prestegjeld 1851-1865 (0418P)</stitle>
       <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
     </source>
+    <source handle="_1027d37fb66e5137182e2e9e9c3e" change="1776323813" id="S0204">
+      <stitle>Klokkerbok for Nord-Odal prestegjeld 1819-1838 (0418P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -35816,7 +35971,7 @@
     <repository handle="_1007ee1930a5600bd06f3deeeda8" change="1762624544" id="R0004">
       <type>Library</type>
     </repository>
-    <repository handle="_c22c08a40be2f769a20" change="1776280567" id="R0000">
+    <repository handle="_c22c08a40be2f769a20" change="1776323811" id="R0000">
       <rname>Skannede kirkebøker</rname>
       <type>Web site</type>
       <url  href="http://www.arkivverket.no/URN:kb_read" type="Web Home" description="Skannede kirkebøker"/>
@@ -38258,6 +38413,42 @@ Det står også noe om bosted host borgemesteren</text>
       <text>https://www.geni.com/people/Jakob-Nybakk/6000000168923627149</text>
       <style name="link" value="https://www.geni.com/people/Jakob-Nybakk/6000000168923627149">
         <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1027d37ba250b09e6626bc635f7" change="1776323786" id="N1621" type="Link">
+      <text>https://www.digitalarkivet.no/pd00000036297287</text>
+      <style name="link" value="https://www.digitalarkivet.no/pd00000036297287">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1027d3985dbc794f33b93f5f2893" change="1776323974" id="N1622" type="Link">
+      <text>https://www.geni.com/people/Eli-Sandsbr%C3%A5ten/6000000168924470945</text>
+      <style name="link" value="https://www.geni.com/people/Eli-Sandsbr%C3%A5ten/6000000168924470945">
+        <range start="0" end="68"/>
+      </style>
+    </note>
+    <note handle="_1027d3b744164a808f4515f3fbe8" change="1776324177" id="N1623" type="Link">
+      <text>https://www.geni.com/people/Erik-Olsen-Guttormsrud/6000000198104683830</text>
+      <style name="link" value="https://www.geni.com/people/Erik-Olsen-Guttormsrud/6000000198104683830">
+        <range start="0" end="70"/>
+      </style>
+    </note>
+    <note handle="_1027d3c344957aae7aa32d8cf573" change="1776324255" id="N1624" type="Link">
+      <text>https://www.geni.com/people/Guri-S%C3%B8rensen-Austvatn/6000000198104549832</text>
+      <style name="link" value="https://www.geni.com/people/Guri-S%C3%B8rensen-Austvatn/6000000198104549832">
+        <range start="0" end="75"/>
+      </style>
+    </note>
+    <note handle="_1027d40f89783d12f608326e90ef" change="1776324755" id="N1625" type="Link">
+      <text>https://www.geni.com/people/Hans-Skjeppestad/6000000020733081086</text>
+      <style name="link" value="https://www.geni.com/people/Hans-Skjeppestad/6000000020733081086">
+        <range start="0" end="64"/>
+      </style>
+    </note>
+    <note handle="_1027d41f37b14c1efb2cb5d5769f" change="1776324858" id="N1626" type="Link">
+      <text>https://www.geni.com/people/R%C3%B8nnaug-Auli/6000000020732949538</text>
+      <style name="link" value="https://www.geni.com/people/R%C3%B8nnaug-Auli/6000000020732949538">
+        <range start="0" end="65"/>
       </style>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
