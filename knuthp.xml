@@ -2752,6 +2752,13 @@
       <place hlink="_1003988c0b6bdf19e6ef470552b"/>
       <citationref hlink="_10283c2d731e4fe31072e3e2b460"/>
     </event>
+    <event handle="_102842f7b9896211d9cd6cfc88d0" change="1776510892" id="E1733">
+      <type>Census</type>
+      <dateval val="1920"/>
+      <place hlink="_102843019b35535562893238d169"/>
+      <description>Natvægter ved fabrik</description>
+      <citationref hlink="_102842f773f934ec8d91f15b2526"/>
+    </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
       <dateval val="1906-10-08"/>
@@ -9708,7 +9715,7 @@
       <noteref hlink="_101799bba7cc53ae4fedfacef4"/>
       <citationref hlink="_10184115ee7478c0ec015c6c30dc"/>
     </person>
-    <person handle="_1001d223117f18e7fe8e5efd147a" change="1776277613" id="I0727">
+    <person handle="_1001d223117f18e7fe8e5efd147a" change="1776512616" id="I0727">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Lars Gunerius</first>
@@ -9723,6 +9730,7 @@
       <parentin hlink="_1001d222c849663012aa96ac49ca"/>
       <citationref hlink="_10217599fb35663d101bd60cfaf7"/>
       <citationref hlink="_1025e31d6872662bb09d97f09cc0"/>
+      <citationref hlink="_10284404cf2041ab543662c6531e"/>
     </person>
     <person handle="_1001d22fb5cb20011f1a4ef99961" change="1776456392" id="I0728">
       <gender>F</gender>
@@ -9741,7 +9749,7 @@
       <parentin hlink="_1001d222c849663012aa96ac49ca"/>
       <citationref hlink="_1021758656dd4ba7a73bfa11d567"/>
     </person>
-    <person handle="_1001d23e52e52e7b1da806f894c2" change="1776499437" id="I0729">
+    <person handle="_1001d23e52e52e7b1da806f894c2" change="1776511505" id="I0729">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Torvald</first>
@@ -9753,8 +9761,10 @@
       <eventref hlink="_10216a7628c73533902226d3e3af" role="Primary"/>
       <eventref hlink="_10214593b5211f20a828ad012d9" role="Primary"/>
       <eventref hlink="_102145d0474066f73df114ab1581" role="Primary"/>
+      <eventref hlink="_102842f7b9896211d9cd6cfc88d0" role="Primary"/>
       <childof hlink="_102145e5d987451612bafb3ce70a"/>
       <parentin hlink="_1001d23e06ee36e58d03e3a89b84"/>
+      <noteref hlink="_1028435f0ab4490f3e338c52b071"/>
     </person>
     <person handle="_1001d245a6b5f1923aa4337fa9e" change="1776448788" id="I0730">
       <gender>F</gender>
@@ -26204,6 +26214,19 @@
       <noteref hlink="_10283c2d48e26545b55bdec08496"/>
       <sourceref hlink="_10281bdd6a3a7325e8b31f5f0fc6"/>
     </citation>
+    <citation handle="_102842f773f934ec8d91f15b2526" change="1776510824" id="C1840">
+      <page>pf01073830002116</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102842f74d3b660ac6dd45b4ca41"/>
+      <sourceref hlink="_f5ffc2515bfc8ca7118b24fdd6"/>
+    </citation>
+    <citation handle="_10284404cf2041ab543662c6531e" change="1776512616" id="C1841">
+      <dateval val="1949-06-06"/>
+      <page>2</page>
+      <confidence>2</confidence>
+      <objref hlink="_102843f896822140ee7c94639608"/>
+      <sourceref hlink="_102843fff5f5390c6d191586bedf"/>
+    </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
       <noteref hlink="_c32a2935f4a08cfbed0"/>
@@ -34109,6 +34132,10 @@
       <stitle>Ministerialbok for Nes prestegjeld 1833-1845 (0236P)</stitle>
       <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
     </source>
+    <source handle="_102843fff5f5390c6d191586bedf" change="1776512558" id="S0211">
+      <stitle>Telen</stitle>
+      <reporef hlink="_f608acab185262bbed388129f60" medium="Book"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -35109,7 +35136,7 @@
     <placeobj handle="_10214b747528578c63fa3409f0a5" change="1776281327" id="P0398" type="Unknown">
       <pname value="Nord Odalen"/>
     </placeobj>
-    <placeobj handle="_10214c12ed0214688a163958456c" change="1773519627" id="P0399" type="Unknown">
+    <placeobj handle="_10214c12ed0214688a163958456c" change="1776510890" id="P0399" type="Unknown">
       <pname value="Notodden"/>
       <placeref hlink="_102145c5a8626c286d1df96cea14"/>
     </placeobj>
@@ -35273,6 +35300,10 @@
     <placeobj handle="_10283c38e24a414b6c956a81a383" change="1776499509" id="P0440" type="Unknown">
       <pname value="Rommenhougen"/>
       <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_102843019b35535562893238d169" change="1776510891" id="P0441" type="Unknown">
+      <pname value="Storgaten 60"/>
+      <placeref hlink="_10214c12ed0214688a163958456c"/>
     </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
@@ -36642,6 +36673,9 @@
     <object handle="_102687f73aa5294c50360725f3e3" change="1775767618" id="O0088">
       <file src="media/boeker/stamtavle_over_slekten_boeckman/stamtavle_over_slekten_boeckman_p87.pdf" mime="application/pdf" checksum="6f0b6d556c429a29070f8046b880b201" description="stamtavle_over_slekten_boeckman_p87"/>
     </object>
+    <object handle="_102843f896822140ee7c94639608" change="1776512585" id="O0089">
+      <file src="media/aviser/telen/lars_andersen_60aar_1949-06-06.png" mime="image/png" checksum="23b6d8667c4a4646d5bb41eef3981aa8" description="lars_andersen_60aar_1949-06-06"/>
+    </object>
     <object handle="_c3fd07655d625dd11ed" change="1690442860" id="O0000">
       <file src="media/boeker/gaardshistorie_hurdal/Rognlia.pdf" mime="application/pdf" checksum="a65abd6bc5da5c9f95e7a20660d6d454" description="Rognlia"/>
     </object>
@@ -36910,7 +36944,7 @@
       <rname>Digitalarkivet</rname>
       <type>Library</type>
     </repository>
-    <repository handle="_f608acab185262bbed388129f60" change="1690731981" id="R0003">
+    <repository handle="_f608acab185262bbed388129f60" change="1776512554" id="R0003">
       <rname>Nasjonalbiblioteket Aviser</rname>
       <type>Library</type>
     </repository>
@@ -39630,6 +39664,28 @@ Det står også noe om bosted host borgemesteren</text>
       <style name="link" value="https://www.digitalarkivet.no/pv00000004311537">
         <range start="0" end="46"/>
       </style>
+    </note>
+    <note handle="_102842f74d3b660ac6dd45b4ca41" change="1776510823" id="N1669" type="Link">
+      <text>https://www.digitalarkivet.no/pf01073830002116</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01073830002116">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1028435f0ab4490f3e338c52b071" change="1776511636" id="N1670" type="Person Note">
+      <text>1929-08-31 Skatteoplysninger
+Vaktmesteer formue: 5000, inntekt 2900, skatt 449 + 46
+
+https://www.nb.no/items/48d54aeff6e16b419d9d32665e337759?page=0&amp;searchText=Thorvald Andreassen
+
+
+
+1941-08-31 Domsmann
+Foreslått til domsmann Telen 1941-08-31
+
+https://www.nb.no/items/e40adf404b4dca0a1ce8654d9a89e627?page=0&amp;searchText=Thorvald Andreassen
+
+
+</text>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
