@@ -3,7 +3,7 @@
 "http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
 <database xmlns="http://gramps-project.org/xml/1.7.1/">
   <header>
-    <created date="2026-04-18" version="5.1.6"/>
+    <created date="2026-04-21" version="5.1.6"/>
     <researcher>
       <resname>Knut H Pedersen</resname>
       <resemail>knuthp@gmail.com</resemail>
@@ -439,8 +439,9 @@
       <place hlink="_1001d136bbc37e7d12c05db62c07"/>
       <citationref hlink="_10039a73bdb06945e3d51c6c1cdf"/>
     </event>
-    <event handle="_10039a8f37d25367429abfc81e2e" change="1760766402" id="pf01036373010512">
+    <event handle="_10039a8f37d25367429abfc81e2e" change="1776524513" id="pf01036373010512">
       <type>Census</type>
+      <dateval val="1910"/>
       <place hlink="_10039a889b415c365350c1286aed"/>
       <description>Folketellingen 1910</description>
       <citationref hlink="_10039a8e663f230a18a997d3ccc3"/>
@@ -451,17 +452,19 @@
       <place hlink="_10039a9fc9452dd776822c88835"/>
       <citationref hlink="_10039a9d67733aacf0d23ac35c07"/>
     </event>
-    <event handle="_10039aa495f6126bdff7d0621adc" change="1760766555" id="pf01036373010509">
+    <event handle="_10039aa495f6126bdff7d0621adc" change="1776524889" id="pf01036373010509">
       <type>Census</type>
+      <dateval val="1910"/>
       <place hlink="_10039a889b415c365350c1286aed"/>
-      <description>Folketellingen 1910</description>
+      <description>tilskjærer</description>
       <citationref hlink="_10039a9d67733aacf0d23ac35c07"/>
     </event>
-    <event handle="_10039ab61f0b29ce39c76ccd57d4" change="1760766657" id="E1367">
+    <event handle="_10039ab61f0b29ce39c76ccd57d4" change="1776587502" id="E1367">
       <type>Birth</type>
       <dateval val="1871-11-10"/>
       <place hlink="_c313dfd86060c896b3d"/>
       <citationref hlink="_10039ab5f7f542dcfce2d4b98c0d"/>
+      <citationref hlink="_102870a0167f47c6bb7d4c8cf67d"/>
     </event>
     <event handle="_10039abba37a73d9aadd802d3df7" change="1760766719" id="pf01036373010510">
       <type>Census</type>
@@ -469,16 +472,18 @@
       <description>Folketellingen 1910</description>
       <citationref hlink="_10039ab5f7f542dcfce2d4b98c0d"/>
     </event>
-    <event handle="_10039ad6e8476bcbc4ce76d56b70" change="1760766918" id="pf01037045148550">
+    <event handle="_10039ad6e8476bcbc4ce76d56b70" change="1776524507" id="pf01037045148550">
       <type>Census</type>
+      <dateval val="1900"/>
       <place hlink="_10039ad56331186b5648c0b1a6b9"/>
       <description>Folketellingen 1900</description>
       <citationref hlink="_10039addcd5b20ad81d5976091cb"/>
     </event>
-    <event handle="_10039ae48e2015e2affe3075852b" change="1760767015" id="pf01037045148546">
+    <event handle="_10039ae48e2015e2affe3075852b" change="1776524853" id="pf01037045148546">
       <type>Census</type>
+      <dateval val="1900"/>
       <place hlink="_10039ad56331186b5648c0b1a6b9"/>
-      <description>Folketellingen 1900</description>
+      <description>Skræddermester</description>
       <citationref hlink="_10039aead7de302b3314a257c898"/>
     </event>
     <event handle="_10039af950dff2ae1d34f6610f1" change="1760767097" id="pf01037045148547">
@@ -487,10 +492,11 @@
       <description>Folketellingen 1900</description>
       <citationref hlink="_10039af92e6f2eb50bf197136755"/>
     </event>
-    <event handle="_10039b333bfe680078eab0faae9f" change="1760767509" id="pf01073681019905">
+    <event handle="_10039b333bfe680078eab0faae9f" change="1776524920" id="pf01073681019905">
       <type>Census</type>
+      <dateval val="1920"/>
       <place hlink="_10039a889b415c365350c1286aed"/>
-      <description>Folketellingen 1920</description>
+      <description>Tilskjærer på konfeksjonsfabrik.Skredder</description>
       <citationref hlink="_10039b37ec227e00d9918e69010b"/>
     </event>
     <event handle="_10039b41e2553457f5765ca83072" change="1760767579" id="pf01073681019906">
@@ -511,16 +517,17 @@
       <description>Folketellingen 1910</description>
       <citationref hlink="_10039b9538e23849d620f72478b0"/>
     </event>
-    <event handle="_10039b9d229d7a07f066e85129a4" change="1760768220" id="E1369">
+    <event handle="_10039b9d229d7a07f066e85129a4" change="1776535007" id="E1369">
       <type>Birth</type>
       <dateval val="1848-01-08"/>
       <place hlink="_10039b9cea6d16128ee4695cc18d"/>
       <citationref hlink="_10039b9538e23849d620f72478b0"/>
     </event>
-    <event handle="_10039bafd3f576d1a922b8c58d86" change="1760768323" id="pf01036364000033">
+    <event handle="_10039bafd3f576d1a922b8c58d86" change="1776535721" id="pf01036364000033">
       <type>Census</type>
+      <dateval val="1910"/>
       <place hlink="_10039b8ecd6474bfd0abafa3d83d"/>
-      <description>Folketellingen 1910</description>
+      <description>have Ejer</description>
       <citationref hlink="_10039bb454d543087d5fe6e18ed7"/>
     </event>
     <event handle="_10039bbafdda590dd9d08cf56e92" change="1760770453" id="E1370">
@@ -547,10 +554,11 @@
       <description>Folketellingen 1875</description>
       <citationref hlink="_10039c475c50b550064b49e0899"/>
     </event>
-    <event handle="_10039c538dbf848cabfa00fe6a0" change="1760769366" id="pf01052055061897">
+    <event handle="_10039c538dbf848cabfa00fe6a0" change="1776535655" id="pf01052055061897">
       <type>Census</type>
+      <dateval val="1875"/>
       <place hlink="_10039c4300ca5d445c23b6de248"/>
-      <description>Folketellingen 1875</description>
+      <description>Snedkerarbeider</description>
       <citationref hlink="_10039c534880240a05ea588e8026"/>
     </event>
     <event handle="_10039c5df7e772994e7a6a25101" change="1760769435" id="pf01052055061898">
@@ -571,10 +579,11 @@
       <description>Folketellingen 1885</description>
       <citationref hlink="_10039cb5536c2467cee28fa6908f"/>
     </event>
-    <event handle="_10039cc7f9ab69c167a83e504f64" change="1760770129" id="pf01053257125564">
+    <event handle="_10039cc7f9ab69c167a83e504f64" change="1776535675" id="pf01053257125564">
       <type>Census</type>
+      <dateval val="1885"/>
       <place hlink="_10039ca100912c0b7ad1cc615306"/>
-      <description>Folketellingen 1885</description>
+      <description>Slagterborger</description>
       <citationref hlink="_10039cbf57a9699489727408f5bb"/>
     </event>
     <event handle="_10039cdbb73f36e0cb2b3e274271" change="1760770275" id="pf01052721151240">
@@ -589,16 +598,18 @@
       <description>Folketellingen 1891</description>
       <citationref hlink="_10039cea35a411d4654c60795ef8"/>
     </event>
-    <event handle="_10039cf663e64ff815e7b92a9e5" change="1760770466" id="pf01052721151238">
+    <event handle="_10039cf663e64ff815e7b92a9e5" change="1776535692" id="pf01052721151238">
       <type>Census</type>
+      <dateval val="1891"/>
       <place hlink="_10039ca100912c0b7ad1cc615306"/>
-      <description>Folketellingen 1891</description>
+      <description>Familiens overhode</description>
       <citationref hlink="_10039cf6207a206ffc2f33b51a6c"/>
     </event>
-    <event handle="_10039d150ff84ee8c71bae1acb27" change="1760770656" id="pf01037045187283">
+    <event handle="_10039d150ff84ee8c71bae1acb27" change="1776535711" id="pf01037045187283">
       <type>Census</type>
+      <dateval val="1900"/>
       <place hlink="_10039d1106d74092f99724638ab2"/>
-      <description>Folketellingen 1900</description>
+      <description>Kjødhandler</description>
       <citationref hlink="_10039d146acb2bea60eb9e0ec116"/>
     </event>
     <event handle="_1003e5f23a772de2c8017bde140" change="1760892880" id="E1373">
@@ -1738,10 +1749,10 @@
       <place hlink="_10039b9cea6d16128ee4695cc18d"/>
       <citationref hlink="_102143af94a4269f322e9cd7ef96"/>
     </event>
-    <event handle="_10214470309e68749c994decb2e3" change="1773507130" id="E1560">
+    <event handle="_10214470309e68749c994decb2e3" change="1776753761" id="E1560">
       <type>Birth</type>
       <dateval val="1864-08-08"/>
-      <place hlink="_10039b9cea6d16128ee4695cc18d"/>
+      <place hlink="_1028d3c47cad49aec754226e1c1"/>
       <citationref hlink="_102143c017905e2be01c65683871"/>
     </event>
     <event handle="_10214497a84a44179ce6e15d769b" change="1773507075" id="pf01036387002542">
@@ -2758,6 +2769,755 @@
       <place hlink="_102843019b35535562893238d169"/>
       <description>Natvægter ved fabrik</description>
       <citationref hlink="_102842f773f934ec8d91f15b2526"/>
+    </event>
+    <event handle="_10284c3b632659d412f524440798" change="1776529152" id="E1734">
+      <type>Birth</type>
+      <dateval val="1832-08-18"/>
+      <place hlink="_10284de20d0b566a7d6827c9c55d"/>
+      <citationref hlink="_10284dce926466313b31c82b9d6"/>
+    </event>
+    <event handle="_10284c4db55169dbf6421dd66fe4" change="1776527095" id="E1735">
+      <type>Census</type>
+      <dateval val="1875"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <description>Selveier skrædder</description>
+      <citationref hlink="_10284c43ee46797064ac1e5e1312"/>
+    </event>
+    <event handle="_10284c6588be20f98393b9eb9e8c" change="1776526645" id="E1736">
+      <type>Census</type>
+      <dateval val="1891"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <citationref hlink="_10284c6556f4117a473f0213fff9"/>
+    </event>
+    <event handle="_10284c767b09271b3c28aa20b1dc" change="1776528596" id="E1737">
+      <type>Birth</type>
+      <dateval val="1837-06-18"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_10284c7ef0c0f77d3b5be81efbe" change="1776526812" id="E1738">
+      <type>Census</type>
+      <dateval val="1875"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <citationref hlink="_10284c7ec30f79b30b5793faf119"/>
+    </event>
+    <event handle="_10284c8dcb367c9546d74f07518f" change="1776526909" id="E1739">
+      <type>Census</type>
+      <dateval val="1891"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <citationref hlink="_10284c8da5815762a9e8509c93d"/>
+    </event>
+    <event handle="_10284ca3f06d34f22c8336916a9d" change="1776527265" id="E1740">
+      <type>Census</type>
+      <dateval val="1900"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <description>Skrædder og selveier</description>
+      <citationref hlink="_10284ca3b4bb72e418e2b7f18019"/>
+    </event>
+    <event handle="_10284cb5f4a142669300f474c151" change="1776527204" id="E1741">
+      <type>Census</type>
+      <dateval val="1900"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <description>Selveierkone. Husgjærning og fjøsstel</description>
+      <citationref hlink="_10284cb5d03946d6153ab02eff51"/>
+    </event>
+    <event handle="_10284ccd31b226a20f8cd32912d3" change="1776527325" id="E1742">
+      <type>Census</type>
+      <dateval val="1910"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <description>fhv. (skrædder) Noget midler</description>
+      <citationref hlink="_10284ccbafb23abc3bb9c9b9ebda"/>
+    </event>
+    <event handle="_10284cdb884e658998403140bdef" change="1776527419" id="E1743">
+      <type>Census</type>
+      <dateval val="1910"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <description>Husmor</description>
+      <citationref hlink="_10284cda2f171486badc45f40db0"/>
+    </event>
+    <event handle="_10284d6efe9e4b47e05e2532b5cd" change="1776528385" id="E1744">
+      <type>Death</type>
+      <dateval val="1922-02-24"/>
+      <place hlink="_10284c4ce2ae546f78d79d0ac49"/>
+      <citationref hlink="_10284d699a222c0e87949e089bcc"/>
+    </event>
+    <event handle="_10284d8739996ef785284eb1b10b" change="1776528544" id="E1745">
+      <type>Death</type>
+      <dateval val="1916-06-16"/>
+      <place hlink="_10284c4ce2ae546f78d79d0ac49"/>
+      <citationref hlink="_10284d85a7642895b7305ea84dc7"/>
+    </event>
+    <event handle="_10284decd8c9436bdd0588893b83" change="1776530489" id="E1746">
+      <type>Occupation</type>
+      <dateval val="1818"/>
+      <description>Skredder</description>
+    </event>
+    <event handle="_10284e037b711b6a14e7197aefc" change="1776529358" id="E1747">
+      <type>Marriage</type>
+      <dateval val="1864-02-29"/>
+      <place hlink="_10284c3ae93d2ca8fb4b8b64a321"/>
+      <citationref hlink="_10284dfd8c39107ee7e9bbe07d12"/>
+    </event>
+    <event handle="_10284e33217a12ce15679ff0c258" change="1776529671" id="E1748">
+      <type>Census</type>
+      <dateval val="1920"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <description>Unnerholdes av barna. Litt penger</description>
+      <citationref hlink="_10284e31193137eebeac8c8d40c1"/>
+    </event>
+    <event handle="_10284e461f0b65a436d7eb446195" change="1776529795" id="E1749">
+      <type>Census</type>
+      <dateval val="1865"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <citationref hlink="_10284e441f474d2a0fecb42707af"/>
+    </event>
+    <event handle="_10284e51772c7c0cdcafd272e8f6" change="1776529911" id="E1750">
+      <type>Census</type>
+      <dateval val="1865"/>
+      <place hlink="_10284c4d124b57f2deb2d0a39ff5"/>
+      <description>Skrædder og Selveier</description>
+      <citationref hlink="_10284e51349472b472c18dbc42c2"/>
+    </event>
+    <event handle="_10284e73233367a81fb70c343f3f" change="1776530090" id="E1751">
+      <type>Birth</type>
+      <dateval val="1789"/>
+    </event>
+    <event handle="_10284e878fb34379c9b8d4aa7e38" change="1776530224" id="E1752">
+      <type>Death</type>
+      <dateval val="1847-11-21"/>
+      <place hlink="_10284c3ae93d2ca8fb4b8b64a321"/>
+      <citationref hlink="_10284e869bc06419deb2ed94ab69"/>
+    </event>
+    <event handle="_10284ea8955350db3c25c44b2795" change="1776530440" id="E1753">
+      <type>Marriage</type>
+      <dateval val="1818-02-07"/>
+      <place hlink="_10284c3ae93d2ca8fb4b8b64a321"/>
+      <citationref hlink="_10284ea84a441e155c21dc749a0d"/>
+    </event>
+    <event handle="_10284ec7ecbc13a44821fa74cd21" change="1776530646" id="E1754">
+      <type>Census</type>
+      <dateval val="1815"/>
+      <place hlink="_10284ebfc16d2ef976841479d937"/>
+      <description>Skrædder</description>
+      <citationref hlink="_10284ec67e8c2e08214acb5ffe77"/>
+    </event>
+    <event handle="_10284edd3def3694a1583afecc27" change="1776530785" id="E1755">
+      <type>Birth</type>
+      <dateval val="1796"/>
+    </event>
+    <event handle="_10284f08b0b3554d3cc571e2d72d" change="1776531070" id="E1756">
+      <type>Census</type>
+      <dateval val="1801"/>
+      <place hlink="_10284de20d0b566a7d6827c9c55d"/>
+      <citationref hlink="_10284f085efe46c7f869dfeb01"/>
+    </event>
+    <event handle="_10284f16b4336ab81da6dda23287" change="1776531298" id="E1757">
+      <type>Birth</type>
+      <dateval val="1748"/>
+      <citationref hlink="_10284f16840415d1cf265a1c0db0"/>
+    </event>
+    <event handle="_10284f21ff71547ece4a1bcac63b" change="1776531236" id="E1758">
+      <type>Birth</type>
+      <dateval val="1754"/>
+    </event>
+    <event handle="_10284f382d507774ff1d86bf2a8d" change="1776531381" id="E1759">
+      <type>Census</type>
+      <dateval val="1801"/>
+      <place hlink="_10284de20d0b566a7d6827c9c55d"/>
+      <description>Bygsel mand og sadelmager</description>
+      <citationref hlink="_10284f37fb2b542c68e01c535401"/>
+    </event>
+    <event handle="_10284f6a219a690617c94b080564" change="1776531709" id="E1760">
+      <type>Death</type>
+      <dateval val="1827-04-10"/>
+      <place hlink="_10284de20d0b566a7d6827c9c55d"/>
+      <citationref hlink="_10284f688a4f5299863e8aeb272b"/>
+    </event>
+    <event handle="_10284ff2007c2073789ad3ca5757" change="1776532599" id="E1761">
+      <type>Census</type>
+      <dateval val="1801"/>
+      <place hlink="_10284fe3fc47331b7f60efdc0d36"/>
+      <description>Lære drenge hos skrædder</description>
+      <citationref hlink="_10284fec82b9c735246df5582b5"/>
+    </event>
+    <event handle="_1028507dfabf4be282db7d868107" change="1776533516" id="E1762">
+      <type>Confirmation</type>
+      <place hlink="_10284fe3fc47331b7f60efdc0d36"/>
+      <citationref hlink="_1028507c786244760a38890d46ef"/>
+    </event>
+    <event handle="_10286dc897951495e33166af43e3" change="1776583333" id="E1763">
+      <type>Death</type>
+      <dateval val="1912-09-20"/>
+      <place hlink="_c313e02021222f5bc5d"/>
+      <citationref hlink="_10286e215356628ee9e84bd4958"/>
+    </event>
+    <event handle="_10286e8877db412683f71af7a9b4" change="1776583917" id="E1764">
+      <type>Death</type>
+      <dateval val="1922-12-15"/>
+    </event>
+    <event handle="_10286eb5215c50bfe0526dfaac37" change="1776584210" id="E1765">
+      <type>Death</type>
+      <dateval val="1946-02-18"/>
+      <citationref hlink="_10286eaec4cc4fb81f35ccc2a1e1"/>
+    </event>
+    <event handle="_102870e9983932f23c650a2498bb" change="1776587937" id="E1766">
+      <type>Marriage</type>
+      <dateval val="1871-01-02"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+      <citationref hlink="_102870e7750a6ff13ebe73f7eaf2"/>
+    </event>
+    <event handle="_102871367973771fd013eb3ff11b" change="1776588413" id="E1767">
+      <type>Death</type>
+      <dateval val="1978-09-17"/>
+      <place hlink="_1001d136bbc37e7d12c05db62c07"/>
+    </event>
+    <event handle="_10287153ac7b7f7174c9bdc1f605" change="1776588604" id="E1768">
+      <type>Death</type>
+      <dateval val="1922-06-10"/>
+      <place hlink="_1021448f8a82717ba6905d599d0d"/>
+      <citationref hlink="_1028714590944889727eecfc996d"/>
+    </event>
+    <event handle="_102871695eba7a368dd8d5411ff" change="1776588746" id="E1769">
+      <type>Birth</type>
+      <dateval val="1827"/>
+      <place hlink="_10287168d7141ecab8d9f337e157"/>
+    </event>
+    <event handle="_1028716bcebd69919473f5e82ac2" change="1776588762" id="E1770">
+      <type>Death</type>
+      <dateval val="1887"/>
+      <place hlink="_10287168d7141ecab8d9f337e157"/>
+    </event>
+    <event handle="_1028717ea07a4314481abc49d1a6" change="1776588886" id="E1771">
+      <type>Birth</type>
+      <dateval val="1827" type="about"/>
+    </event>
+    <event handle="_1028718087cf7e23239adbcd4d42" change="1776588898" id="E1772">
+      <type>Death</type>
+      <dateval val="1886"/>
+    </event>
+    <event handle="_1028718e648618095789243691f4" change="1776588989" id="E1773">
+      <type>Birth</type>
+      <dateval val="1783"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_1028719299f941d3842a9003548e" change="1776589016" id="E1774">
+      <type>Death</type>
+      <dateval val="1860-10-26"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_102871a5a92229a1dd0538c9286f" change="1776589141" id="E1775">
+      <type>Birth</type>
+      <dateval val="1795-08"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_102871aae1ce568392579c222a12" change="1776589176" id="E1776">
+      <type>Death</type>
+      <dateval val="1876-11-29"/>
+      <place hlink="_102871aa5e3b12bf0d01e4934c"/>
+    </event>
+    <event handle="_102871b91c56b17302d9d7aaf" change="1776589269" id="E1777">
+      <type>Birth</type>
+      <dateval val="1756"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_102871ba950739f2d32f9eb6dfef" change="1776589278" id="E1778">
+      <type>Death</type>
+      <dateval val="1846"/>
+    </event>
+    <event handle="_102871c6920b7a52b1f1ecaffe7b" change="1776589357" id="E1779">
+      <type>Birth</type>
+      <dateval val="1758"/>
+    </event>
+    <event handle="_102871c7ef7514ea26aaefab8881" change="1776589366" id="E1780">
+      <type>Death</type>
+      <dateval val="1838"/>
+    </event>
+    <event handle="_102871da5ec21c1068e9bd5729f4" change="1776589487" id="E1781">
+      <type>Birth</type>
+      <dateval val="1721"/>
+      <place hlink="_102871d969882baccbf788d12b73"/>
+    </event>
+    <event handle="_102871dcbc2f5c2125023be771d7" change="1776589502" id="E1782">
+      <type>Death</type>
+      <dateval val="1785"/>
+      <place hlink="_102871d969882baccbf788d12b73"/>
+    </event>
+    <event handle="_102871f5031b6ec70f5476cbc371" change="1776589661" id="E1783">
+      <type>Birth</type>
+      <dateval val="1724"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_102871f95d794acb818ffa74d440" change="1776589690" id="E1784">
+      <type>Death</type>
+      <dateval val="1790"/>
+      <place hlink="_102871f896341be56d3b1b3504df"/>
+    </event>
+    <event handle="_1028720a4c8471faba085f9c71ab" change="1776589801" id="E1785">
+      <type>Birth</type>
+      <dateval val="1683"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_1028720effd644cc23332c73e3c5" change="1776589832" id="E1786">
+      <type>Death</type>
+      <dateval val="1763-12-30"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_1028721f276c499f4c5ccc805d5d" change="1776589938" id="E1787">
+      <type>Birth</type>
+      <dateval val="1694" type="about"/>
+      <place hlink="_1028721eb02536a8fdf2a22a39ae"/>
+    </event>
+    <event handle="_1028722205602766a943d62f6fb5" change="1776589956" id="E1788">
+      <type>Death</type>
+      <dateval val="1770" type="about"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_1028722f75337987f705a658c536" change="1776590044" id="E1789">
+      <type>Birth</type>
+      <dateval val="1620" type="about"/>
+      <place hlink="_1028721eb02536a8fdf2a22a39ae"/>
+    </event>
+    <event handle="_1028723235b11f052ee778c5eee8" change="1776590062" id="E1790">
+      <type>Death</type>
+      <dateval val="1702" type="about"/>
+      <place hlink="_1028721eb02536a8fdf2a22a39ae"/>
+    </event>
+    <event handle="_1028723d15f2353b0d9084dfccd2" change="1776590171" id="E1791">
+      <type>Birth</type>
+      <dateval val="1630" type="about"/>
+      <place hlink="_1028724238af79f73798ff3a3a6c"/>
+      <citationref hlink="_1028723cedde3f9c270ce4049e25"/>
+    </event>
+    <event handle="_10287245d63e2cb253afd218305" change="1776590191" id="E1792">
+      <type>Death</type>
+      <dateval val="1710" type="about"/>
+      <place hlink="_1028721eb02536a8fdf2a22a39ae"/>
+    </event>
+    <event handle="_1028728be1397f2b9b0db3006c2d" change="1776590650" id="E1793">
+      <type>Birth</type>
+      <dateval val="1493" type="about"/>
+      <place hlink="_1028728b2645f890335b021e96f"/>
+    </event>
+    <event handle="_102872927cfa2c472ac3cc3b9a0b" change="1776590693" id="E1794">
+      <type>Death</type>
+      <dateval val="1530"/>
+      <place hlink="_c33937b70823b629fe0"/>
+    </event>
+    <event handle="_102872a211a27c4fdc97ed7f7f36" change="1776590796" id="E1795">
+      <type>Birth</type>
+      <dateval val="1494" type="about"/>
+      <place hlink="_1028728b2645f890335b021e96f"/>
+    </event>
+    <event handle="_102872a6fb06576cedb9aea4e5ed" change="1776590828" id="E1796">
+      <type>Death</type>
+      <dateval val="1576" type="about"/>
+      <place hlink="_c33937b70823b629fe0"/>
+    </event>
+    <event handle="_102872cfaa9c7e13ebfbbc43dc77" change="1776591094" id="E1797">
+      <type>Birth</type>
+      <dateval val="1467" type="about"/>
+      <place hlink="_1028728b2645f890335b021e96f"/>
+    </event>
+    <event handle="_102872d3275367639793b16aca9a" change="1776591117" id="E1798">
+      <type>Death</type>
+      <dateval val="1532" type="about"/>
+      <place hlink="_1028728b2645f890335b021e96f"/>
+    </event>
+    <event handle="_102872e5ae5f741ba3612c0adcd7" change="1776591239" id="E1799">
+      <type>Birth</type>
+      <dateval val="1441" type="about"/>
+      <place hlink="_1028728b2645f890335b021e96f"/>
+    </event>
+    <event handle="_102872e8523a703eb348bef0e593" change="1776591256" id="E1800">
+      <type>Death</type>
+      <dateval val="1508" type="about"/>
+      <place hlink="_1028728b2645f890335b021e96f"/>
+    </event>
+    <event handle="_1028731648b4730e3721df83c95d" change="1776591557" id="E1801">
+      <type>Birth</type>
+      <dateval val="1448"/>
+      <place hlink="_102873159fac1b7780794a4717c2"/>
+    </event>
+    <event handle="_10287322ad9b681a77c0c191c6a4" change="1776591638" id="E1802">
+      <type>Death</type>
+      <dateval val="1478"/>
+      <place hlink="_1028731eae5854a54fadc453996b"/>
+    </event>
+    <event handle="_10287384bdc35f2063f1b7ca49ba" change="1776592281" id="E1803">
+      <type>Birth</type>
+      <dateval val="1633" type="about"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_102873881e97718595621b958bd4" change="1776592303" id="E1804">
+      <type>Death</type>
+      <dateval val="1718-09-11"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_102873941d9678ce1484c96f15e0" change="1776592382" id="E1805">
+      <type>Birth</type>
+      <dateval val="1640"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_102873966f15184aa71f41bb1b7c" change="1776592397" id="E1806">
+      <type>Death</type>
+      <dateval val="1729"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_102873aa57cb523202aa1d9cc546" change="1776592527" id="E1807">
+      <type>Birth</type>
+      <dateval val="1615" type="about"/>
+    </event>
+    <event handle="_102873abad5c6521dabe557da952" change="1776592536" id="E1808">
+      <type>Death</type>
+      <dateval val="1700" type="about"/>
+    </event>
+    <event handle="_102873c104ea6412116da014683e" change="1776592676" id="E1809">
+      <type>Birth</type>
+      <dateval val="1600" type="about"/>
+    </event>
+    <event handle="_102873c2fbc21fcd8e96fdb740bf" change="1776592689" id="E1810">
+      <type>Death</type>
+      <dateval val="1666"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_102873d0f97d6ce2a7ef4e54653b" change="1776592781" id="E1811">
+      <type>Birth</type>
+      <dateval val="1575" type="about"/>
+    </event>
+    <event handle="_102873d2cd8515d9718f61c527d" change="1776592793" id="E1812">
+      <type>Death</type>
+      <dateval val="1650" type="about"/>
+    </event>
+    <event handle="_102873e2205d69518b396f635307" change="1776592893" id="E1813">
+      <type>Birth</type>
+      <dateval val="1570" type="about"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_102873e4d02b4c73c1cdc7c42338" change="1776592911" id="E1814">
+      <type>Death</type>
+      <dateval val="1650" type="about"/>
+      <place hlink="_102871f4992ae4e65e0ba80bda4"/>
+    </event>
+    <event handle="_1028740a50963de1115a0a6b9450" change="1776593156" id="E1815">
+      <type>Birth</type>
+      <dateval val="1692"/>
+      <place hlink="_10287409a718775309fdac74b880"/>
+    </event>
+    <event handle="_1028740d06b84424ce5de06edf90" change="1776593174" id="E1816">
+      <type>Death</type>
+      <dateval val="1764"/>
+      <place hlink="_102871d969882baccbf788d12b73"/>
+    </event>
+    <event handle="_10287423dd096cfc5834fdd5b92a" change="1776593324" id="E1817">
+      <type>Birth</type>
+      <dateval val="1694"/>
+      <place hlink="_102874222a331df981632744689f"/>
+    </event>
+    <event handle="_1028742c1576158b5c8570337c3e" change="1776593378" id="E1818">
+      <type>Death</type>
+      <dateval val="1764"/>
+      <place hlink="_102871d969882baccbf788d12b73"/>
+    </event>
+    <event handle="_1028743ddf0171181d293b3596fd" change="1776593494" id="E1819">
+      <type>Birth</type>
+      <dateval val="1660" type="about"/>
+      <place hlink="_1028743cc92e4ebd3b69ada43a31"/>
+    </event>
+    <event handle="_1028744212044bda54c96ad78f13" change="1776593522" id="E1820">
+      <type>Death</type>
+      <dateval val="1700-04-05"/>
+      <place hlink="_102874222a331df981632744689f"/>
+    </event>
+    <event handle="_1028744e1cfb4d4d30dc68521959" change="1776593601" id="E1821">
+      <type>Birth</type>
+      <dateval val="1663" type="about"/>
+      <place hlink="_102874222a331df981632744689f"/>
+    </event>
+    <event handle="_10287450d13e3d10255fe80f36d5" change="1776593618" id="E1822">
+      <type>Death</type>
+      <dateval val="1734"/>
+      <place hlink="_102874222a331df981632744689f"/>
+    </event>
+    <event handle="_10287461771f7358f55802159ee7" change="1776593728" id="E1823">
+      <type>Birth</type>
+      <dateval val="1632" type="about"/>
+      <place hlink="_1028746114e7f71dc6a6f81db9e"/>
+    </event>
+    <event handle="_10287463bd60103851fd7fca37a1" change="1776593742" id="E1824">
+      <type>Death</type>
+      <dateval val="1712"/>
+      <place hlink="_102874222a331df981632744689f"/>
+    </event>
+    <event handle="_102874709600244e13ad77b668ce" change="1776593827" id="E1825">
+      <type>Birth</type>
+      <dateval val="1630" type="about"/>
+    </event>
+    <event handle="_102874725ee34a7601ebe3fce5bd" change="1776593838" id="E1826">
+      <type>Death</type>
+      <dateval val="1712"/>
+      <place hlink="_102874222a331df981632744689f"/>
+    </event>
+    <event handle="_10287483c4da6eadfa1dcc24c37d" change="1776593952" id="E1827">
+      <type>Birth</type>
+      <dateval val="1593"/>
+      <place hlink="_10287483815f49f044f81df87bc9"/>
+    </event>
+    <event handle="_102874866ae5616e87f9547a90ab" change="1776593970" id="E1828">
+      <type>Death</type>
+      <dateval val="1666"/>
+      <place hlink="_1028746114e7f71dc6a6f81db9e"/>
+    </event>
+    <event handle="_10287498b9ea38cf196db18a8764" change="1776594090" id="E1829">
+      <type>Birth</type>
+      <dateval val="1600" type="about"/>
+      <place hlink="_1028749880bd379fbe86adb2b5f8"/>
+    </event>
+    <event handle="_1028749afd5e7863a6cd02d84851" change="1776594105" id="E1830">
+      <type>Death</type>
+      <dateval val="1678"/>
+      <place hlink="_1028746114e7f71dc6a6f81db9e"/>
+    </event>
+    <event handle="_102874d028666fc14a8bceda911" change="1776594453" id="E1831">
+      <type>Birth</type>
+      <dateval val="1550"/>
+      <place hlink="_1028749880bd379fbe86adb2b5f8"/>
+    </event>
+    <event handle="_102874d3361b27ba14932d2765ee" change="1776594473" id="E1832">
+      <type>Death</type>
+      <dateval val="1610"/>
+      <place hlink="_1028749880bd379fbe86adb2b5f8"/>
+    </event>
+    <event handle="_102874e5daaa7d636e83f92cc917" change="1776594595" id="E1833">
+      <type>Birth</type>
+      <dateval val="1556" type="about"/>
+      <place hlink="_102874e5125a46f82bf495279a56"/>
+    </event>
+    <event handle="_102874e86e9140990f09bf0145f1" change="1776594612" id="E1834">
+      <type>Death</type>
+      <dateval val="1660"/>
+      <place hlink="_10287483815f49f044f81df87bc9"/>
+    </event>
+    <event handle="_102874f9562028e2298f0a4f3fa8" change="1776594723" id="E1835">
+      <type>Birth</type>
+      <dateval val="1537"/>
+      <place hlink="_102874f8beba78909ca7b1ef378d"/>
+    </event>
+    <event handle="_102874fe7a17641a9c655f17e9eb" change="1776594757" id="E1836">
+      <type>Death</type>
+      <dateval val="1595-11-15"/>
+      <place hlink="_102874e5125a46f82bf495279a56"/>
+    </event>
+    <event handle="_1028750e6b8a27000d5c5f4fddea" change="1776594861" id="E1837">
+      <type>Birth</type>
+      <dateval val="1524"/>
+      <place hlink="_1028750cde9b1aa734a1744e9803"/>
+    </event>
+    <event handle="_1028751194496c60b5aa92cd75b2" change="1776594882" id="E1838">
+      <type>Death</type>
+      <dateval val="1580"/>
+      <place hlink="_102874e5125a46f82bf495279a56"/>
+    </event>
+    <event handle="_1028752527553876b1b6a1410fce" change="1776595010" id="E1839">
+      <type>Birth</type>
+      <dateval val="1550"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_10287526ebb0117ec65c201d6f9d" change="1776595022" id="E1840">
+      <type>Death</type>
+      <dateval val="1550"/>
+    </event>
+    <event handle="_1028755a87df66a87010820d0a66" change="1776595360" id="E1841">
+      <type>Birth</type>
+      <dateval val="1490"/>
+      <place hlink="_102874f8beba78909ca7b1ef378d"/>
+    </event>
+    <event handle="_1028755d54b75262cea3b230c381" change="1776595378" id="E1842">
+      <type>Death</type>
+      <dateval val="1550"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_1028756a89d66c812f8f55b8d2f7" change="1776595465" id="E1843">
+      <type>Birth</type>
+      <dateval val="1490"/>
+      <place hlink="_1028756a371c43911233e9b1dfdb"/>
+    </event>
+    <event handle="_1028756da7431d125edb525cfa2a" change="1776595485" id="E1844">
+      <type>Death</type>
+      <dateval val="1595" type="about"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_102875924b5a6e60a80d14d02632" change="1776595725" id="E1845">
+      <type>Birth</type>
+      <dateval val="1463" type="about"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_102875960152416a8280852dbb8d" change="1776595750" id="E1846">
+      <type>Death</type>
+      <dateval val="1525" type="about"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_1028759e5139260689796c3e2d16" change="1776595804" id="E1847">
+      <type>Birth</type>
+      <dateval val="1465" type="about"/>
+      <place hlink="_1028756a371c43911233e9b1dfdb"/>
+    </event>
+    <event handle="_102875a0e25745379454f6db1860" change="1776595821" id="E1848">
+      <type>Death</type>
+      <dateval val="1520" type="about"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_102875bb75f76d43c7254c369af0" change="1776595995" id="E1849">
+      <type>Birth</type>
+      <dateval val="1430"/>
+      <place hlink="_102875bac8a075dcdfde848cf234"/>
+    </event>
+    <event handle="_102875be3c20277f11e99a3610c0" change="1776596013" id="E1850">
+      <type>Death</type>
+      <dateval val="1480" type="about"/>
+      <place hlink="_1028756a371c43911233e9b1dfdb"/>
+    </event>
+    <event handle="_102875d0822583ad26cb112c08" change="1776596133" id="E1851">
+      <type>Birth</type>
+      <dateval val="1430"/>
+      <place hlink="_102875ce9fb37af43eee69290762"/>
+    </event>
+    <event handle="_102875d2c78c1129f64d80c78742" change="1776596148" id="E1852">
+      <type>Death</type>
+      <dateval val="1519"/>
+      <place hlink="_1028756a371c43911233e9b1dfdb"/>
+    </event>
+    <event handle="_1028a0e72c3e140ffcaac5695198" change="1776668424" id="E1853">
+      <type>Birth</type>
+      <dateval val="1436" type="about"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_1028a0e98e38559777b72cfe1be9" change="1776668439" id="E1854">
+      <type>Death</type>
+      <dateval val="1515" type="about"/>
+      <place hlink="_10287522c24d7a901e085f80940a"/>
+    </event>
+    <event handle="_1028a0fcc13c14ca539f63b56241" change="1776668565" id="E1855">
+      <type>Birth</type>
+      <dateval val="1522" type="about"/>
+    </event>
+    <event handle="_1028a0fe5a555c320eb5760912c8" change="1776668576" id="E1856">
+      <type>Death</type>
+      <dateval val="1598" type="about"/>
+    </event>
+    <event handle="_1028a10fad7e3da49355a31e40d4" change="1776668689" id="E1857">
+      <type>Birth</type>
+      <dateval val="1490"/>
+      <place hlink="_1028749880bd379fbe86adb2b5f8"/>
+    </event>
+    <event handle="_1028a1123fb962fe3b33e1bc07c5" change="1776668706" id="E1858">
+      <type>Death</type>
+      <dateval val="1528"/>
+      <place hlink="_1028749880bd379fbe86adb2b5f8"/>
+    </event>
+    <event handle="_1028d3c1e9385978f4050b6d644" change="1776753743" id="E1859">
+      <type>Death</type>
+      <dateval val="1938-02-25"/>
+      <place hlink="_1028d3c194921ac4b3c2889ef066"/>
+    </event>
+    <event handle="_1028d3e17213c79c2976104c91c" change="1776753950" id="E1860">
+      <type>Death</type>
+      <dateval val="1917"/>
+      <place hlink="_1028d3c47cad49aec754226e1c1"/>
+    </event>
+    <event handle="_1028d3e800484d1a75f6bd2e73ef" change="1776753993" id="E1861">
+      <type>Occupation</type>
+      <description>Gardbruker og Skredder, Gårdbruker og selveier</description>
+    </event>
+    <event handle="_1028d3ffffec2d88e8547fa53709" change="1776754150" id="E1862">
+      <type>Birth</type>
+      <dateval val="1840"/>
+      <place hlink="_1028d3fde9df48437758422d4114"/>
+    </event>
+    <event handle="_1028d40340ca892d81e56be2951" change="1776754171" id="E1863">
+      <type>Death</type>
+      <dateval val="1879"/>
+      <place hlink="_1028d3c47cad49aec754226e1c1"/>
+    </event>
+    <event handle="_1028d41af15729412894e40e4cd2" change="1776754327" id="E1864">
+      <type>Birth</type>
+      <dateval val="1799"/>
+      <place hlink="_1028d3fde9df48437758422d4114"/>
+    </event>
+    <event handle="_1028d41dc7572dbef6abe3621225" change="1776754345" id="E1865">
+      <type>Death</type>
+      <dateval val="1885"/>
+      <place hlink="_1028d3fde9df48437758422d4114"/>
+    </event>
+    <event handle="_1028d4383250d28e7c2a5852228" change="1776754518" id="E1866">
+      <type>Birth</type>
+      <dateval val="1820"/>
+    </event>
+    <event handle="_1028d4397eaebd619f2099046eb" change="1776754527" id="E1867">
+      <type>Death</type>
+      <dateval val="1885"/>
+    </event>
+    <event handle="_1028d44dde7c1c904c160b5994ee" change="1776754660" id="E1868">
+      <type>Birth</type>
+      <dateval val="1814" type="about"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_1028d4517d1324546b0eb5db846" change="1776754684" id="E1869">
+      <type>Death</type>
+      <dateval val="1873"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_1028d462d5042a1add536fa4cf7d" change="1776754798" id="E1870">
+      <type>Birth</type>
+      <dateval val="1805"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_1028d464feb059cf7ed17d3e8fd" change="1776754812" id="E1871">
+      <type>Death</type>
+      <dateval val="1885"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_1028d49ee51216e127f46eec01fc" change="1776755191" id="E1872">
+      <type>Death</type>
+      <dateval val="1940-10-16"/>
+      <place hlink="_1028d49e8b40294238045b1091dc"/>
+    </event>
+    <event handle="_1028d4adf76a6f198231cad3da9e" change="1776755290" id="E1873">
+      <type>Birth</type>
+      <dateval val="1818-01-15"/>
+      <place hlink="_1028130a041f391a1f34083d91ab"/>
+    </event>
+    <event handle="_1028d4b4e43f3e69287f1db29d3a" change="1776755336" id="E1874">
+      <type>Death</type>
+      <dateval val="1893"/>
+      <place hlink="_1028d4b48d303401b6a91c30686"/>
+    </event>
+    <event handle="_1028d4cd51f87903f599d0c77a71" change="1776755496" id="E1875">
+      <type>Birth</type>
+      <dateval val="1819-12-08"/>
+      <place hlink="_1028d4cd02f932c1842f78830bab"/>
+    </event>
+    <event handle="_1028d4cfc2c05e850c4c9b428d4d" change="1776755512" id="E1876">
+      <type>Death</type>
+      <dateval val="1880"/>
+    </event>
+    <event handle="_1028d50317b1c76f9f0afd97bca" change="1776755848" id="E1877">
+      <type>Birth</type>
+      <dateval val="1807-06-21"/>
+      <place hlink="_1028d5028ba065ece6d9b20ed5c3"/>
+    </event>
+    <event handle="_1028d50a83505cc80fdb4dd671c" change="1776755897" id="E1878">
+      <type>Death</type>
+      <dateval val="1882-03-07"/>
+      <place hlink="_1028d50a44d04cbf0f753a02ddda"/>
+    </event>
+    <event handle="_1028d51bf26437c9e4b55bf404b5" change="1776756011" id="E1879">
+      <type>Birth</type>
+      <dateval val="1811-11-21"/>
+      <place hlink="_1028d51af6b5542e177c868f1ef"/>
+    </event>
+    <event handle="_1028d524c08c41ca11a6d0f7096" change="1776756069" id="E1880">
+      <type>Death</type>
+      <dateval val="1858-03-18"/>
+      <place hlink="_1028d5247614695bf2750e9ec245"/>
     </event>
     <event handle="_c0dd1744470044bc8a0" change="1703589908" id="E0000">
       <type>Birth</type>
@@ -9848,7 +10608,7 @@
       <citationref hlink="_10217748e9352a579e950bfdab67"/>
       <citationref hlink="_1021784f6b67e34d9c3a27829bd"/>
     </person>
-    <person handle="_1001d34b1ca9dee542c89432aca" change="1760288594" id="I0735">
+    <person handle="_1001d34b1ca9dee542c89432aca" change="1776583642" id="I0735">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Bjarne Alfred</first>
@@ -9858,20 +10618,26 @@
       <eventref hlink="_10027c095c5957e7e86c8d0654f" role="Primary"/>
       <childof hlink="_10027d303d577903d5135a30b92a"/>
       <parentin hlink="_10027a687d51479f739f8b67673d"/>
+      <citationref hlink="_10286e5e0cbc61b5c1c42438312e"/>
     </person>
-    <person handle="_10027aaa1ed63fdacbc41279fedf" change="1776260775" id="I0736">
+    <person handle="_10027aaa1ed63fdacbc41279fedf" change="1776583557" id="I0736">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Aud Rigmor</first>
-        <surname>Kolstad</surname>
+        <surname>Jensen</surname>
+      </name>
+      <name alt="1" type="Birth Name">
+        <first>Kolstad, Aud Rigmor</first>
+        <surname></surname>
       </name>
       <eventref hlink="_10027afe1d4a6872f26143101893" role="Primary"/>
       <eventref hlink="_10027b8b78a451dffcc0be0285c3" role="Primary"/>
       <eventref hlink="_1027adebb36df4f58e8c2cf13f9" role="Primary"/>
       <childof hlink="_10027b688b381c3c68193e4e2fd9"/>
       <parentin hlink="_10027a687d51479f739f8b67673d"/>
+      <citationref hlink="_10286e5150ba2bf69f674163de11"/>
     </person>
-    <person handle="_10027b68cfb5529165873d82e0fc" change="1760767790" id="I0738">
+    <person handle="_10027b68cfb5529165873d82e0fc" change="1776583493" id="I0738">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Olaf Herman</first>
@@ -9883,8 +10649,9 @@
       <eventref hlink="_10039a7425353eb822c0722e465d" role="Primary"/>
       <childof hlink="_10039a91ebb66bc3e99a01e9432d"/>
       <parentin hlink="_10027b688b381c3c68193e4e2fd9"/>
+      <citationref hlink="_10286e4767c9263c8f6a1fd90cfb"/>
     </person>
-    <person handle="_10027b78ff8e42165fab982e80e5" change="1776260940" id="I0739">
+    <person handle="_10027b78ff8e42165fab982e80e5" change="1776588329" id="I0739">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Gudrun Marie</first>
@@ -9896,8 +10663,9 @@
       <eventref hlink="_1027ae05cb7019d928092e2c5e1a" role="Primary"/>
       <childof hlink="_1021439eabc0181e40ce7fb6f89f"/>
       <parentin hlink="_10027b688b381c3c68193e4e2fd9"/>
+      <citationref hlink="_10287129543751d5a03fdf9832b7"/>
     </person>
-    <person handle="_10027d34471a3eb75940680b1e5b" change="1760726425" id="I0740">
+    <person handle="_10027d34471a3eb75940680b1e5b" change="1776583720" id="I0740">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Magnus Alfred</first>
@@ -9910,8 +10678,9 @@
       <eventref hlink="_10027d69975a63cfd45f4e0b48b8" role="Primary"/>
       <childof hlink="_1002ae5afbc5362264f952ae5065"/>
       <parentin hlink="_10027d303d577903d5135a30b92a"/>
+      <citationref hlink="_10286e6883d82b7dcefa815511ca"/>
     </person>
-    <person handle="_10027dafee9523059fd1557633c6" change="1760369619" id="I0741">
+    <person handle="_10027dafee9523059fd1557633c6" change="1776584322" id="I0741">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Signe Emilie Henriette</first>
@@ -9925,6 +10694,7 @@
       <childof hlink="_10027e1f74e01af8c6159a086fd6"/>
       <parentin hlink="_10027d303d577903d5135a30b92a"/>
       <noteref hlink="_1002ae0ebb4037f56eaa8ca46341"/>
+      <citationref hlink="_10286ec1f0f0436ecb0e4a30aed0"/>
     </person>
     <person handle="_10027e2039b337460f1bab2dcf80" change="1760368944" id="I0742">
       <gender>M</gender>
@@ -9953,7 +10723,7 @@
       <eventref hlink="_1002ad32f2026498d2fe691e7a95" role="Primary"/>
       <parentin hlink="_10027e1f74e01af8c6159a086fd6"/>
     </person>
-    <person handle="_1002ae5b481e4ee5247024daa709" change="1760763311" id="I0744">
+    <person handle="_1002ae5b481e4ee5247024daa709" change="1776583770" id="I0744">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Klaus Alfred</first>
@@ -9973,8 +10743,9 @@
       <noteref hlink="_10038254cbe9566311561f21b5ee"/>
       <noteref hlink="_100382673fd623d75810c10b0e73"/>
       <noteref hlink="_1003826f2ced1baf950335c00563"/>
+      <citationref hlink="_10286e71dbca2730a6ff39855e8"/>
     </person>
-    <person handle="_1002ae7affa14e144253ab34eb55" change="1760726604" id="I0745">
+    <person handle="_1002ae7affa14e144253ab34eb55" change="1776584219" id="I0745">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Mina Augusta</first>
@@ -9984,11 +10755,13 @@
       <eventref hlink="_1002ae8f8f6c133c1475cede9e07" role="Primary"/>
       <eventref hlink="_100380ce7d6a60f6fa0adbafbd52" role="Primary"/>
       <eventref hlink="_1003822eec90243497b403db87f9" role="Primary"/>
+      <eventref hlink="_10286eb5215c50bfe0526dfaac37" role="Primary"/>
       <childof hlink="_100382ce097d72a2eab67df282e3"/>
       <parentin hlink="_1002ae5afbc5362264f952ae5065"/>
       <noteref hlink="_1003815c84304600d2144addce93"/>
+      <citationref hlink="_10286eaec4cc4fb81f35ccc2a1e1"/>
     </person>
-    <person handle="_100382be0bdc121a2b33644b9f93" change="1760906975" id="I0746">
+    <person handle="_100382be0bdc121a2b33644b9f93" change="1776583823" id="I0746">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Kristian</first>
@@ -10004,6 +10777,7 @@
       <childof hlink="_1003edd562157c9acd654a2014cc"/>
       <parentin hlink="_100382bdb3bd7a8b41b1315860dc"/>
       <citationref hlink="_100382cb8f7c79bd2379abd6ea31"/>
+      <citationref hlink="_10286e799b8c5d2a5dab3c385b1e"/>
     </person>
     <person handle="_100382d004d01b443ebbdd2654f8" change="1760726604" id="I0747">
       <gender>M</gender>
@@ -10014,7 +10788,7 @@
       <parentin hlink="_100382ce097d72a2eab67df282e3"/>
       <citationref hlink="_100382ba1f9f229607643a3fc517"/>
     </person>
-    <person handle="_100398a1d7f02613fb9d565242da" change="1760892898" id="I0748">
+    <person handle="_100398a1d7f02613fb9d565242da" change="1776583881" id="I0748">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Helene</first>
@@ -10024,8 +10798,9 @@
       <eventref hlink="_100398b3048277ced02c48797fed" role="Primary"/>
       <eventref hlink="_1003e5f23a772de2c8017bde140" role="Primary"/>
       <parentin hlink="_100382bdb3bd7a8b41b1315860dc"/>
+      <citationref hlink="_10286e82914860b5a744883b1de5"/>
     </person>
-    <person handle="_10039a923365316a21947ec91c94" change="1760769006" id="I0749">
+    <person handle="_10039a923365316a21947ec91c94" change="1776584458" id="I0749">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Olaf G Jørgensen</first>
@@ -10043,8 +10818,9 @@
       <noteref hlink="_10039c160bc3546f7b8d53c033ab"/>
       <noteref hlink="_10039c0d6da1783133c8ebaaa11c"/>
       <noteref hlink="_10039bfc5eb84cb1f2c99dbd5efd"/>
+      <citationref hlink="_10286edabfcb731085a983a482f9"/>
     </person>
-    <person handle="_10039aa8ab988c5f51c1d263d82" change="1760770277" id="I0750">
+    <person handle="_10039aa8ab988c5f51c1d263d82" change="1776587917" id="I0750">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Anna Marie Katrine Falk</first>
@@ -10060,17 +10836,27 @@
       <eventref hlink="_10039c2d341427a81aa6a61a2297" role="Primary"/>
       <childof hlink="_10039b6df1f54f5231e7b458b52d"/>
       <parentin hlink="_10039a91ebb66bc3e99a01e9432d"/>
+      <citationref hlink="_10286e3eba5d55de6d6d6115b356"/>
     </person>
-    <person handle="_10039b665d8b76246901419fea71" change="1760767859" id="I0751">
+    <person handle="_10039b665d8b76246901419fea71" change="1776585227" id="I0751">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Jørgen</first>
         <surname>Gregersen</surname>
       </name>
+      <eventref hlink="_10284c3b632659d412f524440798" role="Primary"/>
+      <eventref hlink="_10284e51772c7c0cdcafd272e8f6" role="Primary"/>
+      <eventref hlink="_10284c4db55169dbf6421dd66fe4" role="Primary"/>
+      <eventref hlink="_10284c6588be20f98393b9eb9e8c" role="Primary"/>
+      <eventref hlink="_10284ca3f06d34f22c8336916a9d" role="Primary"/>
+      <eventref hlink="_10284ccd31b226a20f8cd32912d3" role="Primary"/>
+      <eventref hlink="_10284d8739996ef785284eb1b10b" role="Primary"/>
+      <childof hlink="_10284dbf902245bf99d08b804f13"/>
       <parentin hlink="_10039b6596b6648228d2d46d1a41"/>
       <citationref hlink="_10039b6094396592f7383602177"/>
+      <citationref hlink="_10286f5000883114e3eb0816e2d2"/>
     </person>
-    <person handle="_10039b6e37ff1ee7cb201dd0a4c1" change="1760770658" id="I0752">
+    <person handle="_10039b6e37ff1ee7cb201dd0a4c1" change="1776756076" id="I0752">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Alfred</first>
@@ -10082,21 +10868,27 @@
       <eventref hlink="_10039cf663e64ff815e7b92a9e5" role="Primary"/>
       <eventref hlink="_10039d150ff84ee8c71bae1acb27" role="Primary"/>
       <eventref hlink="_10039bafd3f576d1a922b8c58d86" role="Primary"/>
+      <eventref hlink="_10286dc897951495e33166af43e3" role="Primary"/>
+      <childof hlink="_1028d4f0a9347f37b50e7df687c7"/>
       <parentin hlink="_10039b6df1f54f5231e7b458b52d"/>
       <citationref hlink="_10039b6094396592f7383602177"/>
+      <citationref hlink="_10286e215356628ee9e84bd4958"/>
     </person>
-    <person handle="_10039b7d435c546f381522ef259b" change="1760770374" id="I0753">
+    <person handle="_10039b7d435c546f381522ef259b" change="1776755648" id="I0753">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Hanna</first>
-        <surname>Falch</surname>
+        <surname>Hansdatter Skogerenga</surname>
       </name>
       <eventref hlink="_10039b9d229d7a07f066e85129a4" role="Primary"/>
       <eventref hlink="_10039c5df7e772994e7a6a25101" role="Primary"/>
       <eventref hlink="_10039cb57daf780eabac73736954" role="Primary"/>
       <eventref hlink="_10039cea85914fa21c2020d35ff7" role="Primary"/>
       <eventref hlink="_10039b903c2b362b4782a6ee3b59" role="Primary"/>
+      <eventref hlink="_1028d49ee51216e127f46eec01fc" role="Primary"/>
+      <childof hlink="_1028d4a685e33926012297f44f2f"/>
       <parentin hlink="_10039b6df1f54f5231e7b458b52d"/>
+      <citationref hlink="_1028d4a2d4184ea574d2d42cde4b"/>
     </person>
     <person handle="_1003edd5ae6e2a3a72e24bc276b6" change="1760906975" id="I0754">
       <gender>M</gender>
@@ -10957,7 +11749,7 @@
       <noteref hlink="_1026da766c975a87e26853534052"/>
       <citationref hlink="_1026214c4ad77194697ab5410580"/>
     </person>
-    <person handle="_1021439f3181141c79993a1634e7" change="1773507293" id="I0827">
+    <person handle="_1021439f3181141c79993a1634e7" change="1776588916" id="I0827">
       <gender>M</gender>
       <name type="Birth Name">
         <first>Ole Sigvart</first>
@@ -10966,9 +11758,12 @@
       <eventref hlink="_10214462e0b24a81545b49535057" role="Primary"/>
       <eventref hlink="_102143b033772f4f9c2c86469653" role="Primary"/>
       <eventref hlink="_10214497a84a44179ce6e15d769b" role="Primary"/>
+      <eventref hlink="_10287153ac7b7f7174c9bdc1f605" role="Primary"/>
+      <childof hlink="_1028715a089f2fd1be9679ffd61e"/>
       <parentin hlink="_1021439eabc0181e40ce7fb6f89f"/>
+      <citationref hlink="_1028714590944889727eecfc996d"/>
     </person>
-    <person handle="_102143b256ed28cdbdee7334aad4" change="1773507236" id="I0828">
+    <person handle="_102143b256ed28cdbdee7334aad4" change="1776754176" id="I0828">
       <gender>F</gender>
       <name type="Birth Name">
         <first>Ragna Lovise</first>
@@ -10977,18 +11772,24 @@
       <eventref hlink="_10214470309e68749c994decb2e3" role="Primary"/>
       <eventref hlink="_102143c5c8797df610161a01ed16" role="Primary"/>
       <eventref hlink="_102144af6b5c390799f759a7b17e" role="Primary"/>
+      <eventref hlink="_1028d3c1e9385978f4050b6d644" role="Primary"/>
       <childof hlink="_1021443e19743039bcef6d304b8a"/>
       <parentin hlink="_1021439eabc0181e40ce7fb6f89f"/>
+      <citationref hlink="_1028d3b60581740c433428ddc8f3"/>
     </person>
-    <person handle="_1021443e96f72cf16e24db3e2829" change="1773506670" id="I0829">
+    <person handle="_1021443e96f72cf16e24db3e2829" change="1776754817" id="I0829">
       <gender>M</gender>
       <name type="Birth Name">
-        <first>Petter</first>
-        <surname>Kvisler</surname>
+        <first>Petter Lauritz</first>
+        <surname>Olsen Gropa</surname>
       </name>
       <eventref hlink="_1021444f34cd1bdd775db12733ce" role="Primary"/>
       <eventref hlink="_10214457043615f82b92cea424f" role="Primary"/>
+      <eventref hlink="_1028d3e17213c79c2976104c91c" role="Primary"/>
+      <eventref hlink="_1028d3e800484d1a75f6bd2e73ef" role="Primary"/>
+      <childof hlink="_1028d441ba878e9d0fa0efb512c"/>
       <parentin hlink="_1021443e19743039bcef6d304b8a"/>
+      <citationref hlink="_1028d3d1e3645401665a64a49086"/>
     </person>
     <person handle="_102145e64b963d4a974ebf173f74" change="1776497964" id="I0830">
       <gender>M</gender>
@@ -11749,6 +12550,788 @@
       </name>
       <parentin hlink="_10283bc69cde2e50be89dbc1f1fa"/>
       <citationref hlink="_10283bbeca08287caf486486e419"/>
+    </person>
+    <person handle="_10284c6a65024c56f781cacf4dcf" change="1776588190" id="I0897">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Maren Sofie</first>
+        <surname>Olsdatter</surname>
+      </name>
+      <eventref hlink="_10284c767b09271b3c28aa20b1dc" role="Primary"/>
+      <eventref hlink="_10284e461f0b65a436d7eb446195" role="Primary"/>
+      <eventref hlink="_10284c7ef0c0f77d3b5be81efbe" role="Primary"/>
+      <eventref hlink="_10284c8dcb367c9546d74f07518f" role="Primary"/>
+      <eventref hlink="_10284cb5f4a142669300f474c151" role="Primary"/>
+      <eventref hlink="_10284cdb884e658998403140bdef" role="Primary"/>
+      <eventref hlink="_10284d6efe9e4b47e05e2532b5cd" role="Primary"/>
+      <eventref hlink="_10284e33217a12ce15679ff0c258" role="Primary"/>
+      <childof hlink="_10284e0db1f42b6f63a6fac982ae"/>
+      <parentin hlink="_10039b6596b6648228d2d46d1a41"/>
+      <citationref hlink="_102871143773dea2472a9c887e7"/>
+    </person>
+    <person handle="_10284dc0edb716e96354c23ebbf0" change="1776588085" id="I0898">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Greger</first>
+        <surname>Johannesen</surname>
+      </name>
+      <eventref hlink="_10284e73233367a81fb70c343f3f" role="Primary"/>
+      <eventref hlink="_10284ff2007c2073789ad3ca5757" role="Primary"/>
+      <eventref hlink="_10284ec7ecbc13a44821fa74cd21" role="Primary"/>
+      <eventref hlink="_10284decd8c9436bdd0588893b83" role="Primary"/>
+      <eventref hlink="_10284e878fb34379c9b8d4aa7e38" role="Primary"/>
+      <eventref hlink="_1028507dfabf4be282db7d868107" role="Primary"/>
+      <parentin hlink="_10284dbf902245bf99d08b804f13"/>
+      <noteref hlink="_1028502af717563a8dc7c18f4bc1"/>
+      <citationref hlink="_10284dce926466313b31c82b9d6"/>
+      <citationref hlink="_102870ff45c0161be84631f51fa0"/>
+    </person>
+    <person handle="_10284dd1b2634d974a7cb1ce3e27" change="1776588139" id="I0899">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anne Karine</first>
+        <surname>Jensdatter</surname>
+      </name>
+      <eventref hlink="_10284edd3def3694a1583afecc27" role="Primary"/>
+      <eventref hlink="_10284f08b0b3554d3cc571e2d72d" role="Primary"/>
+      <childof hlink="_10284f0a9a4c201abd70ff118221"/>
+      <parentin hlink="_10284dbf902245bf99d08b804f13"/>
+      <citationref hlink="_10284dce926466313b31c82b9d6"/>
+      <citationref hlink="_1028710c6f8616760c7d4f11ee90"/>
+    </person>
+    <person handle="_10284e0e3bc41c68927475a2a4a0" change="1776529487" id="I0900">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole</first>
+        <surname>Andersen</surname>
+      </name>
+      <parentin hlink="_10284e0db1f42b6f63a6fac982ae"/>
+      <noteref hlink="_10284e16ccd167eacd2f8c4cca90"/>
+      <citationref hlink="_10284dfd8c39107ee7e9bbe07d12"/>
+    </person>
+    <person handle="_10284f0af70311eb3c0ae0469276" change="1776531776" id="I0901">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Jens</first>
+        <surname>Tostensen</surname>
+      </name>
+      <eventref hlink="_10284f16b4336ab81da6dda23287" role="Primary"/>
+      <eventref hlink="_10284f382d507774ff1d86bf2a8d" role="Primary"/>
+      <eventref hlink="_10284f6a219a690617c94b080564" role="Primary"/>
+      <parentin hlink="_10284f0a9a4c201abd70ff118221"/>
+    </person>
+    <person handle="_10284f1999d941bbd05d3e603352" change="1776531239" id="I0902">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anne</first>
+        <surname>Olsdatter</surname>
+      </name>
+      <eventref hlink="_10284f21ff71547ece4a1bcac63b" role="Primary"/>
+      <parentin hlink="_10284f0a9a4c201abd70ff118221"/>
+      <citationref hlink="_10284f1f33242e9c7156488e00e5"/>
+    </person>
+    <person handle="_1028715a602d6cd1e4ef4784f5df" change="1776589181" id="I0903">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole Marius</first>
+        <surname>Syversen Kamphus</surname>
+      </name>
+      <eventref hlink="_102871695eba7a368dd8d5411ff" role="Primary"/>
+      <eventref hlink="_1028716bcebd69919473f5e82ac2" role="Primary"/>
+      <childof hlink="_10287184115e36d269906547ef9"/>
+      <parentin hlink="_1028715a089f2fd1be9679ffd61e"/>
+      <citationref hlink="_10287161835f3ff835032a7c7e2b"/>
+    </person>
+    <person handle="_1028716fb3793aee040670e62a19" change="1776588916" id="I0904">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Maria</first>
+        <surname>Jakobsdatter Flatby</surname>
+      </name>
+      <eventref hlink="_1028717ea07a4314481abc49d1a6" role="Primary"/>
+      <eventref hlink="_1028718087cf7e23239adbcd4d42" role="Primary"/>
+      <parentin hlink="_1028715a089f2fd1be9679ffd61e"/>
+      <citationref hlink="_1028717c8b2f6824eff5020d8e94"/>
+    </person>
+    <person handle="_10287184543d4e70496d12549066" change="1776589181" id="I0905">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Syver</first>
+        <surname>Larse Nygård</surname>
+      </name>
+      <eventref hlink="_1028718e648618095789243691f4" role="Primary"/>
+      <eventref hlink="_1028719299f941d3842a9003548e" role="Primary"/>
+      <parentin hlink="_10287184115e36d269906547ef9"/>
+      <citationref hlink="_1028718b363f849b205329bfcd1"/>
+    </person>
+    <person handle="_102871953d1e1e6741c3dd7ac5de" change="1776589370" id="I0906">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mari</first>
+        <surname>Hansdatter Kamphus</surname>
+      </name>
+      <eventref hlink="_102871a5a92229a1dd0538c9286f" role="Primary"/>
+      <eventref hlink="_102871aae1ce568392579c222a12" role="Primary"/>
+      <childof hlink="_102871aff92a7715effad2880b8a"/>
+      <parentin hlink="_10287184115e36d269906547ef9"/>
+      <citationref hlink="_1028719b4c38640e362c803c067d"/>
+    </person>
+    <person handle="_102871b03e0c12d49c97609028ed" change="1776589370" id="I0907">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Hans</first>
+        <surname>Olsen Kamphus</surname>
+      </name>
+      <eventref hlink="_102871b91c56b17302d9d7aaf" role="Primary"/>
+      <eventref hlink="_102871ba950739f2d32f9eb6dfef" role="Primary"/>
+      <parentin hlink="_102871aff92a7715effad2880b8a"/>
+      <citationref hlink="_102871b69a2f495c8d6fb5c323de"/>
+    </person>
+    <person handle="_102871beb4dd57ebf97826f92f7d" change="1776589701" id="I0908">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Lisbet</first>
+        <surname>Olsdatter Skøyen</surname>
+      </name>
+      <eventref hlink="_102871c6920b7a52b1f1ecaffe7b" role="Primary"/>
+      <eventref hlink="_102871c7ef7514ea26aaefab8881" role="Primary"/>
+      <childof hlink="_102871ccef3c97a27a14f2a0469"/>
+      <parentin hlink="_102871aff92a7715effad2880b8a"/>
+      <citationref hlink="_102871c4782740f0687fe48c363f"/>
+    </person>
+    <person handle="_102871cd44af66a05e5aff9dcb28" change="1776593382" id="I0909">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole</first>
+        <surname>Arnesen Skøyen</surname>
+      </name>
+      <eventref hlink="_102871da5ec21c1068e9bd5729f4" role="Primary"/>
+      <eventref hlink="_102871dcbc2f5c2125023be771d7" role="Primary"/>
+      <childof hlink="_102873fb588d4acecc599e7cce66"/>
+      <parentin hlink="_102871ccef3c97a27a14f2a0469"/>
+      <citationref hlink="_102871d460f13d78b446eb8309ff"/>
+    </person>
+    <person handle="_102871e6432ce2bfa10462eea76" change="1776589960" id="I0910">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Berte</first>
+        <surname>Henriksdatter Vansum</surname>
+      </name>
+      <eventref hlink="_102871f5031b6ec70f5476cbc371" role="Primary"/>
+      <eventref hlink="_102871f95d794acb818ffa74d440" role="Primary"/>
+      <childof hlink="_102871fe445f18b79210bb830de7"/>
+      <parentin hlink="_102871ccef3c97a27a14f2a0469"/>
+      <citationref hlink="_102871edeb8b27777280bb6c719c"/>
+    </person>
+    <person handle="_102871fe9df44f84bda21e251b03" change="1776592427" id="I0911">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Henrik</first>
+        <surname>Jakobsen Vansum</surname>
+      </name>
+      <eventref hlink="_1028720a4c8471faba085f9c71ab" role="Primary"/>
+      <eventref hlink="_1028720effd644cc23332c73e3c5" role="Primary"/>
+      <childof hlink="_102873799dbc2d12f6a12962f253"/>
+      <parentin hlink="_102871fe445f18b79210bb830de7"/>
+      <citationref hlink="_10287205dd513b7015b9b3d1f491"/>
+    </person>
+    <person handle="_10287211d07758e7836a199f72e2" change="1776590214" id="I0912">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Lisbet</first>
+        <surname>Kristoffersdatter Nordby</surname>
+      </name>
+      <eventref hlink="_1028721f276c499f4c5ccc805d5d" role="Primary"/>
+      <eventref hlink="_1028722205602766a943d62f6fb5" role="Primary"/>
+      <childof hlink="_1028722521e32caeece2bee8c1fc"/>
+      <parentin hlink="_102871fe445f18b79210bb830de7"/>
+      <citationref hlink="_1028721a25f0675de9a46b9360bd"/>
+    </person>
+    <person handle="_102872257a5b4b73534d2787724a" change="1776590214" id="I0913">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Kristoffer</first>
+        <surname>Nordby</surname>
+      </name>
+      <eventref hlink="_1028722f75337987f705a658c536" role="Primary"/>
+      <eventref hlink="_1028723235b11f052ee778c5eee8" role="Primary"/>
+      <parentin hlink="_1028722521e32caeece2bee8c1fc"/>
+      <citationref hlink="_1028722c88df2209d6fbafcf042f"/>
+    </person>
+    <person handle="_10287235583f48aa57ae5deaf64b" change="1776590325" id="I0914">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mari</first>
+        <surname>Alfsdatter Mørdre</surname>
+      </name>
+      <eventref hlink="_1028723d15f2353b0d9084dfccd2" role="Primary"/>
+      <eventref hlink="_10287245d63e2cb253afd218305" role="Primary"/>
+      <childof hlink="_1028724e8d0b6eb8b1392a65e3d9"/>
+      <parentin hlink="_1028722521e32caeece2bee8c1fc"/>
+    </person>
+    <person handle="_1028724ec9d729f7a25c8aadb646" change="1776590489" id="I0915">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Alv</first>
+        <surname>Asbjørnsen Mørdre</surname>
+      </name>
+      <childof hlink="_10287262a68c7d265f1b2900c7f7"/>
+      <parentin hlink="_1028724e8d0b6eb8b1392a65e3d9"/>
+      <citationref hlink="_102872536fa11008d5b9b2aa687"/>
+    </person>
+    <person handle="_1028726308b02739443d7be2ea4a" change="1776590908" id="I0916">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Asbjørn</first>
+        <surname>Alvsen Mørdre</surname>
+      </name>
+      <childof hlink="_10287277ee8055ecf00bbdf15e8f"/>
+      <parentin hlink="_10287262a68c7d265f1b2900c7f7"/>
+      <citationref hlink="_1028726988c87628820bbd28026e"/>
+    </person>
+    <person handle="_1028726deb8e47a0ea01454953d2" change="1776590489" id="I0917">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Kari</first>
+        <surname>Olsdatter</surname>
+      </name>
+      <parentin hlink="_10287262a68c7d265f1b2900c7f7"/>
+      <citationref hlink="_10287272a4ab810dbeb1d821eb9"/>
+    </person>
+    <person handle="_102872786ac0a390bc4ad3efa1e" change="1776591646" id="I0918">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Alv</first>
+        <surname>Amundsen Mørdre</surname>
+      </name>
+      <eventref hlink="_1028728be1397f2b9b0db3006c2d" role="Primary"/>
+      <eventref hlink="_102872927cfa2c472ac3cc3b9a0b" role="Primary"/>
+      <childof hlink="_102872f408f74a9a18da0ef6ed3c"/>
+      <parentin hlink="_10287277ee8055ecf00bbdf15e8f"/>
+      <citationref hlink="_10287281abe4781e295731cf4f7a"/>
+    </person>
+    <person handle="_1028729676aed66384e3be99f1" change="1776591163" id="I0919">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Marit</first>
+        <surname>Saksesdatter Bårli</surname>
+      </name>
+      <eventref hlink="_102872a211a27c4fdc97ed7f7f36" role="Primary"/>
+      <eventref hlink="_102872a6fb06576cedb9aea4e5ed" role="Primary"/>
+      <childof hlink="_102872c3b405659aa24b343030dc"/>
+      <parentin hlink="_10287277ee8055ecf00bbdf15e8f"/>
+      <citationref hlink="_1028729e496f5711211a0a4712af"/>
+    </person>
+    <person handle="_102872c3f9037a58ab5d5065bd6b" change="1776591261" id="I0920">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Sakse</first>
+        <surname>Hallvardson Elstad</surname>
+      </name>
+      <eventref hlink="_102872cfaa9c7e13ebfbbc43dc77" role="Primary"/>
+      <eventref hlink="_102872d3275367639793b16aca9a" role="Primary"/>
+      <childof hlink="_102872db1a7267a5fd7e925ebd16"/>
+      <parentin hlink="_102872c3b405659aa24b343030dc"/>
+      <citationref hlink="_102872cafc8f2a38322c0c185243"/>
+    </person>
+    <person handle="_102872db68b449e9639924af7529" change="1776591261" id="I0921">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Hallvard</first>
+        <surname>Elstad</surname>
+      </name>
+      <eventref hlink="_102872e5ae5f741ba3612c0adcd7" role="Primary"/>
+      <eventref hlink="_102872e8523a703eb348bef0e593" role="Primary"/>
+      <parentin hlink="_102872db1a7267a5fd7e925ebd16"/>
+      <citationref hlink="_102872e100b551b8829afb483da1"/>
+    </person>
+    <person handle="_102872f4507a7d788c54261ffc0" change="1776591646" id="I0922">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Amund</first>
+        <surname>Torsteinson Mørdre</surname>
+      </name>
+      <parentin hlink="_102872f408f74a9a18da0ef6ed3c"/>
+      <citationref hlink="_102872fdad9f6ab4fa0c99e81434"/>
+    </person>
+    <person handle="_102873061a795da243cd8cc081b1" change="1776591646" id="I0923">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Åsa</first>
+        <surname>Taraldsdatter Onsrud</surname>
+      </name>
+      <eventref hlink="_1028731648b4730e3721df83c95d" role="Primary"/>
+      <eventref hlink="_10287322ad9b681a77c0c191c6a4" role="Primary"/>
+      <parentin hlink="_102872f408f74a9a18da0ef6ed3c"/>
+      <citationref hlink="_1028730d107e198de9cce3ae5c48"/>
+    </person>
+    <person handle="_1028737b163b92ee2f0a02a3e1a" change="1776592693" id="I0924">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Jakob</first>
+        <surname>Børgesen Vansum</surname>
+      </name>
+      <eventref hlink="_10287384bdc35f2063f1b7ca49ba" role="Primary"/>
+      <eventref hlink="_102873881e97718595621b958bd4" role="Primary"/>
+      <childof hlink="_102873b069d44c9878b4596bfafb"/>
+      <parentin hlink="_102873799dbc2d12f6a12962f253"/>
+      <citationref hlink="_1028738187a55bf9f832aedc1e57"/>
+    </person>
+    <person handle="_1028738ce0aa7ee78bd48bb7b8c6" change="1776592538" id="I0925">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Olaug</first>
+        <surname>Gulbrandsdatter Vansum</surname>
+      </name>
+      <eventref hlink="_102873941d9678ce1484c96f15e0" role="Primary"/>
+      <eventref hlink="_102873966f15184aa71f41bb1b7c" role="Primary"/>
+      <childof hlink="_102873a21ba06364968eebe673da"/>
+      <parentin hlink="_102873799dbc2d12f6a12962f253"/>
+      <citationref hlink="_1028739a30ab6e93d33574dd144"/>
+    </person>
+    <person handle="_102873a2631d4cc77a53e68aebee" change="1776592538" id="I0926">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Gulbrand</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_102873aa57cb523202aa1d9cc546" role="Primary"/>
+      <eventref hlink="_102873abad5c6521dabe557da952" role="Primary"/>
+      <parentin hlink="_102873a21ba06364968eebe673da"/>
+      <citationref hlink="_102873a748c241d2d1d240b7aa59"/>
+    </person>
+    <person handle="_102873b0af432c5be60c67682a91" change="1776592919" id="I0927">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Børger</first>
+        <surname>Olsen Vansum</surname>
+      </name>
+      <childof hlink="_102873d75f095d6607d16899c5c8"/>
+      <parentin hlink="_102873b069d44c9878b4596bfafb"/>
+      <citationref hlink="_102873b61d793c0958e42ab5d061"/>
+    </person>
+    <person handle="_102873b8bced1cf8b825e0c45f7b" change="1776592796" id="I0928">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Gudbjørg</first>
+        <surname>Olsdatter</surname>
+      </name>
+      <eventref hlink="_102873c104ea6412116da014683e" role="Primary"/>
+      <eventref hlink="_102873c2fbc21fcd8e96fdb740bf" role="Primary"/>
+      <childof hlink="_102873c81a5a5f22e0596d0aff36"/>
+      <parentin hlink="_102873b069d44c9878b4596bfafb"/>
+      <citationref hlink="_102873be19341f7fc511187bbd90"/>
+    </person>
+    <person handle="_102873c854433afe0fbb5fef1758" change="1776592796" id="I0929">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_102873d0f97d6ce2a7ef4e54653b" role="Primary"/>
+      <eventref hlink="_102873d2cd8515d9718f61c527d" role="Primary"/>
+      <parentin hlink="_102873c81a5a5f22e0596d0aff36"/>
+      <citationref hlink="_102873cdd479396a6b6186d086e7"/>
+    </person>
+    <person handle="_102873d79c203dcc2d4adb25f7e5" change="1776592974" id="I0930">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole</first>
+        <surname>Vansum</surname>
+      </name>
+      <eventref hlink="_102873e2205d69518b396f635307" role="Primary"/>
+      <eventref hlink="_102873e4d02b4c73c1cdc7c42338" role="Primary"/>
+      <childof hlink="_102873e8d9bc32464c8b5c236080"/>
+      <parentin hlink="_102873d75f095d6607d16899c5c8"/>
+      <citationref hlink="_102873dcf401edd819f808cf2e1"/>
+    </person>
+    <person handle="_102873e90d6a256fd1f770f52758" change="1776592974" id="I0931">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Jon</first>
+        <surname>Vansum</surname>
+      </name>
+      <parentin hlink="_102873e8d9bc32464c8b5c236080"/>
+      <citationref hlink="_102873eda02bb9069782aa52c91"/>
+    </person>
+    <person handle="_102873fbca333f5ff2429a855e5e" change="1776593382" id="I0932">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Arne</first>
+        <surname>Gulbrandsen Ile</surname>
+      </name>
+      <eventref hlink="_1028740a50963de1115a0a6b9450" role="Primary"/>
+      <eventref hlink="_1028740d06b84424ce5de06edf90" role="Primary"/>
+      <parentin hlink="_102873fb588d4acecc599e7cce66"/>
+      <citationref hlink="_1028740541e9f959d78dd4e1a37"/>
+    </person>
+    <person handle="_1028741a110213a4603197286b8c" change="1776593624" id="I0933">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Rønnaug</first>
+        <surname>Olsdatter Dysterud</surname>
+      </name>
+      <eventref hlink="_10287423dd096cfc5834fdd5b92a" role="Primary"/>
+      <eventref hlink="_1028742c1576158b5c8570337c3e" role="Primary"/>
+      <childof hlink="_102874319ac238dc3f785ced027f"/>
+      <parentin hlink="_102873fb588d4acecc599e7cce66"/>
+      <citationref hlink="_10287428af8313a60ab3923d3517"/>
+    </person>
+    <person handle="_10287431e0e035e48892b9960b1f" change="1776593624" id="I0934">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole</first>
+        <surname>Pedersen Nesteby</surname>
+      </name>
+      <eventref hlink="_1028743ddf0171181d293b3596fd" role="Primary"/>
+      <eventref hlink="_1028744212044bda54c96ad78f13" role="Primary"/>
+      <parentin hlink="_102874319ac238dc3f785ced027f"/>
+      <citationref hlink="_10287438539b84b07a5c1a8236d"/>
+    </person>
+    <person handle="_10287445417e6c6ad355e8094b8c" change="1776593843" id="I0935">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mari</first>
+        <surname>Knutsdatter Dysterud</surname>
+      </name>
+      <eventref hlink="_1028744e1cfb4d4d30dc68521959" role="Primary"/>
+      <eventref hlink="_10287450d13e3d10255fe80f36d5" role="Primary"/>
+      <childof hlink="_10287454b3be1f535745b00d4776"/>
+      <parentin hlink="_102874319ac238dc3f785ced027f"/>
+      <citationref hlink="_1028744aef6318af9d4c6e1f0101"/>
+    </person>
+    <person handle="_10287454ed6613bbbbe9d7b75d19" change="1776594112" id="I0936">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Knut</first>
+        <surname>Eriksen Ånerud</surname>
+      </name>
+      <eventref hlink="_10287461771f7358f55802159ee7" role="Primary"/>
+      <eventref hlink="_10287463bd60103851fd7fca37a1" role="Primary"/>
+      <childof hlink="_10287476d77368ca26f1cc7d12a0"/>
+      <parentin hlink="_10287454b3be1f535745b00d4776"/>
+      <citationref hlink="_1028745a90c9102fb2a6346c37ef"/>
+    </person>
+    <person handle="_102874677630727b4befec88a69d" change="1776593843" id="I0937">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Rønnaug</first>
+        <surname>Hansdatter Dysterud</surname>
+      </name>
+      <eventref hlink="_102874709600244e13ad77b668ce" role="Primary"/>
+      <eventref hlink="_102874725ee34a7601ebe3fce5bd" role="Primary"/>
+      <parentin hlink="_10287454b3be1f535745b00d4776"/>
+      <citationref hlink="_1028746d8e7f122e06d9d48d1d48"/>
+    </person>
+    <person handle="_102874787e8b37632345020a1391" change="1776594112" id="I0938">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Erik</first>
+        <surname>Gudmundsen Austvatn</surname>
+      </name>
+      <eventref hlink="_10287483c4da6eadfa1dcc24c37d" role="Primary"/>
+      <eventref hlink="_102874866ae5616e87f9547a90ab" role="Primary"/>
+      <parentin hlink="_10287476d77368ca26f1cc7d12a0"/>
+      <citationref hlink="_1028747eee29b61e28df55bce1"/>
+    </person>
+    <person handle="_1028748c5b286f1381cce9523e8c" change="1776594617" id="I0939">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Marte</first>
+        <surname>Hovelsdatter Trauten</surname>
+      </name>
+      <eventref hlink="_10287498b9ea38cf196db18a8764" role="Primary"/>
+      <eventref hlink="_1028749afd5e7863a6cd02d84851" role="Primary"/>
+      <childof hlink="_102874c6dc024433c09c2578199a"/>
+      <parentin hlink="_10287476d77368ca26f1cc7d12a0"/>
+      <citationref hlink="_102874937abc1002445d06769e12"/>
+    </person>
+    <person handle="_102874c719675d75d8be86afa6e0" change="1776668581" id="I0940">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Hovol</first>
+        <surname>Gudmundsen Trauten</surname>
+      </name>
+      <eventref hlink="_102874d028666fc14a8bceda911" role="Primary"/>
+      <eventref hlink="_102874d3361b27ba14932d2765ee" role="Primary"/>
+      <childof hlink="_1028a0f22dbe76b81f9475c30e4"/>
+      <parentin hlink="_102874c6dc024433c09c2578199a"/>
+      <citationref hlink="_102874cd48231a4894df2c60c27"/>
+    </person>
+    <person handle="_102874d6c2252797e532e1a84e0d" change="1776594887" id="I0941">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Kirsti</first>
+        <surname>Iversdatter Fjell</surname>
+      </name>
+      <eventref hlink="_102874e5daaa7d636e83f92cc917" role="Primary"/>
+      <eventref hlink="_102874e86e9140990f09bf0145f1" role="Primary"/>
+      <childof hlink="_102874ebac5f7e59e0702c129380"/>
+      <parentin hlink="_102874c6dc024433c09c2578199a"/>
+      <citationref hlink="_102874dee877192ec5550b57e93c"/>
+    </person>
+    <person handle="_102874ebee907560ec461120d26d" change="1776595491" id="I0942">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Iver</first>
+        <surname>Torgersen Stormoen</surname>
+      </name>
+      <eventref hlink="_102874f9562028e2298f0a4f3fa8" role="Primary"/>
+      <eventref hlink="_102874fe7a17641a9c655f17e9eb" role="Primary"/>
+      <childof hlink="_1028754f38c544af36528dfbec5f"/>
+      <parentin hlink="_102874ebac5f7e59e0702c129380"/>
+      <citationref hlink="_102874f2d8d222341ea6909aaabd"/>
+    </person>
+    <person handle="_10287502070736bd7e9b5b943c50" change="1776595028" id="I0943">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Kari</first>
+        <surname>Alexdatter Stormoen</surname>
+      </name>
+      <eventref hlink="_1028750e6b8a27000d5c5f4fddea" role="Primary"/>
+      <eventref hlink="_1028751194496c60b5aa92cd75b2" role="Primary"/>
+      <childof hlink="_1028751581ed29c2f1ca695218d9"/>
+      <parentin hlink="_102874ebac5f7e59e0702c129380"/>
+      <citationref hlink="_102875080eee6e70a0024232a0b5"/>
+    </person>
+    <person handle="_10287515c32a4ed8d1445d8eca8" change="1776595028" id="I0944">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Alex</first>
+        <surname>Stormoen</surname>
+      </name>
+      <eventref hlink="_1028752527553876b1b6a1410fce" role="Primary"/>
+      <eventref hlink="_10287526ebb0117ec65c201d6f9d" role="Primary"/>
+      <parentin hlink="_1028751581ed29c2f1ca695218d9"/>
+      <citationref hlink="_1028751c02e46b98a647032d118d"/>
+    </person>
+    <person handle="_1028754f6ef07c0436e385a8e81a" change="1776595855" id="I0945">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Torger</first>
+        <surname>Iversen Moen</surname>
+      </name>
+      <eventref hlink="_1028755a87df66a87010820d0a66" role="Primary"/>
+      <eventref hlink="_1028755d54b75262cea3b230c381" role="Primary"/>
+      <childof hlink="_10287587d77c31b79016ee7c01a5"/>
+      <parentin hlink="_1028754f38c544af36528dfbec5f"/>
+      <citationref hlink="_10287556d2145b3f14e4eb0f5ecb"/>
+    </person>
+    <person handle="_102875602377d43af319932026e" change="1776595548" id="I0946">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Astrid</first>
+        <surname>Paulsdatter Stenberg</surname>
+      </name>
+      <eventref hlink="_1028756a89d66c812f8f55b8d2f7" role="Primary"/>
+      <eventref hlink="_1028756da7431d125edb525cfa2a" role="Primary"/>
+      <childof hlink="_10287570f3013690746229afe538"/>
+      <parentin hlink="_1028754f38c544af36528dfbec5f"/>
+      <citationref hlink="_1028756662cb3a5a5802e0317fca"/>
+    </person>
+    <person handle="_10287571295a12e1f8390bbba5c5" change="1776595548" id="I0947">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Paul</first>
+        <surname>Stenberg</surname>
+      </name>
+      <parentin hlink="_10287570f3013690746229afe538"/>
+      <citationref hlink="_102875762077146e5045fc561a66"/>
+    </person>
+    <person handle="_10287588360768411505dc010036" change="1776668499" id="I0948">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Iver</first>
+        <surname>Alfsen Stormoen</surname>
+      </name>
+      <eventref hlink="_102875924b5a6e60a80d14d02632" role="Primary"/>
+      <eventref hlink="_102875960152416a8280852dbb8d" role="Primary"/>
+      <childof hlink="_1028a0db4ec86881e49488711022"/>
+      <parentin hlink="_10287587d77c31b79016ee7c01a5"/>
+      <citationref hlink="_1028758f7e907cd47b9fc773c1b8"/>
+    </person>
+    <person handle="_102875982e44420813c5f0d1ac5f" change="1776596151" id="I0949">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <surname>Klemetsdatter Stenberg</surname>
+      </name>
+      <eventref hlink="_1028759e5139260689796c3e2d16" role="Primary"/>
+      <eventref hlink="_102875a0e25745379454f6db1860" role="Primary"/>
+      <childof hlink="_102875ac77164b5dccadb2272119"/>
+      <parentin hlink="_10287587d77c31b79016ee7c01a5"/>
+      <citationref hlink="_102875a59a7947e46c11b1b6d952"/>
+    </person>
+    <person handle="_102875accbaf1d69f51f9c85123c" change="1776596151" id="I0950">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Klemmet</first>
+        <surname>Tordsson Ingeberg</surname>
+      </name>
+      <eventref hlink="_102875bb75f76d43c7254c369af0" role="Primary"/>
+      <eventref hlink="_102875be3c20277f11e99a3610c0" role="Primary"/>
+      <parentin hlink="_102875ac77164b5dccadb2272119"/>
+      <citationref hlink="_102875b4a322422136cd534f4c0d"/>
+    </person>
+    <person handle="_102875c18ef71946c1ce9bcb5ba4" change="1776667676" id="I0951">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Åsa</first>
+        <surname>Pålsdatter Jønsberg</surname>
+      </name>
+      <eventref hlink="_102875d0822583ad26cb112c08" role="Primary"/>
+      <eventref hlink="_102875d2c78c1129f64d80c78742" role="Primary"/>
+      <childof hlink="_102875d56f1275f2d3390558271c"/>
+      <parentin hlink="_102875ac77164b5dccadb2272119"/>
+      <citationref hlink="_102875c95e6e1be700fc67a202ac"/>
+    </person>
+    <person handle="_102875d5c29d49995d9e2f9460b8" change="1776667676" id="I0952">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Pål</first>
+        <surname>Finnsen Stenberg</surname>
+      </name>
+      <parentin hlink="_102875d56f1275f2d3390558271c"/>
+      <citationref hlink="_10287658b4d454184956a7da45"/>
+    </person>
+    <person handle="_1028a0db8c9c65396800a39e6bc8" change="1776668499" id="I0953">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Alf</first>
+        <surname>Stormoen</surname>
+      </name>
+      <eventref hlink="_1028a0e72c3e140ffcaac5695198" role="Primary"/>
+      <eventref hlink="_1028a0e98e38559777b72cfe1be9" role="Primary"/>
+      <parentin hlink="_1028a0db4ec86881e49488711022"/>
+      <citationref hlink="_1028a0e06a234055be02312352b5"/>
+    </person>
+    <person handle="_1028a0f32d2c780147dc92476685" change="1776668771" id="I0954">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Gudmund</first>
+        <surname>Torgersen Trauten</surname>
+      </name>
+      <eventref hlink="_1028a0fcc13c14ca539f63b56241" role="Primary"/>
+      <eventref hlink="_1028a0fe5a555c320eb5760912c8" role="Primary"/>
+      <childof hlink="_1028a104b44d19bbd083cae39347"/>
+      <parentin hlink="_1028a0f22dbe76b81f9475c30e4"/>
+      <citationref hlink="_1028a0fa31c275541d5db5fbec0c"/>
+    </person>
+    <person handle="_1028a104ebbe6bcee1d70abebc04" change="1776668771" id="I0955">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Torger</first>
+        <surname>Arnesen Mødre (Trauten)</surname>
+      </name>
+      <eventref hlink="_1028a10fad7e3da49355a31e40d4" role="Primary"/>
+      <eventref hlink="_1028a1123fb962fe3b33e1bc07c5" role="Primary"/>
+      <parentin hlink="_1028a104b44d19bbd083cae39347"/>
+      <citationref hlink="_1028a10ac58d45f0c02e9720d3cf"/>
+    </person>
+    <person handle="_1028d3ee66ed6908abf0b0b980a0" change="1776754472" id="I0956">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Maren Ingine</first>
+        <surname>Larsdatter Enga</surname>
+      </name>
+      <eventref hlink="_1028d3ffffec2d88e8547fa53709" role="Primary"/>
+      <eventref hlink="_1028d40340ca892d81e56be2951" role="Primary"/>
+      <childof hlink="_1028d41252f623ba1e7bf400a728"/>
+      <parentin hlink="_1021443e19743039bcef6d304b8a"/>
+      <citationref hlink="_1028d3f82fa715cee1b534d948b3"/>
+    </person>
+    <person handle="_1028d412a2e96924c3ce67d69217" change="1776754472" id="I0957">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Lars</first>
+        <surname>Hansen Vormnesenga</surname>
+      </name>
+      <eventref hlink="_1028d41af15729412894e40e4cd2" role="Primary"/>
+      <eventref hlink="_1028d41dc7572dbef6abe3621225" role="Primary"/>
+      <parentin hlink="_1028d41252f623ba1e7bf400a728"/>
+      <citationref hlink="_1028d4211bb71a8693e2d9ce2459"/>
+    </person>
+    <person handle="_1028d4262bd62d497d6f7b2a5150" change="1776754528" id="I0958">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Oline</first>
+        <surname>Hansdatter Vormnes</surname>
+      </name>
+      <eventref hlink="_1028d4383250d28e7c2a5852228" role="Primary"/>
+      <eventref hlink="_1028d4397eaebd619f2099046eb" role="Primary"/>
+      <parentin hlink="_1028d41252f623ba1e7bf400a728"/>
+      <citationref hlink="_1028d4305b17544eb658f298ec02"/>
+    </person>
+    <person handle="_1028d4420fe160a0cf939804ca57" change="1776754817" id="I0959">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Ole</first>
+        <surname>Eriksen</surname>
+      </name>
+      <eventref hlink="_1028d44dde7c1c904c160b5994ee" role="Primary"/>
+      <eventref hlink="_1028d4517d1324546b0eb5db846" role="Primary"/>
+      <parentin hlink="_1028d441ba878e9d0fa0efb512c"/>
+      <citationref hlink="_1028d448d72e269e336ad58db9a0"/>
+    </person>
+    <person handle="_1028d4548e2c77f8c002fa92378f" change="1776754817" id="I0960">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Pauline Maria</first>
+        <surname>Engebretsdatter Haugen</surname>
+      </name>
+      <eventref hlink="_1028d462d5042a1add536fa4cf7d" role="Primary"/>
+      <eventref hlink="_1028d464feb059cf7ed17d3e8fd" role="Primary"/>
+      <parentin hlink="_1028d441ba878e9d0fa0efb512c"/>
+      <citationref hlink="_1028d45b377635a0f652207574d2"/>
+    </person>
+    <person handle="_1028d4a6f745b5ca4582d674317" change="1776755544" id="I0961">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Hans Kristan</first>
+        <surname>Hågensen Holtet</surname>
+      </name>
+      <eventref hlink="_1028d4adf76a6f198231cad3da9e" role="Primary"/>
+      <eventref hlink="_1028d4b4e43f3e69287f1db29d3a" role="Primary"/>
+      <parentin hlink="_1028d4a685e33926012297f44f2f"/>
+      <citationref hlink="_1028d4ba720b489fb9877d614652"/>
+    </person>
+    <person handle="_1028d4be716e60a25e13f45c2cf" change="1776755648" id="I0963">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <surname></surname>
+      </name>
+    </person>
+    <person handle="_1028d4be7693464e28a61d3aa426" change="1776755648" id="I0962">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Karen Matea</first>
+        <surname>Hermansdatter</surname>
+      </name>
+      <eventref hlink="_1028d4cd51f87903f599d0c77a71" role="Primary"/>
+      <eventref hlink="_1028d4cfc2c05e850c4c9b428d4d" role="Primary"/>
+      <parentin hlink="_1028d4a685e33926012297f44f2f"/>
+      <citationref hlink="_1028d4c5390f657a86fcfa41c8ca"/>
+    </person>
+    <person handle="_1028d4f0f3995382ccaea0f94e7d" change="1776756076" id="I0964">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Olof Malkom</first>
+        <surname>Falch</surname>
+      </name>
+      <eventref hlink="_1028d50317b1c76f9f0afd97bca" role="Primary"/>
+      <eventref hlink="_1028d50a83505cc80fdb4dd671c" role="Primary"/>
+      <parentin hlink="_1028d4f0a9347f37b50e7df687c7"/>
+      <citationref hlink="_1028d4f6ac4c56f084d44660abbc"/>
+    </person>
+    <person handle="_1028d50e3bea7637753a7503ea62" change="1776756076" id="I0965">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anna Lisa</first>
+        <surname>Larsdotter</surname>
+      </name>
+      <eventref hlink="_1028d51bf26437c9e4b55bf404b5" role="Primary"/>
+      <eventref hlink="_1028d524c08c41ca11a6d0f7096" role="Primary"/>
+      <parentin hlink="_1028d4f0a9347f37b50e7df687c7"/>
+      <citationref hlink="_1028d514b41b677d1109311a0890"/>
     </person>
     <person handle="_c0dd13bf6ba157a82e9" change="1761060247" id="I0000">
       <gender>M</gender>
@@ -20856,15 +22439,18 @@
       <eventref hlink="_10039b60df3f2556e40649fddd6b" role="Family"/>
       <childref hlink="_10027b68cfb5529165873d82e0fc"/>
     </family>
-    <family handle="_10039b6596b6648228d2d46d1a41" change="1760767859" id="F0434">
+    <family handle="_10039b6596b6648228d2d46d1a41" change="1776529416" id="F0434">
       <rel type="Unknown"/>
       <father hlink="_10039b665d8b76246901419fea71"/>
+      <mother hlink="_10284c6a65024c56f781cacf4dcf"/>
+      <eventref hlink="_10284e037b711b6a14e7197aefc" role="Family"/>
       <childref hlink="_10039a923365316a21947ec91c94"/>
     </family>
-    <family handle="_10039b6df1f54f5231e7b458b52d" change="1760768228" id="F0435">
+    <family handle="_10039b6df1f54f5231e7b458b52d" change="1776587917" id="F0435">
       <rel type="Unknown"/>
       <father hlink="_10039b6e37ff1ee7cb201dd0a4c1"/>
       <mother hlink="_10039b7d435c546f381522ef259b"/>
+      <eventref hlink="_102870e9983932f23c650a2498bb" role="Family"/>
       <childref hlink="_10039aa8ab988c5f51c1d263d82"/>
     </family>
     <family handle="_1003edd562157c9acd654a2014cc" change="1760906975" id="F0436">
@@ -21129,9 +22715,10 @@
       <mother hlink="_102143b256ed28cdbdee7334aad4"/>
       <childref hlink="_10027b78ff8e42165fab982e80e5"/>
     </family>
-    <family handle="_1021443e19743039bcef6d304b8a" change="1773506670" id="F0480">
+    <family handle="_1021443e19743039bcef6d304b8a" change="1776754176" id="F0480">
       <rel type="Unknown"/>
       <father hlink="_1021443e96f72cf16e24db3e2829"/>
+      <mother hlink="_1028d3ee66ed6908abf0b0b980a0"/>
       <childref hlink="_102143b256ed28cdbdee7334aad4"/>
     </family>
     <family handle="_102145e5d987451612bafb3ce70a" change="1776499437" id="F0481">
@@ -21354,6 +22941,233 @@
       <father hlink="_10283bc71ae56fd354fe1b433e42"/>
       <mother hlink="_10283bcfcd3d26f9fd72381dfb11"/>
       <childref hlink="_102813048c744b58065e9a9369e5"/>
+    </family>
+    <family handle="_10284dbf902245bf99d08b804f13" change="1776530472" id="F0518">
+      <rel type="Unknown"/>
+      <father hlink="_10284dc0edb716e96354c23ebbf0"/>
+      <mother hlink="_10284dd1b2634d974a7cb1ce3e27"/>
+      <eventref hlink="_10284ea8955350db3c25c44b2795" role="Family"/>
+      <childref hlink="_10039b665d8b76246901419fea71"/>
+    </family>
+    <family handle="_10284e0db1f42b6f63a6fac982ae" change="1776529487" id="F0519">
+      <rel type="Unknown"/>
+      <father hlink="_10284e0e3bc41c68927475a2a4a0"/>
+      <childref hlink="_10284c6a65024c56f781cacf4dcf"/>
+    </family>
+    <family handle="_10284f0a9a4c201abd70ff118221" change="1776531239" id="F0520">
+      <rel type="Unknown"/>
+      <father hlink="_10284f0af70311eb3c0ae0469276"/>
+      <mother hlink="_10284f1999d941bbd05d3e603352"/>
+      <childref hlink="_10284dd1b2634d974a7cb1ce3e27"/>
+    </family>
+    <family handle="_1028715a089f2fd1be9679ffd61e" change="1776588916" id="F0521">
+      <rel type="Unknown"/>
+      <father hlink="_1028715a602d6cd1e4ef4784f5df"/>
+      <mother hlink="_1028716fb3793aee040670e62a19"/>
+      <childref hlink="_1021439f3181141c79993a1634e7"/>
+    </family>
+    <family handle="_10287184115e36d269906547ef9" change="1776589181" id="F0522">
+      <rel type="Unknown"/>
+      <father hlink="_10287184543d4e70496d12549066"/>
+      <mother hlink="_102871953d1e1e6741c3dd7ac5de"/>
+      <childref hlink="_1028715a602d6cd1e4ef4784f5df"/>
+    </family>
+    <family handle="_102871aff92a7715effad2880b8a" change="1776589370" id="F0523">
+      <rel type="Unknown"/>
+      <father hlink="_102871b03e0c12d49c97609028ed"/>
+      <mother hlink="_102871beb4dd57ebf97826f92f7d"/>
+      <childref hlink="_102871953d1e1e6741c3dd7ac5de"/>
+    </family>
+    <family handle="_102871ccef3c97a27a14f2a0469" change="1776589701" id="F0524">
+      <rel type="Unknown"/>
+      <father hlink="_102871cd44af66a05e5aff9dcb28"/>
+      <mother hlink="_102871e6432ce2bfa10462eea76"/>
+      <childref hlink="_102871beb4dd57ebf97826f92f7d"/>
+    </family>
+    <family handle="_102871fe445f18b79210bb830de7" change="1776589960" id="F0525">
+      <rel type="Unknown"/>
+      <father hlink="_102871fe9df44f84bda21e251b03"/>
+      <mother hlink="_10287211d07758e7836a199f72e2"/>
+      <childref hlink="_102871e6432ce2bfa10462eea76"/>
+    </family>
+    <family handle="_1028722521e32caeece2bee8c1fc" change="1776590214" id="F0526">
+      <rel type="Unknown"/>
+      <father hlink="_102872257a5b4b73534d2787724a"/>
+      <mother hlink="_10287235583f48aa57ae5deaf64b"/>
+      <childref hlink="_10287211d07758e7836a199f72e2"/>
+    </family>
+    <family handle="_1028724e8d0b6eb8b1392a65e3d9" change="1776590325" id="F0527">
+      <rel type="Unknown"/>
+      <father hlink="_1028724ec9d729f7a25c8aadb646"/>
+      <childref hlink="_10287235583f48aa57ae5deaf64b"/>
+    </family>
+    <family handle="_10287262a68c7d265f1b2900c7f7" change="1776590489" id="F0528">
+      <rel type="Unknown"/>
+      <father hlink="_1028726308b02739443d7be2ea4a"/>
+      <mother hlink="_1028726deb8e47a0ea01454953d2"/>
+      <childref hlink="_1028724ec9d729f7a25c8aadb646"/>
+    </family>
+    <family handle="_10287277ee8055ecf00bbdf15e8f" change="1776590908" id="F0529">
+      <rel type="Unknown"/>
+      <father hlink="_102872786ac0a390bc4ad3efa1e"/>
+      <mother hlink="_1028729676aed66384e3be99f1"/>
+      <childref hlink="_1028726308b02739443d7be2ea4a"/>
+    </family>
+    <family handle="_102872c3b405659aa24b343030dc" change="1776591163" id="F0530">
+      <rel type="Unknown"/>
+      <father hlink="_102872c3f9037a58ab5d5065bd6b"/>
+      <childref hlink="_1028729676aed66384e3be99f1"/>
+    </family>
+    <family handle="_102872db1a7267a5fd7e925ebd16" change="1776591261" id="F0531">
+      <rel type="Unknown"/>
+      <father hlink="_102872db68b449e9639924af7529"/>
+      <childref hlink="_102872c3f9037a58ab5d5065bd6b"/>
+    </family>
+    <family handle="_102872f408f74a9a18da0ef6ed3c" change="1776591646" id="F0532">
+      <rel type="Unknown"/>
+      <father hlink="_102872f4507a7d788c54261ffc0"/>
+      <mother hlink="_102873061a795da243cd8cc081b1"/>
+      <childref hlink="_102872786ac0a390bc4ad3efa1e"/>
+    </family>
+    <family handle="_102873799dbc2d12f6a12962f253" change="1776592427" id="F0533">
+      <rel type="Unknown"/>
+      <father hlink="_1028737b163b92ee2f0a02a3e1a"/>
+      <mother hlink="_1028738ce0aa7ee78bd48bb7b8c6"/>
+      <childref hlink="_102871fe9df44f84bda21e251b03"/>
+    </family>
+    <family handle="_102873a21ba06364968eebe673da" change="1776592538" id="F0534">
+      <rel type="Unknown"/>
+      <father hlink="_102873a2631d4cc77a53e68aebee"/>
+      <childref hlink="_1028738ce0aa7ee78bd48bb7b8c6"/>
+    </family>
+    <family handle="_102873b069d44c9878b4596bfafb" change="1776592693" id="F0535">
+      <rel type="Unknown"/>
+      <father hlink="_102873b0af432c5be60c67682a91"/>
+      <mother hlink="_102873b8bced1cf8b825e0c45f7b"/>
+      <childref hlink="_1028737b163b92ee2f0a02a3e1a"/>
+    </family>
+    <family handle="_102873c81a5a5f22e0596d0aff36" change="1776592796" id="F0536">
+      <rel type="Unknown"/>
+      <father hlink="_102873c854433afe0fbb5fef1758"/>
+      <childref hlink="_102873b8bced1cf8b825e0c45f7b"/>
+    </family>
+    <family handle="_102873d75f095d6607d16899c5c8" change="1776592919" id="F0537">
+      <rel type="Unknown"/>
+      <father hlink="_102873d79c203dcc2d4adb25f7e5"/>
+      <childref hlink="_102873b0af432c5be60c67682a91"/>
+    </family>
+    <family handle="_102873e8d9bc32464c8b5c236080" change="1776592974" id="F0538">
+      <rel type="Unknown"/>
+      <father hlink="_102873e90d6a256fd1f770f52758"/>
+      <childref hlink="_102873d79c203dcc2d4adb25f7e5"/>
+    </family>
+    <family handle="_102873fb588d4acecc599e7cce66" change="1776593382" id="F0539">
+      <rel type="Unknown"/>
+      <father hlink="_102873fbca333f5ff2429a855e5e"/>
+      <mother hlink="_1028741a110213a4603197286b8c"/>
+      <childref hlink="_102871cd44af66a05e5aff9dcb28"/>
+    </family>
+    <family handle="_102874319ac238dc3f785ced027f" change="1776593624" id="F0540">
+      <rel type="Unknown"/>
+      <father hlink="_10287431e0e035e48892b9960b1f"/>
+      <mother hlink="_10287445417e6c6ad355e8094b8c"/>
+      <childref hlink="_1028741a110213a4603197286b8c"/>
+    </family>
+    <family handle="_10287454b3be1f535745b00d4776" change="1776593843" id="F0541">
+      <rel type="Unknown"/>
+      <father hlink="_10287454ed6613bbbbe9d7b75d19"/>
+      <mother hlink="_102874677630727b4befec88a69d"/>
+      <childref hlink="_10287445417e6c6ad355e8094b8c"/>
+    </family>
+    <family handle="_10287476d77368ca26f1cc7d12a0" change="1776594112" id="F0542">
+      <rel type="Unknown"/>
+      <father hlink="_102874787e8b37632345020a1391"/>
+      <mother hlink="_1028748c5b286f1381cce9523e8c"/>
+      <childref hlink="_10287454ed6613bbbbe9d7b75d19"/>
+    </family>
+    <family handle="_102874c6dc024433c09c2578199a" change="1776594617" id="F0543">
+      <rel type="Unknown"/>
+      <father hlink="_102874c719675d75d8be86afa6e0"/>
+      <mother hlink="_102874d6c2252797e532e1a84e0d"/>
+      <childref hlink="_1028748c5b286f1381cce9523e8c"/>
+    </family>
+    <family handle="_102874ebac5f7e59e0702c129380" change="1776594887" id="F0544">
+      <rel type="Unknown"/>
+      <father hlink="_102874ebee907560ec461120d26d"/>
+      <mother hlink="_10287502070736bd7e9b5b943c50"/>
+      <childref hlink="_102874d6c2252797e532e1a84e0d"/>
+    </family>
+    <family handle="_1028751581ed29c2f1ca695218d9" change="1776595028" id="F0545">
+      <rel type="Unknown"/>
+      <father hlink="_10287515c32a4ed8d1445d8eca8"/>
+      <childref hlink="_10287502070736bd7e9b5b943c50"/>
+    </family>
+    <family handle="_1028754f38c544af36528dfbec5f" change="1776595491" id="F0546">
+      <rel type="Unknown"/>
+      <father hlink="_1028754f6ef07c0436e385a8e81a"/>
+      <mother hlink="_102875602377d43af319932026e"/>
+      <childref hlink="_102874ebee907560ec461120d26d"/>
+    </family>
+    <family handle="_10287570f3013690746229afe538" change="1776595548" id="F0547">
+      <rel type="Unknown"/>
+      <father hlink="_10287571295a12e1f8390bbba5c5"/>
+      <childref hlink="_102875602377d43af319932026e"/>
+    </family>
+    <family handle="_10287587d77c31b79016ee7c01a5" change="1776595855" id="F0548">
+      <rel type="Unknown"/>
+      <father hlink="_10287588360768411505dc010036"/>
+      <mother hlink="_102875982e44420813c5f0d1ac5f"/>
+      <childref hlink="_1028754f6ef07c0436e385a8e81a"/>
+    </family>
+    <family handle="_102875ac77164b5dccadb2272119" change="1776596151" id="F0549">
+      <rel type="Unknown"/>
+      <father hlink="_102875accbaf1d69f51f9c85123c"/>
+      <mother hlink="_102875c18ef71946c1ce9bcb5ba4"/>
+      <childref hlink="_102875982e44420813c5f0d1ac5f"/>
+    </family>
+    <family handle="_102875d56f1275f2d3390558271c" change="1776667676" id="F0550">
+      <rel type="Unknown"/>
+      <father hlink="_102875d5c29d49995d9e2f9460b8"/>
+      <childref hlink="_102875c18ef71946c1ce9bcb5ba4"/>
+    </family>
+    <family handle="_1028a0db4ec86881e49488711022" change="1776668499" id="F0551">
+      <rel type="Unknown"/>
+      <father hlink="_1028a0db8c9c65396800a39e6bc8"/>
+      <childref hlink="_10287588360768411505dc010036"/>
+    </family>
+    <family handle="_1028a0f22dbe76b81f9475c30e4" change="1776668581" id="F0552">
+      <rel type="Unknown"/>
+      <father hlink="_1028a0f32d2c780147dc92476685"/>
+      <childref hlink="_102874c719675d75d8be86afa6e0"/>
+    </family>
+    <family handle="_1028a104b44d19bbd083cae39347" change="1776668771" id="F0553">
+      <rel type="Unknown"/>
+      <father hlink="_1028a104ebbe6bcee1d70abebc04"/>
+      <childref hlink="_1028a0f32d2c780147dc92476685"/>
+    </family>
+    <family handle="_1028d41252f623ba1e7bf400a728" change="1776754472" id="F0554">
+      <rel type="Unknown"/>
+      <father hlink="_1028d412a2e96924c3ce67d69217"/>
+      <mother hlink="_1028d4262bd62d497d6f7b2a5150"/>
+      <childref hlink="_1028d3ee66ed6908abf0b0b980a0"/>
+    </family>
+    <family handle="_1028d441ba878e9d0fa0efb512c" change="1776754817" id="F0555">
+      <rel type="Unknown"/>
+      <father hlink="_1028d4420fe160a0cf939804ca57"/>
+      <mother hlink="_1028d4548e2c77f8c002fa92378f"/>
+      <childref hlink="_1021443e96f72cf16e24db3e2829"/>
+    </family>
+    <family handle="_1028d4a685e33926012297f44f2f" change="1776755648" id="F0556">
+      <rel type="Unknown"/>
+      <father hlink="_1028d4a6f745b5ca4582d674317"/>
+      <mother hlink="_1028d4be7693464e28a61d3aa426"/>
+      <childref hlink="_10039b7d435c546f381522ef259b"/>
+    </family>
+    <family handle="_1028d4f0a9347f37b50e7df687c7" change="1776756076" id="F0557">
+      <rel type="Unknown"/>
+      <father hlink="_1028d4f0f3995382ccaea0f94e7d"/>
+      <mother hlink="_1028d50e3bea7637753a7503ea62"/>
+      <childref hlink="_10039b6e37ff1ee7cb201dd0a4c1"/>
     </family>
     <family handle="_c0dd2ff5fa054da3869" change="1362076610" id="F0000">
       <rel type="Married"/>
@@ -26226,6 +28040,671 @@
       <confidence>2</confidence>
       <objref hlink="_102843f896822140ee7c94639608"/>
       <sourceref hlink="_102843fff5f5390c6d191586bedf"/>
+    </citation>
+    <citation handle="_10284c43ee46797064ac1e5e1312" change="1776526425" id="C1842">
+      <page>pf01052143000992</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284c41d94a70e6c0e2d5ec663"/>
+      <sourceref hlink="_e603fc7c6d03e2a7207fc53d269"/>
+    </citation>
+    <citation handle="_10284c6556f4117a473f0213fff9" change="1776526644" id="C1843">
+      <page>pf01052809001051</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284c654dfd1fc24f80ec29fa6d"/>
+      <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
+    </citation>
+    <citation handle="_10284c7ec30f79b30b5793faf119" change="1776526811" id="C1844">
+      <page>pf01052143000993</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284c7e90817eae3042270fa5aa"/>
+      <sourceref hlink="_e603fc7c6d03e2a7207fc53d269"/>
+    </citation>
+    <citation handle="_10284c8da5815762a9e8509c93d" change="1776526908" id="C1845">
+      <page>pf01052809001052</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284c8d7ed11386fa2d2cf0a0d3"/>
+      <sourceref hlink="_e603c37ea0614b951eaf7019f1a"/>
+    </citation>
+    <citation handle="_10284ca3b4bb72e418e2b7f18019" change="1776527053" id="C1846">
+      <page>pf01037138001122</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284ca193f35b2fd95ec593d73c"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_10284cb5d03946d6153ab02eff51" change="1776527171" id="C1847">
+      <page>pf01037138001123</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284cb5bcf74257644de703a2c0"/>
+      <sourceref hlink="_c30a35b868e30d2fcb7"/>
+    </citation>
+    <citation handle="_10284ccbafb23abc3bb9c9b9ebda" change="1776527315" id="C1848">
+      <page>pf01036494001478</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284ccb819851ca58b7d647639a"/>
+      <sourceref hlink="_c37131841dc5fc4a003"/>
+    </citation>
+    <citation handle="_10284cda2f171486badc45f40db0" change="1776527410" id="C1849">
+      <page>pf01036494001479</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284cd8ec47529982123fd54334"/>
+      <sourceref hlink="_c37131841dc5fc4a003"/>
+    </citation>
+    <citation handle="_10284d699a222c0e87949e089bcc" change="1776528350" id="C1850">
+      <page>pg00000007802080</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284d616dca136dba0837b84298"/>
+      <sourceref hlink="_10284d6968b12742f03fcc297fe7"/>
+    </citation>
+    <citation handle="_10284d85a7642895b7305ea84dc7" change="1776528534" id="C1851">
+      <page>pg00000007801902</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284d8575a627a51f8fd74a1ce0"/>
+      <sourceref hlink="_10284d6968b12742f03fcc297fe7"/>
+    </citation>
+    <citation handle="_10284dce926466313b31c82b9d6" change="1776529011" id="C1852">
+      <page>pd00000009034478</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284dc83d1959890a2541db855c"/>
+      <sourceref hlink="_10284dcb11555165b55244c1c871"/>
+    </citation>
+    <citation handle="_10284dfd8c39107ee7e9bbe07d12" change="1776529319" id="C1853">
+      <page>pv00000000095974</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284dfa3c6d38a0cb2cb8b881a8"/>
+      <sourceref hlink="_10284dfcd86d325cb7a5cb2fef56"/>
+    </citation>
+    <citation handle="_10284e31193137eebeac8c8d40c1" change="1776529657" id="C1854">
+      <page>pf01073808001524</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284e30f39a1bb3869d675fc00f"/>
+      <sourceref hlink="_f5ffc2515bfc8ca7118b24fdd6"/>
+    </citation>
+    <citation handle="_10284e441f474d2a0fecb42707af" change="1776529782" id="C1855">
+      <page>pf01038111000035</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284e43e09a698517ee9fe14168"/>
+      <sourceref hlink="_c3073c1a93a59566b01"/>
+    </citation>
+    <citation handle="_10284e51349472b472c18dbc42c2" change="1776529868" id="C1856">
+      <page>pf01038111000034</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284e510afc71ec7ee55eb9489f"/>
+      <sourceref hlink="_c3073c1a93a59566b01"/>
+    </citation>
+    <citation handle="_10284e869bc06419deb2ed94ab69" change="1776530218" id="C1857">
+      <page>pg00000008184671</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284e804711310773fa4b10643a"/>
+      <sourceref hlink="_10284e85f1f06ef05f130256ada8"/>
+    </citation>
+    <citation handle="_10284ea84a441e155c21dc749a0d" change="1776530438" id="C1858">
+      <confidence>2</confidence>
+      <noteref hlink="_10284ea8123d2093e4940b975d27"/>
+      <sourceref hlink="_10284dcb11555165b55244c1c871"/>
+    </citation>
+    <citation handle="_10284ec67e8c2e08214acb5ffe77" change="1776530636" id="C1859">
+      <page>pf01051180000779</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284ec323c7775ec3bd7a072d53"/>
+      <sourceref hlink="_10284ec63e0d48f5d14780836b6f"/>
+    </citation>
+    <citation handle="_10284f085efe46c7f869dfeb01" change="1776531068" id="C1860">
+      <page>pf01058286001878</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284f0719a022daef386f929859"/>
+      <sourceref hlink="_c309eb9603856b833e8"/>
+    </citation>
+    <citation handle="_10284f16840415d1cf265a1c0db0" change="1776531161" id="C1861">
+      <page>pf01058286001878</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284f154a164d718f88dc4667a0"/>
+      <sourceref hlink="_c309eb9603856b833e8"/>
+    </citation>
+    <citation handle="_10284f1f33242e9c7156488e00e5" change="1776531218" id="C1862">
+      <page>pf01058286001876</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284f1f06c121e5d9d005399b7c"/>
+      <sourceref hlink="_c309eb9603856b833e8"/>
+    </citation>
+    <citation handle="_10284f37fb2b542c68e01c535401" change="1776531380" id="C1863">
+      <page>pf01058286001875</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284f36bf14ef60840a7a1f2a8"/>
+      <sourceref hlink="_c309eb9603856b833e8"/>
+    </citation>
+    <citation handle="_10284f688a4f5299863e8aeb272b" change="1776531698" id="C1864">
+      <confidence>2</confidence>
+      <noteref hlink="_10284f6684d96eab43f6c96d55e4"/>
+      <sourceref hlink="_10284f6863fa6c9139488418bcc2"/>
+    </citation>
+    <citation handle="_10284fec82b9c735246df5582b5" change="1776532563" id="C1865">
+      <page>pf01058268005745</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10284fea83f93204ca3ba32ab9bd"/>
+      <sourceref hlink="_c309eb9603856b833e8"/>
+    </citation>
+    <citation handle="_1028507c786244760a38890d46ef" change="1776533507" id="C1866">
+      <page>pk00000000038762</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028507764912d633e358ebbb761"/>
+      <sourceref hlink="_1028507a4b7163bb98e7cad24a91"/>
+    </citation>
+    <citation handle="_10286ddbf18e5959fa18ed0f8047" change="1776582786" id="C1867">
+      <page>alfred_falk</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286ddbc2c01d7f464352bd0179"/>
+      <sourceref hlink="_c370f1c53de42577365"/>
+    </citation>
+    <citation handle="_10286e215356628ee9e84bd4958" change="1776583241" id="C1868">
+      <page>Alfred-Falch/348992239370001604</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e210fa467da8850c4bee929"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e3eba5d55de6d6d6115b356" change="1776583434" id="C1869">
+      <page>Anne-Marie-Kathrine-Kolstad/349003957150012640</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e3e98a93b57ae2b9b6bd26f"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e4767c9263c8f6a1fd90cfb" change="1776583490" id="C1870">
+      <page>Olaf-Herman-Kolstad/4940958818180125276</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e472fcb7558efd1002cde4d"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e5150ba2bf69f674163de11" change="1776583555" id="C1871">
+      <page>Aud-Rigmor-Jensen/6000000004066392825</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e50dc847ddf2856e93c1381"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e5e0cbc61b5c1c42438312e" change="1776583639" id="C1872">
+      <confidence>2</confidence>
+      <noteref hlink="_10286e5dd1eb68f9c14949ca0413"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e6883d82b7dcefa815511ca" change="1776583707" id="C1873">
+      <page>Magnus-Jensen/6000000003349988215</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e6853ad5ec3717df3f3f6d2"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e71dbca2730a6ff39855e8" change="1776583769" id="C1874">
+      <page>Klaus-Alfred-Jensen/6000000003350022437</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e71b0b7667b317c08a51ffb"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e799b8c5d2a5dab3c385b1e" change="1776583819" id="C1875">
+      <page>Christian-Jensen/6000000003350014386</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e796a8159a81ea1015ed0ca"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e82914860b5a744883b1de5" change="1776583878" id="C1876">
+      <page>Helene-Jensen/6000000003350053290</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286e8254047e1ae62d4da019a8"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286e9d4ea3529288b95926cf75" change="1776584053" id="C1877">
+      <confidence>2</confidence>
+      <noteref hlink="_10286e9d1756347b2ba3761c3ef0"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286eaec4cc4fb81f35ccc2a1e1" change="1776584168" id="C1878">
+      <page>Mina-Augusta-Jensen/6000000003350067210</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286eae7a6725ca8f073b0925"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286ec1f0f0436ecb0e4a30aed0" change="1776584294" id="C1879">
+      <page>Signe-Emilie-Henriette-Jensen/6000000003350019149</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286ec1a9a03d871e9d4bfcaa81"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286edabfcb731085a983a482f9" change="1776584456" id="C1880">
+      <page>Olaf-Kolstad/360800248890013457</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286ed9c9bf14cd01901b0c470a"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10286f5000883114e3eb0816e2d2" change="1776585225" id="C1881">
+      <page>J%C3%B8rgen-Gregersen/6000000003349733137</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10286f4fc573222542a7b751af14"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102870a0167f47c6bb7d4c8cf67d" change="1776587501" id="C1882">
+      <page>pd00000003436494</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028709bd55352d54993d3ec1ce0"/>
+      <sourceref hlink="_1028709fcc571a2512c0b6cc90c3"/>
+    </citation>
+    <citation handle="_102870e7750a6ff13ebe73f7eaf2" change="1776587895" id="C1883">
+      <page>pv00000003751097</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102870df14dffab3816bbfd7ddd"/>
+      <sourceref hlink="_102870e711f14bcf44a12d21d2ba"/>
+    </citation>
+    <citation handle="_102870ff45c0161be84631f51fa0" change="1776588051" id="C1884">
+      <page>Greger-Johansen/6000000003349725218</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102870fee6496ddaed02ca5bc7ff"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028710c6f8616760c7d4f11ee90" change="1776588137" id="C1885">
+      <page>Anne-Marie-Johansen/6000000003349540570</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028710bf2d365e06329abb7c4b2"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102871143773dea2472a9c887e7" change="1776588188" id="C1886">
+      <page>Maren-Sofie-Gregersen/6000000003349234933</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871140986111de2e3cdf490a"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287129543751d5a03fdf9832b7" change="1776588327" id="C1887">
+      <page>Gudrun-Marie-Kolstad/4940980032120038164</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871291ce117fefafa66b47cce"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028714590944889727eecfc996d" change="1776588512" id="C1888">
+      <page>Ole-Sigvart-Simenstua/6000000003348923720</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871455e0610c8bdbf3a884c99"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287161835f3ff835032a7c7e2b" change="1776588695" id="C1889">
+      <page>Ole-Marius-Kamphus/6000000003349275898</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871612d2962996e5e5fa255b"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028717c8b2f6824eff5020d8e94" change="1776588872" id="C1890">
+      <page>Maria-Flatby/6000000003349700063</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028717bf35a363995aae2489cf8"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028718b363f849b205329bfcd1" change="1776588968" id="C1891">
+      <page>Syver-Nyg%C3%A5rd/6000000011905886513</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028718ae50a5cd5b58415724a37"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028719b4c38640e362c803c067d" change="1776589073" id="C1892">
+      <page>Mari-Kamphus/6000000011905714902</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028719b0a0e5a62596b3eef20e5"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102871b69a2f495c8d6fb5c323de" change="1776589252" id="C1893">
+      <page>Hans-Olsen-Kamphus/6000000009861695525</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871b6565dcc0febec8d14842"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102871c4782740f0687fe48c363f" change="1776589343" id="C1894">
+      <page>Lisbet-Sk%C3%B8yen/6000000009861839326</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871c41984792bbb64ff2822f"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102871d460f13d78b446eb8309ff" change="1776589448" id="C1895">
+      <page>Ole-Sk%C3%B8yen/6000000007261576988</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871d3e993410c6636d10583e6"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102871edeb8b27777280bb6c719c" change="1776589615" id="C1896">
+      <page>Berte-Vansum/6000000007263112216</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102871ed8f1a6911472dfb23fcbf"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287205dd513b7015b9b3d1f491" change="1776589772" id="C1897">
+      <page>Henrik-Vansum/6000000041271261186</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287205a3476392bf5c565a6207"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028721a25f0675de9a46b9360bd" change="1776589905" id="C1898">
+      <page>Lisbet-Nordby/6000000030528535827</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287218d1521e6e50e619d2f500"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028722c88df2209d6fbafcf042f" change="1776590025" id="C1899">
+      <page>Kristoffer-Nordby/6000000030528519122</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028722c52873e3026d27d33caa0"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028723cedde3f9c270ce4049e25" change="1776590133" id="C1900">
+      <page>Mari-M%C3%B8rdre/6000000030528490170</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028723cb977d6a0c33f58cc1c2"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102872536fa11008d5b9b2aa687" change="1776590280" id="C1901">
+      <page>Alv-M%C3%B8rdre/6000000185591975693</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287253357c672489ea96eee6b1"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028726988c87628820bbd28026e" change="1776590425" id="C1902">
+      <page>Asbj%C3%B8rn-M%C3%B8rdre/6000000182450655832</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102872695dcf784b5d78ea36e126"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287272a4ab810dbeb1d821eb9" change="1776590485" id="C1903">
+      <page>Kari/6000000182450825832</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287272746b41691656f3a2c5e1"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287281abe4781e295731cf4f7a" change="1776590583" id="C1904">
+      <page>Alv-M%C3%B8rdre/6000000182450769833</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287280488863c3103f53c5c37"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028729e496f5711211a0a4712af" change="1776590771" id="C1905">
+      <page>Marit-B%C3%A5rli/6000000182450434835</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028729e0090fa9af0eb1bc83c"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102872cafc8f2a38322c0c185243" change="1776591064" id="C1906">
+      <page>Sakse-Elstad/6000000182450320851</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102872cabb93775be5b96d2713b3"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102872e100b551b8829afb483da1" change="1776591222" id="C1907">
+      <page>Hallvard-Elstad/6000000186135256170</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102872e0c82c5cf69bd3b2534201"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102872fdad9f6ab4fa0c99e81434" change="1776591396" id="C1908">
+      <page>Amund-Torsteinsson-M%C3%B8rdre/6000000203302609822</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102872fc6f79583a1efda1386984"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028730d107e198de9cce3ae5c48" change="1776591497" id="C1909">
+      <page>%C3%85sa-Torsteinsen-M%C3%B8rdre/6000000203302717821</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028730bed67380db1adbedcc53e"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028738187a55bf9f832aedc1e57" change="1776592260" id="C1910">
+      <page>Jakob-Vansum/5095574033600082045</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028738163386a6d74564c1522cf"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028739a30ab6e93d33574dd144" change="1776592422" id="C1911">
+      <page>Olaug-Gulbrandsdatter-Vansum/6000000010460003736</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287399ff054378ae7083b63082"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102873a748c241d2d1d240b7aa59" change="1776592507" id="C1912">
+      <page>Gulbrand/6000000177237331868</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102873a7141757b77875b0a90c68"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102873b61d793c0958e42ab5d061" change="1776592605" id="C1913">
+      <page>B%C3%B8rger-Vansum/5095580510060070687</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102873b5d152617e1dcc5ac006c5"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102873be19341f7fc511187bbd90" change="1776592657" id="C1914">
+      <page>Gudbj%C3%B8rg/5095580564660070693</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102873bdbae4166f42864e69a50a"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102873cdd479396a6b6186d086e7" change="1776592760" id="C1915">
+      <page>Ole/6000000177238837827</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102873cd9c877c09c619157d8949"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102873dcf401edd819f808cf2e1" change="1776592859" id="C1916">
+      <page>Ole-Vansum/6000000032494536621</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102873dcaa4361499917fdf94ba7"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102873eda02bb9069782aa52c91" change="1776592968" id="C1917">
+      <page>Jon-Vansum/6000000032495015954</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102873ed77384d25110729141328"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028740541e9f959d78dd4e1a37" change="1776593123" id="C1918">
+      <page>Arne-Ile/6000000007262012568</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287405087d6390e2188fdff939"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287428af8313a60ab3923d3517" change="1776593355" id="C1919">
+      <page>R%C3%B8nnaug-Dysterud/6000000022439450269</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028742884ad26d78fdd9b1166c4"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287438539b84b07a5c1a8236d" change="1776593458" id="C1920">
+      <page>Ole-Nesteby/6000000022406929117</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028743811711c97aaa399187046"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028744aef6318af9d4c6e1f0101" change="1776593580" id="C1921">
+      <confidence>2</confidence>
+      <noteref hlink="_1028744ab2787a423f68cb53f8b5"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028745a90c9102fb2a6346c37ef" change="1776593682" id="C1922">
+      <page>Knut-%C3%85nerud/6000000007264300059</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028745a6be9746ebf343a1b5e34"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028746d8e7f122e06d9d48d1d48" change="1776593807" id="C1923">
+      <page>R%C3%B8nnaug-Dysterud/6000000015400586695</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028746d446f28693b0328fa8646"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028747eee29b61e28df55bce1" change="1776593921" id="C1924">
+      <page>Erik-Austvatn/6000000007737078328</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028747e5e87773ced15caa54b62"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102874937abc1002445d06769e12" change="1776594055" id="C1925">
+      <page>Marte-Trauten/6000000007694153329</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287493059c5bffaac274fadd46"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102874cd48231a4894df2c60c27" change="1776594434" id="C1926">
+      <page>Hovol-Trauten/6000000007693694113</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102874cd0bc91b180f2a5a222d6b"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102874dee877192ec5550b57e93c" change="1776594550" id="C1927">
+      <page>Kirsti-Fjell/6000000007694143644</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102874dea28a1f8a463868f1b490"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102874f2d8d222341ea6909aaabd" change="1776594680" id="C1928">
+      <page>Iver-Stormoen/6000000007694108631</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102874f2573667f7e84cc205228a"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102875080eee6e70a0024232a0b5" change="1776594819" id="C1929">
+      <page>Kari-Stormoen/6000000010640060219</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287507d16764fba2989a6416f4"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028751c02e46b98a647032d118d" change="1776594950" id="C1930">
+      <page>Alex-Stormoen/6000000119801966827</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028751afc414d14cf85b5ec9772"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287556d2145b3f14e4eb0f5ecb" change="1776595336" id="C1931">
+      <page>Torger-Moen/6000000007693970111</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102875567fa0546788366897ec10"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028756662cb3a5a5802e0317fca" change="1776595438" id="C1932">
+      <page>Astrid-Stenberg/6000000007694255406</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028756617d76416a0913a3d3ce6"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102875762077146e5045fc561a66" change="1776595541" id="C1933">
+      <page>Paul-Stenberg/6000000199284850821</page>
+      <confidence>2</confidence>
+      <noteref hlink="_10287575e38b3481df6ce26baee6"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028758f7e907cd47b9fc773c1b8" change="1776595707" id="C1934">
+      <page>Iver-Stormoen/6000000156907249874</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028758f26873249b9e5bea61b4e"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102875a59a7947e46c11b1b6d952" change="1776595852" id="C1935">
+      <page>N-N-Stenberg/6000000156905240021</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102875a56ce11a145c2ed1c8bcd6"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102875b4a322422136cd534f4c0d" change="1776595950" id="C1936">
+      <page>Ombudsmann-Klemmet-Ingeberg/6000000002942695764</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102875b4604f3d90768dc189bda2"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_102875c95e6e1be700fc67a202ac" change="1776596086" id="C1937">
+      <page>%C3%85sa-Stenberg/6000000011787480032</page>
+      <confidence>2</confidence>
+      <noteref hlink="_102875c91a663552d9227c087c5a"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_10287658b4d454184956a7da45" change="1776597026" id="C1938">
+      <page>P%C3%A5l-Stenberg/6000000099926982885</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028764f53684afe4ef1ded7c217"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028a0e06a234055be02312352b5" change="1776668399" id="C1939">
+      <page>Alf-Stormoen/6000000187119447825</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028a0e33b9a48b35e4d80cb605a"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028a0fa31c275541d5db5fbec0c" change="1776668548" id="C1940">
+      <page>Gudmund-Trauten/6000000119791758821</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028a0f9f7df101e21fd76179fb5"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028a10ac58d45f0c02e9720d3cf" change="1776668768" id="C1941">
+      <page>Torger-M%C3%B8rdre/6000000203291457821</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028a11b884033e9d40f4bda4227"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d3b60581740c433428ddc8f3" change="1776753665" id="C1942">
+      <page>Ragna-Louise-Kvisler/6000000003349309272</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d3b5c214597f8103d5421376"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d3d1e3645401665a64a49086" change="1776753863" id="C1943">
+      <page>Peter-Lauritz-Gropa/6000000003349237590</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d3d3f70565ef24393599f3be"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d3f82fa715cee1b534d948b3" change="1776754099" id="C1944">
+      <page>Maren-Ingine-Enga/6000000003349644108</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d3f800e94e49337098cf5a4b"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d4211bb71a8693e2d9ce2459" change="1776754367" id="C1945">
+      <page>Lars-Vormnesenga/6000000186817430886</page>
+      <confidence>2</confidence>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d4305b17544eb658f298ec02" change="1776754467" id="C1946">
+      <page>Oline-Vormnes/6000000189453663835</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d43037725972fdfb13d6ac5e"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d448d72e269e336ad58db9a0" change="1776754627" id="C1947">
+      <page>Ole/6000000186716494008</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d448ab1a3c9761365aab2006"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d45b377635a0f652207574d2" change="1776754777" id="C1948">
+      <page>Pauline-Maria-Haugen/6000000186826753865</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d45f56986151959a0ac9f91b"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d4a2d4184ea574d2d42cde4b" change="1776755217" id="C1949">
+      <page>Hanna-Skogerenga/6000000006205098565</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d4a29598189bbb807eddd2c2"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d4ba720b489fb9877d614652" change="1776755372" id="C1950">
+      <page>Hans-Kristian-Holtet/6000000006205098508</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d4ba51c16d9f8c8daa4cf51c"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d4c5390f657a86fcfa41c8ca" change="1776755443" id="C1951">
+      <confidence>2</confidence>
+      <noteref hlink="_1028d4c4f814415ce19cec9453c7"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d4f6ac4c56f084d44660abbc" change="1776755767" id="C1952">
+      <page>Olof-Falk/348997709220002216</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d4f682794595251333091ce7"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
+    </citation>
+    <citation handle="_1028d514b41b677d1109311a0890" change="1776755964" id="C1953">
+      <page>Anna-Larsdotter/360151769590013290</page>
+      <confidence>2</confidence>
+      <noteref hlink="_1028d51410e5736a3cb92607ef9e"/>
+      <sourceref hlink="_c30d348782a173ec7a7"/>
     </citation>
     <citation handle="_c6354a6d88a00188c58" change="1362076151" id="C0018">
       <confidence>2</confidence>
@@ -34136,6 +36615,42 @@
       <stitle>Telen</stitle>
       <reporef hlink="_f608acab185262bbed388129f60" medium="Book"/>
     </source>
+    <source handle="_10284d6968b12742f03fcc297fe7" change="1776528348" id="S0212">
+      <stitle>Klokkerbok for Hof prestegjeld, Hof sokn 1878-1930 (0714P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_10284dcb11555165b55244c1c871" change="1776528989" id="S0213">
+      <stitle>Klokkerbok for Sande prestegjeld 1814-1847 (0713P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_10284dfcd86d325cb7a5cb2fef56" change="1776529315" id="S0214">
+      <stitle>Klokkerbok for Sande prestegjeld 1864-1882 (0713P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_10284e85f1f06ef05f130256ada8" change="1776530213" id="S0215">
+      <stitle>Klokkerbok for Sande prestegjeld 1847-1863 (0713P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_10284ec63e0d48f5d14780836b6f" change="1776530635" id="S0216">
+      <stitle>Folketellingen 1815</stitle>
+      <reporef hlink="_e603c36266934364e2d3b33044a" medium="Book"/>
+    </source>
+    <source handle="_10284f6863fa6c9139488418bcc2" change="1776531697" id="S0217">
+      <stitle>Ministerialbok for Sande prestegjeld 1814-1847 (0713P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_1028507a4b7163bb98e7cad24a91" change="1776533492" id="S0218">
+      <stitle>Kommunikantprotokoll for Kongsberg prestegjeld 1800-1806</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_1028709fcc571a2512c0b6cc90c3" change="1776587425" id="S0219">
+      <stitle>Ministerialbok for Lier prestegjeld 1865-1874 (0626P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
+    <source handle="_102870e711f14bcf44a12d21d2ba" change="1776587892" id="S0220">
+      <stitle>Ministerialbok for Nes prestegjeld, Nes sokn 1859-1874 (0236P)</stitle>
+      <reporef hlink="_c22c08a40be2f769a20" medium="Book"/>
+    </source>
     <source handle="_c0dd166daf608bd1aa6" change="1362076456" id="S0000">
       <stitle>Østfold fylke, Glemmen, Ministerialbok nr. Fa 0014 (1902-1922),</stitle>
       <noteref hlink="_c55088a3f7244080f43"/>
@@ -34813,7 +37328,7 @@
     <placeobj handle="_100381cd415b6061b8ab4aa499e5" change="1760724865" id="P0314" type="Unknown">
       <pname value="Lilleakerlunden 0083c"/>
     </placeobj>
-    <placeobj handle="_1003988c0b6bdf19e6ef470552b" change="1776457632" id="P0315" type="Unknown">
+    <placeobj handle="_1003988c0b6bdf19e6ef470552b" change="1776591551" id="P0315" type="Unknown">
       <pname value="Ullensaker"/>
     </placeobj>
     <placeobj handle="_10039a889b415c365350c1286aed" change="1760766359" id="P0316" type="Unknown">
@@ -34837,7 +37352,7 @@
     <placeobj handle="_10039ca100912c0b7ad1cc615306" change="1760769874" id="P0322" type="Unknown">
       <pname value="Fjeldgade 6, Oslo"/>
     </placeobj>
-    <placeobj handle="_10039cf93935384a883f5428fadb" change="1762611928" id="P0323" type="Unknown">
+    <placeobj handle="_10039cf93935384a883f5428fadb" change="1776756066" id="P0323" type="Unknown">
       <pname value="Värmland, Sverige"/>
     </placeobj>
     <placeobj handle="_10039d1106d74092f99724638ab2" change="1760770608" id="P0324" type="Unknown">
@@ -35087,7 +37602,7 @@
       <pname value="Rommedal,"/>
       <placeref hlink="_10179a3b68581f31515f92bd02c2"/>
     </placeobj>
-    <placeobj handle="_10179aa1c6b960f2037cd3121a49" change="1776356188" id="P0386" type="Unknown">
+    <placeobj handle="_10179aa1c6b960f2037cd3121a49" change="1776593486" id="P0386" type="Unknown">
       <pname value="Kongsvinger"/>
     </placeobj>
     <placeobj handle="_101840ce99941bd7744a7c718e59" change="1769635254" id="P0387" type="Unknown">
@@ -35133,8 +37648,8 @@
       <pname value="Helberget"/>
       <placeref hlink="_e048ce84cc254cf01dc2fd199e3"/>
     </placeobj>
-    <placeobj handle="_10214b747528578c63fa3409f0a5" change="1776281327" id="P0398" type="Unknown">
-      <pname value="Nord Odalen"/>
+    <placeobj handle="_10214b747528578c63fa3409f0a5" change="1776594991" id="P0398" type="Unknown">
+      <pname value="Nord Odal"/>
     </placeobj>
     <placeobj handle="_10214c12ed0214688a163958456c" change="1776510890" id="P0399" type="Unknown">
       <pname value="Notodden"/>
@@ -35259,7 +37774,7 @@
       <pname value="Haug"/>
       <placeref hlink="_10214b747528578c63fa3409f0a5"/>
     </placeobj>
-    <placeobj handle="_1027e4f0f5a0312280a9e1134e7a" change="1776355380" id="P0430" type="Unknown">
+    <placeobj handle="_1027e4f0f5a0312280a9e1134e7a" change="1776594712" id="P0430" type="Unknown">
       <pname value="Sør Odal"/>
     </placeobj>
     <placeobj handle="_1027e4f1b19d7cadffd87634a4a3" change="1776353081" id="P0431" type="Unknown">
@@ -35282,7 +37797,7 @@
       <pname value="Waarum"/>
       <placeref hlink="_1003988c0b6bdf19e6ef470552b"/>
     </placeobj>
-    <placeobj handle="_1028130a041f391a1f34083d91ab" change="1776499508" id="P0436" type="Unknown">
+    <placeobj handle="_1028130a041f391a1f34083d91ab" change="1776755492" id="P0436" type="Unknown">
       <pname value="Nes Romerike"/>
     </placeobj>
     <placeobj handle="_10281be5fd6110da02bd399c940e" change="1776445279" id="P0437" type="Unknown">
@@ -35304,6 +37819,167 @@
     <placeobj handle="_102843019b35535562893238d169" change="1776510891" id="P0441" type="Unknown">
       <pname value="Storgaten 60"/>
       <placeref hlink="_10214c12ed0214688a163958456c"/>
+    </placeobj>
+    <placeobj handle="_10284c3ae93d2ca8fb4b8b64a321" change="1776530590" id="P0442" type="Unknown">
+      <pname value="Sande"/>
+    </placeobj>
+    <placeobj handle="_10284c4cb65736b977058a1a55c5" change="1776526483" id="P0443" type="Unknown">
+      <pname value="Vestfold"/>
+    </placeobj>
+    <placeobj handle="_10284c4ce2ae546f78d79d0ac49" change="1776526484" id="P0444" type="Unknown">
+      <pname value="Hof"/>
+      <placeref hlink="_10284c4cb65736b977058a1a55c5"/>
+    </placeobj>
+    <placeobj handle="_10284c4d124b57f2deb2d0a39ff5" change="1776526485" id="P0445" type="Unknown">
+      <pname value="Kolstad"/>
+      <placeref hlink="_10284c4ce2ae546f78d79d0ac49"/>
+    </placeobj>
+    <placeobj handle="_10284de20d0b566a7d6827c9c55d" change="1776529139" id="P0446" type="Unknown">
+      <pname value="Bjørndahlen"/>
+      <placeref hlink="_10284c3ae93d2ca8fb4b8b64a321"/>
+    </placeobj>
+    <placeobj handle="_10284ebfc16d2ef976841479d937" change="1776530592" id="P0447" type="Unknown">
+      <pname value="Nordre Revaa"/>
+      <placeref hlink="_10284c3ae93d2ca8fb4b8b64a321"/>
+    </placeobj>
+    <placeobj handle="_10284fe3fc47331b7f60efdc0d36" change="1776532598" id="P0448" type="Unknown">
+      <pname value="Kongsberg"/>
+      <placeref hlink="_e048ce84c9970581804f3960809"/>
+    </placeobj>
+    <placeobj handle="_10287168d7141ecab8d9f337e157" change="1776588743" id="P0449" type="Unknown">
+      <pname value="Simenstua"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_102871aa5e3b12bf0d01e4934c" change="1776589172" id="P0450" type="Unknown">
+      <pname value="Kamphus"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_102871d969882baccbf788d12b73" change="1776589480" id="P0451" type="Unknown">
+      <pname value="Skøyen øvre gård"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_102871f4992ae4e65e0ba80bda4" change="1776592376" id="P0452" type="Unknown">
+      <pname value="Vansum"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_102871f896341be56d3b1b3504df" change="1776589685" id="P0453" type="Unknown">
+      <pname value="Ile gård"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_1028721eb02536a8fdf2a22a39ae" change="1776589935" id="P0454" type="Unknown">
+      <pname value="Nordby gård"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_1028724238af79f73798ff3a3a6c" change="1776590167" id="P0455" type="Unknown">
+      <pname value="Mørdre gård"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_1028728b2645f890335b021e96f" change="1776590645" id="P0456" type="Unknown">
+      <pname value="Bårli"/>
+      <placeref hlink="_e048ce84cb344bc1ede9cd7a33a"/>
+    </placeobj>
+    <placeobj handle="_102873159fac1b7780794a4717c2" change="1776591553" id="P0457" type="Unknown">
+      <pname value="Onsrud"/>
+      <placeref hlink="_1003988c0b6bdf19e6ef470552b"/>
+    </placeobj>
+    <placeobj handle="_1028731eae5854a54fadc453996b" change="1776591612" id="P0458" type="Unknown">
+      <pname value="Rovol"/>
+      <placeref hlink="_c95a2452ec90600afaf"/>
+    </placeobj>
+    <placeobj handle="_10287409a718775309fdac74b880" change="1776593152" id="P0459" type="Unknown">
+      <pname value="Ile gård"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_102874222a331df981632744689f" change="1776593313" id="P0460" type="Unknown">
+      <pname value="Dysterud"/>
+      <placeref hlink="_1027e4f0f5a0312280a9e1134e7a"/>
+    </placeobj>
+    <placeobj handle="_1028743cc92e4ebd3b69ada43a31" change="1776593487" id="P0461" type="Unknown">
+      <pname value="Nesteby"/>
+      <placeref hlink="_10179aa1c6b960f2037cd3121a49"/>
+    </placeobj>
+    <placeobj handle="_1028746114e7f71dc6a6f81db9e" change="1776593725" id="P0462" type="Unknown">
+      <pname value="Ånnerud"/>
+      <placeref hlink="_1027e4f0f5a0312280a9e1134e7a"/>
+    </placeobj>
+    <placeobj handle="_10287483815f49f044f81df87bc9" change="1776593951" id="P0463" type="Unknown">
+      <pname value="Austvatn"/>
+      <placeref hlink="_1027e4f0f5a0312280a9e1134e7a"/>
+    </placeobj>
+    <placeobj handle="_1028749880bd379fbe86adb2b5f8" change="1776594088" id="P0464" type="Unknown">
+      <pname value="Trauten"/>
+      <placeref hlink="_10214b747528578c63fa3409f0a5"/>
+    </placeobj>
+    <placeobj handle="_102874e5125a46f82bf495279a56" change="1776594590" id="P0465" type="Unknown">
+      <pname value="Ner-Fjell"/>
+      <placeref hlink="_10214b747528578c63fa3409f0a5"/>
+    </placeobj>
+    <placeobj handle="_102874f8beba78909ca7b1ef378d" change="1776594719" id="P0466" type="Unknown">
+      <pname value="Øyen"/>
+      <placeref hlink="_1027e4f0f5a0312280a9e1134e7a"/>
+    </placeobj>
+    <placeobj handle="_1028750cde9b1aa734a1744e9803" change="1776594851" id="P0467" type="Unknown">
+      <pname value="Moen"/>
+      <placeref hlink="_10214b747528578c63fa3409f0a5"/>
+    </placeobj>
+    <placeobj handle="_10287522c24d7a901e085f80940a" change="1776594994" id="P0468" type="Unknown">
+      <pname value="Stormoen"/>
+      <placeref hlink="_10214b747528578c63fa3409f0a5"/>
+    </placeobj>
+    <placeobj handle="_1028756a371c43911233e9b1dfdb" change="1776595463" id="P0469" type="Unknown">
+      <pname value="Stenberg"/>
+      <placeref hlink="_e04964c9bfb6bbe4edc18da7af7"/>
+    </placeobj>
+    <placeobj handle="_102875ba85be7830830e2df4db13" change="1776595989" id="P0470" type="Unknown">
+      <pname value="Ringsaker"/>
+      <placeref hlink="_e048ce84ccc7fc94267816b148"/>
+    </placeobj>
+    <placeobj handle="_102875bac8a075dcdfde848cf234" change="1776595991" id="P0471" type="Unknown">
+      <pname value="Ingeberg"/>
+      <placeref hlink="_102875ba85be7830830e2df4db13"/>
+    </placeobj>
+    <placeobj handle="_102875ce9fb37af43eee69290762" change="1776596121" id="P0472" type="Unknown">
+      <pname value="Jønsberg"/>
+      <placeref hlink="_e04964c9bfb6bbe4edc18da7af7"/>
+    </placeobj>
+    <placeobj handle="_1028d3c194921ac4b3c2889ef066" change="1776753741" id="P0473" type="Unknown">
+      <pname value="Tomter"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_1028d3c47cad49aec754226e1c1" change="1776753760" id="P0474" type="Unknown">
+      <pname value="Kvisler"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_1028d3fde9df48437758422d4114" change="1776754320" id="P0475" type="Unknown">
+      <pname value="Vormnesenga"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_1028d49e8b40294238045b1091dc" change="1776755189" id="P0476" type="Unknown">
+      <pname value="Drammen"/>
+    </placeobj>
+    <placeobj handle="_1028d4b48d303401b6a91c30686" change="1776755333" id="P0477" type="Unknown">
+      <pname value="Setskog"/>
+      <placeref hlink="_e048ce84c61777769930688456"/>
+    </placeobj>
+    <placeobj handle="_1028d4cd02f932c1842f78830bab" change="1776755494" id="P0478" type="Unknown">
+      <pname value="Skogerenga"/>
+      <placeref hlink="_1028130a041f391a1f34083d91ab"/>
+    </placeobj>
+    <placeobj handle="_1028d5028ba065ece6d9b20ed5c3" change="1776755845" id="P0479" type="Unknown">
+      <pname value="Falkenborg"/>
+      <placeref hlink="_10039cf93935384a883f5428fadb"/>
+    </placeobj>
+    <placeobj handle="_1028d50a44d04cbf0f753a02ddda" change="1776755895" id="P0480" type="Unknown">
+      <pname value="Torserud"/>
+      <placeref hlink="_10039cf93935384a883f5428fadb"/>
+    </placeobj>
+    <placeobj handle="_1028d51af6b5542e177c868f1ef" change="1776756005" id="P0481" type="Unknown">
+      <pname value="Femsås"/>
+      <placeref hlink="_10039cf93935384a883f5428fadb"/>
+    </placeobj>
+    <placeobj handle="_1028d5247614695bf2750e9ec245" change="1776756067" id="P0482" type="Unknown">
+      <pname value="Botilsäter"/>
+      <placeref hlink="_10039cf93935384a883f5428fadb"/>
     </placeobj>
     <placeobj handle="_c0dd173fd5879d9fc4e" change="1690996507" id="P0000" type="Locality">
       <ptitle>Glemmen, Østfold</ptitle>
@@ -36102,7 +38778,7 @@
       <ptitle>Skattum, Høland, Akershus</ptitle>
       <pname value="Skattum, Høland, Akershus"/>
     </placeobj>
-    <placeobj handle="_c95a2452ec90600afaf" change="1383681210" id="P0186" type="Unknown">
+    <placeobj handle="_c95a2452ec90600afaf" change="1776591595" id="P0186" type="Unknown">
       <ptitle>Nannestad, Akershus</ptitle>
       <pname value="Nannestad, Akershus"/>
     </placeobj>
@@ -36403,7 +39079,7 @@
       <pname value="Østfold"/>
       <placeref hlink="_e048ce84c587507c1e804952b2d"/>
     </placeobj>
-    <placeobj handle="_e048ce84c61777769930688456" change="1690831829" id="P0048" type="State">
+    <placeobj handle="_e048ce84c61777769930688456" change="1776755332" id="P0048" type="State">
       <ptitle>Akershus, Norge</ptitle>
       <pname value="Akershus"/>
       <placeref hlink="_e048ce84c587507c1e804952b2d"/>
@@ -36459,7 +39135,7 @@
       <pname value="Eidsvoll"/>
       <placeref hlink="_e048ce84c61777769930688456"/>
     </placeobj>
-    <placeobj handle="_e048ce84c9970581804f3960809" change="1541270669" id="P0259" type="State">
+    <placeobj handle="_e048ce84c9970581804f3960809" change="1776532506" id="P0259" type="State">
       <ptitle>Buskerud, Norge</ptitle>
       <pname value="Buskerud"/>
       <placeref hlink="_e048ce84c587507c1e804952b2d"/>
@@ -36479,7 +39155,7 @@
       <pname value="Skiptvet"/>
       <placeref hlink="_e048ce84c5b4a41aaab07dbd6b1"/>
     </placeobj>
-    <placeobj handle="_e048ce84cb344bc1ede9cd7a33a" change="1775491437" id="P0263" type="County">
+    <placeobj handle="_e048ce84cb344bc1ede9cd7a33a" change="1776590644" id="P0263" type="County">
       <ptitle>Eidsvoll, Akershus</ptitle>
       <pname value="Eidsvoll"/>
       <placeref hlink="_e048ce84c61777769930688456"/>
@@ -36509,7 +39185,7 @@
       <pname value="Vefsn"/>
       <placeref hlink="_e048ce84cc7139996b36487a2aa"/>
     </placeobj>
-    <placeobj handle="_e048ce84ccc7fc94267816b148" change="1762622378" id="P0269" type="State">
+    <placeobj handle="_e048ce84ccc7fc94267816b148" change="1776595988" id="P0269" type="State">
       <ptitle>Hedmark, Norge</ptitle>
       <pname value="Hedmark"/>
       <placeref hlink="_e048ce84c587507c1e804952b2d"/>
@@ -36556,7 +39232,7 @@
     <placeobj handle="_e04963d6c9f11251ed0be37b9da" change="1541286326" id="P0282" type="Unknown">
       <pname value="Kluke, Biri, Gjøvik"/>
     </placeobj>
-    <placeobj handle="_e04964c9bfb6bbe4edc18da7af7" change="1541286426" id="P0283" type="Unknown">
+    <placeobj handle="_e04964c9bfb6bbe4edc18da7af7" change="1776596118" id="P0283" type="Unknown">
       <pname value="Stange, Hedmark"/>
     </placeobj>
     <placeobj handle="_e049667b97a693c8c31f78667cd" change="1541286603" id="P0284" type="Unknown">
@@ -36930,7 +39606,7 @@
     <repository handle="_1007ee1930a5600bd06f3deeeda8" change="1762624544" id="R0004">
       <type>Library</type>
     </repository>
-    <repository handle="_c22c08a40be2f769a20" change="1776498699" id="R0000">
+    <repository handle="_c22c08a40be2f769a20" change="1776587891" id="R0000">
       <rname>Skannede kirkebøker</rname>
       <type>Web site</type>
       <url  href="http://www.arkivverket.no/URN:kb_read" type="Web Home" description="Skannede kirkebøker"/>
@@ -36940,7 +39616,7 @@
       <type>Library</type>
       <noteref hlink="_c632295f6f007ab77eb"/>
     </repository>
-    <repository handle="_e603c36266934364e2d3b33044a" change="1775751582" id="R0002">
+    <repository handle="_e603c36266934364e2d3b33044a" change="1776530634" id="R0002">
       <rname>Digitalarkivet</rname>
       <type>Library</type>
     </repository>
@@ -39686,6 +42362,687 @@ https://www.nb.no/items/e40adf404b4dca0a1ce8654d9a89e627?page=0&amp;searchText=T
 
 
 </text>
+    </note>
+    <note handle="_10284c41d94a70e6c0e2d5ec663" change="1776526412" id="N1671" type="Link">
+      <text>https://www.digitalarkivet.no/pf01052143000992</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01052143000992">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284c654dfd1fc24f80ec29fa6d" change="1776526644" id="N1672" type="Link">
+      <text>https://www.digitalarkivet.no/pf01052809001051</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01052809001051">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284c7e90817eae3042270fa5aa" change="1776526809" id="N1673" type="Link">
+      <text>https://www.digitalarkivet.no/pf01052143000993</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01052143000993">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284c8d7ed11386fa2d2cf0a0d3" change="1776526907" id="N1674" type="Link">
+      <text>https://www.digitalarkivet.no/pf01052809001052</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01052809001052">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284ca193f35b2fd95ec593d73c" change="1776527039" id="N1675" type="Link">
+      <text>https://www.digitalarkivet.no/pf01037138001122</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01037138001122">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284cb5bcf74257644de703a2c0" change="1776527171" id="N1676" type="Link">
+      <text>https://www.digitalarkivet.no/pf01037138001123</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01037138001123">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284ccb819851ca58b7d647639a" change="1776527314" id="N1677" type="Link">
+      <text>https://www.digitalarkivet.no/pf01036494001478</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01036494001478">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284cd8ec47529982123fd54334" change="1776527402" id="N1678" type="Link">
+      <text>https://www.digitalarkivet.no/pf01036494001479</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01036494001479">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284d616dca136dba0837b84298" change="1776528296" id="N1679" type="Link">
+      <text>https://www.digitalarkivet.no/pg00000007802080</text>
+      <style name="link" value="https://www.digitalarkivet.no/pg00000007802080">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284d8575a627a51f8fd74a1ce0" change="1776528532" id="N1680" type="Link">
+      <text>https://www.digitalarkivet.no/pg00000007801902</text>
+      <style name="link" value="https://www.digitalarkivet.no/pg00000007801902">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284dc83d1959890a2541db855c" change="1776528970" id="N1681" type="Link">
+      <text>https://www.digitalarkivet.no/pd00000009034478</text>
+      <style name="link" value="https://www.digitalarkivet.no/pd00000009034478">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284dfa3c6d38a0cb2cb8b881a8" change="1776529298" id="N1682" type="Link">
+      <text>https://www.digitalarkivet.no/pv00000000095974</text>
+      <style name="link" value="https://www.digitalarkivet.no/pv00000000095974">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284e16ccd167eacd2f8c4cca90" change="1776529485" id="N1683" type="Person Note">
+      <text>Fra datterens bryllup, men finnes bare i skannet versjon ikke søkbar versjon.</text>
+    </note>
+    <note handle="_10284e30f39a1bb3869d675fc00f" change="1776529656" id="N1684" type="Link">
+      <text>https://www.digitalarkivet.no/pf01073808001524</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01073808001524">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284e43e09a698517ee9fe14168" change="1776529780" id="N1685" type="Link">
+      <text>https://www.digitalarkivet.no/pf01038111000035</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01038111000035">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284e510afc71ec7ee55eb9489f" change="1776529867" id="N1686" type="Link">
+      <text>https://www.digitalarkivet.no/pf01038111000034</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01038111000034">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284e804711310773fa4b10643a" change="1776530176" id="N1687" type="Link">
+      <text>https://www.digitalarkivet.no/pg00000008184671</text>
+      <style name="link" value="https://www.digitalarkivet.no/pg00000008184671">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284ea8123d2093e4940b975d27" change="1776530437" id="N1688" type="Link">
+      <text>https://www.digitalarkivet.no/pv00000001136268</text>
+      <style name="link" value="https://www.digitalarkivet.no/pv00000001136268">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284ec323c7775ec3bd7a072d53" change="1776530614" id="N1689" type="Link">
+      <text>https://www.digitalarkivet.no/pf01051180000779</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01051180000779">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284f0719a022daef386f929859" change="1776531060" id="N1690" type="Link">
+      <text>https://www.digitalarkivet.no/pf01058286001878</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01058286001878">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284f154a164d718f88dc4667a0" change="1776531153" id="N1691" type="Link">
+      <text>https://www.digitalarkivet.no/pf01058286001878</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01058286001878">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284f1f06c121e5d9d005399b7c" change="1776531216" id="N1692" type="Link">
+      <text>https://www.digitalarkivet.no/pf01058286001876</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01058286001876">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284f36bf14ef60840a7a1f2a8" change="1776531372" id="N1693" type="Link">
+      <text>https://www.digitalarkivet.no/pf01058286001875</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01058286001875">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284f6684d96eab43f6c96d55e4" change="1776531685" id="N1694" type="Citation">
+      <text>https://www.digitalarkivet.no/pg00000000347690</text>
+      <style name="link" value="https://www.digitalarkivet.no/pg00000000347690">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10284fea83f93204ca3ba32ab9bd" change="1776532550" id="N1695" type="Link">
+      <text>https://www.digitalarkivet.no/pf01058268005745</text>
+      <style name="link" value="https://www.digitalarkivet.no/pf01058268005745">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_1028502af717563a8dc7c18f4bc1" change="1776532972" id="N1696" type="Person Note">
+      <text>Mange flere potensielle forfedre her
+https://www.myheritage.no/family-trees/sjovik/OYYV6DHPQ7DK636U2YPNQHO4FJOIYYI
+
+Litt usikkerhet, men kan være sannsynlig om enn stiller litt tvil til antall forfedre</text>
+      <style name="link" value="https://www.myheritage.no/family-trees/sjovik/OYYV6DHPQ7DK636U2YPNQHO4FJOIYYI">
+        <range start="37" end="114"/>
+      </style>
+    </note>
+    <note handle="_1028507764912d633e358ebbb761" change="1776533473" id="N1697" type="Link">
+      <text>https://www.digitalarkivet.no/pk00000000038762</text>
+      <style name="link" value="https://www.digitalarkivet.no/pk00000000038762">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_10286ddbc2c01d7f464352bd0179" change="1776582785" id="N1698" type="Link">
+      <text>https://www.myheritage.no/names/alfred_falk</text>
+      <style name="link" value="https://www.myheritage.no/names/alfred_falk">
+        <range start="0" end="43"/>
+      </style>
+    </note>
+    <note handle="_10286e210fa467da8850c4bee929" change="1776583239" id="N1699" type="Link">
+      <text>https://www.geni.com/people/Alfred-Falch/348992239370001604</text>
+      <style name="link" value="https://www.geni.com/people/Alfred-Falch/348992239370001604">
+        <range start="0" end="59"/>
+      </style>
+    </note>
+    <note handle="_10286e3e98a93b57ae2b9b6bd26f" change="1776583433" id="N1700" type="Link">
+      <text>https://www.geni.com/people/Anne-Marie-Kathrine-Kolstad/349003957150012640</text>
+      <style name="link" value="https://www.geni.com/people/Anne-Marie-Kathrine-Kolstad/349003957150012640">
+        <range start="0" end="74"/>
+      </style>
+    </note>
+    <note handle="_10286e472fcb7558efd1002cde4d" change="1776583489" id="N1701" type="Link">
+      <text>https://www.geni.com/people/Olaf-Herman-Kolstad/4940958818180125276</text>
+      <style name="link" value="https://www.geni.com/people/Olaf-Herman-Kolstad/4940958818180125276">
+        <range start="0" end="67"/>
+      </style>
+    </note>
+    <note handle="_10286e50dc847ddf2856e93c1381" change="1776583552" id="N1702" type="Link">
+      <text>https://www.geni.com/people/Aud-Rigmor-Jensen/6000000004066392825</text>
+      <style name="link" value="https://www.geni.com/people/Aud-Rigmor-Jensen/6000000004066392825">
+        <range start="0" end="65"/>
+      </style>
+    </note>
+    <note handle="_10286e5dd1eb68f9c14949ca0413" change="1776583637" id="N1703" type="Link">
+      <text>https://www.geni.com/people/Bjarne-A-Jensen/6000000003097846971</text>
+      <style name="link" value="https://www.geni.com/people/Bjarne-A-Jensen/6000000003097846971">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_10286e6853ad5ec3717df3f3f6d2" change="1776583706" id="N1704" type="Link">
+      <text>https://www.geni.com/people/Magnus-Jensen/6000000003349988215</text>
+      <style name="link" value="https://www.geni.com/people/Magnus-Jensen/6000000003349988215">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_10286e71b0b7667b317c08a51ffb" change="1776583768" id="N1705" type="Link">
+      <text>https://www.geni.com/people/Klaus-Alfred-Jensen/6000000003350022437</text>
+      <style name="link" value="https://www.geni.com/people/Klaus-Alfred-Jensen/6000000003350022437">
+        <range start="0" end="67"/>
+      </style>
+    </note>
+    <note handle="_10286e796a8159a81ea1015ed0ca" change="1776583818" id="N1706" type="Link">
+      <text>https://www.geni.com/people/Christian-Jensen/6000000003350014386</text>
+      <style name="link" value="https://www.geni.com/people/Christian-Jensen/6000000003350014386">
+        <range start="0" end="64"/>
+      </style>
+    </note>
+    <note handle="_10286e8254047e1ae62d4da019a8" change="1776583877" id="N1707" type="Link">
+      <text>https://www.geni.com/people/Helene-Jensen/6000000003350053290</text>
+      <style name="link" value="https://www.geni.com/people/Helene-Jensen/6000000003350053290">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_10286e9d1756347b2ba3761c3ef0" change="1776584052" id="N1708" type="Link">
+      <text>https://www.geni.com/people/Helene-Jensen/6000000003350053290</text>
+      <style name="link" value="https://www.geni.com/people/Helene-Jensen/6000000003350053290">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_10286eae7a6725ca8f073b0925" change="1776584166" id="N1709" type="Link">
+      <text>https://www.geni.com/people/Mina-Augusta-Jensen/6000000003350067210</text>
+      <style name="link" value="https://www.geni.com/people/Mina-Augusta-Jensen/6000000003350067210">
+        <range start="0" end="67"/>
+      </style>
+    </note>
+    <note handle="_10286ec1a9a03d871e9d4bfcaa81" change="1776584292" id="N1710" type="Link">
+      <text>https://www.geni.com/people/Signe-Emilie-Henriette-Jensen/6000000003350019149</text>
+      <style name="link" value="https://www.geni.com/people/Signe-Emilie-Henriette-Jensen/6000000003350019149">
+        <range start="0" end="77"/>
+      </style>
+    </note>
+    <note handle="_10286ed9c9bf14cd01901b0c470a" change="1776584450" id="N1711" type="Link">
+      <text>https://www.geni.com/people/Olaf-Kolstad/360800248890013457</text>
+      <style name="link" value="https://www.geni.com/people/Olaf-Kolstad/360800248890013457">
+        <range start="0" end="59"/>
+      </style>
+    </note>
+    <note handle="_10286f4fc573222542a7b751af14" change="1776585223" id="N1712" type="Link">
+      <text>https://www.geni.com/people/J%C3%B8rgen-Gregersen/6000000003349733137</text>
+      <style name="link" value="https://www.geni.com/people/J%C3%B8rgen-Gregersen/6000000003349733137">
+        <range start="0" end="69"/>
+      </style>
+    </note>
+    <note handle="_1028709bd55352d54993d3ec1ce0" change="1776587500" id="N1713" type="Link">
+      <text>https://www.digitalarkivet.no/pd00000003436494</text>
+      <style name="link" value="https://www.digitalarkivet.no/pd00000003436494">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102870df14dffab3816bbfd7ddd" change="1776587840" id="N1714" type="Link">
+      <text>https://www.digitalarkivet.no/pv00000003751097</text>
+      <style name="link" value="https://www.digitalarkivet.no/pv00000003751097">
+        <range start="0" end="46"/>
+      </style>
+    </note>
+    <note handle="_102870fee6496ddaed02ca5bc7ff" change="1776588048" id="N1715" type="Link">
+      <text>https://www.geni.com/people/Greger-Johansen/6000000003349725218</text>
+      <style name="link" value="https://www.geni.com/people/Greger-Johansen/6000000003349725218">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_1028710bf2d365e06329abb7c4b2" change="1776588134" id="N1716" type="Link">
+      <text>https://www.geni.com/people/Anne-Marie-Johansen/6000000003349540570</text>
+      <style name="link" value="https://www.geni.com/people/Anne-Marie-Johansen/6000000003349540570">
+        <range start="0" end="67"/>
+      </style>
+    </note>
+    <note handle="_102871140986111de2e3cdf490a" change="1776588187" id="N1717" type="Link">
+      <text>https://www.geni.com/people/Maren-Sofie-Gregersen/6000000003349234933</text>
+      <style name="link" value="https://www.geni.com/people/Maren-Sofie-Gregersen/6000000003349234933">
+        <range start="0" end="69"/>
+      </style>
+    </note>
+    <note handle="_102871291ce117fefafa66b47cce" change="1776588325" id="N1718" type="Link">
+      <text>https://www.geni.com/people/Gudrun-Marie-Kolstad/4940980032120038164</text>
+      <style name="link" value="https://www.geni.com/people/Gudrun-Marie-Kolstad/4940980032120038164">
+        <range start="0" end="68"/>
+      </style>
+    </note>
+    <note handle="_102871455e0610c8bdbf3a884c99" change="1776588510" id="N1719" type="Link">
+      <text>https://www.geni.com/people/Ole-Sigvart-Simenstua/6000000003348923720</text>
+      <style name="link" value="https://www.geni.com/people/Ole-Sigvart-Simenstua/6000000003348923720">
+        <range start="0" end="69"/>
+      </style>
+    </note>
+    <note handle="_102871612d2962996e5e5fa255b" change="1776588693" id="N1720" type="Link">
+      <text>https://www.geni.com/people/Ole-Marius-Kamphus/6000000003349275898</text>
+      <style name="link" value="https://www.geni.com/people/Ole-Marius-Kamphus/6000000003349275898">
+        <range start="0" end="66"/>
+      </style>
+    </note>
+    <note handle="_1028717bf35a363995aae2489cf8" change="1776588868" id="N1721" type="Link">
+      <text>https://www.geni.com/people/Maria-Flatby/6000000003349700063</text>
+      <style name="link" value="https://www.geni.com/people/Maria-Flatby/6000000003349700063">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1028718ae50a5cd5b58415724a37" change="1776588966" id="N1722" type="Link">
+      <text>https://www.geni.com/people/Syver-Nyg%C3%A5rd/6000000011905886513</text>
+      <style name="link" value="https://www.geni.com/people/Syver-Nyg%C3%A5rd/6000000011905886513">
+        <range start="0" end="65"/>
+      </style>
+    </note>
+    <note handle="_1028719b0a0e5a62596b3eef20e5" change="1776589072" id="N1723" type="Link">
+      <text>https://www.geni.com/people/Mari-Kamphus/6000000011905714902</text>
+      <style name="link" value="https://www.geni.com/people/Mari-Kamphus/6000000011905714902">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_102871b6565dcc0febec8d14842" change="1776589251" id="N1724" type="Link">
+      <text>https://www.geni.com/people/Hans-Olsen-Kamphus/6000000009861695525</text>
+      <style name="link" value="https://www.geni.com/people/Hans-Olsen-Kamphus/6000000009861695525">
+        <range start="0" end="66"/>
+      </style>
+    </note>
+    <note handle="_102871c41984792bbb64ff2822f" change="1776589341" id="N1725" type="Link">
+      <text>https://www.geni.com/people/Lisbet-Sk%C3%B8yen/6000000009861839326</text>
+      <style name="link" value="https://www.geni.com/people/Lisbet-Sk%C3%B8yen/6000000009861839326">
+        <range start="0" end="66"/>
+      </style>
+    </note>
+    <note handle="_102871d3e993410c6636d10583e6" change="1776589444" id="N1726" type="Link">
+      <text>https://www.geni.com/people/Ole-Sk%C3%B8yen/6000000007261576988</text>
+      <style name="link" value="https://www.geni.com/people/Ole-Sk%C3%B8yen/6000000007261576988">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_102871ed8f1a6911472dfb23fcbf" change="1776589613" id="N1727" type="Link">
+      <text>https://www.geni.com/people/Berte-Vansum/6000000007263112216</text>
+      <style name="link" value="https://www.geni.com/people/Berte-Vansum/6000000007263112216">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_10287205a3476392bf5c565a6207" change="1776589770" id="N1728" type="Link">
+      <text>https://www.geni.com/people/Henrik-Vansum/6000000041271261186</text>
+      <style name="link" value="https://www.geni.com/people/Henrik-Vansum/6000000041271261186">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_10287218d1521e6e50e619d2f500" change="1776589896" id="N1729" type="Link">
+      <text>https://www.geni.com/people/Lisbet-Nordby/6000000030528535827</text>
+      <style name="link" value="https://www.geni.com/people/Lisbet-Nordby/6000000030528535827">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_1028722c52873e3026d27d33caa0" change="1776590024" id="N1730" type="Link">
+      <text>https://www.geni.com/people/Kristoffer-Nordby/6000000030528519122</text>
+      <style name="link" value="https://www.geni.com/people/Kristoffer-Nordby/6000000030528519122">
+        <range start="0" end="65"/>
+      </style>
+    </note>
+    <note handle="_1028723cb977d6a0c33f58cc1c2" change="1776590131" id="N1731" type="Link">
+      <text>https://www.geni.com/people/Mari-M%C3%B8rdre/6000000030528490170</text>
+      <style name="link" value="https://www.geni.com/people/Mari-M%C3%B8rdre/6000000030528490170">
+        <range start="0" end="64"/>
+      </style>
+    </note>
+    <note handle="_10287253357c672489ea96eee6b1" change="1776590279" id="N1732" type="Link">
+      <text>https://www.geni.com/people/Alv-M%C3%B8rdre/6000000185591975693</text>
+      <style name="link" value="https://www.geni.com/people/Alv-M%C3%B8rdre/6000000185591975693">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_102872695dcf784b5d78ea36e126" change="1776590424" id="N1733" type="Link">
+      <text>https://www.geni.com/people/Asbj%C3%B8rn-M%C3%B8rdre/6000000182450655832</text>
+      <style name="link" value="https://www.geni.com/people/Asbj%C3%B8rn-M%C3%B8rdre/6000000182450655832">
+        <range start="0" end="72"/>
+      </style>
+    </note>
+    <note handle="_10287272746b41691656f3a2c5e1" change="1776590483" id="N1734" type="Link">
+      <text>https://www.geni.com/people/Kari/6000000182450825832</text>
+      <style name="link" value="https://www.geni.com/people/Kari/6000000182450825832">
+        <range start="0" end="52"/>
+      </style>
+    </note>
+    <note handle="_10287280488863c3103f53c5c37" change="1776590574" id="N1735" type="Link">
+      <text>https://www.geni.com/people/Alv-M%C3%B8rdre/6000000182450769833</text>
+      <style name="link" value="https://www.geni.com/people/Alv-M%C3%B8rdre/6000000182450769833">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_1028729e0090fa9af0eb1bc83c" change="1776590769" id="N1736" type="Link">
+      <text>https://www.geni.com/people/Marit-B%C3%A5rli/6000000182450434835</text>
+      <style name="link" value="https://www.geni.com/people/Marit-B%C3%A5rli/6000000182450434835">
+        <range start="0" end="64"/>
+      </style>
+    </note>
+    <note handle="_102872cabb93775be5b96d2713b3" change="1776591062" id="N1737" type="Link">
+      <text>https://www.geni.com/people/Sakse-Elstad/6000000182450320851</text>
+      <style name="link" value="https://www.geni.com/people/Sakse-Elstad/6000000182450320851">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_102872e0c82c5cf69bd3b2534201" change="1776591207" id="N1738" type="Link">
+      <text>https://www.geni.com/people/Hallvard-Elstad/6000000186135256170</text>
+      <style name="link" value="https://www.geni.com/people/Hallvard-Elstad/6000000186135256170">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_102872fc6f79583a1efda1386984" change="1776591388" id="N1739" type="Link">
+      <text>https://www.geni.com/people/Amund-Torsteinsson-M%C3%B8rdre/6000000203302609822</text>
+      <style name="link" value="https://www.geni.com/people/Amund-Torsteinsson-M%C3%B8rdre/6000000203302609822">
+        <range start="0" end="78"/>
+      </style>
+    </note>
+    <note handle="_1028730bed67380db1adbedcc53e" change="1776591489" id="N1740" type="Link">
+      <text>https://www.geni.com/people/%C3%85sa-Torsteinsen-M%C3%B8rdre/6000000203302717821</text>
+      <style name="link" value="https://www.geni.com/people/%C3%85sa-Torsteinsen-M%C3%B8rdre/6000000203302717821">
+        <range start="0" end="80"/>
+      </style>
+    </note>
+    <note handle="_1028738163386a6d74564c1522cf" change="1776592259" id="N1741" type="Link">
+      <text>https://www.geni.com/people/Jakob-Vansum/5095574033600082045</text>
+      <style name="link" value="https://www.geni.com/people/Jakob-Vansum/5095574033600082045">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_10287399ff054378ae7083b63082" change="1776592420" id="N1742" type="Link">
+      <text>https://www.geni.com/people/Olaug-Gulbrandsdatter-Vansum/6000000010460003736</text>
+      <style name="link" value="https://www.geni.com/people/Olaug-Gulbrandsdatter-Vansum/6000000010460003736">
+        <range start="0" end="76"/>
+      </style>
+    </note>
+    <note handle="_102873a7141757b77875b0a90c68" change="1776592506" id="N1743" type="Link">
+      <text>https://www.geni.com/people/Gulbrand/6000000177237331868</text>
+      <style name="link" value="https://www.geni.com/people/Gulbrand/6000000177237331868">
+        <range start="0" end="56"/>
+      </style>
+    </note>
+    <note handle="_102873b5d152617e1dcc5ac006c5" change="1776592603" id="N1744" type="Link">
+      <text>https://www.geni.com/people/B%C3%B8rger-Vansum/5095580510060070687</text>
+      <style name="link" value="https://www.geni.com/people/B%C3%B8rger-Vansum/5095580510060070687">
+        <range start="0" end="66"/>
+      </style>
+    </note>
+    <note handle="_102873bdbae4166f42864e69a50a" change="1776592655" id="N1745" type="Link">
+      <text>https://www.geni.com/people/Gudbj%C3%B8rg/5095580564660070693</text>
+      <style name="link" value="https://www.geni.com/people/Gudbj%C3%B8rg/5095580564660070693">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_102873cd9c877c09c619157d8949" change="1776592759" id="N1746" type="Link">
+      <text>https://www.geni.com/people/Ole/6000000177238837827</text>
+      <style name="link" value="https://www.geni.com/people/Ole/6000000177238837827">
+        <range start="0" end="51"/>
+      </style>
+    </note>
+    <note handle="_102873dcaa4361499917fdf94ba7" change="1776592857" id="N1747" type="Link">
+      <text>https://www.geni.com/people/Ole-Vansum/6000000032494536621</text>
+      <style name="link" value="https://www.geni.com/people/Ole-Vansum/6000000032494536621">
+        <range start="0" end="58"/>
+      </style>
+    </note>
+    <note handle="_102873ed77384d25110729141328" change="1776592967" id="N1748" type="Link">
+      <text>https://www.geni.com/people/Jon-Vansum/6000000032495015954</text>
+      <style name="link" value="https://www.geni.com/people/Jon-Vansum/6000000032495015954">
+        <range start="0" end="58"/>
+      </style>
+    </note>
+    <note handle="_10287405087d6390e2188fdff939" change="1776593122" id="N1749" type="Link">
+      <text>https://www.geni.com/people/Arne-Ile/6000000007262012568</text>
+      <style name="link" value="https://www.geni.com/people/Arne-Ile/6000000007262012568">
+        <range start="0" end="56"/>
+      </style>
+    </note>
+    <note handle="_1028742884ad26d78fdd9b1166c4" change="1776593354" id="N1750" type="Link">
+      <text>https://www.geni.com/people/R%C3%B8nnaug-Dysterud/6000000022439450269</text>
+      <style name="link" value="https://www.geni.com/people/R%C3%B8nnaug-Dysterud/6000000022439450269">
+        <range start="0" end="69"/>
+      </style>
+    </note>
+    <note handle="_1028743811711c97aaa399187046" change="1776593456" id="N1751" type="Link">
+      <text>https://www.geni.com/people/Ole-Nesteby/6000000022406929117</text>
+      <style name="link" value="https://www.geni.com/people/Ole-Nesteby/6000000022406929117">
+        <range start="0" end="59"/>
+      </style>
+    </note>
+    <note handle="_1028744ab2787a423f68cb53f8b5" change="1776593578" id="N1752" type="Link">
+      <text>https://www.geni.com/people/Mari-Dysterud/6000000010650822633</text>
+      <style name="link" value="https://www.geni.com/people/Mari-Dysterud/6000000010650822633">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_1028745a6be9746ebf343a1b5e34" change="1776593681" id="N1753" type="Link">
+      <text>https://www.geni.com/people/Knut-%C3%85nerud/6000000007264300059</text>
+      <style name="link" value="https://www.geni.com/people/Knut-%C3%85nerud/6000000007264300059">
+        <range start="0" end="64"/>
+      </style>
+    </note>
+    <note handle="_1028746d446f28693b0328fa8646" change="1776593805" id="N1754" type="Link">
+      <text>https://www.geni.com/people/R%C3%B8nnaug-Dysterud/6000000015400586695</text>
+      <style name="link" value="https://www.geni.com/people/R%C3%B8nnaug-Dysterud/6000000015400586695">
+        <range start="0" end="69"/>
+      </style>
+    </note>
+    <note handle="_1028747e5e87773ced15caa54b62" change="1776593917" id="N1755" type="Link">
+      <text>https://www.geni.com/people/Erik-Austvatn/6000000007737078328</text>
+      <style name="link" value="https://www.geni.com/people/Erik-Austvatn/6000000007737078328">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_10287493059c5bffaac274fadd46" change="1776594052" id="N1756" type="Link">
+      <text>https://www.geni.com/people/Marte-Trauten/6000000007694153329</text>
+      <style name="link" value="https://www.geni.com/people/Marte-Trauten/6000000007694153329">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_102874cd0bc91b180f2a5a222d6b" change="1776594433" id="N1757" type="Link">
+      <text>https://www.geni.com/people/Hovol-Trauten/6000000007693694113</text>
+      <style name="link" value="https://www.geni.com/people/Hovol-Trauten/6000000007693694113">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_102874dea28a1f8a463868f1b490" change="1776594548" id="N1758" type="Link">
+      <text>https://www.geni.com/people/Kirsti-Fjell/6000000007694143644</text>
+      <style name="link" value="https://www.geni.com/people/Kirsti-Fjell/6000000007694143644">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_102874f2573667f7e84cc205228a" change="1776594677" id="N1759" type="Link">
+      <text>https://www.geni.com/people/Iver-Stormoen/6000000007694108631</text>
+      <style name="link" value="https://www.geni.com/people/Iver-Stormoen/6000000007694108631">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_10287507d16764fba2989a6416f4" change="1776594818" id="N1760" type="Link">
+      <text>https://www.geni.com/people/Kari-Stormoen/6000000010640060219</text>
+      <style name="link" value="https://www.geni.com/people/Kari-Stormoen/6000000010640060219">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_1028751afc414d14cf85b5ec9772" change="1776594943" id="N1761" type="Link">
+      <text>https://www.geni.com/people/Alex-Stormoen/6000000119801966827</text>
+      <style name="link" value="https://www.geni.com/people/Alex-Stormoen/6000000119801966827">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_102875567fa0546788366897ec10" change="1776595333" id="N1762" type="Link">
+      <text>https://www.geni.com/people/Torger-Moen/6000000007693970111</text>
+      <style name="link" value="https://www.geni.com/people/Torger-Moen/6000000007693970111">
+        <range start="0" end="59"/>
+      </style>
+    </note>
+    <note handle="_1028756617d76416a0913a3d3ce6" change="1776595436" id="N1763" type="Link">
+      <text>https://www.geni.com/people/Astrid-Stenberg/6000000007694255406</text>
+      <style name="link" value="https://www.geni.com/people/Astrid-Stenberg/6000000007694255406">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_10287575e38b3481df6ce26baee6" change="1776595539" id="N1764" type="Link">
+      <text>https://www.geni.com/people/Paul-Stenberg/6000000199284850821</text>
+      <style name="link" value="https://www.geni.com/people/Paul-Stenberg/6000000199284850821">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_1028758f26873249b9e5bea61b4e" change="1776595705" id="N1765" type="Link">
+      <text>https://www.geni.com/people/Iver-Stormoen/6000000156907249874</text>
+      <style name="link" value="https://www.geni.com/people/Iver-Stormoen/6000000156907249874">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_102875a56ce11a145c2ed1c8bcd6" change="1776595851" id="N1766" type="Link">
+      <text>https://www.geni.com/people/N-N-Stenberg/6000000156905240021</text>
+      <style name="link" value="https://www.geni.com/people/N-N-Stenberg/6000000156905240021">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_102875b4604f3d90768dc189bda2" change="1776595949" id="N1767" type="Link">
+      <text>https://www.geni.com/people/Ombudsmann-Klemmet-Ingeberg/6000000002942695764</text>
+      <style name="link" value="https://www.geni.com/people/Ombudsmann-Klemmet-Ingeberg/6000000002942695764">
+        <range start="0" end="75"/>
+      </style>
+    </note>
+    <note handle="_102875c91a663552d9227c087c5a" change="1776596085" id="N1768" type="Link">
+      <text>https://www.geni.com/people/%C3%85sa-Stenberg/6000000011787480032</text>
+      <style name="link" value="https://www.geni.com/people/%C3%85sa-Stenberg/6000000011787480032">
+        <range start="0" end="65"/>
+      </style>
+    </note>
+    <note handle="_1028764f53684afe4ef1ded7c217" change="1776596964" id="N1769" type="Link">
+      <text>https://www.geni.com/people/P%C3%A5l-Stenberg/6000000099926982885</text>
+      <style name="link" value="https://www.geni.com/people/P%C3%A5l-Stenberg/6000000099926982885">
+        <range start="0" end="65"/>
+      </style>
+      <style name="link" value="https://www.geni.com/people/P%C3%A5l-Stenberg/6000000099926982885">
+        <range start="0" end="65"/>
+      </style>
+    </note>
+    <note handle="_1028a0e33b9a48b35e4d80cb605a" change="1776668398" id="N1770" type="Link">
+      <text>https://www.geni.com/people/Alf-Stormoen/6000000187119447825</text>
+      <style name="link" value="https://www.geni.com/people/Alf-Stormoen/6000000187119447825">
+        <range start="0" end="60"/>
+      </style>
+    </note>
+    <note handle="_1028a0f9f7df101e21fd76179fb5" change="1776668547" id="N1771" type="Link">
+      <text>https://www.geni.com/people/Gudmund-Trauten/6000000119791758821</text>
+      <style name="link" value="https://www.geni.com/people/Gudmund-Trauten/6000000119791758821">
+        <range start="0" end="63"/>
+      </style>
+    </note>
+    <note handle="_1028a11b884033e9d40f4bda4227" change="1776668767" id="N1772" type="Link">
+      <text>https://www.geni.com/people/Torger-M%C3%B8rdre/6000000203291457821</text>
+      <style name="link" value="https://www.geni.com/people/Torger-M%C3%B8rdre/6000000203291457821">
+        <range start="0" end="66"/>
+      </style>
+    </note>
+    <note handle="_1028d3b5c214597f8103d5421376" change="1776753664" id="N1773" type="Link">
+      <text>https://www.geni.com/people/Ragna-Louise-Kvisler/6000000003349309272</text>
+      <style name="link" value="https://www.geni.com/people/Ragna-Louise-Kvisler/6000000003349309272">
+        <range start="0" end="68"/>
+      </style>
+    </note>
+    <note handle="_1028d3d3f70565ef24393599f3be" change="1776753862" id="N1774" type="Link">
+      <text>https://www.geni.com/people/Peter-Lauritz-Gropa/6000000003349237590</text>
+      <style name="link" value="https://www.geni.com/people/Peter-Lauritz-Gropa/6000000003349237590">
+        <range start="0" end="67"/>
+      </style>
+    </note>
+    <note handle="_1028d3f800e94e49337098cf5a4b" change="1776754098" id="N1775" type="Link">
+      <text>https://www.geni.com/people/Maren-Ingine-Enga/6000000003349644108</text>
+      <style name="link" value="https://www.geni.com/people/Maren-Ingine-Enga/6000000003349644108">
+        <range start="0" end="65"/>
+      </style>
+    </note>
+    <note handle="_1028d43037725972fdfb13d6ac5e" change="1776754466" id="N1776" type="Link">
+      <text>https://www.geni.com/people/Oline-Vormnes/6000000189453663835</text>
+      <style name="link" value="https://www.geni.com/people/Oline-Vormnes/6000000189453663835">
+        <range start="0" end="61"/>
+      </style>
+    </note>
+    <note handle="_1028d448ab1a3c9761365aab2006" change="1776754626" id="N1777" type="Link">
+      <text>https://www.geni.com/people/Ole/6000000186716494008</text>
+      <style name="link" value="https://www.geni.com/people/Ole/6000000186716494008">
+        <range start="0" end="51"/>
+      </style>
+    </note>
+    <note handle="_1028d45f56986151959a0ac9f91b" change="1776754775" id="N1778" type="Link">
+      <text>https://www.geni.com/people/Pauline-Maria-Haugen/6000000186826753865</text>
+      <style name="link" value="https://www.geni.com/people/Pauline-Maria-Haugen/6000000186826753865">
+        <range start="0" end="68"/>
+      </style>
+    </note>
+    <note handle="_1028d4a29598189bbb807eddd2c2" change="1776755216" id="N1779" type="Link">
+      <text>https://www.geni.com/people/Hanna-Skogerenga/6000000006205098565</text>
+      <style name="link" value="https://www.geni.com/people/Hanna-Skogerenga/6000000006205098565">
+        <range start="0" end="64"/>
+      </style>
+    </note>
+    <note handle="_1028d4ba51c16d9f8c8daa4cf51c" change="1776755371" id="N1780" type="Link">
+      <text>https://www.geni.com/people/Hans-Kristian-Holtet/6000000006205098508</text>
+      <style name="link" value="https://www.geni.com/people/Hans-Kristian-Holtet/6000000006205098508">
+        <range start="0" end="68"/>
+      </style>
+    </note>
+    <note handle="_1028d4c4f814415ce19cec9453c7" change="1776755441" id="N1781" type="Link">
+      <text>https://www.geni.com/people/Karen-Matea-Skogerenga/6000000006206874149</text>
+      <style name="link" value="https://www.geni.com/people/Karen-Matea-Skogerenga/6000000006206874149">
+        <range start="0" end="70"/>
+      </style>
+    </note>
+    <note handle="_1028d4f682794595251333091ce7" change="1776755766" id="N1782" type="Link">
+      <text>https://www.geni.com/people/Olof-Falk/348997709220002216</text>
+      <style name="link" value="https://www.geni.com/people/Olof-Falk/348997709220002216">
+        <range start="0" end="56"/>
+      </style>
+    </note>
+    <note handle="_1028d51410e5736a3cb92607ef9e" change="1776755959" id="N1783" type="Link">
+      <text>https://www.geni.com/people/Anna-Larsdotter/360151769590013290</text>
+      <style name="link" value="https://www.geni.com/people/Anna-Larsdotter/360151769590013290">
+        <range start="0" end="62"/>
+      </style>
     </note>
     <note handle="_c0dd164819856d3ec2d" change="1334338577" id="N0000" type="Source Note">
       <text>Fødte og døpte 1906, nr. 208
