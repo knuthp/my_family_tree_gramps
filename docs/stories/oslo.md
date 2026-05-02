@@ -14,6 +14,12 @@ Noen av husene er flyttet til Folkemuseet og en kan derfor få inntrykk av hvord
 ### Flisb gata 6
 [Oscar Toralf Martinius Jensen](gramps/ppl/0/8/10027e2039b337460f1bab2dcf80.html) bodde her da han ble konfirmert i 1888. Han står da oppført som ugift bødkersvenn.
 
+### Langleik 11
+[Otilde Mariane Jensen (født Syversen)](gramps/ppl/e/0/102b1bcd186b5fb7618fe4b6310e.html) ble født der og bodde der når hun giftet seg med  [Henrik Oskar Jensen](/gramps/ppl/b/b/102b1bb35f89d40f8ff88d777bb.html)
+
+[Wikipedia](https://no.wikipedia.org/wiki/Langleiken_(Oslo))
+
+
 ### Folkemusset
 [Norsk Folkemuseum - Enerhaugen](https://norskfolkemuseum.no/enerhaugen) har flere hus som opprinnelig stod på Enerhaugen
 
