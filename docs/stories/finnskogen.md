@@ -38,3 +38,15 @@ Relevant fra 1740 - 1827
 > Ved skifte etter Peder Steffensen i 1748 var det bruttoformue på 62 daler og nettoformue på 57 daler.
 
 [Grueboka]
+
+## Skogfinner i Hurdal
+[Skogfinner i Hurdal](https://www.skogfinneforeningen.no/1-lokalhistorisk/23-akershus/33-hurdal/157-hurdal-historier) av Skogfinneforeningen
+
+### Rognlia
+[Embret Kristensen Steinsjøen](/gramps/ppl/f/1/c30d4f6805e546d531f.html) født siste halvdel 1600 tallet var bruker på [Rognlia](/gramps/plc/3/2/cb735e9d6140ae1b523.html) og regnes som skofinne i Hurdal Bygdebok Bind 2: [Gaards og slektshistorie](https://www.nb.no/items/URN:NBN:no-nb_digibok_2009022400053)
+
+### Finneplasser som slekt har levd på i litt nyere tid
+1. [Solsrud](/gramps/plc/d/2/cb8600fa8645771962d.html)
+2. [Buraas](/gramps/plc/d/0/cb83a4c3c090e58a00d.html)
+3. Skrukklia (usikker hvem som levde der, ingen plass referanse i Gramps)
+
