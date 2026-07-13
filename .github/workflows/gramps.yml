@@ -11,7 +11,7 @@ jobs:
         uses: astral-sh/setup-uv@v7
 
       - name: Install gramps
-        run: sudo apt-get -y install gramps
+        run: sudo apt-get update && sudo apt-get -y install gramps
 
       - name: Build Gramps narrated Website
         run: |
@@ -55,5 +55,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-        
+
 
