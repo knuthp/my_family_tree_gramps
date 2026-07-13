@@ -19,11 +19,11 @@ Gunhild's tipp-tipp-oldefar Christen Dahl flytter til Fredrikstad med sin kone R
                         ? - ?           1754 - ?            1753 - ?             1758 - ?           1740 - ?                     ? - ?
                           |---------------|---|                 |--------|-----------|                  |
                                               |                                                         |
-                                          Mathis Nilsen         Anne Cathrine Michelsdtr            Niels Nilsen Bøckmann--------Hedvig Larsdatter
-                                          Fredrikstad - ?       Fredrikstad                         Fredrikstad - Fredrikstad    ? - ?
-                                          1794 - ?              1793 - ?                            1791 - 1871                  ? - 1883
-                                               |------------------------|                               |
-                                                                        |                               |
+            Peder Christensen Dahl        Mathis Nilsen         Anne Cathrine Michelsdtr            Niels Nilsen Bøckmann--------Hedvig Larsdatter
+            ? - Fredrikstad?              Fredrikstad - ?       Fredrikstad                         Fredrikstad - Fredrikstad    ? - ?
+            ? - ?                         1794 - ?              1793 - ?                            1791 - 1871                  ? - 1883
+                |                              |------------------------|                               |
+                |                                                       |                               |
             Christen Pedersen Dahl -------Randi Dahl            Hans Mathisen-----------------------Alette Marie Mathisen
             Rommedal - Fredrikstad        Kongsvinger - Fredri  Fredrikstad - Fredrikstad           Fredrikstad -
             1821 - 1900                   1824 - ?              1828 - 1907                         1840 - ?
@@ -72,8 +72,10 @@ Navnet Vaterland kommer trolig fra tysk Vaderlant/Vaterland og ble bruk som en b
 
 ### Myhra
 
-1819 Mathis Nilsen, Anne Cathrine Mikelsdatter (barn født)
-1828 Mathis Nilsen, Anne Cathrine Mikelsdatter (Hans Mathisen blir født)
+i Pladsen Myhra paa Byens Grund
+
+1. 1819 Mathis Nilsen, Anne Cathrine Mikelsdatter (barn født Maren Helene)
+1. 1828 Mathis Nilsen, Anne Cathrine Mikelsdatter (Hans Mathisen blir født)
 
 ### Gårdsnummer 246
 
