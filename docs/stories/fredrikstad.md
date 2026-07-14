@@ -69,6 +69,25 @@ Gunhild's tipp-tipp-oldefar Christen Dahl flytter til Fredrikstad med sin kone R
 
 Navnet Vaterland kommer trolig fra tysk Vaderlant/Vaterland og ble bruk som en betegnelse på et "fristed" utenfor byens jurisdiksjon og skatter.
 
+> Vaterland er en del av Fredrikstad by som ligger rett sør for Gamlebyen. Den er preget lav trehusbebyggelse fra 17- og 1800-tallet. Vaterland består idag av bebyggelsen som ligger til gatene Lodsgaten, Skippergaten, Bødtkergaten og Movigsgate. Vaterland oppsto opprinnelig som en forstad til byen innenfor vollene. Navnet stammer trolig fra nederlandsk og hentyder på et flatt, lavtliggende sumpland.
+>
+> Vaterlands Historie
+> Vaterland opptrer i kildene først i 1666, men det kan allerede ha vært bebyggelse her før det. Etter bybrannen i 1653 flyttet trolig en del av byens fattige hit, og etter at det permanente festningsanlegget ble påbegynt i 1660-årene, er det sannsynlig at flere har flyttet ut av byen. Trehusbebyggelsen utenfor festningsvollene bød på bekymring, og i 1682 fikk stattholder Ulrik Frederik Gyldenløve gjennom at det kun skulle settes opp trehus i Vaterland hvis eierne på forhånd hadde bygget murhus innenfor vollene. Det skulle vise seg vanskelig å gjennomføre og det ble gitt tillatelse til enkelte sjøfolk å bygge i Vaterland.
+>
+>Gjentatte bybranner og påbud om murtvang i byen førte til at flere slo seg ned i Vaterland, igjen i konflikt med de militære myndighetene i byen. Under Den store nordiske krig i 1712 var det frykt for et svensk angrep, og kommandant Peter Jacob Wilster beordret bebyggelsen i Vaterland skutt i brann for å sikre festningens forterreng.
+[Wikipedia](https://lokalhistoriewiki.no/Vaterland_(Fredrikstad))
+
+1. [Wikipedia](https://lokalhistoriewiki.no/Vaterland_(Fredrikstad))
+2. [Miljøbevaring i Vaterland. Utg. Bevaringskomitéen for Vaterland. Fredrikstad. 1981.](https://www.nb.no/items/e7dc6fa8735a8c7ae23d1046f2a86648?page=0&searchText=Miljøbevaring i Vaterland)
+
+
+### Oversiktskart Gamlebyen og Vaterland
+
+![Vaterland Map Big](img/vaterland_google_maps_sattelite_big.png)
+
+### Oversiktskart Vaterland
+
+![Vaterland Map Details](img/vaterland_google_maps_sattelite_details.png)
 
 ### Myhra
 
@@ -79,9 +98,13 @@ i Pladsen Myhra paa Byens Grund
 
 ### Gårdsnummer 246
 
-## Gårdsnummer 249
+### Gårdsnummer 249
 
-## Fredrikstad by
+## Fredrikstad Gamlebyen
+
+### Oversiktskart Gamlebyen
+
+![Fredrikstad Gamlebyen Map Details](img/fredrikstad_gamlebyen_google_maps_sattelite_details.png)
 
 ### Færgeportsgate 127 - 131
 
