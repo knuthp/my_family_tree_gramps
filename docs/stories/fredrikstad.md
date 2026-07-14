@@ -96,9 +96,32 @@ i Pladsen Myhra paa Byens Grund
 1. 1819 Mathis Nilsen, Anne Cathrine Mikelsdatter (barn født Maren Helene)
 1. 1828 Mathis Nilsen, Anne Cathrine Mikelsdatter (Hans Mathisen blir født)
 
+
+
 ### Gårdsnummer 246
 
 ### Gårdsnummer 249
+
+
+### Skippergaten 3
+
+![Skippergaten 3 Fasade](img/vaterland_skippergaten_3.png)
+Tidligere matrikkel nr 240B. Eies i
+* 1805 Niels Bøckmann,
+* 1817 Guri Larsdatter, enke etter Niels Bøckmann
+* 1844 Nils Bøckmann (Trolig barn som ikke er direkte i slektsrekken)
+
+
+Guri Larsdatter lånte i 1806 50 riksdaler av kjøpmann Peter Bull mot pant i hennes eiendom matrikkelnr 240 i Vaterland. Beløpet ble anvendt til å betale gjeld som hennes avdøde mann Niels Bøckmann, hadde pådratt seg og for at "de forekomme at huset og løsøret ikke skulde blive solgte eller utlagte".
+
+Protokoll fra taksasjonsforretning på eiendommen:
+
+> Anton Wilhelm Scheel, byfogd og ene magistrat i Friderichstad i Norge, gjør vitterlig: At år 1807 den 9. januar ble en taksasjonsforretning avholdt over gården nr. 240 i byens forstad Vaterland beliggende. Forretningen fremmet av byfogden med de utnevnte edsvorne laugrettes- og taksasjonsmenn S. Lassen, Holth, Sollie og J. Møller etter forlangende av enken Guri Larsdatter, enke etter Niels Bøckmann som tilkjennega at behøve denne forretning i betryggelse mot panthaveren. Taksasjonsmennene befat at gården besto av et vånhus av tømmer en etasje, hvori en stue og kjøkken med 2 fag vinduer i stuen, en 1-etasjes ovn. I gården et fehus og et vedskjul av tømmer og bord, samt dertil en liten hage.
+>
+> Denne gård som beskreven med tomt, ble anført verd 90 rd., sier nitti riksdalder og er samme i Brannkassen forsikret for 50 rd. Mot den satta takst hadde forretningsføreren intet at innvende.
+
+
+[Miljøbevaring i Vaterland : en forstad til festningsbyen Fredrikstad](https://www.nb.no/items/e7dc6fa8735a8c7ae23d1046f2a86648?page=0&searchText=Miljøbevaring i Vaterland) side 82
 
 ## Fredrikstad Gamlebyen
 
