@@ -15,16 +15,19 @@ Gunhild's tipp-tipp-oldefar Christen Dahl flytter til Fredrikstad med sin kone R
 
 ```
                         Nils Thomesen   Helge Rasmusdatter  Michel Kjøstolsen    Berthe Jonsdtr.    Nils Bøckmann----------------Guri Larsdatter
+                        Arbejdsmand     -                   Arbejdsmand          -                  Snekkermester                -
                         ? - ?           ? - ?               ? - ?                ? - ?              Sverige                      Skjeberg?
                         ? - ?           1754 - ?            1753 - ?             1758 - ?           1740 - ?                     ? - ?
                           |---------------|---|                 |--------|-----------|                  |
                                               |                                                         |
             Peder Christensen Dahl        Mathis Nilsen         Anne Cathrine Michelsdtr            Niels Nilsen Bøckmann--------Hedvig Larsdatter
+            Bagermester                   Matros                -                                   Snekkermester                -
             ? - Fredrikstad?              Fredrikstad - ?       Fredrikstad                         Fredrikstad - Fredrikstad    ? - ?
             ? - ?                         1794 - ?              1793 - ?                            1791 - 1871                  ? - 1883
                 |                              |------------------------|                               |
                 |                                                       |                               |
             Christen Pedersen Dahl -------Randi Dahl            Hans Mathisen-----------------------Alette Marie Mathisen
+            Bagermester
             Rommedal - Fredrikstad        Kongsvinger - Fredri  Fredrikstad - Fredrikstad           Fredrikstad -
             1821 - 1900                   1824 - ?              1828 - 1907                         1840 - ?
                 |                                                       |
@@ -98,15 +101,44 @@ i Pladsen Myhra paa Byens Grund
 
 
 
-### Gårdsnummer 246
+### Movigsgate 27
 
-### Gårdsnummer 249
+* Tidligere matrikkel nr. 246
+* Tomteareal: 174.29 m2
 
+![Movigsgate 27 fasade](img/vaterland_movigsgate_27.png)
+
+Eies i
+* 1797 Niels Thomesen
+
+[Miljøbevaring i Vaterland : en forstad til festningsbyen Fredrikstad](https://www.nb.no/items/e7dc6fa8735a8c7ae23d1046f2a86648??page=165) side 162
+
+### Bødkergaten 19
+
+* Tidligere matrikkel nr. 249.
+* Tomteareal 184.5 m2
+
+![Bødkergaten 19](img/vaterland_boedkergaten_19.png)
+
+
+Eies i
+* 1817 Niels Thomesen
+* 1827 Niels Thomesen enke
+
+
+[Miljøbevaring i Vaterland : en forstad til festningsbyen Fredrikstad](https://www.nb.no/items/e7dc6fa8735a8c7ae23d1046f2a86648?page=133) side 131
 
 ### Skippergaten 3
 
+* Tidligere matrikkel nr 240B.
+
+[Google Streetview](https://maps.app.goo.gl/8cVzzteYi2kvAA6E9)
+
+
 ![Skippergaten 3 Fasade](img/vaterland_skippergaten_3.png)
-Tidligere matrikkel nr 240B. Eies i
+
+
+Eies i
 * 1805 Niels Bøckmann,
 * 1817 Guri Larsdatter, enke etter Niels Bøckmann
 * 1844 Nils Bøckmann (Trolig barn som ikke er direkte i slektsrekken)
@@ -121,7 +153,7 @@ Protokoll fra taksasjonsforretning på eiendommen:
 > Denne gård som beskreven med tomt, ble anført verd 90 rd., sier nitti riksdalder og er samme i Brannkassen forsikret for 50 rd. Mot den satta takst hadde forretningsføreren intet at innvende.
 
 
-[Miljøbevaring i Vaterland : en forstad til festningsbyen Fredrikstad](https://www.nb.no/items/e7dc6fa8735a8c7ae23d1046f2a86648?page=0&searchText=Miljøbevaring i Vaterland) side 82
+[Miljøbevaring i Vaterland : en forstad til festningsbyen Fredrikstad](https://www.nb.no/items/e7dc6fa8735a8c7ae23d1046f2a86648?page=83) side 81
 
 ## Fredrikstad Gamlebyen
 
