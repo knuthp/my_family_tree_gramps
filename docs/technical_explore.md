@@ -49,7 +49,22 @@ Is it possible to use D3.js or similar to render a family tree?
       "name": "Mother",
       "born": "1955",
       "parents": [
-        { "name": "Maternal Grandfather", "born": "1918", "died": "1988" },
+        {
+          "name": "Maternal Grandfather",
+          "born": "1918",
+          "died": "1988",
+          "parents" : [
+            {
+              "name": "Great Grandfather",
+              "born": "1890",
+              "died": "1955",
+              "parents": [
+                { "name": "Great-Great Grandmother", "born": "1860", "died": "1900" }
+              ]
+              },
+            { "name": "Great Grandmother", "born": "1890", "died": "1930" }
+          ]
+          },
         { "name": "Maternal Grandmother", "born": "1922", "died": "1999" }
       ]
     }
