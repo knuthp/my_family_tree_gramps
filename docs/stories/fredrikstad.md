@@ -19,25 +19,27 @@ Gunhild's tipp-tipp-oldefar Christen Dahl flytter til Fredrikstad med sin kone R
                         ? - ?           ? - ?               ? - ?                ? - ?              Sverige                      Skjeberg?
                         ? - ?           1754 - ?            1753 - ?             1758 - ?           1740 - ?                     ? - ?
                           |---------------|---|                 |--------|-----------|                  |
-                                              |                                                         |
-            Peder Christensen Dahl        Mathis Nilsen         Anne Cathrine Michelsdtr            Niels Nilsen Bøckmann--------Hedvig Larsdatter
-            Bagermester                   Matros                -                                   Snekkermester                -
-            ? - Fredrikstad?              Fredrikstad - ?       Fredrikstad                         Fredrikstad - Fredrikstad    ? - ?
-            ? - ?                         1794 - ?              1793 - ?                            1791 - 1871                  ? - 1883
-                |                              |------------------------|                               |
-                |                                                       |                               |
+                                              |                          |                              |
+                                          Mathis Nilsen         Anne Cathrine Michelsdtr            Niels Nilsen Bøckmann--------Hedvig Larsdatter
+                                          Matros                -                                   Snekkermester                -
+                                          Fredrikstad - ?       Fredrikstad                         Fredrikstad - Fredrikstad    ? - ?
+                                          1794 - ?              1793 - ?                            1791 - 1871                  ? - 1883
+                                               |------------------------|                               |
+                                                                        |                               |
             Christen Pedersen Dahl -------Randi Dahl            Hans Mathisen-----------------------Alette Marie Mathisen
-            Bagermester
+            Bagermester                   -                     Los                                 -
             Rommedal - Fredrikstad        Kongsvinger - Fredri  Fredrikstad - Fredrikstad           Fredrikstad -
             1821 - 1900                   1824 - ?              1828 - 1907                         1840 - ?
                 |                                                       |
                 |                                                       |
             Oluf Petter Dahl------------------------------------Emilie Hansine Alette Dahl
+            Bager                                               Jordmor
             Hamar - Fredrikstad                                 Fredrikstad - Bærum
             1855 - 1888                                         1860 - 1945
                 |
                 |
             Hans Oluf Petter Dahl---------Margit Nathalie Dahl
+            Assistent Geogr. oppmåling    -
             Fredrikstad - Bærum           Oslo - Bærum
             1888 - 1978                   1891 - 1974
                 |
@@ -57,15 +59,20 @@ Gunhild's tipp-tipp-oldefar Christen Dahl flytter til Fredrikstad med sin kone R
 
 ### Folketellinger/Fødsler etc
 
-1. 1801 Vaterland - Gårdens nummer 246 (Bosted 0026) (Mathis Nilsen)
+1. 1801 Uden for byen - Bostedsnr 8. No. 273 (Michel Kiøstelosen og Berthe Joensdatter med barnet Anne Cathrine Michelsdatter) Totalt 4 personer  [Folktellingen 1801](https://www.digitalarkivet.no/gf01058191001803)
+1. 1801 Vaterland - Gårdens nummer 246 (Bosted 0026) (Nils Thomesen og Helge Rasmusdatter med barnet Mathis Nilsen og 1 annet barn) Total 5 personer. [Folktellingen 1801] (https://www.digitalarkivet.no/gf01058191001701)
 1. 1828 Vaterland - Myhra Hans Mathisen fødes der.
-1. 1865 Vaterland - Gårdens nummer 249 - (Bosted 323 i folketellingen)
-1. 1870 Færgeports Gade 127-131 (Christen og Randi Dahl med barnet Oluf Petter)
-1. 1870 Vaterland Gårdens nummer 249 (Bosted 172) (Hans Mathisen med Emilie og 3 andre barn) Total 9 personer i gården.
-1. 1875 Vaterland - Gårdens nummer 19 - (Bosted 0101 i folktellingen) Hans Mathisen bor der med datteren Emilie samt 2 andre barn. (Gårdens eier er Peter Christensen Dahl)
-2. 1885 Voldgade (Christen og Randi Dahl med Oluf)
-3. 1900 Kasernegade (Randi Dahl enke)
-4. 1910 Voldgade 4 (Randi Dahl som Hospitalslem)
+1. 1865 Vaterland - Bødkergata 19: Gårdens nummer 249 - (Bosted 323 i folketellingen) (Hans og Alette Marie Mathisen med barnet Hansine Alette og 3 andre barn) Totalt 12 personer i gården [Folktellingen 1865](https://www.digitalarkivet.no/gf01037981004725)
+1. 1865 Byen - Gårdens nummer 107 (Christen og Randi Dahl med barnet Oluf og 2 andre barn) Totalt 17 personer i gården. [Folketellingen 1865](https://www.digitalarkivet.no/gf01037981001480
+1. 1870 Byen - Færgeports Gade 127-131 (Christen og Randi Dahl med barnet Oluf Petter) [Folktellingen 1870](https://www.digitalarkivet.no/gf01053318000122)
+1. 1870 Vaterland - Bødkergata 19: Gårdens nummer 249 (Hans Mathisen med Emilie og 3 andre barn) Totalt 9 personer i gården. [Folktellingen 1870](https://www.digitalarkivet.no/pf01053318001795)
+1. 1875 Vaterland - Bødkergata 19: Gårdens nummer 19 Hans Mathisen bor der med datteren Emilie samt 2 andre barn. Totalt 10 personer. (Gårdens eier er Peter Christensen Dahl) [Folktellingen 1875](https://www.digitalarkivet.no/gf01052006001854)
+1. 1875 Byen - Færgeportgade: Gårdens nummer 80 (Christen og Randi Dahl med barnet Oluf Petter samt 2 andre barn) (Gårdens eier er Smed C. Larsen) [Folktellingen 1875](https://www.digitalarkivet.no/gf01052006001450)
+1. 1885 Byen - Voldgade: Gårdens nummer 10 (Christen og Randi Dahl med Oluf) Totalt 15 personer i gården (Gårdens eier er Fattigforstander Jensen) [Folketellingen 1885](https://www.digitalarkivet.no/gf01053251009180)
+1. 1891 Byen - Bostedsnr 58 (Emilie Dahl med barnet Hans og 2 andre barn samt Emilies far Hans Mathisen) Totalt 33 personer. [Folktellingen 1891](https://www.digitalarkivet.no/bf01052671000295)
+1. 1891 Byen - Bostedsnr 73 (Christen og Randi Dahl) Totalt 14 personer. [Folketellingen 1891](https://www.digitalarkivet.no/bf01052671000295)
+1. 1900 Byen - Kasernegade: Gårdens nummer 52 (Christen og Randi Dahl) 4 leiligheter på 1 etasje, Total 13 personer.   [Folkeltellingen 1900](https://www.digitalarkivet.no/gf01036995001116)
+1. 1910 Byen - Voldgate 4 (Randi Dahl som Hospitalslem) 2 Leiligheter på 2 etasjer, Totalt 18 personer  [Folktellinge 1910](https://www.digitalarkivet.no/gf01036335000053)
 
 
 ## Vaterland
@@ -109,6 +116,7 @@ i Pladsen Myhra paa Byens Grund
 ![Movigsgate 27 fasade](img/vaterland_movigsgate_27.png)
 
 Eies i
+
 * 1797 Niels Thomesen
 
 [Miljøbevaring i Vaterland : en forstad til festningsbyen Fredrikstad](https://www.nb.no/items/e7dc6fa8735a8c7ae23d1046f2a86648??page=165) side 162
@@ -122,6 +130,7 @@ Eies i
 
 
 Eies i
+
 * 1817 Niels Thomesen
 * 1827 Niels Thomesen enke
 
@@ -139,6 +148,7 @@ Eies i
 
 
 Eies i
+
 * 1805 Niels Bøckmann,
 * 1817 Guri Larsdatter, enke etter Niels Bøckmann
 * 1844 Nils Bøckmann (Trolig barn som ikke er direkte i slektsrekken)
