@@ -146,6 +146,10 @@ Eies i
 
 ![Skippergaten 3 Fasade](img/vaterland_skippergaten_3.png)
 
+Relaterte personer
+
+* 1805 Niels Bøckmann og Guri Larsdatter med barnet Niels Nielsen Bøckmann
+* 1817 Guri Larsdatter
 
 Eies i
 
@@ -173,4 +177,27 @@ Protokoll fra taksasjonsforretning på eiendommen:
 
 ### Færgeportsgate 127 - 131
 
+Relaterte personer
+
+* 1870 Christen og Randi Dahl med barnet Oluf Petter
+* 1875 Christen og Randi Dahl med barnet Oluf Petter og 2 andre barn
+
+### Kasernegade
+
+Gårdens nummer 52
+
+Relaterte personer
+
+* 1900 Christen og Randi Dahl
+
+### Voldgade
+
+Relaterte personer
+
+* 1885 Christen og Randi Dahl med barnet Oluf Petter
+
 ### Voldgade 4
+
+Relaterte personer
+
+* 1910 Randi Dahl som Hospitalslem
