@@ -42,11 +42,11 @@ Hennes mors slekt: <a href="gramps/ppl/f/a/1001d164c18c1d8f9c57bdb1fbaf.html">Gu
 Mine og min kones besteforeldre
 
 
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0000_fan_chart.svg">Asbjørn Pedersen 5 generasjoner forfedre</a>
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0001_fan_chart.svg">Emma Pedersen 5. generasjoner forfedre</a>
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0021_fan_chart.svg">Kristian Langebrekke 5 generasjoner foredre</a>
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0022_fan_chart.svg">Astrid Langebrekke 5 generasjoner forfedre</a>
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0735_fan_chart.svg">Bjarne Jensen 5 generasjoner forfedre</a>
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0736_fan_chart.svg">Aud Jensen 5 generasjoner forfedre</a>
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0355_fan_chart.svg">Gunnar Dahl 5 generasjoner forfedre</a>
-* <a href="https://knuthp.github.io/my_family_tree_gramps/I0384_fan_chart.svg">Gerd Dahl 5 generasjoner forfedre</a>
+* <a href="https://family.knuthp.no/gramps/I0000_fan_chart.svg">Asbjørn Pedersen 5 generasjoner forfedre</a>
+* <a href="https://family.knuthp.no/gramps/I0001_fan_chart.svg">Emma Pedersen 5. generasjoner forfedre</a>
+* <a href="https://family.knuthp.no/gramps/I0021_fan_chart.svg">Kristian Langebrekke 5 generasjoner foredre</a>
+* <a href="https://family.knuthp.no/gramps/I0022_fan_chart.svg">Astrid Langebrekke 5 generasjoner forfedre</a>
+* <a href="https://family.knuthp.no/gramps/I0735_fan_chart.svg">Bjarne Jensen 5 generasjoner forfedre</a>
+* <a href="https://family.knuthp.no/gramps/I0736_fan_chart.svg">Aud Jensen 5 generasjoner forfedre</a>
+* <a href="https://family.knuthp.no/gramps/I0355_fan_chart.svg">Gunnar Dahl 5 generasjoner forfedre</a>
+* <a href="https://family.knuthp.no/gramps/I0384_fan_chart.svg">Gerd Dahl 5 generasjoner forfedre</a>
