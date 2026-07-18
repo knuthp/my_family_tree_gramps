@@ -25,10 +25,12 @@ Fra Peder Pedersen går linjen videre til hans farfars mor som het Räisanen. S�
 ### Savolax Finnland
 
 
-### Pekkola, Grue Finnskog, Norge
+### Pekkola, Løvhaugen, Grue Finnskog, Norge
 Relevant fra 1624 - 1733
 
 Pekkola er plassen Peder Larsen Räisänen ryddet da han som første finne slo seg ned i skogen på norsk side rundt 1624.
+
+* 1630 - 1733 bor Peder Pedersen sin farfars slekt der.
 
 ### Rotneberget (Øvergarden), Grue Finnskog, Norge
 Relevant fra 1740 - 1827
@@ -38,6 +40,45 @@ Relevant fra 1740 - 1827
 > Ved skifte etter Peder Steffensen i 1748 var det bruttoformue på 62 daler og nettoformue på 57 daler.
 
 [Grueboka: Finnskogen](https://www.nb.no/items/6870e73c58c4674a0292a1e93f561729?page=0&searchText="peder larsen")
+
+* Steffen Persson Navilainen og Karin Mårtensdotter Puttoinen dør her i 1742 begge to. De er tipp-oldeforeldre til Peder Pedersen
+* Peder Steffensen Navilainen og Ingrid Olsdatter Räisänen dør her i 1748 og 1759. De er oldeforedre på farfarsiden til Peder Pedersen
+* Daniel Pedersen Navilainen blir født her i 1735 og dør her i 1827. Han er farfar til Peder Pedersen
+
+
+### Bjørsjøtorpet
+
+### Skulstad
+
+* Daniel Pedersen og Gjertrud Thomasdatter Mången bor her i Folketellingen 1801. De er farmor og farfar til Peder Pedersen
+* Peder Danielsen i Folketellingen 1801. Han er far til Peder Pedersen
+
+### Skulstadberget
+
+> Skulstadberget ligger ca 2km øst for Navnsjøen og ca 40 meter høyere. De var Daniel Pedersen Navailainen f. 1735 fra Rotneberget som først ryddet og bosatte seg i Skulstadberget sammen med sin kone Gjertrud Tomasdotter (1736-1828) fra Mången, Sverige. Dette skjedde i første halvdel av 1760-tallet. Skulstadberget er således en av de eldste boplassene i Navnsjøgrenda. Daniel var av Räisäinen-slekta, hasn foreldre var Ignrid Oldatter Räisänen og Peder Steffensen Navilainen (1701-1748). Daniel og Gjertrud fikk 3 barn.
+
+Navnsjøboerne boka.
+
+* Gjertrud Thomasdatter dør her i 1828. Hun er farmor til Peder Pedersen
+* Peder Danielsen blir født her i mellom 1769 og 1775 og dør her i 1833. Han er far til Peder Pedersen
+
+## Skulstadmoen
+
+* Berthe Andersdatter dør her i 1836. Hun er mormor til Peder Pedersen
+
+### Kingelsrud
+
+* Ole Nilsen født her 1745. Han er morfar til Peder Pedersen.
+* Karen Olsdatter født her 1783. Hun er mor til Peder Pedersen
+
+
+### Møllerud
+
+* Berthe Andersdatter blir født her i 1747. Hun er mormor til Peder Pedersen
+
+### Dal
+
+* Svenning Nilsen Dal blir født her i 1681. Han er tipp-tipp oldefar til Peder Pedersen på morfars siden.
 
 ## Skogfinner i Hurdal
 [Skogfinner i Hurdal](https://www.skogfinneforeningen.no/1-lokalhistorisk/23-akershus/33-hurdal/157-hurdal-historier) av Skogfinneforeningen
