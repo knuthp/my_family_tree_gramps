@@ -25,12 +25,14 @@ Fra Peder Pedersen går linjen videre til hans farfars mor som het Räisanen. S�
 ### Savolax Finnland
 
 
-### Pekkola, Løvhaugen, Grue Finnskog, Norge
+### Bekkola/Pekkola, Løvhaugen, Grue Finnskog, Norge
 Relevant fra 1624 - 1733
 
 Pekkola er plassen Peder Larsen Räisänen ryddet da han som første finne slo seg ned i skogen på norsk side rundt 1624.
 
 * 1630 - 1733 bor Peder Pedersen sin farfars slekt der.
+
+![Pekkola i 1959](img/pekkola_aerial_view_1959.png)
 
 ### Rotneberget (Øvergarden), Grue Finnskog, Norge
 Relevant fra 1740 - 1827
